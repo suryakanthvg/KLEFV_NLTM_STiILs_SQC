@@ -1,0 +1,556 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826167",
+    "speechFile": "as_SHA1P_C_r013_s030",
+    "callDuration": 605.205,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239046"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239047"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 13.48,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ [silence] আজি মোৰ লগত আছে মোৰ ডাঙৰ ভণ্টি তোও ভণ্টি আছানে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 13.48,
+            "end": 18.104,
+            "speakerSeqId": 2,
+            "transcription": "অ আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 18.104,
+            "end": 19.876,
+            "speakerSeqId": 1,
+            "transcription": "কেনে আছা তুমি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 19.876,
+            "end": 24.348,
+            "speakerSeqId": 2,
+            "transcription": "অ ভালে আছো আপুনি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 24.348,
+            "end": 29.866,
+            "speakerSeqId": 1,
+            "transcription": "(()) এতিয়া ৰবষুন হৈ আছে বতৰতো ভাল নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 29.866,
+            "end": 33.123,
+            "speakerSeqId": 2,
+            "transcription": "আপুনি লৰচৰ কৰিব আপোনাৰ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10007,
+            "start": 33.123,
+            "end": 33.511,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 33.511,
+            "end": 36.852,
+            "speakerSeqId": 2,
+            "transcription": "আপোনাৰ কথাতো মই ভালকে শুনা পোৱা নাই আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 36.852,
+            "end": 41.392,
+            "speakerSeqId": 1,
+            "transcription": "[silence] অ কোৱা আপোনাৰ খবৰ চবৰ কেনে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 41.392,
+            "end": 47.112,
+            "speakerSeqId": 2,
+            "transcription": "অ আছো ভালে আপোনি কেনেকোৱা আছে খবৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 47.112,
+            "end": 48.614,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া আৰু খোৱা লোৱা হলনে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 48.614,
+            "end": 54.655,
+            "speakerSeqId": 2,
+            "transcription": "অ হল এইমাত্ৰ হল আপোনাৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 54.655,
+            "end": 63.363,
+            "speakerSeqId": 1,
+            "transcription": "যি নহওক মই আজি [silence] ওপৰত আলোচনা কৰিম কওকচোন আপোনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 63.363,
+            "end": 67.413,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 67.413,
+            "end": 70.838,
+            "speakerSeqId": 1,
+            "transcription": "হয় হেল্ল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 70.838,
+            "end": 74.703,
+            "speakerSeqId": 2,
+            "transcription": "(()) [silence] হয় হয় কওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 74.703,
+            "end": 85.739,
+            "speakerSeqId": 1,
+            "transcription": "আজি মই শিক্ষাৰ ওপৰত আলোচনা কৰিম ন? [silence] আপোনি শিক্ষাৰ বিষয়ে (()) কৰিলে ভাল হল হেতেন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 85.739,
+            "end": 98.295,
+            "speakerSeqId": 2,
+            "transcription": "আপোনি ভাল কথা কৈছে আপোনি শিক্ষাৰ কথাতো যে এতিয়া দেখা পাও যে শিক্ষাতো কি আচলতে আমি বুজিব লাগিব যে শিক্ষাতো কি হয় নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 98.295,
+            "end": 112.267,
+            "speakerSeqId": 2,
+            "transcription": "সেইতো এটা এনেকোৱা এটা বস্তু যে কোনো বস্তু যে সকলোৱে কৰিব নোৱাৰে (()) কৰিব নোৱাৰে হয় নে নহয়? [silence] এতিয়া দেখা গৈছে যে আগৰ আগৰ কালত আমি যেতিয়া দেখিছো মানে শুনিছো যে আগৰ কালত অভাৱৰ কাৰনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 112.267,
+            "end": 121.683,
+            "speakerSeqId": 2,
+            "transcription": "তেওলোকে কি হৈছিল? মানে মূৰ্খ হৈ আছিল হয় নে নহয়? এতিয়া দেখা গৈছে যে অভাৱতো নাই তথাপিও মানুহবিলাক কি কৰি আছে? শিক্ষাতো গুৰুত্ব নিদিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 121.683,
+            "end": 139.013,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় আপোনি ঠিকেই কৈছা আপোনাৰ লগত মই একমত [silence] গতিকে আজিকালি মানে শিক্ষাতো হৈয়ে আছে আগৰ দিনত যেনেকোৱা শিক্ষাতো কম আছিলে এতিয়া তেনেকোৱা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 139.013,
+            "end": 143.266,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 143.266,
+            "end": 143.789,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10024,
+            "start": 143.789,
+            "end": 143.806,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 143.806,
+            "end": 150.978,
+            "speakerSeqId": 2,
+            "transcription": "হয় কওক [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 150.978,
+            "end": 160.833,
+            "speakerSeqId": 1,
+            "transcription": "[noise]  [silence] (())"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10027,
+            "start": 160.833,
+            "end": 160.934,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10028,
+            "start": 160.934,
+            "end": 160.968,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 160.968,
+            "end": 162.52,
+            "speakerSeqId": 2,
+            "transcription": "[silence] আপোনি কওক আপোনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 162.52,
+            "end": 179.17,
+            "speakerSeqId": 2,
+            "transcription": "সেইতো যে কৈছে আপোনি শিক্ষাৰ কথাতো যে কৈছে নহ, এতিয়া দেখা গৈছে যে বহুতো লৰা ছোৱালীবিলাকে কি কৰি আছে বহুতো লৰা ছোৱালীয়ে শিক্ষাৰ প্ৰতি গুৰুত্ব আগবঢ়োত্তো দিয়া নাই হয় নে নহয়? এতিয়া কথাতো হল যে আমাৰ (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 179.17,
+            "end": 192.71,
+            "speakerSeqId": 2,
+            "transcription": "(()) যিটো আছে মামাই সেইতো কি কৰি আছে যে আমাৰ ছোৱালী বিলাকক বহুতো সুবিধা দি আছে হয় নে নহয়? এতি্যা <lang:Foreign>sixty</lang:Foreign> পাৰ্ছেণ্ট ললে স্কুটি দিয়ে এতিয়া দেখা গৈছে যে বহুতো সুবিধা দিয়াৰ পাছতো মাক দেউতাকে কি কৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 192.71,
+            "end": 206.963,
+            "speakerSeqId": 2,
+            "transcription": "তেওলোকক নপঢ়ায় সৰুতে বিয়া পাতি দিয়ে হয় নে নহয়? সেইতো ভূল কথা সেইতো কৰিব নালাগে যে আমাৰ চৰকাৰে ইমান এটা ভাল কাম হাতত লৈছে তেওলোকৰ বিয়া দিয়ে কাৰনে তেওলোকক আজি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 206.963,
+            "end": 221.016,
+            "speakerSeqId": 2,
+            "transcription": "সেইতো (()) কাৰনে কি দিছে তেওলোকক স্কুটিতো দিছে এতিয়া তেওলোকে স্কুটিতো পাবৰ কাৰনে তেওলোকক কিয় (()) কৰিলেই, তেওলোকে ভালকে পঢ়া শুনাতো কৰিলে (()) তেওলোকে স্কুটি চলাব পাৰিব সেইতো নকৰি তেওলোকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 221.016,
+            "end": 234.958,
+            "speakerSeqId": 2,
+            "transcription": "কি কৰি আছে? মাক দেউতাকে কি কৰি আছে সৰুতে বিয়া পাতি দিয়ে হয় নে নহয়? (()) দিব লাগিব যে তেওলোকে কিয় এইতো কৰিব লাগে লৰা ছোৱালী বিলাক পঢ়িব দিব লাগে আৰু লৰা বিলাক যে আছে ন? লৰা বিলাক কি কৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 234.958,
+            "end": 245.005,
+            "speakerSeqId": 2,
+            "transcription": "আছে যে [silence] তেওলোকে যদি <lang:Foreign>seventy five</lang:Foreign> পাৰ্ছেণ্ট তুলে তেতিয়া হলে তেওলোকক কি দিব বুলেত দিব এইতো মামাৰ (()) এতিয়া দেখা গৈছে যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 245.005,
+            "end": 259.426,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া লৰা বিলাকে কি কৰি আছে যে <lang:Foreign>seventy five</lang:Foreign> পাৰ্ছেণ্টেজ দূৰৈৰ কথা তেওলোকে ভালকৈ পঢ়া শুনা নকৰে তেওলোকে কি কৰি আছে তেওলোকে এনেই পাছ কৰি আছে তেওলোকে <lang:Foreign>seventy five</lang:Foreign> পাৰ্ছণ্টেজ তুলাই নাই এইতো দেখা যায় মামাৰ ওপৰত দোষ দিয়ে কিয় এইতো দোষ দিব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 259.426,
+            "end": 273.462,
+            "speakerSeqId": 2,
+            "transcription": "(()) দেখা গৈছে যে লৰাবিলাক কি কয় সেইতো মিছা কথা কৈ যে লৰা বিলাকক (()) দিব এতিয়া দেখা গৈছে কিয় সেইতো কথা কব লাগে (()) দিয়েনে নিদিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 273.462,
+            "end": 278.367,
+            "speakerSeqId": 2,
+            "transcription": "(()) দিয়ে নিদিয়ে (()) বহুতো ছোৱালীৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 278.367,
+            "end": 289.673,
+            "speakerSeqId": 1,
+            "transcription": "(()) যে লৰা বিলাকে কয় মানে যে ছোৱালী আৰু লৰা ছোৱালীৰ মাজত ভেদাভেদ আনি দিয়ে কিন্তু লৰা বিলাকৰ হয় ন নহয়? যেনেকোৱা লৰাবিলাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 289.673,
+            "end": 298.685,
+            "speakerSeqId": 1,
+            "transcription": "কয় যে লৰা সকলে যিসকল কাম কৰিব পাৰে কৰিব জানে সেইসকল ছোৱালী বিলাক নোৱাৰে সেই এতিয়া লৰা বিলাক্ৰ কাৰনেতো ভালে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 298.685,
+            "end": 311.813,
+            "speakerSeqId": 1,
+            "transcription": "যিতো আগুৱাই গৈ আছে সেইবিলাক মানে চাৰিওফালে সেইবিলাকে আগুৰি আছে তোও এইতো কৰক ন যে <lang:Foreign>seventy five</lang:Foreign> মাৰ্ক মানে পাৰ্ছেণ্টেজ তুলি দেখোৱাওক যে ছোৱালী মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 311.813,
+            "end": 321.557,
+            "speakerSeqId": 1,
+            "transcription": "ছোৱালীতকৈ লৰাহে বেছি যিকোনো কৰে ন [silence] তোও সেইখিনি কৰিব লাগিছিল যে লৰা হৈ সেইখিনি কৰিব লাগিছিল যে মইয়ো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 321.557,
+            "end": 332.114,
+            "speakerSeqId": 1,
+            "transcription": "ছোৱালী বিলাকে যদি স্কুটি পাব পাৰে তেন্তে মই কিয় নোৱাৰিম? ছোৱালী বিলাকতকে তো মই আগুৱাই থাকিম ন? সেইবি লাকতো ভেদাভেদ লৰাই কৰে ন?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 332.114,
+            "end": 348.263,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় আপোনি এটা ভাল কথা কৈছে যে লৰাবিলাকে কি কৰে সেইতো নকৰি তেওলোকে কি কৰি আছে? তেওলোকে মবাইলতো বেছি, মবাইলটোৰ প্ৰতি বেছি গুৰুত্ব দিয়ে হয় নে নহয়? তেওলোকৰ (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 348.263,
+            "end": 364.677,
+            "speakerSeqId": 2,
+            "transcription": "খেলি আছে তেওলোকে কি কৰে যে তেওলোকে পঢ়া শুনা নকৰি তেওলোকে মবাইলতোত বেছি ঘূৰি ফূৰে হয় নে নহয়? তাৰ পাছত কি হয় তেওলোকৰ মানে এনেই বহি থাকিব লগা হয় তেওলোকৰ কোনো কাম কাজ থাকিব না মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 364.677,
+            "end": 373.306,
+            "speakerSeqId": 2,
+            "transcription": "তেওলোকে কি কৰি আছে যে মবাইলতোৰ পিনে চাই চাই তেওলোকে গেম খেলত ব্যস্ত থাকি যায় মই এটা নিউজ চাইছো দেখা যায় যে, আপোনি চাইছেনে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 373.306,
+            "end": 385.895,
+            "speakerSeqId": 2,
+            "transcription": "যে (()) যিটো কথাতো হল যে বাংলাদেশত কি হৈছে যে এটা লৰা তেও গেম খেলোতে খেলোতে তেওৰ কি হৈছে? তেও পগলা হৈ গৈছে তেওক শিকলি বান্ধি ৰাখিছে হয় নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 385.895,
+            "end": 394.568,
+            "speakerSeqId": 2,
+            "transcription": "কথাতো হল যে লৰা বিলাক এইতোকৰিব নালাগে তেওলোকে জানিছে যেতিয়া জীৱনৰ পথতো ধ্বংসৰ পথত আগবাঢ়ি আছে হয় নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 394.568,
+            "end": 407.439,
+            "speakerSeqId": 2,
+            "transcription": "আপোনি কিমান (()) শিক্ষাতো লৰা বিলাকে লব লাগে নে নালাগে লৰা ঘৰৰ পৰা বেছিকৈ গুৰুত্ব পূৰ্ন হয় নে নহয়? তেওলোকে কি গুৰুত্ব নিদিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 407.439,
+            "end": 417.957,
+            "speakerSeqId": 1,
+            "transcription": "(()) মাকে (()) কৰি থাকে তেওৰ দেউতাকে কষ্ট কৰি থাকে সিহতৰ সৰু সৰু যিবিলাক ভাই ভণ্টি থাকে সিহতৰ তাৰ ওপৰত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 417.957,
+            "end": 428.251,
+            "speakerSeqId": 1,
+            "transcription": "আৰু তেওলোকে যেতিয়া বিয়া কৰে তেওৰ [silence] সেইসকলৰ মানে তাৰ ওপৰত (()) তেনেহলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 428.251,
+            "end": 436.199,
+            "speakerSeqId": 1,
+            "transcription": "এজন লৰা দায়িত্বশীল হব লাগে পঢ়া শুনা কৰি পিনে চাকৰি বাকৰি কৰিব লাগে হয় নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 436.199,
+            "end": 452.511,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় এইতো আপোনি ভাল কথা কৈছে যে দুখীয়া মানুহ যিবিলাক আছে সেইবিলাকক দিন মজুৰি কৰি তেওলোকৰ লৰা ছোৱালীক ভালকৈ পঢ়ায় ছোৱালী বিলাক ভালকে পঢ়ে ছোৱালী বিলাকক দোষ নিদো কিন্তু লৰা বিলাকে কি কৰে যে (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 452.511,
+            "end": 460.364,
+            "speakerSeqId": 2,
+            "transcription": "মাক দেউতাকক ফাকি দি দি তেওলোকে স্কুলৰ পৰা গৈ মানে (()) গৈ তেওলোকে থাকে তেওলোকে (()) লিপ্ত থাকে হয় নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 460.364,
+            "end": 474.398,
+            "speakerSeqId": 2,
+            "transcription": "সেইতো ভুল হয় এইতো ভূল মাক দেউতাকে ইমান কষ্ট কৰি (()) সেইতো কৰা ওপৰত গুৰুত্ব নিদিয়ে (()) বিলাকত ঘূৰি ফূৰে ছোৱালী বিলাকৰ লগত কথা পাতে প্ৰেম কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 474.398,
+            "end": 479.247,
+            "speakerSeqId": 2,
+            "transcription": "তেওৰ ভবিশ্যতটো অন্ধ হৈ আছে হয় নে নহয়? এইতো তেওলোকক বুজিব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 479.247,
+            "end": 496.662,
+            "speakerSeqId": 1,
+            "transcription": "তেওলোকৰ কৰনে যে সেই পৰিবেশতো নষ্ট হৈ আছে, সেইখিনি নাচায় আৰু এজন মাক দেউতাকে যেতিয়া [overlap] তেওলোকৰ লৰা ছোৱালী বিলাকক (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 496.662,
+            "end": 510.55,
+            "speakerSeqId": 1,
+            "transcription": "তেওলোকে মানে চাব যে মই লৰা ছোৱালি বিলাকক (()) সেই এইখিনি চাবা যে যিসকলৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 510.55,
+            "end": 516.355,
+            "speakerSeqId": 1,
+            "transcription": "হয় (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 516.355,
+            "end": 519.798,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 519.798,
+            "end": 534.78,
+            "speakerSeqId": 2,
+            "transcription": "আপোনি ভাল কথা কৈছে যে মানুহৰ মানুহবিলাক যে কয়, এইতো লৰা ছোৱালী বিলাকৰ বহুতো ভূল কথা যে গাৰ্জেন বিলাকো থিক থাকিব লাগিব হয় নে নহয়? গাৰ্জেন বিলাকো শিক্ষিত থাকিব লাগিব গাৰ্জেন বিলাক যদি (()) নহয় তেনেহলে সেইতো নহব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 534.78,
+            "end": 548.661,
+            "speakerSeqId": 2,
+            "transcription": "তেওলোকৰ লৰা ছোৱালী বিলাকত এইতো হব (()) নিচিনা হব হয় নে নহয়? গাৰ্জেন বিলাক শিক্ষিত হলেহে তেওলোকৰ লৰা ছোৱালী বিলাক ঠিক থাকিব এতিয়া কথাতো হল গাৰ্জেন বিলাক থিক থাকিব লাগিব তেতিয়াহে তেওলোকৰ লৰা ছোৱালী বিলাক থিক (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 548.661,
+            "end": 555.168,
+            "speakerSeqId": 2,
+            "transcription": "এইতো কথা যে এতিয়া মই দেখা পাইছো শিক্ষাৰ অভাৱ শিক্ষাতো ঠিকে চলি আছে কিন্তু কোনো তাৰ মুল্য নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 555.168,
+            "end": 565.402,
+            "speakerSeqId": 2,
+            "transcription": "তেওলোকে এনেই বি এ পাছ কৰি আছে এনেই বি এ পাছ কৰি তেওলোকে কি কৰি আছে (()) আছে সেইতো কৰি আছে সেইতো কৰি আছে তেওলোকৰ শিক্ষাতো কোনো নোহোৱা হৈ গল থাকিও নোহোৱা হৈ গল হয় নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 565.402,
+            "end": 581.537,
+            "speakerSeqId": 2,
+            "transcription": "ছোৱালীবোৰ ছোৱালীতো শিক্ষা কৰিলে কি হয় ছোৱালীতো শিক্ষা কৰিলে তেওলোকে কি যে যিকোনো এটা কামত ব্যস্ত থাকে হয় সিহতক বিয়া পাতি দিয়ে কিন্তু থিকে আছে তেওলোকৰ মানে (()) থাকেই (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 581.537,
+            "end": 595.465,
+            "speakerSeqId": 2,
+            "transcription": "তেওলোকৰ কি? তেওলোকৰ হাচবেন্দতো তেওলোকক পুহে হয় নে নহয় ছোৱালীবিলাকক? কিন্তু লৰা বিলাকক ছোৱালীটোৱে লৰাক নোপুহিব ন? লৰাতো (()) এতিয়া তেওলোকৰ কামতো যদি শিক্ষাৰ ওপৰত গুৰুত্ব নিদিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 595.465,
+            "end": 605.205,
+            "speakerSeqId": 2,
+            "transcription": "(()) সেইতো কথাতো ভূল হব [silence] আমাৰ ৰেকৰ্ডিংতো হৈ গৈছে"
+        }
+    ]
+}

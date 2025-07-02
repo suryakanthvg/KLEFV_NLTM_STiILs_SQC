@@ -1,0 +1,596 @@
+{
+    "speechMode": "C",
+    "recordingId": "20828442",
+    "speechFile": "as_SHA1P_C_r013_s049",
+    "callDuration": 610.816,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239020"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239021"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 1.465,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 1.465,
+            "end": 2.917,
+            "speakerSeqId": 1,
+            "transcription": "হেল্লো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 2.917,
+            "end": 4.756,
+            "speakerSeqId": 2,
+            "transcription": "অ বাইদেউ ভালে আছে ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 4.756,
+            "end": 7.051,
+            "speakerSeqId": 1,
+            "transcription": "অ অ ভালে আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 7.051,
+            "end": 11.337,
+            "speakerSeqId": 2,
+            "transcription": "#আহ বাইদেউ আমাৰ দেশত কেনেধৰণৰ মানুহ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 11.337,
+            "end": 15.117,
+            "speakerSeqId": 1,
+            "transcription": "অ আমাৰ দেশত ন"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10007,
+            "start": 15.117,
+            "end": 16.535,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 16.535,
+            "end": 31.345,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ দেশত #আহ ভালে ধৰণৰ মানুহ #আহ কবলৈ গলে ভাল মানুহো আছে কবলৈ গলে বেয়া মানুহো আছে #আহ ভাল বেয়াটো মানুহৰ #আহ দেখা বা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 31.345,
+            "end": 45.003,
+            "speakerSeqId": 1,
+            "transcription": "মানুহৰ খোৱা #আহ খোজকাঢ়া তেওলোকৰ একো ধৰণত ভাল বেয়াটো #আহ দেখা নাজাই বা বুজা নাজাই #আহ মানুহ বা এজন দেশৰ #আহ মানুহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 45.003,
+            "end": 53.626,
+            "speakerSeqId": 1,
+            "transcription": "দেশৰ মানুহক মানে কব নোৱাৰি যে এও ভাল বা এও বেয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 53.626,
+            "end": 67.987,
+            "speakerSeqId": 1,
+            "transcription": "আচলতে মানুহ বোৰ মানুহ বোৰৰ চৰিত্ৰত দেখা যায় তেওৰ কেনেধৰণৰ চৰিত্ৰ আছে তেও কেনেধৰণে মানুহক ব্য়ৱহাৰ কৰে তেনেকুৱা ধৰণৰ তাত হে দেখা যায় বুজি পালা নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 67.987,
+            "end": 69.337,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পালো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10013,
+            "start": 69.337,
+            "end": 71.193,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 71.193,
+            "end": 76.745,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ দেশত ধনী মানুহ আছে নে দুখীয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 76.745,
+            "end": 87.865,
+            "speakerSeqId": 1,
+            "transcription": "অ আমাৰ দেশত কবলৈ গলে অসম দেশত ধনী মানুহৰো কম নাই আৰু দুখীয়া মানুহৰো কম নাই ধনী মানুহো বহুত আছে বহুত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 87.865,
+            "end": 102.372,
+            "speakerSeqId": 1,
+            "transcription": "টকা পইচাৰ মানুহ আছে আৰু দুখীয়া মানুহো বহুত আছে কিন্তু ধনী দুখিয়া কবলৈ গলে এক ধৰণে হয় পইচা টকাৰ ধনী এক ধৰণে ধনী হয় তেওলোকৰ #আহ আচাৰ ব্য়ৱহাৰ তেওলোকে মানুহক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 102.372,
+            "end": 111.44,
+            "speakerSeqId": 1,
+            "transcription": "কেমেধৰণে ব্য়ৱহাৰ কৰে তেওলোকৰ অন্তৰ তীওলোকৰ মনটো কেনেকুৱা ধৰণৰ তেওলোকক হে ধনী কব পাৰে আৰু দুখীয়া কলে কিছুমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 111.44,
+            "end": 117.751,
+            "speakerSeqId": 1,
+            "transcription": "ধন সম্পত্তি কম হয় আৰু কিছুমানৰ ধন সম্পত্তি থকাৰ স্বত্তেও তেওলোকৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 117.751,
+            "end": 132.105,
+            "speakerSeqId": 1,
+            "transcription": "অন্তৰ তেওলোকৰ মন তেওলোকৰ ভাৱা চিন্তা বা তেওলোকৰ আচাৰ ব্য়ৱহাৰ তেওলোকৰ ভাল নহয় তেওলোকক এক ধৰণে আমি দুখীয়া বুলি কব পাৰো আৰু কিছুমান সচাকৈয়ে দুখীয়া যে তেওলোকৰ হাতত বা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 132.105,
+            "end": 145.915,
+            "speakerSeqId": 1,
+            "transcription": "তেওলোকৰ তাত #আহ ধন সম্পত্তি বা তেওলোকৰ তাত পইচা পাতি নাথাকে আৰু [babble] আমাৰ #আহ দেশত তেনেকুৱা বহুত ধৰণৰ লোক থাকিব পাৰে যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 145.915,
+            "end": 161.643,
+            "speakerSeqId": 1,
+            "transcription": "ধনী ধনী মানুহো আছে কিছুমানে পঢ়া পঢ়ি পঢ়া পাটি কৰি পেলাই চৰকাৰী চাকৰি পাইছে কিছুমানে বহুত কষ্ট পেলাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 161.643,
+            "end": 167.397,
+            "speakerSeqId": 1,
+            "transcription": "কিবা এটা কাম কৰি পইচা অৰ্জন কৰিব পাৰিছে [babble] কিছুমানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 167.397,
+            "end": 176.122,
+            "speakerSeqId": 1,
+            "transcription": "ব্য়ৱসায় কৰি পেলাই পইচা অৰ্জন পাৰিছে আৰু কিছুমানে বহুত ধৰণৰ কিবা কিবি কাম কৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 176.122,
+            "end": 185.335,
+            "speakerSeqId": 1,
+            "transcription": "তেঅলোকৰ যিটো দক্ষতা থাকে তেওলোকে সেই দক্ষতাটো ব্য়ৱহাৰ কৰি তেওলোকে পইচা অৰ্জন কৰিব পাৰিছে বুজি পাইছা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 185.335,
+            "end": 186.989,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পাইছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 186.989,
+            "end": 193.705,
+            "speakerSeqId": 1,
+            "transcription": "#আহ আৰু কিছুমান আচাৰ ব্য়ৱহাৰ মন অন্তৰ ভাল তেওলোকৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 193.705,
+            "end": 207.307,
+            "speakerSeqId": 1,
+            "transcription": "তেওলোকো অন্তৰত তেওলোকৰ মনটো ভাল বাবে তেওলোক ধনী হয় কাৰন তেওলোকৰ আচাৰ ব্য়ৱহাৰ বহুত ভাল মানুহক মৰম কৰিব জানে মানুহক #আহ সন্মান কৰিব জানে মানুহক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 207.307,
+            "end": 221.498,
+            "speakerSeqId": 1,
+            "transcription": "সন্মান কৰিব জানে তেও মানুহ জন যিমানেই দুখীয়া নহওক কিয় বা যিমানে সৰু নহওক আন জনক যদি তেও সন্মান দিব জানে তেতিয়া হলে তেওকো উলোতাই তেওক সন্মান কৰিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 221.498,
+            "end": 224.84,
+            "speakerSeqId": 1,
+            "transcription": "বুজি পাইছা নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 224.84,
+            "end": 226.358,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পাইছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 226.358,
+            "end": 238.559,
+            "speakerSeqId": 1,
+            "transcription": "যদি #আহ তুমি মানুহক সন্মান কৰিব জানা তোমাক সন্মান কৰিব আৰু যদি মানুহক সন্মান কৰিব নাজানা তেতিয়াহলে তোমাক কেতিয়াও সন্মান নকৰিব বুজি পাইছা নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 238.559,
+            "end": 240.128,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পাইছো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10033,
+            "start": 240.128,
+            "end": 240.145,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 240.145,
+            "end": 254.398,
+            "speakerSeqId": 1,
+            "transcription": "অ যদি তুমি আনক ভাল পোৱা আনক ভালদৰে ব্য়ৱহাৰ কৰা তেতিয়াহলে নিশ্চয়কৈ তেৱো তোমাক তেনেধৰণে ব্য়ৱহাৰ কৰিব তেও তোমাক ভাল ধৰণে ব্য়ৱহাৰ কৰিব আৰু তোমাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 254.398,
+            "end": 260.615,
+            "speakerSeqId": 1,
+            "transcription": "#আহ সকলো কামতে সহায় কৰিব তুমি যদি বেলেগক সহায় কৰা তেতিয়াহলে তোমাকো সহায় কৰিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 260.615,
+            "end": 275.138,
+            "speakerSeqId": 1,
+            "transcription": "তুমি যদি সৎ পথত যোৱা তেতিয়া হলে সকলো মানুহে তোমাক সমৰ্থ কৰিব তোমাক ভাল পাব তুমি এজন যিমান দুখীয়া নহলেও কিয় নিজৰ মনটো লৈ নিজৰ #আহ যিটো সৎগতি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 275.138,
+            "end": 283.058,
+            "speakerSeqId": 1,
+            "transcription": "গতিত যোৱা তুমি সেইটো লৈ বহুত গৌৰম্বিত হবা বুজি পালা [noise] বুজি পাইছা নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 283.058,
+            "end": 284.78,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পাইছো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10039,
+            "start": 284.78,
+            "end": 285.927,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 285.927,
+            "end": 291.614,
+            "speakerSeqId": 2,
+            "transcription": "[noise] তোমাৰ মতে ধনী মানুহ ভাল নে দুখীয়া মানুহ ভাল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 291.614,
+            "end": 301.486,
+            "speakerSeqId": 1,
+            "transcription": "অ কথাটো হল এইটো যে #আহ মোৰ মতে মই প্ৰথমতে #আহ আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 301.486,
+            "end": 311.138,
+            "speakerSeqId": 1,
+            "transcription": "চবৰ মতে কও তাৰপিছত মই #আহ মোৰ দৃষ্টিভংগী বা মোৰ মতামত কি সেইটো তোমাক কম যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 311.138,
+            "end": 319.458,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ দেশত যিটো মানে অইন মানুহে যিটো কয় [silence] সকলো মানুহে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 319.458,
+            "end": 332.35,
+            "speakerSeqId": 1,
+            "transcription": "সকলো #আহ মানে সকলোৰে #আহ ঘৰত বা সকলোৰে #আহ মনত এইটো বেছি সোনকালে আহে বা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 332.35,
+            "end": 343.505,
+            "speakerSeqId": 1,
+            "transcription": "চোৱা সকলোৱে সেইটো প্ৰাধান্য় কৰে যে মই ধনী হলে মই সকলো খিনি সুখ পাম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 343.505,
+            "end": 356.566,
+            "speakerSeqId": 1,
+            "transcription": "বা অতি ভালদৰে থাকিবলৈ পাৰিম কিন্তু ইয়া নহয় যে অকল ধনী হলে তুমি এটা #আহ ভাল জীৱনশৈলী বা মই বুজাইছো যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 356.566,
+            "end": 361.291,
+            "speakerSeqId": 1,
+            "transcription": "মোৰ মানে হল ভাল এটা জীৱন যাপন কৰিব পাৰিবা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 361.291,
+            "end": 376.708,
+            "speakerSeqId": 1,
+            "transcription": "কেতিয়াবা তুমি #আহ যদি তুমি ধনী আছা তোমাৰ তাত টকা পইচা চব আছে কিন্তু তথাপিও #আহ তোমাৰ তাত যিটো বোলা বস্তু আছে সেইটো সুখ বোলা বস্তুটো নাথাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 376.708,
+            "end": 388.932,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু তুমি চাবা যে কিছুমানে #আহ দিনত দুবাৰ মাত্ৰ নে এবাৰ মাত্ৰ ভাত খাবলৈ পায় কিন্তু তেও সকলে অতি সুখী হৈ থাকে কাৰণ তেওলোকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 388.932,
+            "end": 399.175,
+            "speakerSeqId": 1,
+            "transcription": "যিটো আছে সেইটোত সুখী হবলৈ জানিছে যিটো আছে সেইটোত সুখী হবলৈ বিচাৰিছে সেইকাৰণে তেওলোক সুখী হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 399.175,
+            "end": 410.296,
+            "speakerSeqId": 1,
+            "transcription": "আৰু কিছুমান ধনী মানুহ এনেকুৱা হয় যে যিমান পইচা টকা থাকিলেও কিন্তু তেওলোকে মানে সেই সুখটো নাপাই আৰু তেওলোকে মানে সেইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 410.296,
+            "end": 426.608,
+            "speakerSeqId": 1,
+            "transcription": "আমি যে #আহ মানে এই যে মই তোমাক কলো যে দুটা #আহ দু সাজ খোৱা বা এ সাজ খোৱা লোকসকলেও সুখী হৈ থাকিব পাৰে তেওলোকে মানে #আহ জীৱন যাপনটোত তেনেকুৱাত খাপ খাব নোৱাৰে #আহ ধনী সকলে সেইকাৰণে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 426.608,
+            "end": 429.803,
+            "speakerSeqId": 1,
+            "transcription": "তেওলোকৰ সুখীময় জীৱনটো নাথাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 429.803,
+            "end": 441.65,
+            "speakerSeqId": 1,
+            "transcription": "তো মোৰ দৃষ্টিভংগীত কবলৈ গলে ধনী মানুহ ভাল মই ভালেই কও কিন্তু ধনীৰ লগতে যদি তুমি তোমাৰ মনটো তোমাৰ বা অন্তৰটো #আহ যদি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 441.65,
+            "end": 446.24,
+            "speakerSeqId": 1,
+            "transcription": "ভাল হয় সৎ হয় তেতিয়াহলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 446.24,
+            "end": 460.729,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়াহলে তোমাৰ জীৱনটো অতি সুখময় চলিব সেইটো ধু সেইটো #আহ ধনীত মই সন্মত হম যে হয় তেও সচায় ধনী আৰু তেওৰ জীৱন যাপনটো ধুনীয়াকৈ চলিছে কিন্তু তুমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 460.729,
+            "end": 463.655,
+            "speakerSeqId": 1,
+            "transcription": "এই #আহ ধনী আছা তুমি শুনি আছা নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 463.655,
+            "end": 466.135,
+            "speakerSeqId": 2,
+            "transcription": "অ শুনি আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 466.135,
+            "end": 485.653,
+            "speakerSeqId": 1,
+            "transcription": "অ #আহ যেতিয়া তুমি এজন মানুহ যদি ধনী আছে কিন্তু তেওৰ মনটো কৃপনালী মানে বহুত কৃপন তেও মানুহক #আহ সন্মান দিবলৈ নাজানে কাৰণ তেও ধনী হয় #আহ তেও ভাবে যে তেওকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 485.653,
+            "end": 493.388,
+            "speakerSeqId": 1,
+            "transcription": "#আহ সন্মান কৰিব তেওকে সন্মান কৰিব লাগে আনক সন্মান কৰিবলৈ নাজানে তেতিয়াহলে মানুহ যিমান ধনী হলেও তেওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 493.388,
+            "end": 502.703,
+            "speakerSeqId": 1,
+            "transcription": "অকমান সন্মান কৰা যায় যে তেও ধনী কিন্তু তেওক সেই মনৰ পৰাই সন্মান কৰা নাযায়া আৰু তেও মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 502.703,
+            "end": 511.867,
+            "speakerSeqId": 1,
+            "transcription": "যিবোৰ মানুহ আন মানুহক সন্মান কৰিব নাজানে আৰু যিবোৰ মানুহ কৃপনালী কৰে তেওলোক সুখীত থাকিব নোৱাৰে মোৰ মতে কৈছো দেই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 511.867,
+            "end": 518.144,
+            "speakerSeqId": 1,
+            "transcription": "তো তেওলোক যিটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 518.144,
+            "end": 532.988,
+            "speakerSeqId": 1,
+            "transcription": "আৰু সেই মোৰ দৃষ্টিত কবলৈ গলে যিবোৰ মানুহ #আহ ধনী হোৱাৰ পিছতো ভাল ভাল চিন্তা মানুহক সন্মান কৰিব জানে মানুহক মৰম কৰিব জানে তেওৰ জীৱন যাপন অতি সুখেৰে সুখেৰে যাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 532.988,
+            "end": 546.989,
+            "speakerSeqId": 1,
+            "transcription": "সুখেৰে চলিব আৰু যি সকল #আহ যি সকল লোক দুখীয়া হয় দুখীয়াৰ স্বত্তেও যদি তেওলোকৰ মন ভাল তেতিয়াহলে তেও দুখীয়া স্বত্তেও তেওলোকে #আহ কিছু ধৰণৰ কিছু ভাল ধৰণৰ জীৱন যাপন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 546.989,
+            "end": 556.028,
+            "speakerSeqId": 1,
+            "transcription": "কৰিব পাৰে আৰু যদি কিছুমানৰ #আহ কিছুমানৰ মনটো যদি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 556.028,
+            "end": 570.315,
+            "speakerSeqId": 1,
+            "transcription": "#আহ বেয়া কৃপনালী তেতিয়াহলে সেই #আহ কিছুমান লোক আছে নহয় দুখীয়া হলেও তেওলোকে কৃপনালী কৰে আৰু বহু সংখ্যাকেই দেখা পোৱা যে দুখীয়া হলেও তেওলোকৰ মনটো ভাল কিছু পৰিমানে হে বেয়া থাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 570.315,
+            "end": 576.481,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু তেওলোকে [noise] জীৱন যাপন কৰিবলৈ বিচাৰে বুজি পালা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 576.481,
+            "end": 578.928,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পাইছো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 578.928,
+            "end": 583.383,
+            "speakerSeqId": 1,
+            "transcription": "অ ইয়াৰ পৰা মই তোমাক এইটোৱেই কব বিচাৰো যে তোমাৰ তাত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 583.383,
+            "end": 597.973,
+            "speakerSeqId": 1,
+            "transcription": "তুমি যেনেকুৱা আছা তেনেকুৱাই ভাল কিন্তু তোমাৰ মনটো ভাল হব লাগে তোমাৰ আচাৰ ব্য়ৱহাৰ ভাল হব লাগিব আৰু তুমি মানুহক সন্মান কৰিবলৈ জানিব লাগিব তুমি যদি মানুহক সন্মান কৰিবা তেতিয়াহলে [overlap] তোমাকো সন্মান কৰিব অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 597.973,
+            "end": 610.816,
+            "speakerSeqId": 1,
+            "transcription": "আৰু তোমাৰ কথাত চাব তোমাক যেতিয়া তোমাৰ সহায় লাগিব তেতিয়া তোমাক সহায় কৰিব বুজি পাইছা নে অ [overlap]"
+        }
+    ]
+}

@@ -1,0 +1,604 @@
+{
+    "speechMode": "C",
+    "recordingId": "20823003",
+    "speechFile": "as_SHA1P_C_r013_s012",
+    "callDuration": 622.08,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0238013"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0238014"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 9.43,
+            "speakerSeqId": 1,
+            "transcription": "তো আজি আমাৰ মাজত উপস্থিত আছে চাহিৰ এণ্ড তানবিৰ, তো আপোনাৰ খবৰ কেনেকুৱা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 9.43,
+            "end": 12.316,
+            "speakerSeqId": 2,
+            "transcription": "মোৰ খবৰ ভাল (()) আপুনি কওঁক।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 12.316,
+            "end": 27.672,
+            "speakerSeqId": 1,
+            "transcription": "আছে ভালে আছে। তো আমাৰ হাতত আজি বেছি সময় নাই, তো আমাৰ আমাৰ হাতত এতিয়া মাত্ৰ দহ মিনিট সময় আছে, তো আমাৰ ট'পিকটো আমি আজি আৰম্ভ কৰি দিও।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 27.672,
+            "end": 32.729,
+            "speakerSeqId": 1,
+            "transcription": "তো আমাৰ ট'পিকটো আজি হ'ল [silence] গোলকীয় উত্তাপ বৃদ্ধি।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 32.729,
+            "end": 40.08,
+            "speakerSeqId": 1,
+            "transcription": "গোলকীয় উত্তাপ বৃদ্ধিৰ কাৰণে বহুতো সমস্যা [silence] হৈছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 40.08,
+            "end": 52.48,
+            "speakerSeqId": 1,
+            "transcription": "আৰু গোলকীয় উত্তাপ বৃদ্ধিৰ কাৰণে [noise] মাটিৰ উৰ্বৰতা হ্ৰাস পাইছে।সেইকাৰণে আমাৰ খেতি বাতি কৰাত বহুত অসুবিধা হোৱা দেখা গৈছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 52.48,
+            "end": 58.621,
+            "speakerSeqId": 1,
+            "transcription": "গোলকীয় উত্তাপ বৃদ্ধিৰ কাৰণে [silence] বহুতো গছ গছনি মৰিছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 58.621,
+            "end": 74.7,
+            "speakerSeqId": 2,
+            "transcription": "মানে গোলকীয় উত্তাপ বৃদ্ধিতো বৰ্তমানত বেছি হৈ গৈছে, কাৰণ মানুহে গছ গছনি কাটি আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 74.7,
+            "end": 79.272,
+            "speakerSeqId": 2,
+            "transcription": "সেই গছ গছনি বিলাকৰ ঠাইত বেলেগ গছ ৰোপন নকৰে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 79.272,
+            "end": 87.22,
+            "speakerSeqId": 2,
+            "transcription": "মানুহে যিমান গছ কাটি থাকিব [silence] সিমানে গোলকীয় উত্তাপৰ বৃদ্ধি হৈ থাকিব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 87.22,
+            "end": 90.413,
+            "speakerSeqId": 2,
+            "transcription": "গোলকীয় উত্তাপ বৃদ্ধিৰ ফলত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 90.413,
+            "end": 97.667,
+            "speakerSeqId": 2,
+            "transcription": "বৰ্তমান সময়ত মানে মাটিৰ যিবিলাক উৰ্বৰতা আছে সেইবিলাক হ্ৰাস পায় আৰু মাটিৰ ক্ষমতাতো [overlap] নোহোৱা হৈ যায়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 97.667,
+            "end": 103.12,
+            "speakerSeqId": 2,
+            "transcription": "আৰু [overlap] এইবোৰৰ কাৰণে মানুহৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 103.12,
+            "end": 111.355,
+            "speakerSeqId": 2,
+            "transcription": "বহুতো ধৰণৰ [babble] অ মানুহে বহুতো ধৰণৰ অসুবিধাৰ সন্মুখীন হয়, যেনে মানুহে খেতি-বাতি ভালদৰে কৰিব নোৱাৰে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 111.355,
+            "end": 112.79,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 112.79,
+            "end": 118.358,
+            "speakerSeqId": 2,
+            "transcription": "যিবিলাক [silence] শীতল অঞ্চল আছে, সেইবিলাকত গৰম দেখা পোৱা যায়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 118.358,
+            "end": 124.687,
+            "speakerSeqId": 2,
+            "transcription": "আৰু বৰ্তমান [overlap] সময়ত গৰমটো বাঢ়ি যোৱাৰ কাৰণো এইটোৱে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 124.687,
+            "end": 128.164,
+            "speakerSeqId": 2,
+            "transcription": "যে গোলকীয় উত্তাপৰ বৃদ্ধি হৈছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 128.164,
+            "end": 136.88,
+            "speakerSeqId": 2,
+            "transcription": "এই গোলকীয় উত্তাপ বৃদ্ধি যিমান বৃদ্ধি হৈ থাকিব তেনে সেইদৰে গৰমটোও বাঢ়ি থাকিব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 136.88,
+            "end": 149.96,
+            "speakerSeqId": 1,
+            "transcription": "গোলকীয় বৃদ্ধিৰ উত্তাপ বৃদ্ধিৰ এটায়ে কাৰণ হৈ হৈ পৰিছে মানুহে এতিয়া মানে বহুতো গছ গছনি কাটি আছে, জংঘল বিলাক চাফা কৰি আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 149.96,
+            "end": 166.88,
+            "speakerSeqId": 1,
+            "transcription": "#উম এটা গছ কাটিলে দহটা গছ ৰোপন কৰিব লাগে।এ এতিয়া দেখা গৈ আছে যে এশটা গছ কাটিও এটা গছ মানুহে ৰোপন নকৰে। সেইকাৰণে আমাৰ গোলকীয় উত্তাপটো বৰ্তমান দিনক দিনে বৃদ্ধি হৈ বৃদ্ধি হৈ আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 166.88,
+            "end": 175.72,
+            "speakerSeqId": 1,
+            "transcription": "এই গোলকীয় উত্তাপ বৃদ্ধিৰ কাৰণে বহুত সমস্যা হৈছে, মানে খেতি-বাতি কৰাত যে খেতি-বাতি কৰাত অসুবিধা হৈ আছে [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 175.72,
+            "end": 191.36,
+            "speakerSeqId": 2,
+            "transcription": "আৰু মানে গোলকীয় উত্তাপ বৃদ্ধি হোৱাৰ ফলত মানে যিবিলাক বৰফ এলেকা আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 191.36,
+            "end": 201.097,
+            "speakerSeqId": 2,
+            "transcription": "মানে যিবিলাক একেবাৰে ঠাণ্ডা অঞ্চল আছিল, সেইবিলাকতো বৰফবোৰ গলি গলি পানী হৈ আছে আৰু ঠাণ্ডাটোও লাহে আহে নাইকীয়া হৈ আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 201.097,
+            "end": 203.037,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 203.037,
+            "end": 206.648,
+            "speakerSeqId": 2,
+            "transcription": "এইবোৰ মানে দিনক দিনে বৃদ্ধি পাই আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 206.648,
+            "end": 208.336,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 208.336,
+            "end": 223.06,
+            "speakerSeqId": 2,
+            "transcription": "আৰু মাটিৰ যিটো উৰ্বৰতা আছে, সেইটো হ্ৰাস হ্ৰাস হৈ গৈ আছে। মাটিৰ ক্ষমতা [overlap] লাহে লাহে কমি কমি মৰুকৰণৰ দিশলৈ যায় আছে গৈ আছে ।আৰু মানে মৰুকৰণৰ পৰা লাহে লাহে [overlap] মৰুভুমিলৈ সৃষ্টি হৈ যাই হৈ আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 223.06,
+            "end": 234.425,
+            "speakerSeqId": 2,
+            "transcription": "বৰ্তমান বৰ্তমান সময়ত [silence] ইমান গৰম বৃদ্ধি হৈছে যে মানে আগত কেতিয়াবা এনেকুৱা নাছিল।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 234.425,
+            "end": 248.026,
+            "speakerSeqId": 2,
+            "transcription": "এইবোৰৰ [overlap] একমাত্ৰ কাৰণ হ'ল মানুহ [overlap] ।যিয়ে মানে এটা নিয়ম আছে মানুহৰ এটা গছ কাটিলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 248.026,
+            "end": 259.332,
+            "speakerSeqId": 2,
+            "transcription": "দুটা গছ ৰোপন কৰিব লাগে [overlap] কিন্তু মানুহে এটা #এৰ মানে দুটা গছ কাটিলে এটা এটা গছ ৰোপন নকৰে [overlap] এইবোৰৰ কাৰণে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 259.332,
+            "end": 262.994,
+            "speakerSeqId": 2,
+            "transcription": "#উম বেছিকৈ গোলকীয় উত্তাপটো বৃদ্ধি পাই আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 262.994,
+            "end": 282.856,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া দেখা হৈ আছে।সেইকাৰণে গোলকীয় উত্তাপ বৃদ্ধিৰ কাৰণে এটা কথা মই আগতে ক'লো (()) খেতি-বাতি কৰাৰ অসুবিধা হৈ আছে যেইবিলাক মানুহে কৃষি কাৰ্যৰ ওপৰত নিৰ্ভৰশীল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 282.856,
+            "end": 295.546,
+            "speakerSeqId": 1,
+            "transcription": "খেতি খেতি বাতি কৰে, সেইবিলাক মানুহৰ কাৰণে বিৰাট এট সমস্যা হৈ আছে। তেওঁলোকে খেতি-বাতি কৰিব নোৱাৰা হৈ হৈ পৰিছে [silence] আৰু সেই খেতি-বাতি কৰিব নোৱাৰাৰ ফলত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 295.546,
+            "end": 306.278,
+            "speakerSeqId": 1,
+            "transcription": "তেওঁলোকে আৰ্থিক অৱস্থাত বিভিন্ন সমস্যাৰে জৰ্জৰিত হৈ আছে। খেতি-বাতি [overlap] এটা কৃষি যিবিলাক মানুহে কৃষিৰ ওপৰত নিৰ্ভৰশীল, খেতি-বাতি কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 306.278,
+            "end": 319.913,
+            "speakerSeqId": 1,
+            "transcription": "বিভিন্ন খেতি-বাতি কৰে ।সেইবিলাক মানুহ যদি খেতি-বাতি কৰিব নোৱাৰিব সেইবিলাক মানুহৰ তো আৰ্থিক অৱস্থা বেয়া হব।তেওঁলোকে খাবয়ে নোৱাৰিব #উম খাবৱে পৰা নোৱা নোৱা নোৱাৰা হৈ পৰিব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 319.913,
+            "end": 329.853,
+            "speakerSeqId": 1,
+            "transcription": "আৰু তেওঁলোকৰ ল'ৰা ছোৱালীক কেনেকৈ শিক্ষা প্ৰদান কৰিব? শিক্ষা প্ৰদান কৰাৰ ক্ষেত্ৰতো বিভিন্ন আৰ্থিক টকা পইচাৰ প্ৰয়োজন হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 329.853,
+            "end": 342.24,
+            "speakerSeqId": 1,
+            "transcription": "সেই টকা পইচাটো তেওঁলোক কৃষি কাম কৰি বিভিন্ন খেতি-বাতি কৰিহে উপাৰ্জন কৰিব পাৰে। সেই যেতিয়া সেই মানুহটো খেতি বাতি কৰিব নোৱাৰিব বিভিন্ন [silence] তেতিয়াতো তেওঁলোকে (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 342.24,
+            "end": 346.39,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] লৰা-ছোৱালীক কেনেকুৱাকৈ শিক্ষা প্ৰদান কৰিব?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 346.39,
+            "end": 371.9,
+            "speakerSeqId": 2,
+            "transcription": "মানে গোলকীয় উত্তাপটো বৃদ্ধি যিটো হৈ আছে, সেইটো [overlap] বন্ধ কৰিবলৈ উপায় এটাই আছে, বেছিকে গছ ৰোপন কৰিব লাগিব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 371.9,
+            "end": 378.64,
+            "speakerSeqId": 2,
+            "transcription": "মানুহে যিমান গছ ৰোপন কৰিব, সিমানে গোলকীয় উত্তাপটো লাহে লাহে কমি যাব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 378.64,
+            "end": 385.861,
+            "speakerSeqId": 2,
+            "transcription": "বৰ্তমান বৰ্তমান যিটো মাহত চলি আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 385.861,
+            "end": 387.042,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 387.042,
+            "end": 394.197,
+            "speakerSeqId": 2,
+            "transcription": "আৰু [overlap] এনে এটা সময়তো ইমান ইমান গৰম দেখা হৈ আছে, এইটো [overlap] আগত কেতিয়াও নাছিল।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 394.197,
+            "end": 395.598,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 395.598,
+            "end": 397.37,
+            "speakerSeqId": 2,
+            "transcription": "কাৰণ আগত মানুহে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 397.37,
+            "end": 408.98,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] মানে ঠাণ্ডা ঠাণ্ডা বতৰ আছিল আৰু বৰষুণো হৈছিল [silence] এতিয়াতো বৰষুণো দেখা পোৱা নাযায়। [overlap] এতিয়া এতিয়া বৰষুণো একেবাৰে কমি গৈছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 408.98,
+            "end": 422.716,
+            "speakerSeqId": 1,
+            "transcription": "হয় বৰষুণতো একেবাৰে নাইকিয়া হৈ গৈছে। ঠাণ্ডা বতাহটো অহাই নাই ইয়াত। আকৌ ইমান গৰম পৰি আছে এই মাহত। এই মাহত দৰা দৰাচলতে এই মাহত [silence] আগৰ দিনত এই মাহত একো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 422.716,
+            "end": 425.321,
+            "speakerSeqId": 1,
+            "transcription": "গৰম, ইমান গৰম নাছিল।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 425.321,
+            "end": 426.721,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 426.721,
+            "end": 444.94,
+            "speakerSeqId": 2,
+            "transcription": "যিটো গোলকীয় উত্তাপ বৃদ্ধি পাই আছে লাহে লাহে [silence] সেইটো [overlap] মানে গছ গছ ৰোপণ নকৰিলে বৃ্দ্ধি হৈয়ে থাকিব। যিটো এটা [overlap] বিৰাট"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 444.94,
+            "end": 447.539,
+            "speakerSeqId": 2,
+            "transcription": "পিছত গৈ বিৰাট এটা সমস্যাৰ সৃষ্টি কৰিব পাৰে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 447.539,
+            "end": 454.38,
+            "speakerSeqId": 2,
+            "transcription": "বৰ্তমান [overlap] সময়তে ইমান গৰত গৰম বাঢ়ি গৈছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 454.38,
+            "end": 466.92,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] পিছত যেতিয়া মানুহে গছ ৰোপণ নকৰিব বা গোলকীয় উষ্ণতা আ আ আকৌ আৰু আকৌ ইয়াতকৈ বাঢ়ি যাব, তেতিয়া মানে [overlap] বেছি বেছি গৰম দেখা যাব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 466.92,
+            "end": 471.18,
+            "speakerSeqId": 2,
+            "transcription": "যিটো পিছত গৈ ডাঙৰ সমস্যাৰ সৃষ্টি কৰিব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 471.18,
+            "end": 480.243,
+            "speakerSeqId": 2,
+            "transcription": "সেইকাৰণে এতিয়া মানুহক [overlap] বেছিকৈ গছ ৰোপণ কৰিবলৈ বুলি চৰকাৰৰ ফলা চৰকাৰৰ ফালৰ পৰা ক'ব লাগে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 480.243,
+            "end": 493.49,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়। এতিয়া দেখা গৈ আছে যে মানুহে যিমান পাৰি আছে, মানে গছ-গছনি কাটি আছে। [babble] আকৌ, যিবিলাক জংঘল আছে [babble] সেইবিলাকক একেবাৰে কা কাটি আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 493.49,
+            "end": 494.131,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 494.131,
+            "end": 507.496,
+            "speakerSeqId": 1,
+            "transcription": "কাটি আছে সেই ঠাইত ফিৰ নতুনকৈ কিবা কল-কাৰখানা ফেক্ট'ৰি জমা কৰি আছে। [overlap] ফেক্টোৰি বনাই আছে। সেই ফেক্টোৰিৰ পৰা ওলোৱা ধোঁৱাৰ পৰা এনেইটো [overlap] গছ-গছনি কাটাৰ ফলতটো [nonHumanVocal] গোলকীয় উত্তাপ বৃদ্ধি হৈয়ে আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 507.496,
+            "end": 517.064,
+            "speakerSeqId": 1,
+            "transcription": "আৰু তাৰ পিছত তাৰ উপৰি সেই ঠাইতে ফেক্ট'ৰি কিবা কিবি কোম্পানী বনাই আছে। সেই কোম্পানীৰ পৰা হোৱা ওলোৱা ধোঁৱা ধোঁৱাৰ ফলত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 517.064,
+            "end": 524.0,
+            "speakerSeqId": 1,
+            "transcription": "বহুতো ধোঁৱাৰ ফলত আকৌ [nonHumanVocal] গোলকীয় উত্তাপটো বৃদ্ধি হোৱাত আকৌ বহুত সহায় কৰিছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 524.0,
+            "end": 534.901,
+            "speakerSeqId": 2,
+            "transcription": "[noise] মানে বৰ্তমান সময়ত দেখা গৈ আছে যে যিবিলাক অঞ্চলত কেতিয়াবা মানে হাবি হাবি-বননি আছিল এতিয়া এতিয়াৰ [overlap] সময়ত সেইবিলাক নাই।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 534.901,
+            "end": 539.322,
+            "speakerSeqId": 2,
+            "transcription": "আৰু মানুহে বেছি বেছিকৈ [nonHumanVocal] গছবোৰ কাটি আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 539.322,
+            "end": 553.328,
+            "speakerSeqId": 1,
+            "transcription": "আগত যিবিলাক ঠাইত হাবি-বননি আছিল সেইবিলাক ঠাই এতিয়া মানে বিভিন্ন কোম্পানী বিভিন্ন ফেক্ট'ৰি সেইবিলাকেৰে ভৰপূৰ হৈ পৰিছে আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 553.328,
+            "end": 566.575,
+            "speakerSeqId": 1,
+            "transcription": "গছ-গছনি কটাৰ ফলত তেনেই গোলকীয় উত্তাপ বৃদ্ধি পায়, তাৰোপৰি আৰু সেই ঠাইতে আকৌ কোম্পানী বিভিন্ন ফেক্ট'ৰি সেইবিলাকৰ সেইবিলাকৰ কাৰণে আকৌ দুগুণ বৃদ্ধি পাইছে গোলকীয় উত্তাপটো [overlap] জানানে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 566.575,
+            "end": 580.733,
+            "speakerSeqId": 1,
+            "transcription": "যিমান পাৰে মানুহে যাতে গছ-গছনি ৰোপণ কৰে আৰু [nonHumanVocal] গছ-গছনি ৰোপণ নকৰিলে মানে দিনক দিনে মানে আমাৰ এই পৃথিৱীখন বেয়াৰফালে মানে দিনক দিনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 580.733,
+            "end": 585.58,
+            "speakerSeqId": 1,
+            "transcription": "বেয়াৰফালে গতি কৰি থাকিব। মানুহে অক্সিজেন ল'ব নোৱাৰা হৈ পৰিব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 585.58,
+            "end": 600.629,
+            "speakerSeqId": 2,
+            "transcription": "আৰু মানে মানে গোলকীয় উত্তাপ বৃদ্ধি পোৱাৰ ফলত যিবিলাক মাটিৰ ক্ষমতা যিবিলাক হ্ৰাস পাইছে, যিবিলাক কৃষি খেতি কৰাৰ ঠাই আছিল সেইবিলাকৰ মাটিৰ উৰ্বৰতা [overlap] হেৰাইছে ফলত মানুহৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 600.629,
+            "end": 604.915,
+            "speakerSeqId": 2,
+            "transcription": "মানে যিবিলাক কৃষিজীৱি মানুহ আছিল [overlap] তেওঁলোকৰো এটা ডাঙৰ সমস্যা হৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 604.915,
+            "end": 607.463,
+            "speakerSeqId": 2,
+            "transcription": "যে আগৰ দৰে খেতি নহয় তেওঁলোকৰ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 607.463,
+            "end": 609.235,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 609.235,
+            "end": 613.353,
+            "speakerSeqId": 2,
+            "transcription": "এইটোৰ এইটোৰ কাৰণে মানে আৰ্থিক সমস্যাও দেখা পোৱা যায়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 613.353,
+            "end": 622.08,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় তো আজি আৰু আমাৰ হাতত বেছি সময় নাই, তো আজি আমি আমাৰ ৰেকৰ্ডিঙটো ইয়াতে অফ কৰিম।"
+        }
+    ]
+}

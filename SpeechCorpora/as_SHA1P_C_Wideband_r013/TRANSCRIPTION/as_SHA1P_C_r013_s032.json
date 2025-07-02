@@ -1,0 +1,500 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826170",
+    "speechFile": "as_SHA1P_C_r013_s032",
+    "callDuration": 605.568,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239040"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239041"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 5.667,
+            "speakerSeqId": 1,
+            "transcription": "মোৰ লগত আজি (()) মোৰ সৰু দাদা সৰু ভাইটি আছে। ভাইটি ভালে আছানা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 5.667,
+            "end": 8.84,
+            "speakerSeqId": 2,
+            "transcription": "অ মই ভালে আছো আৰু বাৰু আপনি কেনে আছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 8.84,
+            "end": 11.945,
+            "speakerSeqId": 1,
+            "transcription": "অ ময়ো ভালে আছো। পিছত খোৱা-দোৱা হল?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 11.945,
+            "end": 15.803,
+            "speakerSeqId": 2,
+            "transcription": "অ আমাৰ খোৱা-দোৱা হৈ গল আৰু আপোনাৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 15.803,
+            "end": 23.465,
+            "speakerSeqId": 1,
+            "transcription": "অ ময়ো খালো এতিয়া খাই কিনে বা~বাহিৰত আহিলো এই আজি বতৰটো ভালে লাগি আছে তাৰ (()) বাহিৰত আহিলো।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 23.465,
+            "end": 26.339,
+            "speakerSeqId": 1,
+            "transcription": "তো যিয়ে নহওঁক আজিৰ [bg-speech] টপিকটো হব আমাৰ যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 26.339,
+            "end": 28.858,
+            "speakerSeqId": 1,
+            "transcription": "সৌন্দৰ্যৰ ওপৰত। আমাৰ যে কি কি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 28.858,
+            "end": 35.76,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ প্ৰাকৃতিক পৰিৱেশৰ ওপৰত মানে এটা সুন~সুন্দৰ্য প্ৰভাৱ যে আছে সেইটো লৈ আমি আলোচনা কৰিম।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 35.76,
+            "end": 44.024,
+            "speakerSeqId": 1,
+            "transcription": "তুমি কতবা গৈছিলানা সুন্দৰ জাগালৈ যে জাগাবিলাক যে আছে কত কত বা গৈছিলানা তুমি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 44.024,
+            "end": 58.1,
+            "speakerSeqId": 2,
+            "transcription": "মই বাৰু সুন্দৰ জাগাত [noise] বেলেগ জাগাত যোৱা নাই বাৰু। আমাৰ গাওঁতে থাকি আমি যে আমাৰ প্ৰাকৃতিৰ ওপৰত যে এটা সৌন্দৰ্যৰ বস্তু দেখা পাওঁ যেনেকুৱা আমাৰ সূৰ্যৰ ৰশ্মি, বায়ুমণ্ডল ইত্যাদি আৰু গছ-গছনি, পাহাৰ-ভৈয়াম ইত্যাদি আমি দেখা পাওঁ, সেইটোকে লৈ আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 58.1,
+            "end": 65.32,
+            "speakerSeqId": 2,
+            "transcription": "সন্তুষ্ট আৰু সৌন্দৰ্যৰ লাভ কৰো। আপুনি বা [bg-speech] কত কত গৈছে বা সেইটো সৌন্দৰ্য দেখিলে আপুনি মোক আৰু বিৱৰণ কৰিব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 65.32,
+            "end": 78.618,
+            "speakerSeqId": 1,
+            "transcription": "তাৰমানে মই এটা জাগাত গৈছিলো। মই এইই কি বুলি [bg-speech] কয় (()) অৰুণাচল বুলি কয়, অৰুণাচল মানে পাহাৰৰ ওপৰত গৈছিলো। [overlap] পাহাৰত যাই (()) এনেকুৱা সৌন্দৰ্য মই দেখা পাইছিলো মানে বিউটিটো মানে এটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 78.618,
+            "end": 83.343,
+            "speakerSeqId": 1,
+            "transcription": "ওপৰতে সৌন্দৰ্য এটা থাকে সৌন্দৰ্যটো এনেকুৱা ধুনীয়া লাগি আছিল মানে এনেকুৱা ভাল লাগি আছিল।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 83.343,
+            "end": 98.28,
+            "speakerSeqId": 1,
+            "transcription": "সেইবিলাক চাই চাই মোৰ মানে চকু এনেকুৱা হৈ গৈছিল মানে কিমান ধুনীয়া ধুনীয়া লাগি আছিল, মই গৈছিলো আৰু বহুত মানুহে গৈছিল মোৰ লগত, তাতে আমি পিছত আমি গৈছিলো এটা নদীৰ কাষলৈ, নদীৰ কাষত (()) [bg-speech] ঝৰ্ণা আছিল ঝৰ্ণাত আমি কাম কৰিছো, ঝৰ্ণাত (()) ঘূৰি গৈছিলো, আমি শুইছিলো।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 98.28,
+            "end": 105.44,
+            "speakerSeqId": 1,
+            "transcription": "মানে তাতে এনেকুৱা ভাল লাগি আছিল (()) মানে তাতে পৰিৱেশটো এনেকুৱা বহুত ভাল লাগি থাকে আৰু।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 105.44,
+            "end": 112.438,
+            "speakerSeqId": 1,
+            "transcription": "মই গৈছিলো মানে এনেকুৱা আছিল যেনেকুৱা আজি মই গৈছিলো বোম্বাই, বোম্বাই খাণ্ডালা চিনি পোৱা না?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 112.438,
+            "end": 113.819,
+            "speakerSeqId": 2,
+            "transcription": "অ অ অ অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 113.819,
+            "end": 128.062,
+            "speakerSeqId": 1,
+            "transcription": "সেই খাণ্ডালাত গৈছিলো। খাণ্ডালা যাই কিনে মানে মানুহ তাতে [nonHumanVocal] হানিমুন কৰিবলৈ যায়, মই তাতে ফুৰবো গৈছিলো যে জাগাটো কেনেকুৱা মই চাই~চাই লম তাৰ কাৰণত গৈছিলো মই। [overlap] জাগাখিনি এনেকুৱা~এনেকুৱা বিউটি, এনেকুৱা সুন্দৰ তাৰমানে ৰাস্তাবিলাক যে আছেনা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 128.062,
+            "end": 141.82,
+            "speakerSeqId": 1,
+            "transcription": "ৰাস্তাবিলাক [overlap] যে এনেকুৱা এ পাহাৰৰ ওপৰৰ পৰা এনেকুৱা ভাল লাগে না ৰাস্তাবিলাক কেনেকুৱা তেৰা-বেঁকা তেৰা-বেঁকা ৰাস্তা। মানে চাই কিনে এনেকুৱা ভাল লাগে আৰু গাড়ী~গাড়ীবিলাক যিটো~যিটো~যিটো সময়ত যায় আৰু সেই গাড়ীবিলাক দেখি দেখি কি ভাল লাগে আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 141.82,
+            "end": 154.499,
+            "speakerSeqId": 1,
+            "transcription": "পিছত আৰু তুমি গাড়ীদি যাই থাকিবা তাৰপৰা এ বৰফ ডাঙৰ ডাঙৰ কি বিলাক আছে, ঝৰ্ণাবিলাক আছে। [overlap] ঝৰ্ণাবিলাক দেখি দেখি কিমান ভাল লাগে। তাৰপিছত মই এটা জাগাত গৈছিলো, সেই তাৰ খাণ্ডালাতে আছিল, সেই জাগাটোত [overlap] যাই কিনে মই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 154.499,
+            "end": 160.819,
+            "speakerSeqId": 1,
+            "transcription": "মই কলো যে মই আজি #আহ ঝৰ্ণাত গাও ধুম। সেই গাও ধুলো, গাও ধুই কিনে কিমান মজা কৰিলো, মোৰ লগত মোৰ বন্ধু আছিল।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 160.819,
+            "end": 182.319,
+            "speakerSeqId": 2,
+            "transcription": "অ সেইটো প্ৰাকৃতিক বস্তু প্ৰাকৃতিকত সৃষ্টি হৈ আছেনা সেইটো মানে চালে আমি মানে কি একদম মানে মনোমোহা হৈ যাওঁ মানে মনোভাৱটো একদম ভাল হৈ যায়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 182.319,
+            "end": 186.883,
+            "speakerSeqId": 2,
+            "transcription": "প্ৰাকৃতিক [overlap] আমি কিমান বস্তু দেখা পাওঁ, পাহাৰ-ভৈয়াম ইত্যাদি আৰু গছ-গছনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 186.883,
+            "end": 192.048,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো আমি দেখা পাওঁ। সেইটো লৈ মানে কি আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 192.048,
+            "end": 196.372,
+            "speakerSeqId": 2,
+            "transcription": "মানে মনোমোহা একদম মানে ভাল মনস্থ হৈ যায়, হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 196.372,
+            "end": 202.276,
+            "speakerSeqId": 1,
+            "transcription": "তাৰপিছত আৰু এটা জাগা গৈছিলো যে তুমি দাৰ্জিলিং চিনি পোৱা না?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 202.276,
+            "end": 204.076,
+            "speakerSeqId": 2,
+            "transcription": "অ দাৰ্জিলিং, অ অ অ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 204.076,
+            "end": 207.61,
+            "speakerSeqId": 1,
+            "transcription": "সেই দাৰ্জিলিং জাগাটো এনেকুৱা সুন্দৰ, এনেকুৱা আৰু জাগাটোৰ ভিউ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 207.61,
+            "end": 213.639,
+            "speakerSeqId": 1,
+            "transcription": "মানে তুমি চাই কিনে তুমি একবাৰ~একবাৰ চালে আৰু দুবাৰ চাবলৈ~চাবলৈ মন যায়। মানে ভিউটো তাৰে এনেকুৱা ভাল~ভাল লাগে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 213.639,
+            "end": 232.219,
+            "speakerSeqId": 1,
+            "transcription": "মই কেতিয়াবা দেখা নাই যে পাহাৰৰ ওপৰত ট্ৰেইন উঠিব পাৰে। তাতে মই দেখিছিলো মানে ট্ৰেইন। মানে ট্ৰেইনটো আহি আছে মানে এনেকুৱা ধুনীয়া লাগি থাকে মানে এইটো ট্ৰেইন আহি আছেনে বেলেগ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 232.219,
+            "end": 256.042,
+            "speakerSeqId": 2,
+            "transcription": "অ আপনি মানে দাৰ্জিলিঙৰ কথা কলে নহব, কাশ্মীৰ জাগাখনো আমাক ভাল লাগে, সেইটো বৰফৰ টুকুৰা আমাৰ গাৰ ওপৰেদি পৰে আৰু কিমান আমি সন্তুষ্ট ভাল লাগে, হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 256.042,
+            "end": 257.206,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 257.206,
+            "end": 267.854,
+            "speakerSeqId": 1,
+            "transcription": "মইটো কাশ্মীৰ~কাশ্মীৰটো যোৱা নাই, মই কাশ্মীৰৰ (()) শুনিছিলো মই। মানে তাতে বহুত ভাল ভাল জাগা আছে, তাতে বহুত এ মানে চাবলৈ জাগা আছে আৰু বৰফ বোলে আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 267.854,
+            "end": 271.96,
+            "speakerSeqId": 1,
+            "transcription": "মইটো যোৱা নাই, মই কেতিয়াবা সময় হলে যাম আৰু, তুমি যাবানে নাই মোৰ লগত?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 271.96,
+            "end": 278.215,
+            "speakerSeqId": 2,
+            "transcription": "অ যাম বাৰু টাইম হলে কিয় নাযাম। এইবিলাক বস্তু প্ৰাকৃতিক [bg-speech] বস্তু আমি দেখিবলৈ আমাৰ মন যায়না।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 278.215,
+            "end": 299.539,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] মানে তাত বৰফ পৰি থাকে আৰু বিভিন~বিভিন্ন ধৰণৰ ডাঙৰ ডাঙৰ পাহাৰ~পাহাৰ থাকে আৰু মই শুনিছিলো যে তাতে বোলে এনেকুৱা এটা জাগা আছে যে জাগাটোৰ ভিউটি এনেকুৱা মানে (()) বাহিৰৰ দেশৰ যেনেকুৱা ভিউটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 299.539,
+            "end": 302.444,
+            "speakerSeqId": 1,
+            "transcription": "তাতে বোলে এটা পাই যায় এই জাগাটোত।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 302.444,
+            "end": 311.56,
+            "speakerSeqId": 2,
+            "transcription": "অ হয় এই~এই মানে আমাৰ প্ৰাকৃতিক যে~যে ভিউবিলাক আছে, সৌন্দৰ্যবিলাক [overlap] আছে ইয়াৰ ওপৰত নিৰ্ভৰ কৰি আমাৰ কি ফিলিমেছ~ফিলিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 311.56,
+            "end": 315.559,
+            "speakerSeqId": 2,
+            "transcription": "ফিলিম শ্বুট কৰে। সেইটোৰ চাই কিনে [bg-speech] আমি (()) লাভ কৰো, হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 315.559,
+            "end": 336.4,
+            "speakerSeqId": 1,
+            "transcription": "মই~মই আৰু এটা জিনিছ চালো যে সিবিলাক জিনিছ #আহ জাগা যাই কিনে মানে আজিকালি যে কি বিলাক আছে লৰাবিলাক আছে তাতে যাই কিনে কিমান মজা কৰে, কিমান ফূৰ্তি কৰে, মই সেই~সেইবিলাক (()) চাওঁ মই বা আৰু~আৰু [overlap] ইনষ্টাত চাওঁ মই, সেইবিলাক দেখো মই।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 336.4,
+            "end": 355.857,
+            "speakerSeqId": 1,
+            "transcription": "মানে সিবিলাক জাগাৰ সৌন্দৰ্যটো বেলেগ আৰু।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 355.857,
+            "end": 368.733,
+            "speakerSeqId": 2,
+            "transcription": "অ সেইটোৱে কথা। সেইটো মানে কি আমি এতিয়া গাওঁ এলেকাত আছো, এতিয়া যদি বাহিৰৰ ৰাস্তাত যাই কিনে আমি এনেকুৱা এটা মানে ভিউ দৃশ্য দেখা পাওঁ যিকোনো বস্তু [overlap] এটা পাহাৰ-ভৈয়ামৰ দৃশ্য দেখা পাওঁ তাত বোলে আমাৰ মনটো থাকি যাব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 368.733,
+            "end": 375.865,
+            "speakerSeqId": 2,
+            "transcription": "যত আমাৰ মনটো [overlap] বহি যাব তাৰপৰা আমি বোলে কেতিয়াও মানে এৰিব নোৱাৰিম।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 375.865,
+            "end": 383.144,
+            "speakerSeqId": 1,
+            "transcription": "মানে এটা জাগাত মই গৈছিলো, সেইটো জাগা আছিল বোম্বাই। বোম্বাইত যাই কিনে কি হৈছিল জানানে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 383.144,
+            "end": 387.447,
+            "speakerSeqId": 1,
+            "transcription": "মই গৈছিলো (()) লঞ্চত। লঞ্চত যাই কিনে মই ভিউটো যে চাইছো না।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 387.447,
+            "end": 401.65,
+            "speakerSeqId": 1,
+            "transcription": "ভিউটো [overlap] এনেকুৱা ধুনীয়া লাগি আছিল যে বেলিটো আছিল যে বেলিটো ডুবোং ডুবোং অৱস্থাত এটা যে ভিউ আছেনা [overlap] সেই ভিউটো দেখি কিনে ইমান ভাল লাগি আছিল মই তাৰ পৰাই বহুত ফটো-চটো উঠিছো আৰু ভিউ~ভিউটো মই ভিডিও-চিডিও কৰিছো। এতিয়ালৈকে মোৰ মোবাইলত আছে, সেইবিলাক জাগাবিলাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 401.65,
+            "end": 403.819,
+            "speakerSeqId": 1,
+            "transcription": "ঘূৰি-ফিনি এনেকুৱা ভাল লাগিছিল।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 403.819,
+            "end": 416.739,
+            "speakerSeqId": 1,
+            "transcription": "মানে এইবিলাক মই এতিয়া কৈ আছো মনে মোৰ (()) সন্মুখতে পৰি আছে এনেকুৱা লাগি আছে (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 416.739,
+            "end": 436.878,
+            "speakerSeqId": 1,
+            "transcription": "(()) তুমি কোনো জাগাত যোৱা নাই এতিয়া?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 436.878,
+            "end": 442.612,
+            "speakerSeqId": 2,
+            "transcription": "মই বাৰু বেলেগ জাগাত [noise] যোৱা নাই আৰু, মই আৰু ওচৰে-পাজৰে থাকো আৰু।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 442.612,
+            "end": 450.391,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো মানে যাবলগীয়া কি আছে আজি~আজিকালি ইণ্টাৰনেটৰ যোগেদি মোবাইলত আমি চাব পাৰো নহয়। এইটো যাবলগীয়া একো নাই, হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 450.391,
+            "end": 464.878,
+            "speakerSeqId": 1,
+            "transcription": "এটা মোবাইলত চোৱা এটা বেলেগ বেপাৰ এটা নিজেৰ চকুৱেদি চোৱা চাবলৈ এটা বেলেগ বেপাৰ। আমি আজি গাওঁতে চাওঁ আজি বেলেগ #আহ কিবা কিবা সৌন্দৰ্য। যেতিয়া [overlap] বেলিটো ডুবি যায় মানে আমি ধান খেতবিলাক যে আছে ধান খেতৰ ওপৰেদি চাওঁ আমি।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 464.878,
+            "end": 483.678,
+            "speakerSeqId": 1,
+            "transcription": "ইণ্ডিয়াত [overlap] আমি কি নাপাওঁ আজিকালি। আমাৰ ইণ্ডিয়াত আছে বৰফো আছে, ৰদো আছে ফিৰ বৰষুণো আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 483.678,
+            "end": 527.712,
+            "speakerSeqId": 2,
+            "transcription": "অ প্ৰাকৃতিক (()) মানে সৌন্দৰ্যৰ বিষয় আপুনি কলে বাৰু ঠিকে আছে। সেইটো আপুনি কলে যে মই আৰু বাহিৰা দেশত মানে যোৱা নাই। মোৰ মতে সিটো মানে গাওঁ এলেকাত দেখিব লগা মানে সূৰ্যৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 527.712,
+            "end": 539.98,
+            "speakerSeqId": 2,
+            "transcription": "আদি বস্তুবিলাক আমি দেখা পাওঁ। সেইটোতো মানে দেখি কিনে আমাৰ ভাল লাগে, মনোমোহাটো ভাল লাগে। কিন্তু বাহিৰৰ দেশত নোযোৱাকৈ আমিটো ইণ্টাৰনেটৰ যোগেদি আমি চাব পাৰো, কত কি, কিমান ধুনীয়া ধুনীয়া মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 539.98,
+            "end": 542.958,
+            "speakerSeqId": 2,
+            "transcription": "বস্তু আমাৰ মানে (()) সন্মুখত মানে ভাঁহি উঠে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 542.958,
+            "end": 563.498,
+            "speakerSeqId": 2,
+            "transcription": "মানে সেইবিলাক জিনিছ মোবাইলত দেখিলে এটা বেলেগ ফিল আহে আৰু নিজেৰ চকুৱেদি দেখিলে এটা বেলেগ ফিল আহে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 563.498,
+            "end": 594.477,
+            "speakerSeqId": 2,
+            "transcription": "মই আৰু যাম আৰু ভাবিছো (()) এ~এ মাউণ্ট এভাৰেষ্ট পাহাৰৰ ওপৰত যাম।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 594.477,
+            "end": 599.431,
+            "speakerSeqId": 1,
+            "transcription": "যাব যদি আৰু ভাল কথা। গলে আৰু আপোনাৰ মনোভাৱটো আৰু ভাল হব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 599.431,
+            "end": 605.568,
+            "speakerSeqId": 2,
+            "transcription": "অ গতিকে আমাৰ সময়টো শেষ হৈ গৈছিল তাৰপিছত নেক্সট টপিক লৈ আহি~আহি [overlap] আছো আমি।"
+        }
+    ]
+}

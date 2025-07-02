@@ -1,0 +1,748 @@
+{
+    "speechMode": "C",
+    "recordingId": "20829004",
+    "speechFile": "as_SHA1P_C_r013_s055",
+    "callDuration": 611.307,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239286"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239287"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 3.018,
+            "speakerSeqId": 1,
+            "transcription": "হে'ল্ল [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 3.018,
+            "end": 4.587,
+            "speakerSeqId": 2,
+            "transcription": "হে'ল্ল কি কৰিছে এতিয়া হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 4.587,
+            "end": 10.51,
+            "speakerSeqId": 1,
+            "transcription": "[silence] মই পঢ়ি আছো তুমি কি কৰি আছা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 10.51,
+            "end": 14.459,
+            "speakerSeqId": 2,
+            "transcription": "মই পঢ়ি আছো [silence] বাকী পঢ়া হ'ল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 14.459,
+            "end": 22.964,
+            "speakerSeqId": 1,
+            "transcription": "অ'হ কোৱা [silence] নাই হোৱা তুমি কোৱা তুমি কি কি পঢ়িলা #উম [silence] কি কি পঢ়িলা কোৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 22.964,
+            "end": 27.098,
+            "speakerSeqId": 2,
+            "transcription": "এইটো পঢ়ি আছো এতিয়া [silence] এইটো এতিয়া পঢ়ি আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 27.098,
+            "end": 28.82,
+            "speakerSeqId": 1,
+            "transcription": "অ'হ অ'হ কোৱা তেতিয়াহ'লে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10008,
+            "start": 28.82,
+            "end": 30.153,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 30.153,
+            "end": 31.587,
+            "speakerSeqId": 1,
+            "transcription": "কোৱা কোৱা কি কি পঢ়িলা কোৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 31.587,
+            "end": 35.688,
+            "speakerSeqId": 2,
+            "transcription": "প্ৰবাকৈ (()) মই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 35.688,
+            "end": 35.975,
+            "speakerSeqId": 1,
+            "transcription": "কোৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 35.975,
+            "end": 43.163,
+            "speakerSeqId": 2,
+            "transcription": "#উম [silence] তুমি কোৱাছোন মই তেতিয়ালৈকে ওলাওঁ [silence] বহীবিলাক ভিতৰত আছে ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 43.163,
+            "end": 47.028,
+            "speakerSeqId": 1,
+            "transcription": "অ'হ হয় নিকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 47.028,
+            "end": 47.332,
+            "speakerSeqId": 2,
+            "transcription": "কোৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 47.332,
+            "end": 57.862,
+            "speakerSeqId": 1,
+            "transcription": "অ'হ [silence] ৰাজনৈতিক তত্ব অধ্যয়নত আছিল [nonHumanVocal] বিশ্বভংগীসমূহৰ মাজত (()) এইটো কি শব্দ হৈ আছিল"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10016,
+            "start": 57.862,
+            "end": 57.895,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 57.895,
+            "end": 69.59,
+            "speakerSeqId": 1,
+            "transcription": "দূষ্টিভংগীসমূহৰ মূলতে [silence] এই তলত কুকুৰে ভুকি আছে [silence] ৰাজনৈতিক তত্ব অধ্যয়নৰ প্ৰাচীন দূষ্টিভংগীসমূহ ৰ মাজত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 69.59,
+            "end": 83.937,
+            "speakerSeqId": 1,
+            "transcription": "আদৰ্শ স্থাপন কাৰি দূষ্টিভংগী মূলত প্ৰধান এই দৃষ্টিভংগী আদৰ্শ আৰু মূল্যবোধৰ ওপৰত গুৰুত্ব আৰোপ কৰি সমাজ তথা জনসাধাৰণৰ কল্যান সাধানত ব্ৰতী হ'ব বিছাৰে সমাজৰ স্থা্য়িত্ব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 83.937,
+            "end": 91.831,
+            "speakerSeqId": 1,
+            "transcription": "(()) আৰু সামাজিক ন্যায় সমাজত বিভিন্ন শ্ৰেণী মাজত প্ৰতিষ্ঠা কৰাৰ উদেশ্য প্ৰয়োজনীয় ৰাজনৈতিক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 91.831,
+            "end": 107.485,
+            "speakerSeqId": 1,
+            "transcription": "লগত [silence] কাৰ্যকাৰি কৰাৰ ওপৰত গুৰুত্ব আৰোপ কৰে এই তত্বই সংগঠিত [silence] সমাজ এখনত প্ৰতিষ্ঠা কৰাৰ ক্ষেত্ৰত সমস্যাসমূহ আতঁৰ কৰি সমাজত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 107.485,
+            "end": 120.383,
+            "speakerSeqId": 1,
+            "transcription": "হে'ল্ল [silence] (()) [silence] বাতাবৰণৰ সৃষ্টি কৰিব বিছাৰে [silence] এই তত্বমূল প্ৰবক্তাসকলৰ ভিতৰত চিন্তাবিদ প্লে'তো, ৰুছো আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 120.383,
+            "end": 133.613,
+            "speakerSeqId": 1,
+            "transcription": "তেন্ত [silence] হেগেল আদি নাম উল্লেখযোগ্য উদাহৰণস্বৰুপে প্লে'টো আৰু ৰুছো আদি দাৰ্শনিকৰ স্থাপনকাৰি তত্ব অন্তৰ্ভুক্ত কৰিব পাৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 133.613,
+            "end": 140.853,
+            "speakerSeqId": 1,
+            "transcription": "তাৰপিছত [silence] আদৰ্শ স্থাপন কাৰি তত্ব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 140.853,
+            "end": 155.669,
+            "speakerSeqId": 1,
+            "transcription": "সমৰ্থকসকলে মানুহৰ [babble] সমাজত থকা নৈতিক প্ৰশ্ন প্ৰমূল্যবোধৰ ওপৰত আত্যাধিক গুৰুত্ব আৰোপ কৰে [silence] তেওঁলোকে বিশেষ সংস্কাৰক ভূমিকা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 155.669,
+            "end": 166.604,
+            "speakerSeqId": 1,
+            "transcription": "গ্ৰহন কৰি মানৱ সমাজতে সন্মুখীন হোৱা সমস্যাসমূহ অতিক্ৰম [babble] কৰিব পৰাকৈ একোটা পদ দেখুৱাই দিবলৈ বিছৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 166.604,
+            "end": 180.965,
+            "speakerSeqId": 1,
+            "transcription": "বিছৰা [silence] এই তত্ব পৃষ্ঠপোষকতা সকলে পুনৰ এক ৰাজনৈতিক ব্যৱস্থা [silence] তত্ব ওপৰত গুৰুত্ব আৰোপ কৰি ৰাজনৈতিক মোলিক সমস্যাসমূহৰ পদদ্বতিগত আলোচনা হোৱাটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 180.965,
+            "end": 192.237,
+            "speakerSeqId": 1,
+            "transcription": "উচিত বুলিব পাৰে [silence] সমূহৰ পদদ্বতিগত [silence] উচিত বুলিব পাৰে এই তত্ব মানুহৰ মাজত [babble] অসমতা স্বতন্ত্ৰতা অধিকাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 192.237,
+            "end": 200.945,
+            "speakerSeqId": 1,
+            "transcription": "ন্যায় সহযোগিতা শান্তি আদি কিছুমান আদৰ্শ আৰু মূল্যবোধৰ ওপৰত গুৰুত্ব আৰোপ কৰি ৰাষ্ট্ৰীয় অধ্যয়নৰ হোৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 200.945,
+            "end": 214.073,
+            "speakerSeqId": 1,
+            "transcription": "উচিত বুলি বিবেচনা কৰে এনে আদৰ্শসমূহ বাস্তবত ৰুপায়ন কৰাতো ৰাজনৈতিক কৰ্তব্য আদৰ্শ স্থাপনকাৰি দৃষ্টিভংগী মূল উদেশ্য হ'ল ৰাষ্ট্ৰীয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 214.073,
+            "end": 223.709,
+            "speakerSeqId": 1,
+            "transcription": "লক্ষ্য সম্পৰ্কে প্ৰণালীবদ্ধ চিন্তা-চৰ্চা কৰা [silence] আদৰ্শ স্থাপনকাৰি তত্বই পুনৰ এক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 223.709,
+            "end": 239.599,
+            "speakerSeqId": 1,
+            "transcription": "অশুচ [silence] সামাজিক তথা ৰাজনৈতিক অৱস্থা এক পুৰ্নতা লাভ কৰাৰ ওপৰত ভিত্তি কৰি ৰাষ্ট্ৰৰ প্ৰকৃত আৰু কাৰ্যৱালী নিধাৰণ কৰে উদাহৰণস্বৰুপে দাৰ্শনিক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 239.599,
+            "end": 250.996,
+            "speakerSeqId": 1,
+            "transcription": "যাৰ শাসনত ব্যৱহাৰ ব্যৱস্থা কৰি প্লে'তোৱে এখন আদৰ্শ ৰাষ্ট্ৰ প্ৰতিষ্টিত কল্পনা কৰিছিল [silence] ৰুছেৱে সাধাৰণ এখন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 250.996,
+            "end": 264.007,
+            "speakerSeqId": 1,
+            "transcription": "ধাৰণা [silence] পোষকতা কৰিছিল মহাত্মা গান্ধীয়ে ৰাম ৰাজ্য স্থাপন [silence] ধাৰণা আগবঢ়াইছিল কাল মাক্সএ শ্ৰেণী বিহিত আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 264.007,
+            "end": 270.875,
+            "speakerSeqId": 1,
+            "transcription": "ৰাষ্ট্ৰীয় বিহি আদৰ্শ সমাজত ধাৰণা প্ৰস্তত কৰিছিল গতিকে দেখা যায় যে (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 270.875,
+            "end": 285.094,
+            "speakerSeqId": 1,
+            "transcription": "ৰাজনৈতিক দৃষ্টিভংগী মূলত যুক্ত আৰু বিধানমূলক এই দৃষ্টিভংগীয়ে কোনো এটা প্ৰচলিত ব্যৱস্থাত কেনেধৰণৰ হোৱা উচিত সেই বিষয়ে সাধাৰন ধাৰণা ওপৰত ভিত্তি কৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 285.094,
+            "end": 297.993,
+            "speakerSeqId": 1,
+            "transcription": "এই সিদ্বান্ত আগবঢ়াই [silence] ই হ'ল সভ্যতা বিচাৰ কৰা পৰিবৰ্তে শুদ্ধ নে অশুদ্ধ সেই বিষয়ে দক্ষ নিধাৰণ কৰে এনেদৰে আদৰ্শ স্থাপন কৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 297.993,
+            "end": 308.168,
+            "speakerSeqId": 1,
+            "transcription": "দৃষ্টিভংগীয়ে ৰাজনৈতিক চিন্তাধাৰা এক পূৰ্ণতা লাভ কৰাত আদৰ্শ উপনিত হোৱা মত পোষক কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 308.168,
+            "end": 317.264,
+            "speakerSeqId": 1,
+            "transcription": "অভিঞ্জতাবাদী দৃষ্টিভংগী ৰাজনৈতিক তত্ব চিন্তাবিদসকলে প্ৰাচীন কালৰে পৰা কুৰি শতিকা আগলৈকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 317.264,
+            "end": 328.823,
+            "speakerSeqId": 1,
+            "transcription": "প্ৰচলন হৈ থকা আদৰ্শ স্থাপন কাৰি দৃষ্টিভংগী পৰা আতঁৰি আহি অভিঞ্জতাবাদী ব্যাখা কৰিছে অভিঞ্জতাবাদী চিন্তাবিদসকলৰ [overlap] মতে [silence] #উম কোৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 328.823,
+            "end": 331.27,
+            "speakerSeqId": 2,
+            "transcription": "এই উনিত টো [overlap] দৃষ্টিভংগীটোৱে পৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 331.27,
+            "end": 334.477,
+            "speakerSeqId": 1,
+            "transcription": "অহ'"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 334.477,
+            "end": 336.637,
+            "speakerSeqId": 2,
+            "transcription": "(()) দৃষ্টিভংগীটো হ'ল তোমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 336.637,
+            "end": 342.138,
+            "speakerSeqId": 1,
+            "transcription": "অহ' হোৱা নাই মই পঢ়ি আছো এতিয়াও কমপ্লিট হোৱা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 342.138,
+            "end": 342.948,
+            "speakerSeqId": 2,
+            "transcription": "ইমান ডাঙৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 342.948,
+            "end": 349.63,
+            "speakerSeqId": 1,
+            "transcription": "বহুত ডাঙৰ [silence] বহুত বহুত ডাঙৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 349.63,
+            "end": 355.452,
+            "speakerSeqId": 2,
+            "transcription": "দৃষ্টিভংগীটোৱে ইমান ডাঙৰ [silence] #উম তাৰপিছত কোনতো পঢ়িবা তুমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 355.452,
+            "end": 363.383,
+            "speakerSeqId": 1,
+            "transcription": "দৃষ্টিভংগী ভিতৰতে চব কিছু আছে তু দৃষ্টিভংগীখিনি পঢ়িলে চব হৈ যাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 363.383,
+            "end": 368.024,
+            "speakerSeqId": 2,
+            "transcription": "তাৰপিছত যে এইবিলাক আছে [silence] এইবিলাক নপঢ়িবা ঐতিহাসিক দৃষ্টিভংগী"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 368.024,
+            "end": 372.462,
+            "speakerSeqId": 1,
+            "transcription": "সিবিলাকেতো দৃষ্টিভংগীৰ ভিতৰত আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 372.462,
+            "end": 378.487,
+            "speakerSeqId": 2,
+            "transcription": "অ'হ সেইবিলাক ঐতিহাসিক দৃষ্টিভংগী তাৰপিছত [silence] অভিঞ্জতাবাদি বিলাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 378.487,
+            "end": 383.667,
+            "speakerSeqId": 1,
+            "transcription": "অ'হ সেইবিলাক দৃষ্টিভংগী চব দৃষ্টিভংগী ভিতৰত আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 383.667,
+            "end": 392.527,
+            "speakerSeqId": 2,
+            "transcription": "তাৰপিছত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 392.527,
+            "end": 398.517,
+            "speakerSeqId": 1,
+            "transcription": "ৰাজনৈতিক তত্ব সমসমায়িক দৃষ্টি নহয় সিতো ইয়াতে আছে চাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 398.517,
+            "end": 401.032,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] কিবা ভালকে পঢ়িব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 401.032,
+            "end": 405.689,
+            "speakerSeqId": 1,
+            "transcription": "নাৰিবাদ সিবিলাক ইয়াত নাই সিবিলাক বেলেগ টপিক হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 405.689,
+            "end": 419.24,
+            "speakerSeqId": 2,
+            "transcription": "ঠিক আছে তেতিয়াহ'লে তুমি দৃষ্টিভংগী [silence] যিমানখিনি আছে সিমানখিনি পঢ়ি লোৱা [silence] আৰু মই [silence] তেন্তে হৈছে উনিট থ্ৰি যে গণতন্ত্ৰ আছে ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 419.24,
+            "end": 434.714,
+            "speakerSeqId": 2,
+            "transcription": "গণতন্ত্ৰ ঐতিহাসিক (()) [silence] অহ' এইটো মই কৰিম [silence] আৰু সিটো মই কৰিম কাৰ্যপদ্ধতি বা প্ৰক্ৰিয়া গত গণতন্ত্ৰটো মই কৰিম মানে মই উনিতো মই পঢ়িম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 434.714,
+            "end": 436.351,
+            "speakerSeqId": 2,
+            "transcription": "শুনিছা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 436.351,
+            "end": 439.507,
+            "speakerSeqId": 1,
+            "transcription": "অহ' উনিত থ্ৰিটো গনতন্ত্ৰ ন'"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 439.507,
+            "end": 453.074,
+            "speakerSeqId": 2,
+            "transcription": "এইটো মই পঢ়িম [silence] আৰু উনিত ওৱানৰ এইযে ৰাজনিতিতত্ব গোটেইখিনি পঢ়িলো [silence] তুমি এতিয়া ৰাজনিতি তত্ব এইখিনি পঢ়িবা অৰ্ধপ্ৰকৃতি পৰিসৰটো আছে ন'"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 453.074,
+            "end": 465.275,
+            "speakerSeqId": 2,
+            "transcription": "#আহ #উহ অৰ্থ তো তুমি পঢ়িছা চাগে চাইছা [silence] অৰ্থ প্ৰকৃতি পৰিসৰ #উম মানে চাগে গোটেইখিনি লগ হৈ হ'ব তাৰ এবাৰ ইণ্টাৰনেটত চাবা আৰু যে সেই ৰাজনিতি তত্ব পৰম্পৰাসমৃহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 465.275,
+            "end": 478.808,
+            "speakerSeqId": 2,
+            "transcription": "উদাৰতাবাদ মাৰ্ক্সবাদ আৰু ইটো তোমাৰ তাত লিখা আছে চগে [silence] #উহ কিবা চাব লাগিব এইটো লিখা নাই যদি কিতাপত আছে সেইখিনি পঢ়িবা বুজিছা [silence] এতিয়া দৃষ্টিভংগীৰ আছে যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 478.808,
+            "end": 492.275,
+            "speakerSeqId": 2,
+            "transcription": "(()) [silence] দৃষ্টিভংগীটো হ'লে [silence] তুমি এইখিনি পঢ়িবা এই যে এই তিনিতা পঢ়িবা উদাৰতাবাদ মাক্সবাদ আৰু ৰক্ষণশীলতাবাদ [silence] #উম মোক কবা মই তোমাক দি দিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 492.275,
+            "end": 497.118,
+            "speakerSeqId": 2,
+            "transcription": "কিতাপত আছে [silence] তেন্তে মই এতিয়া উনিত থ্ৰিটো পঢ়ো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 497.118,
+            "end": 499.936,
+            "speakerSeqId": 1,
+            "transcription": "[silence] অ'হ পঢ়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 499.936,
+            "end": 501.961,
+            "speakerSeqId": 2,
+            "transcription": "য়াহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 501.961,
+            "end": 505.353,
+            "speakerSeqId": 1,
+            "transcription": "#উম পঢ়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 505.353,
+            "end": 507.682,
+            "speakerSeqId": 2,
+            "transcription": "তুমি পঢ়ি থাকা অ'হ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 507.682,
+            "end": 513.74,
+            "speakerSeqId": 1,
+            "transcription": "তুমি পঢ়া মোৰ ইয়াতে আৰু ন'টছ নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 513.74,
+            "end": 516.541,
+            "speakerSeqId": 2,
+            "transcription": "ন'টছ নাই মানে তোমাৰ হ'ল নেকি দৃষ্টিভংগীৰ গতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 516.541,
+            "end": 521.249,
+            "speakerSeqId": 1,
+            "transcription": "হোৱা নাই মই অকল পঢ়িলোহে মুখস্থ হোৱা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 521.249,
+            "end": 523.409,
+            "speakerSeqId": 2,
+            "transcription": "তোমাৰ মুখস্থ হোৱা নাই মুখস্থ কৰা তেন্তে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 523.409,
+            "end": 527.408,
+            "speakerSeqId": 1,
+            "transcription": "মুখস্থ কৰি আহিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 527.408,
+            "end": 531.087,
+            "speakerSeqId": 2,
+            "transcription": "অভিগতাবাদটো দৃষ্টিভংগীৰে এটা ভাগ ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 531.087,
+            "end": 535.137,
+            "speakerSeqId": 1,
+            "transcription": "অভিগতাবাদী দৃষ্টিভংগী হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 535.137,
+            "end": 536.774,
+            "speakerSeqId": 2,
+            "transcription": "এইটো কৰাছোন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 536.774,
+            "end": 544.874,
+            "speakerSeqId": 1,
+            "transcription": "#উম [silence] অভিঞ্জতা ৰাজনৈতিক তত্ত্ব চিন্তাবিদসকলে পোৱা (()) কুৰি শতিকা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 544.874,
+            "end": 547.203,
+            "speakerSeqId": 2,
+            "transcription": "মই শুনিম শুনি শুনি মোৰো মুখস্থ হ'ব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 547.203,
+            "end": 562.036,
+            "speakerSeqId": 1,
+            "transcription": "#উহ [silence] ৰাজনৈতিক তত্ব চিন্তাবিদসকলে প্ৰাচীন কালৰে পৰা কুৰি শতিকা আগলৈকে প্ৰচলন হৈ থকা আদৰ্শ স্থাপন কৰি দৃষ্টিভংগী পৰা আতঁৰি আহি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 562.036,
+            "end": 564.702,
+            "speakerSeqId": 1,
+            "transcription": "অভিঞ্জতাবাদী দৃষ্টিভংগী ব্যাখা কৰিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10081,
+            "start": 564.702,
+            "end": 565.799,
+            "speakerSeqId": 2,
+            "transcription": "(()) সহজ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 565.799,
+            "end": 570.929,
+            "speakerSeqId": 1,
+            "transcription": "কিবা ইম বুজি পালে সহজ নাপালে টান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10083,
+            "start": 570.929,
+            "end": 573.359,
+            "speakerSeqId": 2,
+            "transcription": "কেনেকুৱা লাগিছে টান লাগিছে নে সহজ লাগিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10084,
+            "start": 573.359,
+            "end": 577.46,
+            "speakerSeqId": 1,
+            "transcription": "#উম মোকতো একোৱে টান নালাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 577.46,
+            "end": 578.59,
+            "speakerSeqId": 2,
+            "transcription": "(()) জিনিয়াছ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10086,
+            "start": 578.59,
+            "end": 582.505,
+            "speakerSeqId": 1,
+            "transcription": "অহ' সেইটো তো হয় এ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10087,
+            "start": 582.505,
+            "end": 583.957,
+            "speakerSeqId": 2,
+            "transcription": "#উম #উম দিয়া পঢ়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10088,
+            "start": 583.957,
+            "end": 599.785,
+            "speakerSeqId": 1,
+            "transcription": "#উম [silence] ৰাজনৈতিক তত্ব চিন্তাবিদ সকলে প্ৰাচীন কালৰ পৰা কুৰি শতিকা আগলৈকে প্ৰচলন কৰা আদৰ্শ স্থাপনকাৰি দৃষ্টিভংগীৰ পৰা আতঁৰি আহি [silence] অভিঞ্জতা দৃষ্টিভংগী পৰা আতঁৰি আহি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10089,
+            "start": 599.785,
+            "end": 600.95,
+            "speakerSeqId": 1,
+            "transcription": "ৰ'বা হা মই আহি আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10090,
+            "start": 600.95,
+            "end": 601.203,
+            "speakerSeqId": 2,
+            "transcription": "আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10091,
+            "start": 601.203,
+            "end": 611.307,
+            "speakerSeqId": 1,
+            "transcription": "অহ' যোৱা"
+        }
+    ]
+}

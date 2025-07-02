@@ -1,0 +1,652 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826162",
+    "speechFile": "as_SHA1P_C_r013_s028",
+    "callDuration": 636.011,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0238053"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0238054"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 6.072,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে আজি আমাৰ মাজত উপস্থিত আছে অৰুপ মহন্ত গতিকে আপোনাৰ খৱৰ কেনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 6.072,
+            "end": 10.072,
+            "speakerSeqId": 2,
+            "transcription": "খৱৰ ভাল আ আপ আপোনাৰ খৱৰ কেনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 10.072,
+            "end": 22.508,
+            "speakerSeqId": 1,
+            "transcription": "আছো ভালেই আছো গতিকে আজি আমাৰ হাতত বেছি সময় নাই সময় মাত্ৰ দহ মিনিট গতিকে আমি আজি আমি এতিয়া আমাৰ বিষয়টো আমি আৰম্ভ কৰি দিম গতিকে আজি আমাৰ বিষয়টো মানে শিক্ষা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 22.508,
+            "end": 35.03,
+            "speakerSeqId": 1,
+            "transcription": "শিক্ষাৰ কথা কবলৈ গলে শিক্ষাৰ গ্ৰহণ কৰাটো শিক্ষা আহৰণ কৰাটো আমাৰ অতিকৈ প্ৰয়োজন অতিকৈ গুৰুত্বপূৰ্ণ এক এটা বস্তু কিয়নো আমি শিক্ষা অবিহনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 35.03,
+            "end": 41.78,
+            "speakerSeqId": 1,
+            "transcription": "আমি [overlap] ক ক কবলৈ গলে আমি জীয়াই থাকিবই নোৱাৰিম [silence] কিয়নো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 41.78,
+            "end": 52.968,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] যেতিয়া এটা সমাজত বসবাস কৰিম সমাজৰ কিছুমান সমাজত বসবাস কৰিবলৈ এটা আমাক সমাজৰ কিছুমান নীতি নিয়ম আছে সেইবিলাক মানি চলিব লাগিব"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10007,
+            "start": 52.968,
+            "end": 53.525,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 53.525,
+            "end": 57.608,
+            "speakerSeqId": 1,
+            "transcription": "এইবিলাক নীতি নিয়ম আমাৰ অৱলম্বন কৰিবলৈ হলে আমাৰ শিক্ষা লাগিব"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10009,
+            "start": 57.608,
+            "end": 59.296,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 59.296,
+            "end": 59.988,
+            "speakerSeqId": 1,
+            "transcription": "[noise] কথাটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 59.988,
+            "end": 61.54,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 61.54,
+            "end": 70.805,
+            "speakerSeqId": 1,
+            "transcription": "আৰু শিক্ষা ব্যবস্থাটো এনেকুৱা এটা মানে শিক্ষা ব্যৱস্থা আজিকালি আৰু দেখা যায় যে আমাৰ সকলো গাৱত আমাৰ প্ৰাথমিক শিক্ষা খিনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 70.805,
+            "end": 76.39,
+            "speakerSeqId": 1,
+            "transcription": "মানে প্ৰাথমিক বিদ্য়ালয় যিখিনি প্ৰাথমিক শিক্ষা আমাৰ এইবিলাক কিন্তু সকলো গাৱতে আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 76.39,
+            "end": 77.977,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 77.977,
+            "end": 92.472,
+            "speakerSeqId": 1,
+            "transcription": "হয় নে নহয় হয় আৰু ইমান খিনি সুবিধা থকাৰ পাছতো যদি ইমান চকাৰৰ পৰাটো আমাক সা সুবিধা দিয়ে আছে শিক্ষা গ্ৰহণ কৰাৰ বাবে সেইকাৰণে আমাৰ [overlap] শিক্ষা গ্ৰহন কৰাটো আমাৰ প্ৰয়োজন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 92.472,
+            "end": 96.775,
+            "speakerSeqId": 1,
+            "transcription": "আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 96.775,
+            "end": 97.703,
+            "speakerSeqId": 2,
+            "transcription": "অতিকৈ প্ৰয়োজন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 97.703,
+            "end": 109.077,
+            "speakerSeqId": 1,
+            "transcription": "অতি অতিকৈ প্ৰয়োজন আৰু দেখা যায় যে দেখা যায় মানে কি এটা কথাত মই কৈ দিও যে শিক্ষা কি জানা শিক্ষা হল আমাৰ জীৱন ব্যাপি চলা প্ৰক্ৰিয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 109.077,
+            "end": 119.152,
+            "speakerSeqId": 1,
+            "transcription": "এজন এটা শিশুৰ [overlap] জন্ম পৰা মৃত্যু আগ পৰ্যন্ত আগ পৰ্যন্ত আমাৰ শিক্ষা খিনি গ্ৰহণ কৰি থাকিব লাগে শিক্ষা শেষ নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 119.152,
+            "end": 121.717,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 121.717,
+            "end": 135.638,
+            "speakerSeqId": 1,
+            "transcription": "ইয়াত বিভিন্ন ধৰণৰ শিক্ষা আছে ঘৰুৱা শিক্ষা আছে সামাজিক শিক্ষা আছে ৰাজনৈতিক শিক্ষা আছে আমাৰ আনুস্থানিক শিক্ষা আছে অগতানুগতিক শিক্ষা আছে অনুপচাৰিক শিক্ষা আছে হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 135.638,
+            "end": 146.236,
+            "speakerSeqId": 1,
+            "transcription": "শিক্ষা শেষ নহয় [noise] আৰু আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 146.236,
+            "end": 162.436,
+            "speakerSeqId": 1,
+            "transcription": "[nonHumanVocal] শিক্ষা ব্যৱস্থাতো আমাৰ যেতিয়া উচ্চ শিক্ষা আমাৰ গাৱলীয়া বিলাকৰ দেখা যায় যে ইমান উচ্চ চিক্ষা আছে আজিকালি দেখা পোৱা নাজায় কিন্তু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 162.436,
+            "end": 162.79,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 162.79,
+            "end": 176.847,
+            "speakerSeqId": 1,
+            "transcription": "[nonHumanVocal] আমাৰ যিখিনি জীৱনৰ মূল জীৱনৰ শিক্ষা উপয়ুক্ত খিনি যিখিনি শিক্ষা হয় সেইখিনি কিন্তু আমাৰ গাৱতে থাকে মানে সকলো গাৱতে আজিকালি প্ৰাথমিক বিদ্য়ালয় দেখা পোৱা যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 176.847,
+            "end": 178.6,
+            "speakerSeqId": 1,
+            "transcription": "[nonHumanVocal] হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 178.6,
+            "end": 189.908,
+            "speakerSeqId": 2,
+            "transcription": "অসম চৰকাৰেটো বিভিন্ন ধৰনৰ সা সা সুবিধা দি দি আছে শি [overlap] এই শিক্ষাৰ কাৰণে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10028,
+            "start": 189.908,
+            "end": 190.31,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10029,
+            "start": 190.31,
+            "end": 190.659,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10030,
+            "start": 190.659,
+            "end": 190.685,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 190.685,
+            "end": 198.312,
+            "speakerSeqId": 2,
+            "transcription": "[noise] দুপৰীয়া আহাৰ বিনামূলীয়াকৈ দিছে কিতাপ পত্ৰ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 198.312,
+            "end": 212.605,
+            "speakerSeqId": 1,
+            "transcription": "কিতাপ পত্ৰ বিনামূলীয়া দিছে বিদ্য়ালয়ৰ [overlap] মাচুল একেবাৰে বিনামূলীয়া বিদ্য়ালয়ত #উম একো মাচুল ভৰিব নালাগে মাচুল ভৰিব নালাগে আৰু আমাক মানে ভাল এটা [overlap] আমাক টকাও দিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 212.605,
+            "end": 225.785,
+            "speakerSeqId": 1,
+            "transcription": "#উম বিদ্য়ালয়ৰ আনুস্থানিক পোছাক যিখিনি পোছাক যিখিনি সেইখিনিও বিনামূলীয়াকৈ দি দিয়ে হয় হয় গতিকে চৰকাৰে যদি ইমান খিনি সুবিধা আগবঢ়োৱাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 225.785,
+            "end": 232.72,
+            "speakerSeqId": 1,
+            "transcription": "পিছতো যদি আমি শিক্ষা খিনি আহৰণ নকৰো তেনেহলে আমাৰ মাজত আমাৰ মতন মানে মূৰ্খামীৰ কাম আৰু একো নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 232.72,
+            "end": 248.026,
+            "speakerSeqId": 1,
+            "transcription": "হয় আজি আজি কালি এটা এটা বস্তু আমাৰ দেশত বা আমাৰ ৰাজ্যত বেছিকৈ প্ৰচ প্রচলন হৈ আছে সেইটো হল বাল্য বিবাহ প্রচলন যিটো সেইটো কিন্তু অতিকৈ বৃদ্ধি বেছি হৈছে হয় নে নহয় কথাটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 248.026,
+            "end": 261.323,
+            "speakerSeqId": 1,
+            "transcription": "এইটো কিহৰ কাৰণে হৈছে জানা শিক্ষা শিক্ষাৰ কাৰণে কিয়নো আমাৰ মাজত শিক্ষা নাই শিক্ষা নথকাৰ কাৰণে আমাৰ বাল্য বিবাহৰ প্ৰচলনটো বেছি হৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 261.323,
+            "end": 273.052,
+            "speakerSeqId": 1,
+            "transcription": "এটা কথা [noise] মন কৰিবলগীয়া কথা আৰু আমাৰ সমাজত দেখাই যায় প্ৰায় যেতিয়া আমি শিক্ষা গ্ৰহণ নকৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 273.052,
+            "end": 288.172,
+            "speakerSeqId": 1,
+            "transcription": "তেনেহলে টো আমি একো নীতি নিয়ম ডাঙৰক কেনেকৈ শ্ৰদ্ধা কৰিব লাগে সৰুক কেনেকৈ মৰম কৰিম লাগে সমাজৰ নীতি নিয়ম সমুহ মানি চলিব লাগে [overlap] ভাল ব্যৱহাৰ আমি কেনেকৈ কৰিব লাগে সেইটো কিন্তু আমি বুজি নাপাও"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 288.172,
+            "end": 301.857,
+            "speakerSeqId": 1,
+            "transcription": "হয় যেতিয়া আমি নিজে বুজি নাপাম ভৱিষ্যতে আমাৰ লৰা ছোৱালী হব হয় লৰা ছোৱালীক আমি কেনেকৈ ভাল উপদেশ উপদেশ দিম কিয়নো আমি নিজেই"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10040,
+            "start": 301.857,
+            "end": 301.874,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 301.874,
+            "end": 314.345,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় মই যদি এটা বস্তু যদি মই নিজেই নাজানো সেইটো আমাৰ লৰা ছোৱালীক কেনেকৈ আমি উপদেশ দিব পাৰিম তেনেহলে কি হব আমাৰ লৰা ছোৱালী বিলাকো কি হব মূৰ্খ হৈ থাকিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 314.345,
+            "end": 328.233,
+            "speakerSeqId": 1,
+            "transcription": "হয় ভাল আচৰণ কৰিব নোৱাৰিব নীতি নিয়ম মানি চলিব নোৱাৰিব ডাঙৰক শ্ৰদ্ধা কৰিব নোৱাৰিব সৰুক মৰম কৰিব নাজানিব [silence] হয় নে নহয় কথাটো হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 328.233,
+            "end": 336.232,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া তেওলোকেও যেতিয়া মূৰ্খ হৈ থাকিব ভৱিষ্যতে ভৱিষ্যত প্ৰজন্মত তেওলোকৰ [overlap] লৰা ছোৱালী এনেকৈয়ে থাকিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 336.232,
+            "end": 337.649,
+            "speakerSeqId": 2,
+            "transcription": "যিবিলাক [noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10045,
+            "start": 337.649,
+            "end": 337.666,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 337.666,
+            "end": 340.417,
+            "speakerSeqId": 2,
+            "transcription": "তাৰপিছত যিবিলাক প্ৰজন্ম আহিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 340.417,
+            "end": 351.875,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় এনেকৈ কি হব আমাৰ সমাজ খন আমাৰ ৰাজ্য খন পিছ যাব মূৰ্খৰ হাৰটো [overlap] শিক্ষিতৰ হাৰ বিলাক কমি যাব সেইটো টো হয় কমি যাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 351.875,
+            "end": 358.27,
+            "speakerSeqId": 1,
+            "transcription": "শিক্ষাৰ শিক্ষিতাৰ হাৰ কমিব আৰু নিৰক্ষৰতাৰ সাৰ বেছি বৃদ্ধি পাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 358.27,
+            "end": 372.952,
+            "speakerSeqId": 2,
+            "transcription": "বৃদ্ধি পাব হয় [noise] আৰু তাৰলগতে দেখা যায় যে সৰু সৰু মানে সৰু সৰু কি বিলাকে লৰা বিলাকে তমটম চলাই আছে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10050,
+            "start": 372.952,
+            "end": 373.154,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 373.154,
+            "end": 376.073,
+            "speakerSeqId": 2,
+            "transcription": "হয় কম [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 376.073,
+            "end": 389.962,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় [babble] এইটো কি হৈছে মানে তেওলোকে ভাবে যে মই ইমান কম বয়সত মানে মই তমটম চলাই আছো বা কিবা কাম কৰি আছো বা কেই টকা উপাৰ্জন কৰি তেওলোকে ভাবে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 389.962,
+            "end": 401.555,
+            "speakerSeqId": 1,
+            "transcription": "ভাবি আছে যে মই টো টকা পাইছো উপাৰ্জন কৰি আছো মোৰ দিন ভালেই গৈ আছে কিন্তু ভৱিষ্যতত গৈ যে তেওলোকৰ বহুতো সমস্যাৰ সম্মুখীন হব লগা হব সেইটো তেওলোকে বুজি নাপাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 401.555,
+            "end": 403.141,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 403.141,
+            "end": 418.109,
+            "speakerSeqId": 1,
+            "transcription": "আজি মই আজি মোৰ বয়স হোৱাই নাই এটা তমটম চলাব চলাবলৈ গলেও কিন্তু আমাৰ উপযুক্ত শিক্ষা লাগিব ৰাস্তাৰ কোন ফালেৰে যাব লাগিব কত কেনেকৈ চলাব লাগিব কত কিমান গতিত চলাব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 418.109,
+            "end": 420.64,
+            "speakerSeqId": 1,
+            "transcription": "এইটো জানো তেওলোকে বুজি নাপায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 420.64,
+            "end": 428.504,
+            "speakerSeqId": 2,
+            "transcription": "অ [silence] সেইকাৰণেটো দুৰ্ঘটনা বিলাক বে বেছি হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 428.504,
+            "end": 442.493,
+            "speakerSeqId": 1,
+            "transcription": "হয় [silence] আৰু শিক্ষা কবলৈ গলে মই এটা কথা আগতে কলো যে শিক্ষা অবিহনে আমি জীৱনকণ আমাৰ জীৱনকণ মানে মানে আমি জীয়াই থাকিবই নোৱাৰো কেনেকৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 442.493,
+            "end": 444.822,
+            "speakerSeqId": 1,
+            "transcription": "ভৱিষ্যতত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 444.822,
+            "end": 445.733,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 445.733,
+            "end": 458.238,
+            "speakerSeqId": 1,
+            "transcription": "মোৰ মোৰ জীৱন কন জীৱন যাপন কৰিবলৈ হলে মোৰ কিবা না কিবা এটা কৰ্ম কৰি খাব লাগিব মই যিকোনো কৰ্ম নকৰো #উম কিন্তু মই যদি এটা দোকান দিও তাতেও মোৰ শিক্ষা লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 458.238,
+            "end": 469.831,
+            "speakerSeqId": 1,
+            "transcription": "হয় [silence] কিয়নো দোকানত বহুতো হিচাপ পাতি থাকে [silence] হয় হিচাপ পাতি কৰিবলৈ হলে আমাক শিক্ষা লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 469.831,
+            "end": 483.922,
+            "speakerSeqId": 1,
+            "transcription": "আৰু দোকান দোকানত যিবিলাক গ্ৰাহক আহিব [babble] সেইবিলাকৰ লগত আমি আমাৰ ভাল ব্যৱহাৰ কৰিব লাগিব আৰু ভাল ব্যৱহাৰ কৰিবলৈ হলে আমাৰ শিক্ষা লাগিব শিক্ষাৰ [overlap] অৱিহনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 483.922,
+            "end": 485.727,
+            "speakerSeqId": 1,
+            "transcription": "তাক ভাল ব্যৱহাৰ কৰিব নোৱাৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 485.727,
+            "end": 491.667,
+            "speakerSeqId": 2,
+            "transcription": "শিক্ষা অৱহিনে আমি একোৱেই কৰিব নোৱাৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 491.667,
+            "end": 506.753,
+            "speakerSeqId": 1,
+            "transcription": "হয় কথাটো আৰু অকল জানা নে নাই অকল দোকানেই নহয় যেনেকুৱা ধৰা কৃষি কাৰ্য কৃষি কাৰ্য কৰিব কিন্তু আমাৰ শিক্ষাৰ প্ৰয়োজন আছে হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 506.753,
+            "end": 520.338,
+            "speakerSeqId": 1,
+            "transcription": "আৰু মাটি টো মাটি খিনি চাব লাগিব মাটি খিনি কেনেকুৱা তাত কি খেতি ভাল হব সেইটো বুজিব লাগিব কিমান খিনি সাৰ প্ৰয়োগ কৰিব লাগিব জৈৱিক সাৰ প্ৰয়োগ কৰিলে ভাল হব নে ৰাসায়নিক সাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 520.338,
+            "end": 525.721,
+            "speakerSeqId": 1,
+            "transcription": "এইবিলাক মানে ভাল বেয়াৰ বিবেচনা কৰিব পৰাকৈ শিক্ষা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 525.721,
+            "end": 538.023,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় [noise] সেইবিলাক ভালকে জানি জানিব লাগিব জানিব লাগিব বুজিব লাগিব হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10070,
+            "start": 538.023,
+            "end": 538.647,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10071,
+            "start": 538.647,
+            "end": 538.715,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 538.715,
+            "end": 552.08,
+            "speakerSeqId": 1,
+            "transcription": "মই যদি মোৰ লৰা ছোৱালী বিলাকক ভালকে পঢ়া শুনা কৰাও যেতিয়া মাধ্য়মিক উত্তীৰ্ণ কৰিব ভাল ফলাফল কৰি তেতিয়া কিন্তু [silence] মোৰ মনত এটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 552.08,
+            "end": 565.681,
+            "speakerSeqId": 1,
+            "transcription": "আশা বাঢ়িব যে বা মোৰ লৰা ছোৱালী বিলাক ইমান লৰা বা ছোৱালী ইমান ভাল ফলাফল কৰিছে মই তাক এতিয়াই বিয়া পাতি নিদিও অলপ আৰু পঢ়াম যাতে উচ্চতৰ মাধ্য়মিক উত্তীৰ্ণ কৰিব পাৰে ভাল ফলাফল কৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 565.681,
+            "end": 578.27,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়া কিন্তু আশাটো আৰু বাঢ়ি যাব কিয়নো [overlap] যেতিয়া ভাল ফলাফল কৰিব তেতিয়া যে #এৰ আৰু উচ্চ শিক্ষাৰ দ্বাৰা মই মোৰ লৰা বা ছোৱালীক শিক্ষিত বনাম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 578.27,
+            "end": 591.179,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়া বা এতিয়া আৰু আৰু উচ্চ শিক্ষা গ্ৰহণ কৰিব তেতিয়া এটা কলেজত গৈ সেই লৰা বা ছোৱালী কিবা না কিবা হব হয়তো চাকৰি কৰিব নহলে ডক্তৰ হব নহলে ইন্জিনিয়াৰ হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 591.179,
+            "end": 603.363,
+            "speakerSeqId": 1,
+            "transcription": "যেতিয়া সেই লৰা বা ছোৱালী টোৱে ডক্তৰ ইন্জিনিয়াৰ বা চাকৰি কৰিব তেতিয়া কিন্তু সেই পৰিয়ালটোৱে এটা মানে সুস্থ পৰিয়াল এটা ভাল পৰিয়াল হিচাপে সমাজত গঢ়ি উঠিব পাৰিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 603.363,
+            "end": 616.981,
+            "speakerSeqId": 1,
+            "transcription": "আৰু ভৱিষ্য়ত প্ৰজন্মৰ যিবিলাক আহিব তেওলোকৰ সেইবিলাকক কিন্তু ভাল শিক্ষা দিব পাৰিব ভাল আদেশ ভাল নীতি নিয়ম সেইবিলাক কিন্তু দিব পাৰিব এনেকৈ [overlap] দিব দিব হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 616.981,
+            "end": 630.093,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ ভৱিষ্য়ত প্ৰজন্ম বিলাকৰ ভাল হব লাহে লাহে আমাৰ সমাজৰো উন্নতি হব হয় নে নহয় গতিকে সকলোৱে শিক্ষা গ্ৰহণ কৰাটো অতি প্ৰয়োজন গতিকে আজি আৰু আমাৰ হাতত সময় নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 630.093,
+            "end": 636.011,
+            "speakerSeqId": 1,
+            "transcription": "আমি ৰেকৰৰ্ডিংটো ইয়াতে বন্ধ কৰিম"
+        }
+    ]
+}

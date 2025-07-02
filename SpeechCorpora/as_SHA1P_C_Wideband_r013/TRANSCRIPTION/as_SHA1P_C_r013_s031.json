@@ -1,0 +1,548 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826168",
+    "speechFile": "as_SHA1P_C_r013_s031",
+    "callDuration": 605.973,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239048"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239049"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 6.578,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ, মোৰ লগত এজনী কাজিন আছে । [noise] বাইদেউ আপোনাৰ খবৰ চবৰ ভাল নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 6.578,
+            "end": 11.658,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়, মোৰ খবৰ চবৰ ভাল, আপোনাৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 11.658,
+            "end": 17.615,
+            "speakerSeqId": 1,
+            "transcription": "ভালে আছো । [babble] এইটো [overlap] ব্যবস্থা কৰিছে নে নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 17.615,
+            "end": 20.568,
+            "speakerSeqId": 2,
+            "transcription": "অ কৰিছো, আপোনাৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 20.568,
+            "end": 23.728,
+            "speakerSeqId": 1,
+            "transcription": "ময়ো নাস্তা কৰিলো, <lang:Foreign>leg piece</lang:Foreign> আনিছে দুটা, দুটা <lang:Foreign>leg piece</lang:Foreign> মাৰি দিলো মই ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 23.728,
+            "end": 29.461,
+            "speakerSeqId": 2,
+            "transcription": "অ <lang:Foreign>leg piece</lang:Foreign> তো মোৰো ফেভাৰেট, [overlap] আপুনি জানে নেকি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 29.461,
+            "end": 32.077,
+            "speakerSeqId": 1,
+            "transcription": "নাই, মই কেনেকে জানিম, আপুনি ক'ত আছে, মই ক'ত আছো?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 32.077,
+            "end": 39.08,
+            "speakerSeqId": 2,
+            "transcription": "অ এই সেইটো জানিব লাগিব ন কাৰ ফে~কিমান ফেভ~ফেভাৰেট বস্তু জানিব লাগিব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 39.08,
+            "end": 49.778,
+            "speakerSeqId": 1,
+            "transcription": "আপুনি এইটো ভাল বস্তু কথা কৈছে । তো আজি আমি মানে আলোচনা কৰিম [noise] যে মানে ৰাজনীতিৰ বিষয়ে অলপ আলোচনা কৰো আমি । যে মানে ৰাজনীতি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 49.778,
+            "end": 63.43,
+            "speakerSeqId": 1,
+            "transcription": "যে মানে আমাৰ আগৰ চৰকাৰ যিটো আছিল, কংগ্ৰেছ চৰকাৰে আজি এইটো [overlap] যিটো চৰকাৰ আছে, <lang:Foreign><initial>BJP</initial></lang:Foreign> চৰকাৰ, ইয়াৰ মাজত [overlap] বহুত পাৰ্থক্য আছে, হয় নে? [babble]  [overlap] মোৰ মতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 63.43,
+            "end": 75.327,
+            "speakerSeqId": 1,
+            "transcription": "যে মানে মই মানে যোনটো বস্তু জানো, মানে আগৰ চৰকাৰে মানে যি কাম কৰিছিল, আৰু এতিয়াৰ চৰকাৰে [overlap] মানে এনেকুৱা কাম বিলাক কৰা নাই । [noise] সেইকাৰণে [overlap] দেখা যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 75.327,
+            "end": 85.823,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] দেখা যায় মানে আগৰ চৰকাৰ মই আকৌ এবাৰ আহাটো (()) আৰু কি হৈছে যে যেতিয়াই মানুহে এটা ঘৰ বনাই, হয় নাই, সেই ঘৰটো বনালে মানে [overlap] যিখিনি মিস্ত্ৰী কাম কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 85.823,
+            "end": 93.013,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়া মানে ঘৰটো মানে বেলেগ [overlap] বেলেগ দিখ~বেলেগ দেখা যায়, হয় নাই? [noise] আৰু ৰং কৰাৰ পিছত [overlap] মানে ঘৰটো ধুনীয়া লাগে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 93.013,
+            "end": 108.605,
+            "speakerSeqId": 1,
+            "transcription": "তো মানে আপোনালোকৰ [overlap] কাম বিলাক কৰিছে তেনেকুৱা, মানে কাম বিলাক কৰিছে এতিয়া যিটো <lang:Foreign><initial>BJP</initial></lang:Foreign> চৰকাৰ আছে, এই চৰকাৰে কি কৰিছে মানে কাম বিলাক [overlap] (()) দি দি~দি লৈছে । তো এই মানে মানুহ বিলাকে [overlap] ভাবি আছে যে মানে এইখন চৰকাৰেই এইবিলাক কাম কৰিছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 108.605,
+            "end": 121.43,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] তো মানে আমি কি কম চৰকাৰৰ বিষয়ে? যি চৰকাৰ মানে আগৰ যিবিলাক চৰকাৰে কাম এইখিনি ভাল কাম কৰিছে, কিন্তু এতিয়াৰ চৰকাৰ আহি কিনে কি হৈছে, আমাৰ জাতিৰ ভিতৰতে লগাই দিছে । [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 121.43,
+            "end": 130.913,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] আগতে আমি মানে হিন্দু মুছলিম ভাই ভাই আছিলো, হয় নাই? [noise] আমি মানে একে লগত [overlap] বহিছিলো, [overlap] একে লগতে খাইছিলো ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 130.913,
+            "end": 144.953,
+            "speakerSeqId": 1,
+            "transcription": "আগতে এনে~এনেকুৱা আছিলো । কিন্তু এতিয়া কি হৈছে, এতিয়া মানে একে লগত বহা খোৱাতো দুৰৰ কথা, কিন্তু মানে সিহতৰ লগত মানে কথা ভালকে ভালকে ক'ব নোৱাৰো, এনেকুৱা হৈ গৈছে । [overlap] কিন্তু এইটো [overlap] এইটো বিষয়ে মানে আপুনি অলপ জানেনে, আপুনি অলপ কৈ দিয়কচোন ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 144.953,
+            "end": 158.352,
+            "speakerSeqId": 2,
+            "transcription": "অ সেইটো কথা হৈছে, (()) এতিয়া যে কৈছে আপুনি ৰাজনীতিৰ বিষয়ে যে কৈছে আপুনি, [noise] (()) টো হৈছে যে আগৰ কালৰ ৰাজনীতি আৰু এতিয়াৰ ৰাজনীতিৰ অনেক পাৰ্থক্য আছে, হয় নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 158.352,
+            "end": 173.978,
+            "speakerSeqId": 2,
+            "transcription": "আগৰ ৰাজনীতিকটো ভাল আছিল, সকলোৰে মাজত মিলাপ্ৰীতিৰে আছিল, সকলোৱে ভালকৈ কামটো কৰিছিল, ভালকৈ সব সব বিলাক মিলাপ্ৰীতিৰে কৰিছিল । এতিয়া ৰাজ~ৰাজনীতিটো দেখা পাও যে মানে নিজৰ ওপৰে বেছিকৈ কৰে, হয় নে নহয়? এতিয়া যে গাঁওত মেম্বাৰ বিলাক আছে ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 173.978,
+            "end": 179.902,
+            "speakerSeqId": 2,
+            "transcription": "সেই গাঁওৰ মেম্বাৰ বিলাক কি কৰি আছে, নিজৰ ঘৰ বাৰী বিলাক পকা কৰি আছে আৰু মানুহ বিলাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 179.902,
+            "end": 182.264,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় মই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 182.264,
+            "end": 183.226,
+            "speakerSeqId": 2,
+            "transcription": "দুখীয়া ((হৈ গৈছে)) ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 183.226,
+            "end": 197.063,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] বাইদেউ এটা ভাল কথা কৈছে বাইদেউ । মানে ময়ো দেখা পাইছো আমাৰ গাঁও এখন মেম্বাৰ আছে, সেই মেম্বাৰ খন কি কৰিছে জানানে? [silence] মানে বেলেগৰ [overlap] বেলেগৰ ঘৰ আহিছে, সেই ঘৰৰ নাম খন কাটি কিনে সি নিজৰ ঘৰ বনাই লৈছে ঘৰম~ঘৰত ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 197.063,
+            "end": 206.554,
+            "speakerSeqId": 1,
+            "transcription": "এ ঘৰ যাৰ [overlap] নামত আছে, তাক ঘৰ দি দিয়ক । সেইটো কৰা নাই, সি কৰিছে কি, [overlap] মানে তাৰ ঘৰটো কাটি কিনে তাৰ মানে তাৰ নিজৰ ঘৰত ঘৰ বনাই আছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 206.554,
+            "end": 213.494,
+            "speakerSeqId": 2,
+            "transcription": "হয়, এনে এনে ~এনে তেওলোকৰ ঘৰ আছে, আকৌ ঘৰৰ ওপৰত ঘৰ বনায়, হয় নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 213.494,
+            "end": 220.382,
+            "speakerSeqId": 1,
+            "transcription": "চৰকাৰে ঘৰ বিলাক দি আছে দুখীয়া মানুহক, কিন্তু দুখীয়া মানুহ এঠা~এটা দুখীয়া মানুহো ঘৰ পোৱা নাই মই জানা মতে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 220.382,
+            "end": 226.51,
+            "speakerSeqId": 1,
+            "transcription": "যিবিলাক [overlap] লোকৰ ঘৰ চৰ আছে, সেই~সেই লোকবিলাকেই ঘৰ চৰ পাই আছে । কিন্তু মই জানা মতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 226.51,
+            "end": 236.97,
+            "speakerSeqId": 1,
+            "transcription": "যি মানে যিবোৰ দুখীয়া মানুহ তাহাতে দুখীয়া মানুহ বিলাক চৰকাৰে দুখ দি আছে আৰু ধনী মানুহ বিলাকে মানে (()) ডাঙৰ ডাঙৰ ধনী মানুহৰ ফটো দি আছে, হয় নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 236.97,
+            "end": 252.633,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] আমি কম যে চৰকাৰৰ কাম এইবিলাক নহয় । চৰকাৰৰ কাম [overlap] চৰকাৰৰ কাম হৈছে মানে দেশৰ উন্নতি কেনেকে হ'ব, আৰু আমাৰ ৰাইজসকলে কেনেকে মানে ভাল থাকিব, আৰু আমাৰ দেশ খন কেনেকে মানে কিবা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 252.633,
+            "end": 254.067,
+            "speakerSeqId": 1,
+            "transcription": "কৰিলে দেশ খন অলপ ভালে থাকিব, হয় নে নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 254.067,
+            "end": 257.982,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়, আপুনি এটা ভাল কথা কৈছে হয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 257.982,
+            "end": 272.05,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু দেখা যায় যে এই চৰকাৰে এইখন কাম কৰা নাই । এই চৰকাৰে কি কৰিছে, অকল জাতিৰ ভিতৰতে লগাই আছে । যি মছজিদ ভাঙি মন্দিৰ বনাই আছে, মন্দিৰ ভাঙি মন্দিৰ ভাঙিতো মছজিদ বনোৱাই নাই, সেইটো নকও মই । কিন্তু হৈছে কি, [overlap] যে আমি যিটো দেখা পাইছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 272.05,
+            "end": 275.127,
+            "speakerSeqId": 1,
+            "transcription": "এই বাবৰি মছজিদটো ভাঙি কিনে ৰাম মন্দিৰ বনাইছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 275.127,
+            "end": 290.787,
+            "speakerSeqId": 2,
+            "transcription": "হয়, সেইটো বা~সেইটো সেইটো ভাল কাম নহয়, সেইটো জাতিভিত্তিক কাম হৈ আছে, হয় নে নহয়? [silence] আপুনি এইটো ভাল কাথ~ভাল কথা কৈছে, যে সেইটো কি কৰি আছে যে সেইটো কোনে স~কোনে সেই কৰিছে? সেইটো মোদী চৰকাৰে হে আহি কৰিছে, আগততো আগততো এনেকুৱা নাছিল ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 290.787,
+            "end": 299.073,
+            "speakerSeqId": 2,
+            "transcription": "যেতিয়া কংগ্ৰেছ চৰকাৰ আছিল, তেতিয়াতো এনেকুৱা নাছিল, মন্দিৰ বনাই মছজিদ, মছজিদ বনাই মন্দিৰ, সেইটোতো কৰা নাছিল, এতিয়া কৰি আছে । সেইটো কোনে কৰিছে, মোদী চৰকাৰে কৰিছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 299.073,
+            "end": 307.612,
+            "speakerSeqId": 1,
+            "transcription": "আজি দেখা যায় সাধাৰণতে যে তোমাৰ ঘৰ ভাঙি কিনে মই মই যাই কিনে এইটো মানে তোমাৰ ঘৰ খিনি মই দখল কৰি লম, এইটো হ'ব নেকি? কেতিয়াও নহ'ব এইটো ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 307.612,
+            "end": 310.058,
+            "speakerSeqId": 2,
+            "transcription": "না না, [overlap] এইটো নহ'ব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 310.058,
+            "end": 322.073,
+            "speakerSeqId": 1,
+            "transcription": "সেই কাম খিনি কৰিছে, এইটো মানে ভাল নাই এইটো ভূল কাম কৰিছে । চৰকাৰৰ কাম এইবিলাক কাম নহয় চৰকাৰৰ । [babble] চৰকাৰৰ কাম হৈছে বেলেগ, [overlap] চৰকাৰে কাম কৰিব দেশৰ উন্নতি কেনেকুৱা হ'ব, বা দেশৰ ৰাইজ সকল কেনেকে বাছিব, [overlap] কি হ'ব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 322.073,
+            "end": 333.363,
+            "speakerSeqId": 1,
+            "transcription": "ভাল হৈ~ভাল ভাবে, এইবিলাক বাবে মানে চিন্তাধাৰা কৰিব লাগে । কিন্তু চৰকাৰে এইখিনি নকৰে, চৰকাৰে মানে কি কৰি আছে, [overlap] আমি আৰু এটা নিউজ চাইছিলো, চৰকাৰে কি কৰি আছে? [overlap] চৰকাৰে মানে এই আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 333.363,
+            "end": 347.217,
+            "speakerSeqId": 1,
+            "transcription": "ইফালে অসম অসমৰ মানে ইফালে গাঁও অঞ্চলত মই দেখা পাইছো, মই তো ঘুৰি থাকো অসমত, [overlap] গোটে গাঁওত ঘুৰি থাকো মই, মই দেখা পাইছো অসমৰ প্ৰায় জাগাত মানে কি কৰি আছে চৰকাৰে, যি মানে ভুমি জমীন বিলাক যে আছে মানে (()) জমীন বিলাক ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 347.217,
+            "end": 361.223,
+            "speakerSeqId": 1,
+            "transcription": "সেই জমীন বিলাক চৰকাৰে দখল কৰি আছে, হয় নাই? তো সেই চৰকাৰে যেতিয়া [overlap] জমীন বিলাক দখল কৰি আছে, কি হ'ব জমীনটো দখল কৰি, সি মানে যিবোৰ দুখীয়া মানুহ আছে, সেইবোৰ মানুহ ক'ত যাব? জমীন খিনি যদি ইহতে দখল কৰি লয়, সেই মানুহ বিলাক ক'ত যাব?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 361.223,
+            "end": 378.217,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] সেই মানুহ বিলাক কি হ'ব, [overlap] হয় নাই? বহুত এনেধৰণে আছে আছে কাম । চৰকাৰৰ কাম এইবিলাক হয় নেকি? চৰকাৰে দেশৰ ভবিষ্যতে দেশৰ মানুহ বিলাক ৰাইজ সকলক মানে শান্তিত থাকিব লাগে আৰু চৰকাৰে কি কৰিছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 378.217,
+            "end": 385.523,
+            "speakerSeqId": 1,
+            "transcription": "চৰকাৰে অশান্তি দি আছে । এই <lang:Foreign><initial>BJP</initial></lang:Foreign> চৰকাৰ খন এনেকুৱা চৰকাৰ । এই চৰকাৰৰ বিষয়ে আপুনি অলপমান কৈ দিয়কচোন বাইদেউ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 385.523,
+            "end": 399.783,
+            "speakerSeqId": 2,
+            "transcription": "<lang:Foreign><initial>BJP</initial></lang:Foreign> চৰকাৰৰ বিষয়ে মই কি কম আৰু । যি চলি আছে দেশ খন, বৰ্তমান দেশখনত যি চলি আছে, সেইটো কি কম, যে ম~হিন্দু মুছলমানে বেছিকৈ হিন্দু মুছলমানৰ মাজত বেছি কাজিয়া হৈ আছে, হয় নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 399.783,
+            "end": 413.968,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া যে যিটো মোদী চৰকাৰ আৰু মোদী চৰকাৰৰ তলত যিটো মুখ্যমন্ত্ৰী আমাৰ হিমন্ত বিশ্ব শৰ্মা মানুহ আছে, সি সি কি কৰি আছে যে যে মানুহ বিলাকৰ মাজত মানে মানে এটা চকুত #এৰ মানে হিন্দু বিলাকক ভাল কৰিছে সিহতে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 413.968,
+            "end": 422.767,
+            "speakerSeqId": 2,
+            "transcription": "আৰু যে দুখীয়া মা~আৰু যোনবিলাক মুছলমান আছে, সেইবিলাকৰ প্ৰতি গুৰুত্ব দিয়া নাই । তেওলোকক মানে কি কৰে আৰু আমাৰ দেশৰ পৰা আৰু তেওলোকক খেদিব চেষ্টা কৰি আছে, হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 422.767,
+            "end": 426.817,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] সেইটো কথা, এইটো কথাটো হ'ল যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 426.817,
+            "end": 431.457,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়, এই ভাৰতবৰ্ষটোতো কাৰো বাপৰ নহয় ন!"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 431.457,
+            "end": 445.997,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো মু~সেইটো হিমন্ত মামাৰো বাপৰ নহয়, সেইটো ভাৰতবৰ্ষটো সকলোৰে । এতিয়া কথাটো হ'ল তেওলোকে কিয় মুছলমান সকলক গুৰুত্ব দিয়া নাই? তো গুৰুত্ব দিব লাগিব, যে মুছলমান সকল অকল যে মুছলমান সকল দেখি তেওলোকক কোনো গুৰুত্ব দিব নালাগে, হিন্দু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 445.997,
+            "end": 459.998,
+            "speakerSeqId": 2,
+            "transcription": "সকলক গুৰুত্ব দিব । আগৰ কালত ভাবিছিলো যে চালা জাতীয় কংগ্ৰেছটো আহি~আছিল, তেতিয়াতো সেই এনেকুৱা নাছিল, জাতিভেদ নাছিল । তেতিয়া মহাত্মা গান্ধী আছিল, বহুতো বড় বড় নেতা আছিল, সিহতৰ মাজততো কোনো হিন্দু মুছলমানৰ প্ৰতি সেই সেই ৰকম মানে ভেদাভেদ নাছিলে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 459.998,
+            "end": 473.105,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া কিয় ভেদাভেদ হৈ আছে, এতিয়া কিয় এই ~এইটো কাম কৰি আছে তেওলোকে? মানে ভালকৈ চলাচল কৰিলে ভাল, এতিয়া কথাটো হ'ল যে তেওলোকে কিয় গুৰুত্ব দিয়া নাই মুছলমান সকলক হ'লে অকল, হিন্দুবোৰকতো তেও গুৰুত্ব দিয়ে । হিন্দু সকলকে বেছি ফেচিলিটী দিয়ে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 473.105,
+            "end": 484.934,
+            "speakerSeqId": 1,
+            "transcription": "হয় বাইদেউ আপুনি এটা ভাল কথা কৈছে । [noise] যে মানে এইখন চৰকাৰ আহি কিনে কি হৈছে, জাতিৰ এনেকুৱা লগাই দিছে, আগত কি আছিল, মুছলিম লোকক অত্যাচাৰ কৰিছে হয়, সেইটো আমি বেলেগ আমিও নিউজ চাইছিলো ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 484.934,
+            "end": 494.873,
+            "speakerSeqId": 1,
+            "transcription": "মানে ই কৈ আছে মিঞাক মানে খেদিম বুলিও কৈ আছে আমাৰ ভাৰতৰ~ভাৰতবৰ্ষৰ পৰা মানে মুছলমানক খেদাই দিব । এইটোতো কেতিয়াও নহ'ব, সেইটো ইমা~সেইটো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 494.873,
+            "end": 505.589,
+            "speakerSeqId": 1,
+            "transcription": "মুছলিম সকলৰ মানে আৰু যে ডাঙৰ ডাঙৰ চৰকাৰ কেইটা আছে, আহি যদি বহি~বহি কিনে কয় এইটো নহ'ব, এইটো মো~অকল মোদীৰ কথা খিনি হ'ব কিন্তু কাম খিনি নহ'ব । এনে~এনেকুৱা চৰকাৰৰ কাম [overlap] এইবিলাক কাম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 505.589,
+            "end": 515.309,
+            "speakerSeqId": 1,
+            "transcription": "হয়, চৰকাৰৰ কাম দেশৰ উন্নতি কৰিব লাগে । আৰু আজি দেখা যায় আমাৰ ভাৰতবৰ্ষতকৈ মানে বাংলাদেশ এখন দেশ এখন, এইখন দেশ মানে বহুত উন্নত হৈ গৈছে, হয় নে নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 515.309,
+            "end": 517.385,
+            "speakerSeqId": 2,
+            "transcription": "হয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 517.385,
+            "end": 522.194,
+            "speakerSeqId": 1,
+            "transcription": "আৰু এতিয়া চাওক, ভাৰতবৰ্ষ~ভাৰতবৰ্ষক পাছত পেলাই কিনে দেশ খন মানে বহুত আগবাঢ়ি গৈছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 522.194,
+            "end": 524.759,
+            "speakerSeqId": 2,
+            "transcription": "হয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 524.759,
+            "end": 530.682,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া কথাটো হ'ল যে আপুনি এটা ভাল কথা কৈছে, যে কথাটো হ'ল যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 530.682,
+            "end": 541.297,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ যে যে আমাৰ যে <lang:Foreign><initial>BJP</initial></lang:Foreign> চৰকাৰটো আহিছে, ইহতে <lang:Foreign><initial>BJP</initial></lang:Foreign> চৰকাৰ আহাৰ পিছত কি হৈছে, যে আমাৰ পুৰ্বপুৰুষ কোন আছিল, তাৰ পুৰ্বপুৰুষ কোন আছিল, এই কাগজ যে আছে, মানে <lang:Foreign><initial>NRC</initial></lang:Foreign> যে হৈছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 541.297,
+            "end": 555.921,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া কথাটো হ'ল যে #এৰ আমি কি আমি কি কৰ পৰা আহিছো, আমি কি বাংলাদেশৰ পৰা আহিছো, আমি কি বিদেশী লোক, আমি কি কা~কা~কা সম্পৰ্কে আমি কিছু আমি নাজানো? এতিয়া হিমন্তই আহি এইটো কৈ~কৰিছে যে এইটো মানুহৰ মাজত কি কৰি দিছে, (()) মানে মাথাটো নষ্ট"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 555.921,
+            "end": 569.922,
+            "speakerSeqId": 2,
+            "transcription": "কৰি পেলাইছে, তেওলোকে কি কৰিব? এতিয়া কথাটো হ'ল যে এতিয়া (()) হিমন্তই কি কৰিব? আমি কি আমাৰ কি পুৰ্বপুৰুষ নাই নেকি, আমি কি এনে আহিছো, আমি কি #উম মানে বাংলাদেশৰ পৰা বা আন আন দেশৰ পৰা আহিছো নেকি? আমি এই ভাৰতবৰ্ষৰে নাগৰিক, হয় নে নহয়? এইটো এইটো কথাটো হ'ল যে হিমন্তই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 569.922,
+            "end": 583.922,
+            "speakerSeqId": 2,
+            "transcription": "কিয় বিশেষ নকৰে, সেইটো তেও <lang:Foreign><initial>NRC</initial></lang:Foreign> নি লৈ যাচি থাকে, কাৰ কাৰ <lang:Foreign><initial>NRC</initial></lang:Foreign> আছে, কাৰ কাৰ কি নাই, এতিয়া কথাটো হ'ল এইটো কি কৰিব লাগে? সেইটো এইটো চৰকাৰৰ পক্ষে ভাল নহয় ন, এইটো চৰকাৰতো এই এনেকুৱা চাব নালাগে । সেই~সেইটো কথাটো হ'ল যে আপুনি কি ক'ব এইটো বিষয়ে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 583.922,
+            "end": 593.997,
+            "speakerSeqId": 1,
+            "transcription": "হয়, হয় আপুনি এটা ভাল কথা কৈছে । [noise] এই চৰকাৰ খন আহি কিনে আমাৰ সাধাৰণ মানুহ বিলাকক বহুত অসুবিধা হৈ গৈছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 593.997,
+            "end": 601.962,
+            "speakerSeqId": 1,
+            "transcription": "তো বাইদেউ [overlap] আমাৰ ৰেকৰ্ডিংটো হৈ গৈছে, আমি মানে নেক্সটত কথা পাতি আছো । [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 601.962,
+            "end": 605.973,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় ।"
+        }
+    ]
+}

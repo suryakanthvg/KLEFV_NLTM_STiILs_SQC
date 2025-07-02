@@ -1,0 +1,604 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826200",
+    "speechFile": "as_SHA1P_C_r013_s045",
+    "callDuration": 605.013,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239034"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0234407"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 12.282,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ মোৰ লগত আছে আজি মোৰ সৰু এটা ভাইটি ভাইটি ভালে আছানে অ মই বাৰু ভালে আছো আৰু আপুনি কেনে আছে অ মই ভালে আছো পিছে খবৰ চবৰ কেনেকুৱা আপোনাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 12.282,
+            "end": 14.847,
+            "speakerSeqId": 2,
+            "transcription": "অ খবৰ চবৰ আৰু ভালে আৰু আপোনাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 14.847,
+            "end": 28.516,
+            "speakerSeqId": 2,
+            "transcription": "অ ভালে খোৱা দোৱা হল অ খোৱা লোৱা হল তোমাৰ বা হলনে নাই অ মই কৰিলো কি চবজি বনাইছে আজি আলু বেঙেনা মাছ আলু ইত্যদি আৰু বনাইছে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10004,
+            "start": 28.516,
+            "end": 30.44,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 30.44,
+            "end": 37.544,
+            "speakerSeqId": 2,
+            "transcription": "যিয়ে নহওক আজি আমাৰ বিষয়টো কি আছিল আজিৰ বিষয়টো আছিল যে আমাৰ পৰিৱেশটো যে আছে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10006,
+            "start": 37.544,
+            "end": 38.793,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 38.793,
+            "end": 46.387,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ পৰিৱেশৰ ওপৰত মানে কেনেকুৱা মানে অত্যসাৰ বা ধ্বংসৰ ওপৰত নিৰ্ভৰ হৈ আছে সেইটো আমি মানে মানে হেৰি কৰিম আলোচনা কৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 46.387,
+            "end": 62.249,
+            "speakerSeqId": 2,
+            "transcription": "#আহ মানে পৰিৱেশটোক বুলি কবলৈ গলে মানে আমাৰ যে চাৰিওফালে গছ গছনি খেতি পথাৰ সূৰ্যৰ ৰশ্মি ইত্যদিক আমি এটা কি মানুহকে ধৰি মানে এতিয়া কি পৰিৱেশ বুলি কব পাৰো হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 62.249,
+            "end": 64.257,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 64.257,
+            "end": 78.635,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো ধ্বংসৰ মানে কিবা এটা প্ৰক্ৰিয়া আছে আৰু ভালৰো প্ৰক্ৰিয়া আছে সেইটো আমি পৰিৱেশটো যেতিয়া আমি ধ্বংসৰ দিশে আগবাঢ়ি লও সেইটো কি হয় মানে ধ্বংসৰ সন্মুখত দেখা যায় হয় নে নহয় হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 78.635,
+            "end": 87.595,
+            "speakerSeqId": 2,
+            "transcription": "যেনেকুৱা আমাৰ পৰিৱেশটো চাৰিওফালে গছ গছনি কাটি কিনে আমি ধ্বংস কৰি দিও সেইটো আমাৰ বেয়া হৈ যায় মানে যিকোনো কামত অসহায় হৈ যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 87.595,
+            "end": 99.205,
+            "speakerSeqId": 2,
+            "transcription": "যেনেকুৱা আমাৰ অফিচ যেনেবা কষ্ট হৈ যায় সাজ পোচাকৰ মানে কিবা কষ্ট হৈ যায় বেমাৰ আজাৰৰ সৃষ্টি হয় আৰু যেতিয়া আমি বস্তুতো পৰিৱেশৰ ওপৰত মানে সংৰক্ষন কৰিম সেইটো আমাৰ কি চিৰকালৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 99.205,
+            "end": 101.821,
+            "speakerSeqId": 2,
+            "transcription": "কাৰণে আমাৰ মানে ভাল থাকিব শৰীৰটো মানে সুস্থ থাকিব"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10014,
+            "start": 101.821,
+            "end": 102.952,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 102.952,
+            "end": 110.545,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো আপোনাক কৈছো মানে কি পৰিৱেশটো ভাল বেয়া কাৰণে অলপ আপুনি যদি জানে কব আৰু মতামত আগবঢ়াব যদি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 110.545,
+            "end": 114.241,
+            "speakerSeqId": 1,
+            "transcription": "মানে আজি কালি কি কৰি আছে মানুহে জানে নে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10017,
+            "start": 114.241,
+            "end": 115.203,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 115.203,
+            "end": 117.97,
+            "speakerSeqId": 1,
+            "transcription": "মানে মানুহে মানুহৰ পৰিৱেশটো নষ্ট কৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 117.97,
+            "end": 119.0,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 119.0,
+            "end": 132.972,
+            "speakerSeqId": 1,
+            "transcription": "আজিকালি আজিকালি বিভিন্ন ঠাইৰ (()) গছ-গছনী বিলাক যিবিলাক আৰু বিভিন্ন ধৰণৰ বস্তু বিলাক আছে আমি সেইবিলাক যি চালো আমি সেইবিলাক বস্তুৰ পৰা আমি উশাহ নিশাহ লও যে যিবিলাক বস্তুৰ পৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 132.972,
+            "end": 137.731,
+            "speakerSeqId": 1,
+            "transcription": "অ অ #আহ সেইবিলাক সেইবিলাক বস্তু আজি কি হৈছে আজি মানুহে কাতি দি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 137.731,
+            "end": 140.701,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় হয় মানুহে মানে ধ্বংস কৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 140.701,
+            "end": 152.969,
+            "speakerSeqId": 1,
+            "transcription": "মানুহে আজি কাটি কাটি এনেকুৱা পৰিস্থিতি লৈ আনিছে যে আমি যিবিলাক কৰি আছো আজি কালি মানুহে এই [noise] আজি আমাৰ কামতো এনেকা হৈছিল যে আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 152.969,
+            "end": 159.196,
+            "speakerSeqId": 1,
+            "transcription": "কামতো আমি যিটো আমি চাচতো লও সেই চাচ্তো আমি ভাল দৰে নাহে #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 159.196,
+            "end": 160.951,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় আপুনি বাৰু ঠিকে কৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 160.951,
+            "end": 171.717,
+            "speakerSeqId": 1,
+            "transcription": "মানেটো হৈছে কি জানেনে মানে এই গছবিলাক যে কাটি আছে গছবিলাক কাটি কিনে আজি আমাৰ শ্বাস লওতে আমাৰ কি হৈ থাকে আজি কম হয় থাকে বা অক্সিজেন কমি হৈ থাকে কমি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 171.717,
+            "end": 182.568,
+            "speakerSeqId": 1,
+            "transcription": "বৰ্তমান মানে বহুত কিবা কিবি সমস্য়া হৈ আছে আজিকালি মানুহৰ আজি কালি [overlap] যেনেকুৱা আজি আজি আমাৰ প্ৰাকৃতিক যে কি আছে সৌন্দৰ্যতো আছে তাৰো কাটি আছে সেইবিলাকো কাটি আছে বৰ্তমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 182.568,
+            "end": 192.187,
+            "speakerSeqId": 1,
+            "transcription": "গছ গছনি বিলাক পাহাৰত যিমানখিনি গছ আছিল আজি পাহাৰত দাহ মাৰি পাহাৰৰ গছ কাটি কাটি শেষ কৰি দি আছে এনেকুৱা ধৰণৰ আজি কালি কাম কৰি আছে গতিকে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 192.187,
+            "end": 204.944,
+            "speakerSeqId": 2,
+            "transcription": "পৰিৱেশৰ ওপৰত এনেকুৱা এটা প্ৰভাৱ পেলাইছে মানুহে যে আমাৰ বন বা বণ্য়প্ৰাণী সমুহক কষ্ট দি আছে আমাৰ যেতিয়া [overlap] আমি বন কাটিবলৈ যাও সেই কি হয় আমাৰ ৰদৰ প্ৰভাৱতো বেছি হয় যাৰ ফলত আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 204.944,
+            "end": 217.195,
+            "speakerSeqId": 2,
+            "transcription": "আমি উশাহ লোৱাত মানে শ্বাস প্ৰশ্বাসত মানে আমাৰ বহুত ধৰণৰ মানে কষ্ট দেখা যায় যেতিয়া আমি বস্তু সংৰক্ষন কৰিম ভাল দৰে মানে ৰুম কিবা গছ গছনি ভালকৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 217.195,
+            "end": 223.439,
+            "speakerSeqId": 2,
+            "transcription": "ৰুবলৈ গলে আমাৰ তেতিয়া পৰিৱেশটোৰ সুন্দৰতা বাঢ়িব আৰু আমাৰো মানে ভাল থাকিব শৰীৰটো হয় নে নহয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10032,
+            "start": 223.439,
+            "end": 224.587,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 224.587,
+            "end": 238.677,
+            "speakerSeqId": 2,
+            "transcription": "কেনে এনে ধৰণৰ মানুহো আছে যে আমাৰ পৰিৱেশ খিনি মানে একদম মানে ধ্ৱংস কৰি দিয়ে যেনেকুৱা আমাৰ গছ গছনি কাটি কেনে শেষ কৰি দিয়ে আৰু বিভিন্ন ধৰণৰ বণ্য়প্ৰাণী সমূহ আমাৰ জাগালৈ মানে সমতল জাগালৈ মানে নামি আহে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 238.677,
+            "end": 247.435,
+            "speakerSeqId": 2,
+            "transcription": "হয় নে নহয় হয় হয় হয় আৰু পৰিৱেশ বুলি কবলৈ গলে আমাৰ পৰিৱেশত গছ গছনি ৰুব লাগে সেইটোত যাৰ ফলত আমি অক্সিজেনটো ভাল দৰে পাও"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10035,
+            "start": 247.435,
+            "end": 248.87,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 248.87,
+            "end": 262.248,
+            "speakerSeqId": 2,
+            "transcription": "আৰু আমি অক্সিজেনটো লও আৰু গছে আমাৰ পৰা নাইট্ৰজেন গেছটো লয় সেইটো হয় নে নহয় হয় হয় এইটো সংৰক্ষন কৰাৰ কাৰণে আমি কিবা এটা প্ৰস্তাৱ যদি আপুনি কয় যদি"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10037,
+            "start": 262.248,
+            "end": 263.367,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 263.367,
+            "end": 266.42,
+            "speakerSeqId": 1,
+            "transcription": "মানে এইটো আৰু কি হয় জানানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 266.42,
+            "end": 280.72,
+            "speakerSeqId": 1,
+            "transcription": "আজি কালি মানুহে যে কাম কৰি আছে এই গছ বিলাক যে কাটি আছে গছবিলাক কাটি কাটি আজি কি কৰি আছে আমাৰ যে যিটো আজি প্ৰয়োজন আমাৰ অক্সিজেনৰ সেই অক্সিজেন (()) লোৱা হয় তেহে তেনেহলে মানুহবিলাক থাকিব কাৰণে মানুহ বিলাকৰ শ্বাস"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 280.72,
+            "end": 290.838,
+            "speakerSeqId": 1,
+            "transcription": "টো লব কেনেকৈ মানুহে চলিব কেনেকৈ এনেকুৱা আজি ঠাইত পৰি আছে তাৰমানে ময় এটা যেগাত গৈছিলো মানে গুৱাহাটী গৈছিলো সেই গুৱাহাটীত যায় কেনে মোৰ কি হৈছিল জানানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 290.838,
+            "end": 299.393,
+            "speakerSeqId": 1,
+            "transcription": "মানে গুৱাহাটীত যায় কিনে মই এনেকুৱা এটা অনুভৱ পাইছিলো এনেকুৱা অনুভৱ হৈছিল আমি যেতিয়া গাৱত শ্বাস এটা লও মানে শ্বাসটো মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 299.393,
+            "end": 313.393,
+            "speakerSeqId": 1,
+            "transcription": "মানে একদম শীতল ঠাণ্ডা শ্বাস আহি থাকে আৰু তাৰ পৰা কেনেকুৱা শ্বাস আহি থাকে মানে মানুহক খালী গৰম লাগি থাকে গৰম এটা শ্বাস লাগি থাকে মানুহৰ শ্বাসটোত কষ্ট হৈ থাকে তাৰ কাৰণত বেমাৰ আজাৰ বহুত হয়মানুহে অতি বিপদৰ সন্মুখীন হৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 313.393,
+            "end": 327.394,
+            "speakerSeqId": 1,
+            "transcription": "আজি কালি [noise] আজি কালি মই যাও বিভিন্ন যেগাত যাও বিভিন্ন বস্তু দেখা পাও সেই মানুহবিলাক বহুত বিপদত পৰি আছে মানে সেই তাৰ কাৰণে চৰকাৰে যদি কয় গছবিলাক কাটিব নিদিয়ে তাৰকাৰণত [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 327.394,
+            "end": 335.405,
+            "speakerSeqId": 1,
+            "transcription": "নাকাটিলে আমাৰ শ্বাসটো লব ভাল হব আৰু মানুহৰো ভাল হব মানুহ আজি বিভিন্ন ধৰণৰ মানুহবিলাক বেমাৰ আজাৰ হৈ থাকে হৈ আছে গতিকে এইবিলাকৰ কাৰণত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 335.405,
+            "end": 347.909,
+            "speakerSeqId": 1,
+            "transcription": "এই বেমাৰৰ বেমাৰৰ পৰা ৰখোৱাই থাকিব মানুহবিলাকো ভাল থাকিব সেই তাৰ কাৰণত গছবিলাক কাটিব নালাগে আজি কালি যেনেকুৱা বায়ু পানীবিলাক আছে আমাৰ সেইবিআক যে খাও সেইবিলাক যদি আমাৰ যদি সেইবিলাক যদি আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 347.909,
+            "end": 361.831,
+            "speakerSeqId": 1,
+            "transcription": "কামৰে নহয় তেনেহলে আমি কেনেকৈ এইবিলাক খাই বাচি থাকিম সেইবিলাক খালে আমাৰ বেমাৰ আজাৰ হৈ থাকে বহুত কিবা কিবি সমস্যা হৈ থাকে আজি কালি মানে [overlap] বহুত ধৰণৰ কি আহি থাকে মানে আজিকালি বহুত ধৰণৰ মানে বেমাৰ আজাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 361.831,
+            "end": 371.348,
+            "speakerSeqId": 2,
+            "transcription": "মানে আপুনি আপুনি যিটো কৈছে সেইতো ঠিকে বাৰু আমি গাৱৰ এলেকাতকৈ চহৰ এলেকাত আমাৰ পৰিৱেশৰ মানে ধ্বংস প্ৰভাৱটো বেছি দেখো যেনেকুৱা আমি গুৱাহাটী গুৱাহাটীত গলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 371.348,
+            "end": 385.777,
+            "speakerSeqId": 2,
+            "transcription": "গুৱাহাটী এইখন জাগা মানে এটা পাহাৰ কাটি কেনে এটা মানে অট্টালিকা বনাইছে তাৰ পৰিৱেশটো বহুত ধ্বংস হয় যায় আপুনি যানেই হয় এই ধ্বংস হোৱা ফলত মানে নগৰ এলেকাত কি হয় বেমাৰ আজাৰ মানুহৰ বেছি সৃষ্টি দেখা যায় হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 385.777,
+            "end": 395.159,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় এইটো পৰিৱেশটো এনেকুৱা এটা বস্তু যে এটা গছ কাটিলে দুটা ৰুবই লাগিব তেতিয়াহে আমাৰ কি হব পৰিৱেশটো ভাল হব হয় নে নহয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10050,
+            "start": 395.159,
+            "end": 395.969,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 395.969,
+            "end": 408.71,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো নকৰি আমি [overlap] যদি অ সেইটো নকৰি যদি আমি বন্য প্ৰাণী সমূহ আমাৰ পৰিৱেশখিনি আমি কাটি কেনে ধ্বংস কৰি দিও জ্বলাই দিও সেইটো কেনেকুৱা হব আৰু আমাৰ ক্ষতি হব হয় নে নহয় সেইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 408.71,
+            "end": 411.545,
+            "speakerSeqId": 2,
+            "transcription": "ক্ষতি সাধন কৰা কাৰণে আপুনি কি কব সেইটো কওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 411.545,
+            "end": 426.304,
+            "speakerSeqId": 1,
+            "transcription": "আজি আজি কালি এটা কি কাম কৰি আছে আমাক এটা গছ পাতিবলৈ কিমান বছৰ লাগে পাচ বছৰ দহ বছৰ ইমানমান সময় লাগি যায় মানে সৰু লৰা ছোৱালী যেনেকুৱা সৰুৰ পৰা ডাঙৰ কৰাই এনেকুৱা আজি গছ গছনি বিলাক সেনেকুৱা আজি গছ গছনি বিলাক এনেকুৱা মানে মানুহে আজি ডাঙৰ কৰে সেই ডাঙৰ কৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 426.304,
+            "end": 432.419,
+            "speakerSeqId": 1,
+            "transcription": "পিছত যে সেই গছ বিলাক কাটি যায় তাৰ মানে এই গছবিলাক কটাৰ পিছত মানে মানুহৰ বহুত সমস্যা হয় থাকে আজি কালি হয় নে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10055,
+            "start": 432.419,
+            "end": 433.482,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 433.482,
+            "end": 438.376,
+            "speakerSeqId": 1,
+            "transcription": "#এৰ তাৰ কাৰণে কৈছো এটা গছ মাতিবলৈ ইমান দিন লাগে কাটিবলৈ কিন্তু পাচ মিনিটো নালাগে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10057,
+            "start": 438.376,
+            "end": 439.625,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 439.625,
+            "end": 447.826,
+            "speakerSeqId": 1,
+            "transcription": "সেইবিলাক কাটি কাটি সেইবিলাক এনেকুৱা কৰি আজি পৰিৱেশটো [noise] মানে মানে চব ধ্বংস কৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 447.826,
+            "end": 461.528,
+            "speakerSeqId": 1,
+            "transcription": "ধ্ৱংস কৰি আছে আজিকালি মানুহে বহুত বেছি সমস্যা পায় আছে মানুহবিলাকৰ আজিকালি সেইবিলাক চৰকাৰে কিবা বন্ধ কাৰি দিয়ে তাৰ কাৰণত মানুহৰো ভাল হব সেইটো মই আহ্বান কৰো চৰকাৰৰ লগত চৰকাৰে যদি এটা ব্য়ৱস্থা লয় এইবিলাকৰ কাৰণত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 461.528,
+            "end": 465.072,
+            "speakerSeqId": 1,
+            "transcription": "তেনেহলে মানুহ বিলাকো ভাল থাকিব মই য়ো ভালে থাকিম [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 465.072,
+            "end": 478.808,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো হৈছে সেইটো ঠিকে বাৰু কিন্তু আমাৰ পৰিৱেশ খিনি যেতিয়া আমি কাটি ধ্ৱংস কৰো তেতিয়া আমাৰ কি জীৱ জন্তু বিলাকো নোহোৱা হয় যায় আগত যেনেকুৱা আছিল ডাইনেছৰ বস্তুটো আগতে দেখা পাইছিল কিন্তু এতিয়া বহুত বস্তু মানে বিলুপ্ত হয় গৈছে মানে দেখিবলে নাপাও"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 478.808,
+            "end": 486.706,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় আৰু আমাৰ অসমত থকা বহুত ধৰণৰ চৰাই আগতে আছিল কিন্তু এতিয়াটো চৰাই আমি দেখা নাপাও যেনেকুৱা আমাৰ এই কি বা কয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 486.706,
+            "end": 494.84,
+            "speakerSeqId": 2,
+            "transcription": "শেগুন চৰাইটো নোহোৱা হল আৰু বহুত ধৰণৰ কাউৰী চাউৰী নোহোৱা হল সেইবিলাক কত গল এইটো পৰিৱেশৰ ওপৰত প্ৰভাৱ পেলাইছে মানুহে সেইটো সেইকাৰণতে গৈছে হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 494.84,
+            "end": 506.872,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় হয় তাৰ কাৰণত আজি কালি চব কেইটা এনেকুৱা কাম কৰি আছে যে গছবিলাক কাটি আছে গছৰ কাৰণত আজি সেইবিলাক যদি (()) মানে কি সেইবিলাক গছবিলাক হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 506.872,
+            "end": 517.79,
+            "speakerSeqId": 1,
+            "transcription": "যদি কাটি দিয়ে তাৰ কাৰণত সেই মানুহবিলাক কত থাকিব আৰু কি কৰিব মানে [overlap] সেইবিলাক বস্তুৱো নাথাকিব এনেকুৱা কৰি দিছে আজি মানে সেইবিলাক বস্তুৱো আমাৰ গাৱত নাই আগত যেনেকুৱা আছিলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 517.79,
+            "end": 530.092,
+            "speakerSeqId": 1,
+            "transcription": "[noise] মানে সকলো জেগাত আমি গৈছিলো যে পখী (()) বিলাক যিবিলাক যেনেকুৱা আছিল পাখী বিলাক সেইবিলাক আমি প্ৰতি সময়তে দেখা পাইছিলো আজিকালি [overlap] সেইবিলাক বস্তু নোহোৱা হৈ গৈছে দুহাজাৰ একবিশং পৰা আমাৰ ইয়াৰ পৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 530.092,
+            "end": 532.066,
+            "speakerSeqId": 2,
+            "transcription": "বিলুপ্ত হৈ গৈছে হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 532.066,
+            "end": 541.87,
+            "speakerSeqId": 1,
+            "transcription": "সেইবিলাক বস্তু যদি এনেকুৱা গছ গছনি কাটি থাকে আমাৰ সেইবিলাক যদি নোহোৱা হৈ থাকে আমি মানে যিটো বস্তু দি চলিব পাৰো সেইটো বস্তু আজি কাটি দিয়ে তেনেহলে মানুহৰ কি হব কওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 541.87,
+            "end": 553.48,
+            "speakerSeqId": 2,
+            "transcription": "#আহ হয় এইটো বাৰু ঠিকে আছে কিন্তু আমাৰ পৰিৱেশৰ ওপৰত যে এটা কথা কলে আমাৰ পৰিৱেশৰটো মানে ধ্ৱংস কৰি আছে এইটো যে আমাৰ চৰকাৰে নুবুজে এইটো চৰকাৰৰ ওপৰত মানুহে কেনে ধৰণৰ প্ৰভাৱ পেলাব এইটো আপুনি কৈ দিয়ক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 553.48,
+            "end": 567.773,
+            "speakerSeqId": 1,
+            "transcription": "মই কৈ আছো চৰকাৰৰ কাৰণ চৰকাৰৰ কাৰণে এটাই কথা যে কিবা ভাল কৰি দিলে মানুহে আৰু ভালকৈ থাকিব সেই তাৰ কাৰণত মই কই আছো যে কিবা এই গছবিলাক যে কাটি আছে পাহাৰত বিভিন্ন ঠাইত যে গছ বিলাক কাটি আছে সেই [overlap] গছ বিলাক নাকাটি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 567.773,
+            "end": 579.282,
+            "speakerSeqId": 1,
+            "transcription": "নাকাটিলে আজি মানুহে ভাল থাকিব তাৰ কাৰণত চৰকাৰ চৰকাৰক মই কৈ আছো সেইবিলাক গছবিলাক ভালদৰে থাকিব লাগে মানুহে এনেকৈ গছ কাটিব নালাগে গছ কাটিলে আৰু মানুহে সমস্য়াত পৰি থাকে এনেকুৱা ধৰণৰ কৈছো আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 579.282,
+            "end": 591.23,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় [silence] সেইটো পৰিৱেশৰ ওপৰত ভিত্তি কৰি আমি গোটেই মানুহৰ যিখিনি মানুহ আছে সেইটো বুজিব লাগে যে আমাৰ পৰিৱেশখন সংৰক্ষন কৰাটো ভাল কাম হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 591.23,
+            "end": 605.013,
+            "speakerSeqId": 2,
+            "transcription": "সেই ভাল কাম নকৰি যদি আমি বেয়া কাম কৰো সেইটো কেনেকুৱা হব বেয়া কামৰ ওপৰত আমাৰ পৰিৱেশটো ধ্ৱংস হব ভাল কামৰ ওপৰত আমাৰ পৰিৱেশটো ভাল হব সেইটো যদি আজি কালি মানুহে নুবুজে কোন্তু বুজিব [noise] অ অ"
+        }
+    ]
+}

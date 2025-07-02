@@ -1,0 +1,732 @@
+{
+    "speechMode": "C",
+    "recordingId": "20536293",
+    "speechFile": "as_SHA1P_C_r013_s011",
+    "callDuration": 663.104,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0236189"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0236190"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 13.7,
+            "speakerSeqId": 1,
+            "transcription": "আজিৰ এই মঞ্চত মোৰ লগত মোৰ বন্ধু দেৱজিত বৰা উপস্থিত আছে [silence] আজি আমি দুয়ো মিলি এনে এটা বিষয় লৈ আহিছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 13.7,
+            "end": 28.432,
+            "speakerSeqId": 1,
+            "transcription": "যিটো বিষয় হয়টো প্ৰতি এখন দেশৰেই এক সমস্যা নহবা এক শক্তি স্বৰূপে দেখা দিছে আজি আমি ভাৰতবৰ্ষৰ ৰাজনৈতিক বিষয়ৰ এটা অংশ যে আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 28.432,
+            "end": 40.75,
+            "speakerSeqId": 1,
+            "transcription": "চবেই জানো যে ভাৰতবৰ্ষ খন এক গণতান্ত্ৰিক ৰাজ্য বা দেশ [silence] হয় গণতান্ত্ৰিক দেশ যিহেতু ভাৰতবৰ্ষটো বৰ্ষখন এখন গণতান্ত্ৰিক দেশ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 40.75,
+            "end": 54.2,
+            "speakerSeqId": 1,
+            "transcription": "সেইবাবে আমি দুয়ো মিলি আজি ভাৰতবৰ্ষৰ গণতান্ত্ৰিক ব্যৱস্থাৰ দোষ গুণ [silence] হয়নে দোষ গুণৰ ওপৰত [overlap] আলোচনা কৰিম আৰু ইয়াৰ বহুতোপ্ৰকাৰ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 54.2,
+            "end": 66.164,
+            "speakerSeqId": 1,
+            "transcription": "হয় মোতকৈ মোৰ বন্ধু দেৱজিত বৰা এই বিষয়ত অতি পাৰ্গত সেয়েহে মই তেওৰ পৰাই এই বিষয়ে জানিবলৈ বিচাৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 66.164,
+            "end": 75.968,
+            "speakerSeqId": 2,
+            "transcription": "হয় [silence] আজি যিহেতু আমি আগতেও কেইবাটাও বিষয় আলোচনা কৰিছো [silence] ইতিহাসৰ লগত সম্পৰ্কিত"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10007,
+            "start": 75.968,
+            "end": 77.723,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 77.723,
+            "end": 91.055,
+            "speakerSeqId": 2,
+            "transcription": "তাৰ উপৰিও অন্যান্য বিষয় যিবোৰ আলোচনীয় বিষয় সেইবোৰ আমি কেইবাটাও বিষয় আমি আলোচনা কৰিছো কেইবাটাও বিষয় আলোচনা কৰিছো আজি আলোচনা কৰিবলগীয়া বিষয়টো হৈছে গণতন্ত্ৰ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10009,
+            "start": 91.055,
+            "end": 93.046,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 93.046,
+            "end": 106.276,
+            "speakerSeqId": 2,
+            "transcription": "অতীতৰে পৰা আমাৰ সভ্যতা আৰম্ভনিৰে পৰা [silence] হয় গণতান্ত্ৰিক পৰম্পৰা গণতন্ত্ৰই কিন্তু ৰাজনৈতিক প্ৰক্ৰিয়াত মানে গুৰুত্বপূৰ্ণ ভূমিকা গ্ৰহণ কৰি আহিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 106.276,
+            "end": 113.6,
+            "speakerSeqId": 2,
+            "transcription": "গণতন্ত্ৰৰ বিষয়ে বহুতো পণ্ডিতে আগতে সমৰ্থন জনাইছিলে যদিও কিছুমান পণ্ডিতে সমৰ্থন জনোৱা নাছিলে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10012,
+            "start": 113.6,
+            "end": 115.321,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 115.321,
+            "end": 128.669,
+            "speakerSeqId": 2,
+            "transcription": "কিন্তু বিশেষকৈ কুৰি শতিকাত বিশ্বত গণতন্ত্ৰ শব্দটিয়ে বিশেষভাৱে সমাদৰ লাভ কৰিছে হয় গণতন্ত্ৰ শব্দটি আমি গণতন্ত্ৰ ধাৰণা সম্পৰ্কীয় আলোচনা কৰিবলৈ গলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 128.669,
+            "end": 137.292,
+            "speakerSeqId": 2,
+            "transcription": "হয় গণতন্ত্ৰ নো কি গণতন্ত্ৰ হৈছে জনতাই জনাতাক শাসন কৰাৰ অধিকাৰ সাধৰণ অৰ্থত কবলৈ গলে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10015,
+            "start": 137.292,
+            "end": 139.553,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 139.553,
+            "end": 153.053,
+            "speakerSeqId": 2,
+            "transcription": "জনতাই যেতিয়া জনতাক শাসন কৰে অৰ্থাত সেই গণতন্ত্ৰ শব্দটি গ্ৰীক ভাষাৰ দুটা শব্দৰ পৰা উদ্ভৱ হৈছে [silence] হয় এটা হৈছে দেমচ আৰু এটা হৈছে কেতচ হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 153.053,
+            "end": 165.119,
+            "speakerSeqId": 2,
+            "transcription": "দেমচ শব্দৰ অৰ্থ হৈছে জনগণ [silence] হয় আৰু কেতচ শব্দৰ অৰ্থ হৈছে ক্ষমতা [silence] অৰ্থাত আমি কবলৈ গলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 165.119,
+            "end": 169.878,
+            "speakerSeqId": 2,
+            "transcription": "জনগণৰ ক্ষমতা বা জনগণৰ ক্ষমতাৰ ওপৰত প্ৰতিষ্ঠিত যিটো শাসন ব্যৱস্থা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10019,
+            "start": 169.878,
+            "end": 171.582,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 171.582,
+            "end": 173.557,
+            "speakerSeqId": 2,
+            "transcription": "সেইটোকে আমি গণতন্ত্ৰ বুলি কব পাৰো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10021,
+            "start": 173.557,
+            "end": 176.02,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 176.02,
+            "end": 190.972,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া গণতন্ত্ৰৰ বিষয়ে চাবলে গলে যে গণতন্ত্ৰক পোনপ্ৰথমতে বহুতো পণ্ডিতে সমৰ্থন কৰা নাছিলে [silence] হয় আনকি ৰাজনীতিবিজ্ঞানৰ পিতৃ এৰিষ্টটলেও গণতন্ত্ৰক সমৰ্থন কৰা নাছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 190.972,
+            "end": 201.299,
+            "speakerSeqId": 2,
+            "transcription": "তেখেতৰ গুৰু প্লেটোৰ মতে গণতন্ত্ৰ আছিলে [silence] নিৰক্ষৰ লোকৰ দ্বাৰা নিৰ্বাচিত শাসকৰ অযুক্তিগত শাসন পদ্ধতি"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10024,
+            "start": 201.299,
+            "end": 203.02,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 203.02,
+            "end": 214.158,
+            "speakerSeqId": 2,
+            "transcription": "তেও গণতন্ত্ৰক অযুক্তিগত বুলিহে কৈছে যিহেতু যদি এটা গণতান্ত্ৰিক পৰম্পৰাত অশিক্ষিত লোকে তেওলোকৰ শাসকসকলক নিৰ্বাচন কৰে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10026,
+            "start": 214.158,
+            "end": 215.913,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 215.913,
+            "end": 219.727,
+            "speakerSeqId": 2,
+            "transcription": "তেতিয়া এইবোৰ ৰাজ ৰাষ্ট্ৰখনৰ পক্ষে হানিকাৰক বুলি তেখেতে মতপোষন কৰিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 219.727,
+            "end": 221.802,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 221.802,
+            "end": 225.802,
+            "speakerSeqId": 2,
+            "transcription": "তাৰ উপৰিও আমাৰ ৰাজনীতি বিজ্ঞানৰ পিতৃ যোনজন এৰিষ্টটল"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10030,
+            "start": 225.802,
+            "end": 227.388,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 227.388,
+            "end": 235.454,
+            "speakerSeqId": 2,
+            "transcription": "এৰিষ্টটলৰ মতেও গণতন্ত্ৰক তেখেতে সমাদৰ বা তেওক সমৰ্থন কৰা নাছিলে তেখেতে গণতন্ত্ৰক আটাইতকৈ নিকৃষ্টতম চৰকাৰ বুলিহে আক্ষা দিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 235.454,
+            "end": 248.954,
+            "speakerSeqId": 2,
+            "transcription": "তেও গণতন্ত্ৰক ৰাষ্ট্ৰৰ চৰম ক্ষতিসাধন কৰিব পৰা কিছুমান স্বাৰ্থপৰ মধ্যবিত্ত শ্ৰেণীৰ বিক্ৰিত চৰকাৰ বুলিহে কৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 248.954,
+            "end": 262.64,
+            "speakerSeqId": 2,
+            "transcription": "গতিকে আমি দেখা গল যে গণতন্ত্ৰক বহুতো পণ্ডিতে সমৰ্থন কৰা নাই এনেদৰে প্লেটো এৰিষ্টটলৰ দৰে বিখ্যাত দাৰ্শনিকে [silence] সমৰ্থন নাই কৰা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10034,
+            "start": 262.64,
+            "end": 264.192,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 264.192,
+            "end": 276.95,
+            "speakerSeqId": 2,
+            "transcription": "এৰিষ্টটলে পিছত পৰৱৰ্তী কালত তেখেতৰ এখন গ্ৰন্থ আছিলে ডা পলিটিক্স আমি তুমিও জানা [silence] আৰু তুমিও জানা যে এৰিষ্টটলৰ বিখ্যাত গ্ৰন্থখন ডা পলিটিক্স হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 276.95,
+            "end": 289.994,
+            "speakerSeqId": 1,
+            "transcription": "তেখেতে সেইখনেই সেইখনতেই উল্লেশ কৰিছে যে শেষত তেখেতে ধনী আৰু দুখীয়া দুয়োটা শ্ৰেণীক প্ৰতিনিধিত্ব কৰিব পৰা হয় (()) সংবিধানযুক্ত চৰকাৰ এখনক হে স্বীকৃতি প্ৰদান কৰিছিলে তেখেতে তাৰবাবে তেখেতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 289.994,
+            "end": 300.929,
+            "speakerSeqId": 1,
+            "transcription": "সকলোৰে কল্য়াণ সাধন হব পৰা এটা প্ৰক্ৰিয়া শাসন [noise] তেখেতে সন্ধান কৰি আছে তাৰবাবে এশ আঠাৱান খন সংবিধান তেখেতে বৃষ্টিত ভাবে অধ্য়য়ন কৰিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 300.929,
+            "end": 315.273,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে চাব গলে দেখা গৈইছে যে প্লেটো এৰিষ্টটলেও [noise] প্লেটো হওক বা এৰিষ্টটলেও দাৰ্শনিকেও গণতন্ত্ৰক পোনপ্ৰথমতে সমৰ্থন কৰা নাছিলে বা সমৰ্থন কৰা নাছিলে হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 315.273,
+            "end": 327.254,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া আমি গণতন্ত্ৰৰ বিশেষ ধৰণাটোৰ বিষয়ে কব গলে যে গণতন্ত্ৰ এতিয়া এটা জনজাত এতিয়া জনপ্ৰিয় এটা ধাৰণা আছে [silence] হয় আৰু তুমিও শুনিছা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10040,
+            "start": 327.254,
+            "end": 329.532,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 329.532,
+            "end": 342.02,
+            "speakerSeqId": 1,
+            "transcription": "আব্ৰাহাম লিংকণে আগঢ়াইছিলে যে গণতন্ত্ৰ হৈছে জনগণ জনগণৰ দ্বাৰা জনগণ [noise] চৰকাৰ বুলি যে কৈছিলে [silence] যিটো বৰ্তমান প্ৰচলিত সকলোৰে মাজত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 342.02,
+            "end": 356.549,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় এনেদৰে বিভিন্ন সময়ত বিভিন্ন দাৰ্শনিকে আমাক গণতন্ত্ৰৰ বিষয়ে বিভিন্ন মতপোষন কৰি আহিছে হয় [silence] এতিয়া মানি গণতন্ত্ৰৰ কিছুমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 356.549,
+            "end": 367.552,
+            "speakerSeqId": 1,
+            "transcription": "গুণৰ বিষয়ে চাই লও আমি যিহেতু আজি আলোচনাৰ বিষয় গুণৰ বিষয় আলোচনা কৰিম বুলি কোৱা হৈছিলে হয় হয় গতিকে আমি গণতন্ত্ৰ নো কি বা গণতন্ত্ৰক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 367.552,
+            "end": 372.209,
+            "speakerSeqId": 1,
+            "transcription": "কেনেধৰণৰ গুণ বোৰৰ কাৰণে বৰ্তমান সময়ত গণতন্ত্ৰ জনপ্ৰিয় হৈ পৰিছে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10045,
+            "start": 372.209,
+            "end": 374.048,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 374.048,
+            "end": 376.36,
+            "speakerSeqId": 1,
+            "transcription": "তাৰ বিষয়ে আমি দুই এখাৰ মান আলোচনা কৰিব পৰা যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 376.36,
+            "end": 379.887,
+            "speakerSeqId": 2,
+            "transcription": "হয় [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 379.887,
+            "end": 393.691,
+            "speakerSeqId": 1,
+            "transcription": "অ হয় গণতন্ত্ৰৰ গুণ এক নম্বৰ চাবলৈ গলে গণতন্ত্ৰত ক্ষমতা আৰু স্বাধীনতাৰ ওপৰত প্ৰতিস্থিত [silence] গণতান্ত্ৰিক ব্য়ৱস্থাটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 393.691,
+            "end": 396.239,
+            "speakerSeqId": 1,
+            "transcription": "সকলোৰে বাবে সমান"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10050,
+            "start": 396.239,
+            "end": 397.927,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 397.927,
+            "end": 411.089,
+            "speakerSeqId": 1,
+            "transcription": "ইয়াত জাতি বৰ্ণ ভাষা লিংগ সম্পদান [noise] সকলো লোককে সমান মৰ্জদা সমান সুযোগ প্ৰদান কৰিছে হয় হয় গতিকে গণতান্ত্ৰিক ব্য়ৱস্থাটো আমি চাবলৈ গলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 411.089,
+            "end": 415.19,
+            "speakerSeqId": 1,
+            "transcription": "মুক্তপূৰ্ণ শাসন ব্য়ৱস্থা যিটো সমাজৰ পিছ পৰা শ্ৰেণীয়েও অংশগ্ৰহণ কৰিব পাৰিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 415.19,
+            "end": 417.35,
+            "speakerSeqId": 2,
+            "transcription": "হয় [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 417.35,
+            "end": 428.217,
+            "speakerSeqId": 1,
+            "transcription": "তাৰপিছত চাব লাগে যে গণতন্ত্ৰত যিহেতু শাসক সকল আমাৰ জনগণৰ দ্বাৰা নিৰ্বাচিত জনগণৰ দ্বাৰা নিৰ্বাচিত প্ৰতিনিধিয়ে গণতান্ত্ৰিক ব্য়ৱস্থাটোত অংশগ্ৰহণ কৰি আছে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10055,
+            "start": 428.217,
+            "end": 429.888,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 429.888,
+            "end": 433.432,
+            "speakerSeqId": 1,
+            "transcription": "হয় গতিকে যিকোনো ধৰণৰ গণবিল্পৱ আশাংকা কম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 433.432,
+            "end": 435.946,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 435.946,
+            "end": 450.155,
+            "speakerSeqId": 1,
+            "transcription": "তাৰ উপৰিও গণতন্ত্ৰত আকৌ আমাৰ গণতন্ত্ৰ আমাৰ জনসাধৰণৰ ৰাজনৈতিক চেতনা বৃদ্ধি কৰিছে (()) বৃদ্ধিত সহায় কৰিছে যিহেতু তেওলোক প্ৰত্য়াক্ষ ভাবে ইয়াৰ লগত জৰিত হৈ আছে ৰাজনৈতিক প্ৰক্ৰিয়াৰ লগত জৰিত হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 450.155,
+            "end": 462.592,
+            "speakerSeqId": 1,
+            "transcription": "তেওলোকৰ ৰাজনৈতিক জ্ঞান বৃদ্ধি গণতন্ত্ৰত যিবিলাক ৰাজনৈতিক দল আছে প্ৰচাৰ প্ৰচাৰ মাধ্য়মৰ সহযোগত তেওলোকে এইবোৰ তেওলোকৰ গণতন্ত্ৰৰ কাৰ্যকলাপ নীতি নিয়ম সমূহৰ বিষয়ে জানিব পাৰিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 462.592,
+            "end": 469.865,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে জনসাধৰণৰ ৰাজনৈতিক চেতনাও বৃদ্ধি হৈছে [silence] তাৰ উপৰিও অনেক গুণ আছে যেনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 469.865,
+            "end": 470.877,
+            "speakerSeqId": 2,
+            "transcription": "[noise] মই কব বিচাৰিম"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10062,
+            "start": 470.877,
+            "end": 473.341,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 473.341,
+            "end": 474.337,
+            "speakerSeqId": 2,
+            "transcription": "হেল্লো দেৱজিত"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10064,
+            "start": 474.337,
+            "end": 474.725,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 474.725,
+            "end": 488.444,
+            "speakerSeqId": 1,
+            "transcription": "ইয়াৰ মাজতে মই দুই এখাৰ মান কথা কব বিচাৰিম হয় কওক যে প্ৰতিটো বস্তুৰ যেনেকে দুটা দিশ আছে এটা হৈছে ধ্বংসাত্মক এটা সৃষ্টকাৰক সৃষ্টি [noise] এনেকে এই গণতন্ত্ৰ দিশটো টো কিছুমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 488.444,
+            "end": 490.25,
+            "speakerSeqId": 2,
+            "transcription": "দোষ জৰিত হয় [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 490.25,
+            "end": 503.311,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] দোষ জৰিত হৈ আছে অ উপস্থাপন কৰিব বিচাৰিছো যে গণতান্ত্ৰিক ব্য়ৱস্থাটো চৰকাৰৰ কাম কাজ প্ৰতি লেহেমীয়া হৈ বাবে হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 503.311,
+            "end": 515.731,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় ঠিকে কৈছে সংকতৰ সময়ত বা যুদ্ধৰ সময়ত এই চৰকাৰ খনে সৰকীয়া সিদ্ধান্ত গ্ৰহণ কৰিব নোৱাৰে হয় হয় যিহেতু এটা গুৰুত্বপূৰ্ণ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 515.731,
+            "end": 529.045,
+            "speakerSeqId": 2,
+            "transcription": "সিদ্ধান্ত গ্ৰহণ কৰিবলৈ দীঘলীয়া ব্য়ৱস্থা আলাপ আলোচনাৰ বাবে লেহেমীয়া হৈ যায় সেইকাৰণে এই ব্য়ৱস্থাত আমাৰ ৰাষ্ট্ৰখনৰ বিশিষ্ট ক্ষতিসাধন কৰে হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 529.045,
+            "end": 537.888,
+            "speakerSeqId": 2,
+            "transcription": "ইয়াৰ উপৰিও মই আৰু এটা কব বিচাৰিম যে গণতান্ত্ৰিক ব্য়ৱস্থা অতি ব্য়য়বহুল অৰ্থাত অতি খৰচি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 537.888,
+            "end": 539.795,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় আপুনি ঠিকেই কৈছে খৰচি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 539.795,
+            "end": 552.097,
+            "speakerSeqId": 2,
+            "transcription": "হয় চৰকাৰৰ বিভিন্ন সিদ্ধান্তৰ বাবে বহুতো লোকে শাসন পদ্ধতি ইয়াক অতি খৰচি কৰি পেলাইছে হয় অৰ্থাত আমি সৰল ভাষাত কব গলে চৰকাৰ খনৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 552.097,
+            "end": 566.879,
+            "speakerSeqId": 2,
+            "transcription": "আপোনাৰ কিবা এটা অনুস্থান পাতিব লাগিব অনুস্থানৰ সৰচ আহি পৰে নিৰ্বাচনৰ খৰচ আহি এনে অধিক খৰচ সংযোগ হৈ এই গণতান্ত্ৰিক ব্য়ৱস্থাটি অতি ব্য়য়বহুল কৰি তুলিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 566.879,
+            "end": 579.046,
+            "speakerSeqId": 2,
+            "transcription": "হয় [silence] হয় হয় ইয়াৰ লগতে মই আৰু এখাৰ কথা বিচাৰিম যে এই গণতান্ত্ৰিক ব্যৱস্থাটো হল সংখ্যাগৰিষ্ঠতা শাসন সংখ্যা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10075,
+            "start": 579.046,
+            "end": 579.265,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 579.265,
+            "end": 589.981,
+            "speakerSeqId": 2,
+            "transcription": "সংখ্যাগৰিষ্ঠ শাসন মানে সাধাৰণ ভাষাত কোনটো পন্থৰ লোক এই গণতান্ত্ৰিক মানে #আহ আপোনাৰ ৰাজনীতিত জৰিত হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 589.981,
+            "end": 595.415,
+            "speakerSeqId": 1,
+            "transcription": "বা যোনে বেছিকৈ সংশগিৰীষ্ঠ বা সমৰ্থন লাভ কৰে হয় হয় বেছি অধিক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 595.415,
+            "end": 599.414,
+            "speakerSeqId": 2,
+            "transcription": "অধিক সংশগৰীষ্ঠাতা স্বাৰ্থ ক্ষতি কৰিবলৈ কিছুমান ব্যৱস্থা কৰা হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10079,
+            "start": 599.414,
+            "end": 600.19,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 600.19,
+            "end": 606.451,
+            "speakerSeqId": 2,
+            "transcription": "হয় তথাপিও বাস্তৱ সংখ্যাগৰিষ্ঠতা সকলে দেশৰ শাসন কাৰ্যত গুৰুত্ব লাভ কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10081,
+            "start": 606.451,
+            "end": 609.472,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় সংখ্যালঘু [overlap] সেইকাৰণে কমি যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 609.472,
+            "end": 617.74,
+            "speakerSeqId": 2,
+            "transcription": "হয় যিহেতু আনে কিছুমান দেখে এই ব্য়ৱস্থাটো অতি ক্ষতিসাধন কৰিব পাৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10083,
+            "start": 617.74,
+            "end": 619.09,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10084,
+            "start": 619.09,
+            "end": 620.322,
+            "speakerSeqId": 2,
+            "transcription": "ইয়াৰ বিষয়ে কি বুলি কব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 620.322,
+            "end": 630.363,
+            "speakerSeqId": 1,
+            "transcription": "হয় গতিকে চাবলৈ গলে গণতন্ত্ৰত যেনেকৈ প্ৰতিটো বস্তুৰ এটা গুণ আছে ঠিক তেনেদৰে দোষো আছে যিমান যি নহওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10086,
+            "start": 630.363,
+            "end": 638.665,
+            "speakerSeqId": 1,
+            "transcription": "যিমান যি নহওক গণতন্ত্ৰ গণতান্ত্ৰিক পৰাম্পৰাটো আমাৰ ভাৰতবৰ্ষৰ দৰে এখন দেশৰ কাৰণে উপযোগী বুলি কব [silence] হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10087,
+            "start": 638.665,
+            "end": 652.773,
+            "speakerSeqId": 1,
+            "transcription": "#আহ গতিকে আজিলৈকে ভাৰতবৰ্ষতে গণতান্ত্ৰিক প্ৰক্ৰিয়াৰে চলি আছে আৰু ভৱিষ্য়তেও চলি যাব বুলি আশা কৰা গৈছে হয় হয় হয় ঠিকে আছে আজি গণতান্ত্ৰিক আমি গণতান্ত্ৰৰ বিষয়ে বহুত খিনি আলোচনা কৰিলো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10088,
+            "start": 652.773,
+            "end": 654.055,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10089,
+            "start": 654.055,
+            "end": 663.104,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে আজি আমাৰ আলোচনাৰ বিষয়টো ইমানতে সমাপ্ত কৰিছো [silence] হয়"
+        }
+    ]
+}

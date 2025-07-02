@@ -1,0 +1,588 @@
+{
+    "speechMode": "C",
+    "recordingId": "20199620",
+    "speechFile": "as_SHA1P_C_r013_s002",
+    "callDuration": 623.317,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0234412"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0234413"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 11.652,
+            "speakerSeqId": 1,
+            "transcription": "মই জুহু, ষ্টুডিঅৰ পৰা কৈছো, মোৰ লগত আছে বাবু। বাবু, আপোনাৰ মানে কিছু নেটৱৰ্কৰ সমস্যা। [silence] যিটো আমি নেটৱৰ্কৰ প্ৰবলেম বুলি কও, এইটো আপোনাৰ সেইপিনে আছে নে কিবা প্ৰবলেম?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 11.652,
+            "end": 23.127,
+            "speakerSeqId": 2,
+            "transcription": "অ, আমাৰ এইপিনে মানে নেটৱৰ্ক যে প্ৰবলেম দিয়ে। মানে আমি যদি এটা কাম কৰো যে মবাইলত এটা অনলাইনত বা কাম কৰিব যাওঁ, [overlap] মানে আমাৰ কাম ভালদৰে নহয়। [overlap] মানে কিয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 23.127,
+            "end": 36.037,
+            "speakerSeqId": 2,
+            "transcription": "নহয় আমাৰ গাওঁৰ যে নেটৱৰ্ক এটা যে আছে, নেটৱৰ্ক মানে মোবাইলৰ নেটৱৰ্ক ভালদৰে পাওঁ ন, পোৱা নাই যেতিয়া আমি মবাইলই ইউজ কৰোঁ [overlap], মোবাইল ইউজ কৰোঁতে এনেকুৱা এটা ডিষ্টটাৰ্ব দিয়ে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 36.037,
+            "end": 40.053,
+            "speakerSeqId": 2,
+            "transcription": "আমি এটা (()) কাগজ মানে আন এজনক পঠাও, প্ঠাও"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 40.053,
+            "end": 41.048,
+            "speakerSeqId": 1,
+            "transcription": "হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 41.048,
+            "end": 52.846,
+            "speakerSeqId": 2,
+            "transcription": "মানে [silence] এক মিনিটত নাযায় কেনে, দহ মিনিট - পোন্ধৰ মিনিট লাগি যায়। এখন কাগজ মানে অনলাইন পঠাওতে নেটৱৰ্কটো বহুত দিষ্টটাৰ্ব দিয়ে না, [overlap] আপোনাৰ গাওত কি (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 52.846,
+            "end": 68.369,
+            "speakerSeqId": 1,
+            "transcription": "হয়। এটা কথা কি জানে নে? আমাৰ (()) আমি গাঁৱলীয়া মানুহৰ মানে এনেকুৱা প্ৰবলেম এটা, বহুত প্ৰবলেম, মানে নেটৱৰ্কৰ বহুত সমস্যা পাও। [silence]  [overlap] যেনেকা আমি ফাৰ্ষ্ট টাইমত আমাক কি দিছে। আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 68.369,
+            "end": 76.418,
+            "speakerSeqId": 1,
+            "transcription": "এয়াৰ্টেল, জিঅ। অ, এয়াৰ্টেল, ভদা, আইডিয়া চিম আমি ইউজ কৰিছো, তেতিয়া ইমান প্রবলেম নাছিলে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 76.418,
+            "end": 88.231,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়া মানে সৰু কিপেদ ফোন থাকোতে মানে ইমান প্রবলেম নাছিলে, আজিকালি যেনেকা প্ৰবলেম দি আছে। [silence]  [overlap] ডিজিটেল ইণ্ডিয়া হৈ কেনে আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 88.231,
+            "end": 99.166,
+            "speakerSeqId": 1,
+            "transcription": "গাওঁৰ যিটো মানে সমস্যা এইটো (()) আজিলৈকে হৈ পোৱা নাই, কাৰণ আমি জানো যে ইণ্ডিয়া খন ডিজিটেল হয় কিন্তু আমাৰ যিটো গাওঁৰ সমস্যা, নেটৱৰ্কৰ যিটো প্ৰবলেম এইটো আজিকালি [overlap] এনেকোৱাই আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 99.166,
+            "end": 101.073,
+            "speakerSeqId": 2,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 101.073,
+            "end": 114.067,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ যেনেকা ফাৰ্ষ্ট টাইমত আমাৰ জিঅ চিম ওলোৱা পিছত, আমি কি কৰিলোঁ, মুকেশ আম্বানি আমাক জিঅ চিম দিলে [silence] তেতিয়া আমি ফাৰ্ষ্ট এনে কথা কব পাৰোঁ, এনে এনে দাতা ইউজ কৰিব পাৰো, মানে লাহে লাহে ইউজ কৰিব পাৰোঁ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 114.067,
+            "end": 127.782,
+            "speakerSeqId": 1,
+            "transcription": "তাৰ পিছত লাহে লাহে এনেকুৱা হয় গল, মানে কি কম, মানে যিটো আমাৰ যিটো ঘৰুৱা সমস্যা মানে বহুত দিগদাৰ দিয়ে। কিবা এটা আপুনি যেনেকৈ কৈছে যে এটা কাগজ পথাব লগা হলে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 127.782,
+            "end": 135.413,
+            "speakerSeqId": 1,
+            "transcription": "বহুত টাইম লাগি যাই, ছেম আমাৰো এনেকা হৈ যাই [silence] আৰু এটা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 135.413,
+            "end": 150.002,
+            "speakerSeqId": 2,
+            "transcription": "এই সমস্যা টো যে আছে, এই সমস্যা টো আমাৰ দূৰ কৰিব লাগে যে আমি এইখন চিম বা জি'অ, যে আপুনি কলে মুখেশ আম্বানিক যে আমাক এখ্ন চিম দিয়ে চিমখ্ন মানে জিঅ' প্ৰথমতেটো আমাক ফ্ৰী দিয়ে। ফ্ৰী এনেকা এটা দিয়ে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 150.002,
+            "end": 163.414,
+            "speakerSeqId": 2,
+            "transcription": "ভাল নেটৱৰ্ক এটা দি আছিল। [overlap] মানে প্ৰথমতে যে চিম টো ওলাল তাৰ মানে ভাল সময় এটা মানে চাৰ্ভিচটো ভাল দি আছিল মানে যিকোনো কাম কৰো পুৰা স্পীদত কাম কৰি থাকো বৰ্তমান এনেকুৱা হৈছে জি'অ চিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 163.414,
+            "end": 173.501,
+            "speakerSeqId": 2,
+            "transcription": "মানে কি কম, মানে যি কোনো আমি মেচেজ কৰোঁ, মানে মেচেজ কৰোঁতে আমাৰ মানুহৰ লগত এক মিনিট এক ছেকেণ্ডত কথা পাতিব লাগে যে মেচেজ কৰি কেনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 173.501,
+            "end": 177.753,
+            "speakerSeqId": 1,
+            "transcription": "হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 177.753,
+            "end": 190.342,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়, নিশ্চয়। এইটো লৈ হয় হয়, এইটো লৈ আপুনি কিবা এটা কম্প্লৈইন কৰা নাই জিঅ অফিচত, যে আপুনি কিবা ক কম্প্লৈইন কৰিছে নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 190.342,
+            "end": 202.39,
+            "speakerSeqId": 2,
+            "transcription": "অ, এইটো লৈ আমি জি'অ অফিচত বহুত মানে মবাইলৰ দি কল কৰিছোঁ বা মানে দৰ্খাষ্ঠ টো দিব পৰা নাই। (()) অফিচ নাই আমাৰ তাতে, আমাৰ গাঁৱত অফিচ নাই।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 202.39,
+            "end": 216.39,
+            "speakerSeqId": 2,
+            "transcription": "(()) মানে আমি দৰ্খাস্ত দিম, মোবাইলৰ দি কল কৰিছিলোঁ মানে জি'অ অফিচত। দিল্লীত আছে, গুৱাহাটীত আছে যে মানে মানে কৈ কল কৰিছো কল কৰি কেনে কৈছো আমাৰ যে গাওঁত নেটৱৰ্কৰ বহুত প্ৰবলেম হৈ। নেটৱৰ্ক টো ভাল কৰিব পাৰিবা নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 216.39,
+            "end": 225.205,
+            "speakerSeqId": 2,
+            "transcription": "কৰিব পৰি নে? (()) কোম্পানীৰ পৰা কৈ দিয়ে নেটৱৰ্ক টো ভালে আছে, আপোনাৰ ঘৰত নাপালে আমি কি কৰিম?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 225.205,
+            "end": 237.845,
+            "speakerSeqId": 2,
+            "transcription": "যে আমাৰ টাৱাৰ দুটা বহাই বহাই দি আহিছোঁ, দিলে কি হব? আমাৰ মবাইল যে নেটৱৰ্ক পোৱা নাই, গাওঁত এ পোৱা নাই গাওঁত। আমাৰ গাওঁত বা বেলেগৰ গাওঁটো পোৱা নাই [overlap] (()) [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 237.845,
+            "end": 239.465,
+            "speakerSeqId": 2,
+            "transcription": "আপোনাৰ গাওঁত এনেকোৱা সমস্যা দেখা দিছে নেকি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 239.465,
+            "end": 247.582,
+            "speakerSeqId": 2,
+            "transcription": "এটা কথা মানে কি জানে নে? আমি যে চিম খন ইউজ কৰোঁ, অমি কিন্তু বাৰ মাহত আমি তেৰ টা ৰিচাৰ্ছ কৰোঁ কিন্তু।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 247.582,
+            "end": 249.202,
+            "speakerSeqId": 1,
+            "transcription": "হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 249.202,
+            "end": 258.415,
+            "speakerSeqId": 2,
+            "transcription": "ইমান ইমান কম্পেনী বিলাকৰ ইমান প্ৰফিত হোৱাৰ পিছতো আমাৰ কিন্তু গাওঁৰ সমস্যা এটো কিন্তু ভালদৰে সিঁহতক বুজাব পৰা নাই।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 258.415,
+            "end": 259.58,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 259.58,
+            "end": 273.58,
+            "speakerSeqId": 2,
+            "transcription": "যিমানে কম্প্লেইন কৰাৰ পিছতো, মানে সিহঁতে এক্সন নলৈ, কাস্ত নকৰে। এণেকা মানে কিবা কিবি কৰি থাকে। আমি যেতিয়া কও যে আমাৰ প্ৰব্লেম হৈ আছে, আমি ডেটা ইউজ কৰিব পৰা নাই।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 273.58,
+            "end": 281.568,
+            "speakerSeqId": 2,
+            "transcription": "টাইম দিয়ে, যে চৌব্বিছ ঘণ্টা লাগিব, বাসত্তৰ ঘণ্টা লাগিব। আৰে ভাই, এটা কথা কি জানা নে? বাসত্তৰ ঘণ্টা হলে কিমান দিন যাব কেই দিন যাব?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 281.568,
+            "end": 295.591,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া সিহঁতে বুজিব লাগে যে চৌব্বিশ ঘণ্টা বা বাসত্তৰ ঘণ্টা পিছত আমি এইটো বস্তু ঠিক কৰি আছোঁ, কিন্তু এইটো বস্তু ঠিক নকৰিলে, এইটো বস্তু ছেম ছেম কাহিনী নেক্সটত আকৌ ছেম কাহিনী আপুনি পাই যাব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 295.591,
+            "end": 300.991,
+            "speakerSeqId": 1,
+            "transcription": "হয় [silence]  [overlap] হয় কব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 300.991,
+            "end": 315.841,
+            "speakerSeqId": 2,
+            "transcription": "আৰু এটা চিম তাৰ পিছে পিছে এটা চিম মানে আগতে উলাইছিল যে এয়াৰটেল হয়। [silence]  [overlap] এনে এইটো চাৰ্ভিচ দিল, মানে ছবে লৈ মানে এয়াৰ্টেল ছবে লৈ অছে মানে ভাল চাৰ্ভিচ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 315.841,
+            "end": 324.11,
+            "speakerSeqId": 2,
+            "transcription": "কি কম চাৰ্ভিচ মানে ঘৰত যদি নেট মানে (()) যি কোনো এটা ভিদিও চাও, এটা ফ্লিম চাও, নেটৰ পৰা গান চাওঁ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 324.11,
+            "end": 334.69,
+            "speakerSeqId": 2,
+            "transcription": "এনেকুৱা আমাৰ ভাল লাগে, মানে দেখিব মন যায় দেখিব মন যায়, যে আপুনি কলে বাৰ মাহৰ তেৰটা ৰিচাৰ্চ কৰোঁ, এনেকুৱা হলে সুবিধা হয় যায় মানে যি হয় এয়াৰ্টেল আহি কেনে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 334.69,
+            "end": 343.533,
+            "speakerSeqId": 2,
+            "transcription": "তাৰে পিছে পিছে, কেইদিন পিছে পিছে এনেকুৱা নেটৱৰ্কৰ অসুবিধা দিয়ে মানে কি কম আৰু, মোবাইল পেলাই দিব মন যায়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 343.533,
+            "end": 345.457,
+            "speakerSeqId": 1,
+            "transcription": "হয় [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 345.457,
+            "end": 349.473,
+            "speakerSeqId": 2,
+            "transcription": "কাম কৰি ভাল নালাগে আমাক। [silence] (()) দিস্তাৰ্ব দিয়ে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 349.473,
+            "end": 359.969,
+            "speakerSeqId": 2,
+            "transcription": "হয় এটা বস্তু কি জানে নে? [overlap] আমি যে বাৰ মাহত তেৰটা ৰিচাৰ্চ কৰোঁ। সেহতৰ একো লছ নাই, আমাৰ কিন্তু বহুত লছ হৈ আছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 359.969,
+            "end": 368.947,
+            "speakerSeqId": 2,
+            "transcription": "আমি কিন্তু নিজৰ পকেটৰ পইচা নষ্ট কৰি কেনে ৰিচাৰ্ছ কৰি আছোঁ, তথাপিও কিন্তু আমাৰ গাওঁৰ যিটো সমস্যা সেইটো দূৰ কৰিব পৰা নাই হয় নে নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 368.947,
+            "end": 370.887,
+            "speakerSeqId": 1,
+            "transcription": "হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 370.887,
+            "end": 386.794,
+            "speakerSeqId": 2,
+            "transcription": "তোও আমাৰ এইটো বস্তু আমাৰ নিজৰ। যেতিয়া আমি নিজৰ কোম্পানী ফালৰ পৰা আমাৰ ইমান টকা দি এটা মোবাইল কিনা পিছতো আমি ভালদৰে ঘৰত বহি বহি যদি ইউছ কৰিব নোৱাৰোঁ, আমাৰ এইটো বহুত ডিগদাৰ হয় । আমি কিন্তু ডিজিটেল ইণ্ডিয়াৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 386.794,
+            "end": 400.233,
+            "speakerSeqId": 2,
+            "transcription": "কিন্তু ইণ্ডিয়াৰ মাজত আছোঁ কিন্তু গাওঁৰ সমস্যা কিন্তু গাওঁৰ সমস্যা দূৰ হোৱা নাই আজিলৈকে । যেনেকৈ আপুনি আপোনাৰ চিটি বা টাউন সেইখিনি জাগাত বহুত সুবিধা, সুবিধাজনক।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 400.233,
+            "end": 410.577,
+            "speakerSeqId": 2,
+            "transcription": "মানে এক ফালে এটা বিল্ডিঙত ওপৰত উঠি যাবা তাৰ বিল্ডিংৰ ওপৰত উঠি যোৱাৰ পিছতে চাব এটাৰ পৰা এটা টাৱাৰ এটাৰ পৰা এটা টাৱাৰ পাই জাই। পাওঁ নে নাই? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 410.577,
+            "end": 425.269,
+            "speakerSeqId": 2,
+            "transcription": "কিন্তু আমাৰ গাওঁত সেনেকা নহৈ। আমাৰ গাওঁত এটা টাৱাৰ পাব হলে বহুত দূৰ যাব লাগে তিনি কিলোমিটাৰ চাৰি কিলোমিটাৰ যাব লাগে, আৰু কোনোবা পাব হলে দহ কিলোমিটাৰ দূৰত যাব লগে। এনেকোৱা মানে তথাপি আমাৰ গাওঁৰ যিটো সমস্যা সেইটো তেওঁলোকে ভালদৰে ঠিক কৰিব পৰা নাই।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 425.269,
+            "end": 449.474,
+            "speakerSeqId": 1,
+            "transcription": "[silence]  [overlap] যি আপুনি কলে যে চিটি, চিটি এটা এনেকুৱা মানে বস্তু হয় মানে চিটি এলেকা মানে তাত মানে মোবাইল টাৱাৰ জিঅ টাৱাৰ, এয়াৰৰ্টেল টাৱাৰ, ৰিলায়নচ মানে, ভদাফোন মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 449.474,
+            "end": 455.262,
+            "speakerSeqId": 1,
+            "transcription": "মানে তাতে টু জি থাকে, মানে তাত মানে চাৰ্ভিচতো ভাল দি থাকে নেটৱোৰ্ক চাৰ্ভিচ টো ভাল দি থাকে মানে তাতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 455.262,
+            "end": 469.937,
+            "speakerSeqId": 2,
+            "transcription": "যি দুই এটা মানে বেয়া কৰিলে। মানে <lang:Foreign>four</lang:Foreign> জি পৰা যে <lang:Foreign>five</lang:Foreign> জি আহিলে। মানে <lang:Foreign>five</lang:Foreign> জি আহি কেনে এনেকুৱা <lang:Foreign>four</lang:Foreign> জি এনেকোৱা এটা খাৰাব কৰি দিছে মানে <lang:Foreign>four</lang:Foreign> জি কোনো নেটৱৰ্ক পোৱা নাই। য'তে যাও মানে <lang:Foreign>four</lang:Foreign> জি কোনো নেটৱৰ্ক পোৱা নাই আৰু ঘতৰ এটা এনেকোৱা এটা খাৰাব হৈছে <lang:Foreign>four</lang:Foreign> জি এনেকোৱা খৰাব দেখাইছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 469.937,
+            "end": 479.798,
+            "speakerSeqId": 2,
+            "transcription": "(()) মানে আমি মোবাইলত কোনো কাম কৰিব পৰা নাই। যে আমি এটা মবাইলত যি কোনো এটা দৰ্খাষ্ঠ মানে চাওঁ মানে আমি (()) নাপাওঁ। মানে মানে ইঞ্জনিয়াৰৰ পৰা চাব পাৰে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 479.798,
+            "end": 480.777,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 480.777,
+            "end": 482.468,
+            "speakerSeqId": 2,
+            "transcription": "সেই চাই আমি ফোন কৰা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 482.468,
+            "end": 483.612,
+            "speakerSeqId": 2,
+            "transcription": "এনেকোৱা দিষ্টাৰ্ব দি আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 483.612,
+            "end": 495.644,
+            "speakerSeqId": 1,
+            "transcription": "হয়, [silence] এইটো বস্তু মানে এটা বস্তু জানেনে? মানে গাওঁত (()) আপুনি যেনেকৈ কৈছিলে <lang:Foreign>five</lang:Foreign> জি, আগত যেনেকা আছিল <lang:Foreign>four</lang:Foreign> জি আছিল <lang:Foreign>four</lang:Foreign> জি কিন্তু ভাল চলিছিল।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 495.644,
+            "end": 499.778,
+            "speakerSeqId": 2,
+            "transcription": "বহুত ভাল চলিছে [overlap] (()) আজিকালি <lang:Foreign>five</lang:Foreign> জি অহাৰ পিছত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 499.778,
+            "end": 501.432,
+            "speakerSeqId": 1,
+            "transcription": "[silence] হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 501.432,
+            "end": 505.448,
+            "speakerSeqId": 2,
+            "transcription": "আজিকালি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 505.448,
+            "end": 519.303,
+            "speakerSeqId": 2,
+            "transcription": "(()) আছিলোঁ, যে ঘৰত মোবাইল বহি বহি চাও হোৱাট্‌ছএপত, বৰ্তমান এনেকুৱা আমি যি কোনো কাম কৰো যে অনলাইনত আমি এটা কথা পাতো মানে আমাৰ বা নেটৱৰ্কৰ শান্তি নিদিয়ে। আমাৰ খোজ কাঢ়ি খোজ কাঢ়ি মানে ঘূৰি ঘূৰি, ঘূৰি ঘূৰি যাব লগে, যত নেটৱৰ্ক আহে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 519.303,
+            "end": 525.614,
+            "speakerSeqId": 2,
+            "transcription": "(()) যে এনেকুৱা এটা বস্তু হৈছে আমি নেটৱৰ্ক নাপালে, আমি মানে দূৰত দূৰত যাব লাগে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 525.614,
+            "end": 538.81,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] দিষ্টাৰ্ব দি থাকে, আমি যদি হোৱাট্‌ছএপ ত কথা কওঁ মানে ভইচ কথা কওঁ, মানে আগত ভাল আছিল বৰ্তমান এনেকুৱা হৈছে মানে হোৱাট্‌ছএপত কথা হওঁতে আমাৰ নেটৱৰ্ক টো মবাইলত ভালদৰে কথা খিনি বুজা নাযায়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 538.81,
+            "end": 540.683,
+            "speakerSeqId": 2,
+            "transcription": "এইটো আমাৰ গাওঁৰ সমস্যাত (()) হৈছে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 540.683,
+            "end": 553.407,
+            "speakerSeqId": 2,
+            "transcription": "হয়, কিন্তু হয়। এইটো আমাৰ সমস্যা দূৰ কৰিব লাগে। (()) কেনেকৈ দূৰ কৰিম এইতো মানে আমি আমাৰ নিজৰ ফালৰ পৰা ওলাব লাগিব, যেনেকা আমি দূৰ কৰিব লগা হলে আমাক ভাল দৰে কম্প্লেইন কৰিব লাগিব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 553.407,
+            "end": 567.076,
+            "speakerSeqId": 1,
+            "transcription": "যি কোনো চিম, আমি যেনেকৈ এয়াৰ্টেল চলাই আছোঁ, এয়াৰ্টেল কোম্পানী ফালৰ পৰা আমাৰ ভালকৈ কব লাগিব যে আমাৰ বহুত গাওঁৰ ভিতৰ অসুবিধা হৈ আছে, আপুনি কিবা এটা কৰক। [overlap] আপোনি কিবা এটা কৰক"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10063,
+            "start": 567.076,
+            "end": 568.443,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 568.443,
+            "end": 580.39,
+            "speakerSeqId": 2,
+            "transcription": "আপুনি যে আপুনি যে কথাটো কলে আমাক, যে আপোনাৰ জি'অ নেটৱৰ্ক টো দি, যিকোনো চিমত যে নেটৱৰ্কৰ সমস্যা দিয়ে, কোম্পানী বোৰক দৰ্খাষ্ঠ দিব লাগে। যে আমাৰ গাওঁৰ ওচৰত নাই। ক'ত কোম্পানীত আমি মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 580.39,
+            "end": 584.12,
+            "speakerSeqId": 2,
+            "transcription": "দৰ্খাস্ত খন দিম, যে আম [overlap] দিলে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 584.12,
+            "end": 595.392,
+            "speakerSeqId": 2,
+            "transcription": "(()) যে আমাৰ দৰ্খাস্ত খন দিলোঁ, মানে দৰ্খাষ্ঠ খন (()) এজেণ্ট আছে বোলে আমি এজেণ্ট বুলি কওঁ যে (()) এজেণ্ট। জিঅ এজেণ্ট।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 595.392,
+            "end": 602.699,
+            "speakerSeqId": 2,
+            "transcription": "একো নাই এজেণ্ট বা (()) এজেণ্ট আমি আমাৰ সমস্যাটো (()) এয়াৰ্টেল এজনক কৈ দিলোঁ।"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10068,
+            "start": 602.699,
+            "end": 604.201,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 604.201,
+            "end": 608.977,
+            "speakerSeqId": 2,
+            "transcription": "[silence]  [overlap] নেটৱৰ্ক নাহে, [silence] সুবিধা দিব লগে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 608.977,
+            "end": 618.781,
+            "speakerSeqId": 1,
+            "transcription": "হয় বাবু, মই কৈছোঁ যে আমি এইটো লৈ কোম্প্লেইন কৰিম যে আমি নেক্সট পাৰ্টত যি ডেটা লৈ যি কথা পাতি আছোঁ, এইটো ডেটা আমি নেক্সট পাৰ্ট ত কথা পাতিম।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 618.781,
+            "end": 623.317,
+            "speakerSeqId": 2,
+            "transcription": "ঠিক আছে হব।"
+        }
+    ]
+}

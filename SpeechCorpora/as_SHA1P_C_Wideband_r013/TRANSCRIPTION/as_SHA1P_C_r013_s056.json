@@ -1,0 +1,1012 @@
+{
+    "speechMode": "C",
+    "recordingId": "20829009",
+    "speechFile": "as_SHA1P_C_r013_s056",
+    "callDuration": 610.944,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239288"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239289"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 2.252,
+            "speakerSeqId": 1,
+            "transcription": "হেলো, হা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 2.252,
+            "end": 6.68,
+            "speakerSeqId": 2,
+            "transcription": "[noise] ক'তো এইবাৰ ঘুৰিব নাযাবা নেকি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 6.68,
+            "end": 10.688,
+            "speakerSeqId": 1,
+            "transcription": "না, পিকনিকৰ প্লেন কৰিছিলো, মোৰ বিয়া হ'ব বোধহয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 10.688,
+            "end": 13.588,
+            "speakerSeqId": 2,
+            "transcription": "বিয়া হ'ব তোমাৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 13.588,
+            "end": 14.628,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 14.628,
+            "end": 16.416,
+            "speakerSeqId": 2,
+            "transcription": "ক'ত?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 16.416,
+            "end": 26.019,
+            "speakerSeqId": 1,
+            "transcription": "ক'ত নাজানো । এহ <lang:Foreign>eighth sem</lang:Foreign> লৈকে পঢ়াব নেকি পাগল, তোমাৰো যেতিয়া <lang:Foreign>eighth sem</lang:Foreign> লৈকে পঢ়া হ'ব, তেতিয়া ভাল ঘৰ আহে তোমাক দি দিব, (()) পাইছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 26.019,
+            "end": 28.06,
+            "speakerSeqId": 2,
+            "transcription": "কোনে কৈছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 28.06,
+            "end": 33.828,
+            "speakerSeqId": 1,
+            "transcription": "তোমাৰ মাকে কৈছে, [overlap] আমাৰ সমুৰ~আমাৰ সমুৰ ভাল ঘৰ আহিলে দি দিম ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 33.828,
+            "end": 46.37,
+            "speakerSeqId": 2,
+            "transcription": "মোৰ এইবাৰ ঘৰ~ঘৰত যাই বন্ধু ঘৰ আহিছিল, মোৰ মা কৈছে ই এতিয়াই বিয়া নহ'বহে । [overlap]  [silence] মোক এতিয়া বিয়া নেদে নেদে, মোৰ পৰা ক্লিয়াৰ হ'ব যিমানটো (()) কৰাব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 46.37,
+            "end": 48.04,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 48.04,
+            "end": 54.217,
+            "speakerSeqId": 2,
+            "transcription": "কিয় কিয় ঘৰ আহিছিল নেকি দেখবা, আমি গমে নাপাও ভাই আমাৰ <lang:Foreign>best friend</lang:Foreign> ৰ বিয়া চিয়া লাগে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 54.217,
+            "end": 59.093,
+            "speakerSeqId": 1,
+            "transcription": "#উম নহয়, দেখা নাছিল, এনে কথা বতৰা চলিছিল আৰু । দিয়া নাই ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 59.093,
+            "end": 62.603,
+            "speakerSeqId": 2,
+            "transcription": "সেই টিচাৰটোৰ পিছত কি হ'ল, বিয়া হ'ল না নহ'ল, তোমাক যে চাইছিল?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 62.603,
+            "end": 71.124,
+            "speakerSeqId": 1,
+            "transcription": "সেইটো হোৱা নাই বিয়া । [overlap] আমালোককো মানে না কৰা নাই, এতিয়া তাইও কৰা নাই বিয়া [silence] তেও ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 71.124,
+            "end": 75.368,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] কি বা হয়!"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 75.368,
+            "end": 89.368,
+            "speakerSeqId": 1,
+            "transcription": "মানে আমাৰ (()) যে বয়সৰ কাৰণে পিছত কৈছিল, দেউতাক কৈছিল যে বয়স হোৱা নাই । [overlap] তাৰ পিছত হৈছে যেতিয়া আকৌ তো আমি কি নিজে খবৰ দিম নেকি যে মোৰ বয়স হৈছে, আহা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 89.368,
+            "end": 90.54,
+            "speakerSeqId": 2,
+            "transcription": "#উম ।"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10019,
+            "start": 90.54,
+            "end": 91.78,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 91.78,
+            "end": 97.844,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়াই বিয়া নবহিবা, [overlap] <lang:Foreign>at least</lang:Foreign> একৈছ বছৰৰ আগত বিয়া নবহিবায়ে, একৈছ বছৰ লৈকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 97.844,
+            "end": 100.192,
+            "speakerSeqId": 2,
+            "transcription": "পঢ়া শুনা কৰি [overlap] থাকা আৰু ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 100.192,
+            "end": 105.276,
+            "speakerSeqId": 1,
+            "transcription": "ভাবিছো মই #উম দুই হাজাৰ ছাব্বিছত হম বিয়া ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 105.276,
+            "end": 106.988,
+            "speakerSeqId": 2,
+            "transcription": "হেহ!"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 106.988,
+            "end": 110.495,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া কিমান চলি আছে, নাইন্টিন?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 110.495,
+            "end": 115.3,
+            "speakerSeqId": 1,
+            "transcription": "কি মোৰ? [overlap] নহয় মোৰ দুই হাজাৰ ছয়ত ন!"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 115.3,
+            "end": 124.433,
+            "speakerSeqId": 2,
+            "transcription": "অ এইট্টিন । [overlap]  [silence] #এৰ <lang:Foreign>two thousand twenty six</lang:Foreign> ত হ'ব কি, টুৱেন্টি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 124.433,
+            "end": 125.125,
+            "speakerSeqId": 1,
+            "transcription": "টুৱেন্টি হ'ব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 125.125,
+            "end": 138.743,
+            "speakerSeqId": 2,
+            "transcription": "<lang:Foreign>at least twenty</lang:Foreign> মোৰ মতে <lang:Foreign>twenty one</lang:Foreign> লৈকে থাকপা পাৰা যদি তোমাক নপঢ়াই <lang:Foreign>eighth semester</lang:Foreign> লৈকে । এনে <lang:Foreign>eighth semester</lang:Foreign> লৈকে তো পঢ়িবই লাগিব, সেইটো কথা নহয় । [overlap] ডিগ্ৰীটো হৈছে <lang:Foreign>sixth semester</lang:Foreign> লৈকে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 138.743,
+            "end": 142.726,
+            "speakerSeqId": 1,
+            "transcription": "অ, <lang:Foreign>six semester</lang:Foreign> লৈকে পঢ়াৰ পিছতেতো <lang:Foreign><initial>B. Ed</initial></lang:Foreign> হৈ যাব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 142.726,
+            "end": 147.822,
+            "speakerSeqId": 2,
+            "transcription": "কোনটো, নহয়, এইটো <lang:Foreign><initial>B. A, B. Ed</initial></lang:Foreign> বোলে একেলগে নহয়, কিবা বেলেগ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 147.822,
+            "end": 149.476,
+            "speakerSeqId": 1,
+            "transcription": "তেনেহ'লে কি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 149.476,
+            "end": 164.056,
+            "speakerSeqId": 2,
+            "transcription": "এইটো <lang:Foreign>four years</lang:Foreign> যে কিহৰ বা! মানে এইটো <lang:Foreign>ofur years</lang:Foreign> পঢ়াৰ পিছত তুমি <lang:Foreign>masters degree</lang:Foreign> পঢ়িলে এক বছৰ । এই একে কথা, <lang:Foreign><initial>B. Ed</initial></lang:Foreign> ও যদি তুমি তিনি বছৰ পঢা, [overlap] তাৰপিছত মাষ্টাৰ্ছ ললেও তোমাৰ দুই বছৰ পঢ়বাই লাগবো । [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 164.056,
+            "end": 172.73,
+            "speakerSeqId": 2,
+            "transcription": "চেম কথায়ে, ইয়াতে মানে চাৰি বছৰ দি মানে আৰু এক বছৰ পঢ়িলে মাষ্টাৰ্ছো হ'ব । সেই একে কথা, পাচ বছৰত তোমাৰ <lang:Foreign><initial>B. A</initial></lang:Foreign> ডিগ্ৰী আৰু [overlap] মাষ্টাৰ্ছ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 172.73,
+            "end": 173.81,
+            "speakerSeqId": 1,
+            "transcription": "(()) <lang:Foreign>masters complete</lang:Foreign> ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 173.81,
+            "end": 181.066,
+            "speakerSeqId": 2,
+            "transcription": "#উম এনেও পাচ বছৰতে <lang:Foreign><initial>B. Ed</initial></lang:Foreign> হয়, বেলেগ মানে পঢ়িলেও । [overlap] মই চাও (()) কৰি ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 181.066,
+            "end": 185.977,
+            "speakerSeqId": 1,
+            "transcription": "আৰু ছেমিষ্টাৰ বিলাকতো জল্দি হয় ন, ছয় মাহো নালাগে, পাচ মাহতে শেষ [overlap] হৈ যায় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 185.977,
+            "end": 187.698,
+            "speakerSeqId": 2,
+            "transcription": "নহয় না, চাৰি মাহৰ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 187.698,
+            "end": 189.402,
+            "speakerSeqId": 1,
+            "transcription": "অ, চাৰি মাহতে শেষ হৈ যায় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 189.402,
+            "end": 196.084,
+            "speakerSeqId": 2,
+            "transcription": "মোৰ মানে অধৈৰ্য লাগিছে এই চাৰি মাহতে ভাই, মানে কিবাকে কৰি ডিগ্ৰীটো খালী ক্লিয়াৰ হয়, তাৰ পিছত মই ইয়াতে নাথাকো ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 196.084,
+            "end": 198.254,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 198.254,
+            "end": 201.603,
+            "speakerSeqId": 2,
+            "transcription": "মোৰ অশান্তি লাগছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 201.603,
+            "end": 204.58,
+            "speakerSeqId": 1,
+            "transcription": "কেতিয়া যে চাৰি বছৰ হ'ব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 204.58,
+            "end": 207.644,
+            "speakerSeqId": 2,
+            "transcription": "চাৰি বছৰ মই নপঢ়ো, তিনি বছৰ পঢ়িম ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 207.644,
+            "end": 209.011,
+            "speakerSeqId": 1,
+            "transcription": "কিয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 209.011,
+            "end": 212.487,
+            "speakerSeqId": 2,
+            "transcription": "তিনি বছৰ পঢ়ি তাৰ পিছত হয় বেলেগ লাইন কিবা পঢ়িম ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 212.487,
+            "end": 214.208,
+            "speakerSeqId": 1,
+            "transcription": "অ মাষ্টাৰ্ছটো বেলেগ জাগাত লবা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 214.208,
+            "end": 217.702,
+            "speakerSeqId": 2,
+            "transcription": "অ, মাষ্টাৰ্ছ বেলেগ জাগাত পঢ়িম, গুৱাহাটীত পঢ়িম চাগে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 217.702,
+            "end": 218.427,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 218.427,
+            "end": 224.502,
+            "speakerSeqId": 1,
+            "transcription": "একেলগে পঢ়িম, এইটো কৈছিলো আমি সবক, তো মাষ্টাৰ্ছটো একেলগত কৰিম ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 224.502,
+            "end": 230.054,
+            "speakerSeqId": 2,
+            "transcription": "মই ইয়াতে পঢ়িম ভাই, কিবা কৰি তিনি বছৰ থাকিম মনটোক ধৈৰ্য কৰি, [overlap] তাৰ পিছত মই (()) পঢ়বা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 230.054,
+            "end": 234.323,
+            "speakerSeqId": 1,
+            "transcription": "#উম এবছৰ হ'লে আৰু অভ্যাস হৈ যাব তোমাৰ থাকা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 234.323,
+            "end": 237.14,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া [overlap] এবছৰ হোৱা নাই না!"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 237.14,
+            "end": 246.98,
+            "speakerSeqId": 2,
+            "transcription": "কি জানানে, এতিয়া মানে চৰকাৰী স্কুল বিলাকে যেনেহেন ডেভেলপ কৰি আছে, [overlap] সেই (()) চিটী খন চাই মোক মানে কিবা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10054,
+            "start": 246.98,
+            "end": 248.043,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 248.043,
+            "end": 260.902,
+            "speakerSeqId": 2,
+            "transcription": "নহয়, আমাৰ <lang:Foreign>university campus</lang:Foreign> আকৌ নতুন বনাইছে এটা কিহত, আনন্দৰামৰ ওচৰতে, লগতে । সেইটো বিশাল ডাঙৰ কেম্পাছ বনাইছে বিল্ডিং তুলি ইহতে, বহুত বহুত ডাঙৰ ডাঙৰ । [overlap] কিন্তু তাতে আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 260.902,
+            "end": 269.778,
+            "speakerSeqId": 2,
+            "transcription": "বচ লেবক লব খালী । [silence] আৰু সেই ঠাই খন ভাল নহয় মানে, ইমান চুনচান । ৰোডৰ লগতে, [overlap] মানে ৰোডৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 269.778,
+            "end": 279.08,
+            "speakerSeqId": 2,
+            "transcription": "যাব লাগে । তাতে এটা দোকান পোহাৰ একো নাই, এটাই খালী দোকান আছে । আৰু ঠাই খনত বোলে বাৰিষাৰ দিনত বানপানী হয় তাতে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 279.08,
+            "end": 280.358,
+            "speakerSeqId": 1,
+            "transcription": "ক'ত?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 280.358,
+            "end": 295.121,
+            "speakerSeqId": 2,
+            "transcription": "এই য'তে নতুন কেম্পাছ খুলিছে তাতে বোলে বহুত বানপানী হয় । [noise]  [overlap] আৰু এইটো জাগাত মানে আমি যিটো কেম্পাছত পঢ়ি আছো, এইটোতো বিশাল ডাঙৰ কেম্পাছ । [overlap] ইচ্ছা কৰিলে [silence] বিশাল মানে (()) বহুত ডাঙৰ কেম্পাছটো ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 295.121,
+            "end": 298.28,
+            "speakerSeqId": 1,
+            "transcription": "তোমালোকৰ <lang:Foreign><initial>P. G</initial></lang:Foreign> ৰ তলত দোকান চোকান নাই নেকি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 298.28,
+            "end": 300.338,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ <lang:Foreign><initial>P. G</initial></lang:Foreign> ত?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 300.338,
+            "end": 302.87,
+            "speakerSeqId": 1,
+            "transcription": "অ <lang:Foreign><initial>P. G</initial></lang:Foreign> ৰ তলত, ৰাস্তাত ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 302.87,
+            "end": 306.953,
+            "speakerSeqId": 2,
+            "transcription": "ইয়াতো আছে, আমাৰ <lang:Foreign><initial>P. G</initial></lang:Foreign> ৰ পৰা মোৰ বজাৰো ওচৰত হয়, কলেজো বেছি দুৰ নহয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 306.953,
+            "end": 309.063,
+            "speakerSeqId": 1,
+            "transcription": "((তো যদি)) [overlap] যোৱা না খোজ কাঢ়ি ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 309.063,
+            "end": 316.046,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়াও খোজকাঢ়িয়ে যাও, অলপ, বেছি খিনি নহয় । [overlap]  [silence] মানে ধৰি লোৱা আমাৰ ঘৰৰ পৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 316.046,
+            "end": 317.129,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 317.129,
+            "end": 322.816,
+            "speakerSeqId": 2,
+            "transcription": "কি কম, মুঠৰ ওপৰত দহ মিনিট লাগে মোৰ ৰুমৰ পৰা কলেজ, খোজকাঢ়ি গলে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 322.816,
+            "end": 325.904,
+            "speakerSeqId": 1,
+            "transcription": "অ তোমালোকৰ ঘৰৰ পৰাই যে <lang:Foreign>circle office</lang:Foreign>?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 325.904,
+            "end": 339.472,
+            "speakerSeqId": 2,
+            "transcription": "#উম তাতকে অলপ [overlap] কম হ'ব, <lang:Foreign>girl's college</lang:Foreign> অ <lang:Foreign>girl's college</lang:Foreign>, অ <lang:Foreign>circle office</lang:Foreign> টো আগত । [overlap]  [silence] আমাৰ ঘৰৰ পৰা [silence] #উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 339.472,
+            "end": 344.939,
+            "speakerSeqId": 2,
+            "transcription": "আইদিয়া নাপাও আমাৰ ঘৰৰ পৰা কিমান, মানে আমাৰ ঘৰৰ পৰা ব্ৰিজৰ সেই মুৰটো আছে যে, সেই পাৰ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 344.939,
+            "end": 345.8,
+            "speakerSeqId": 1,
+            "transcription": "অ অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 345.8,
+            "end": 352.904,
+            "speakerSeqId": 2,
+            "transcription": "এই পাৰৰ পৰা সেই পাৰ ব্ৰিজৰ, এনেহেন হ'ব আমাৰ ঘৰৰ পৰা । [overlap] দহ মিনিট লাগে আৰু ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 352.904,
+            "end": 356.684,
+            "speakerSeqId": 1,
+            "transcription": "অ । [silence] সবে একেলগত যোৱা নে অকলে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 356.684,
+            "end": 359.148,
+            "speakerSeqId": 2,
+            "transcription": "অকলে যাও এতিয়া, হেবিট হৈছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 359.148,
+            "end": 360.869,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 360.869,
+            "end": 369.644,
+            "speakerSeqId": 2,
+            "transcription": "(()) ৰ পৰা আমাৰ ইয়াতে ভাগ ভাগ আছে । অন্তৰীক্ষাৰো ৰুমৰ পৰা বজাৰ বহুত দুৰ হয় আৰু চব্জী বাজাৰতো আৰু দুৰ হয় । কিন্তু [overlap] মোৰ ইয়াত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 369.644,
+            "end": 376.377,
+            "speakerSeqId": 2,
+            "transcription": "মানে মেইন মোৰ কলেজো বেছি দুৰ নহয়, মেইন বজাৰো বেছি দুৰ নহয়, চব্জী বজাৰো বেছি দুৰ নহয় । সব মানে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 376.377,
+            "end": 380.571,
+            "speakerSeqId": 1,
+            "transcription": "বিলাকে দুৰত লৈছে ঘৰ, [silence] কলেজত কি ধৰণে দি আহে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 380.571,
+            "end": 393.708,
+            "speakerSeqId": 2,
+            "transcription": "কেনেকে বুজাও তোমাক, এ আমাৰ প্ৰতিমা পাণ্ডেটো আছে না । [overlap] চাপোজ ধৰি লোৱা সেইটো হৈছে অন্তৰীক্ষা হতৰ ঘৰ, মানে সেইফালেদি । [overlap] আৰু ঘৰ আছে সেইফালে, মই মানে এটা কৈ আছো কিন্তু দিচটেন্স আছে মাজতে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 393.708,
+            "end": 396.191,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ ঘৰটো [overlap] লোৱা, এইটো [overlap] ধৰি লোৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10081,
+            "start": 396.191,
+            "end": 407.14,
+            "speakerSeqId": 2,
+            "transcription": "আৰু নদীৰ ফালে আমাৰ ব্ৰিজখন যে, সেইটো ধৰি লোৱা আমাৰ (()) এনেহেন [overlap] (()) সেই পাৰত হৈছে অন্তৰীক্ষাৰ ঘৰ আৰু এইপাৰত হৈছে আমাৰ ঘৰ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 407.14,
+            "end": 411.157,
+            "speakerSeqId": 1,
+            "transcription": "তোমালোকৰ তোমাৰ <lang:Foreign><initial>P. G</initial></lang:Foreign> ৰ পৰা অন্তৰীক্ষাহতৰ ঘৰ বহুত দুৰ হয় ন?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10083,
+            "start": 411.157,
+            "end": 415.19,
+            "speakerSeqId": 2,
+            "transcription": "অ আমাৰ <lang:Foreign><initial>P. G</initial></lang:Foreign> ৰ পৰা অন্তৰীক্ষাহতৰ ঘৰ এক মি~এক কিলোমিটাৰ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10084,
+            "start": 415.19,
+            "end": 421.72,
+            "speakerSeqId": 1,
+            "transcription": "অ, [silence] আৰু অন্তৰীক্ষাৰ [overlap] ঘৰৰ পৰা~ঘৰৰ পৰা স্কু~কলেজ কিমান দুৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 421.72,
+            "end": 428.825,
+            "speakerSeqId": 2,
+            "transcription": "কাৰ, অন্তৰীক্ষাহতৰ? [overlap] অন্তৰীক্ষাহতৰ ঘৰৰ পৰা কলেজ পাচ মিনিট লাগে, মোৰ দহ মিনিট, তাহাতৰ পাচ মিনিট ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10086,
+            "start": 428.825,
+            "end": 429.972,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10087,
+            "start": 429.972,
+            "end": 443.945,
+            "speakerSeqId": 2,
+            "transcription": "কিন্তু তাহাতৰ বাজাৰ চাজাৰ কৰা কাৰণে অসুবিধা । [overlap]  [silence] আৰু এইফালে মানে ((টোটো))ৰ অলপ সমস্যা, বেছি মানে যায় কিন্তু আমাৰ <lang:Foreign><initial>P. G</initial></lang:Foreign> ৰ গলি না!"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10088,
+            "start": 443.945,
+            "end": 453.451,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] গলি বিলাক যে থাকে, টাউন বিলাকত যে গলি কেইটা থাকে, [overlap] গলি বিলাকততো ((টোটো)) এনিটাইম নাথাকে না! [overlap] অলপ <lang:Foreign>main road</lang:Foreign> লৈকে ওলাই যোৱাৰ পিছত হে ((টোটো)) পাও ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10089,
+            "start": 453.451,
+            "end": 454.863,
+            "speakerSeqId": 1,
+            "transcription": "#আহ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10090,
+            "start": 454.863,
+            "end": 457.057,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ গলি গলি যে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10091,
+            "start": 457.057,
+            "end": 459.622,
+            "speakerSeqId": 1,
+            "transcription": "বিলাসীপাৰাত [overlap] ত যেনেকুৱা তেনেকুৱাতো নহয় না?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10092,
+            "start": 459.622,
+            "end": 468.532,
+            "speakerSeqId": 2,
+            "transcription": "#হম ইয়াতে তো গ~গলি নাই না, [overlap] ইয়াতে য'তে যাবা মানে ৰোডৰ লগতে সবৰে ঘৰ না, পোৱা যায় ((টোটো)) ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10093,
+            "start": 468.532,
+            "end": 472.818,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] বিলাসীপাৰাতকে ((টোটো)) কম হ'ব ইয়াত, পাঠশালাত ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10094,
+            "start": 472.818,
+            "end": 475.257,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10095,
+            "start": 475.257,
+            "end": 476.817,
+            "speakerSeqId": 2,
+            "transcription": "বহুত বেছি ((টোটো)) ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10096,
+            "start": 476.817,
+            "end": 485.002,
+            "speakerSeqId": 1,
+            "transcription": "মোৰ এজ্কাম আছে, গুৱাহাটীতে পৰে না কত পৰে নাজানো । যাম দিয়া পাঠশালাত এবাৰ গ~ঘুৰিব~চাবলৈ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10097,
+            "start": 485.002,
+            "end": 486.841,
+            "speakerSeqId": 2,
+            "transcription": "কিহৰ এক্জাম আছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10098,
+            "start": 486.841,
+            "end": 489.001,
+            "speakerSeqId": 1,
+            "transcription": "এই ৰেলৱে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10099,
+            "start": 489.001,
+            "end": 495.734,
+            "speakerSeqId": 2,
+            "transcription": "অ । [silence] <lang:Foreign>third sem</lang:Foreign> ত যদি (()) কৰা [overlap] যায়, থাকিব পাৰিবা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10100,
+            "start": 495.734,
+            "end": 500.071,
+            "speakerSeqId": 1,
+            "transcription": "অ, কি বা হয় চাও । দিয়ে না নিদিয়ে [overlap] <lang:Foreign><initial>T. C</initial></lang:Foreign>"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10101,
+            "start": 500.071,
+            "end": 501.044,
+            "speakerSeqId": 2,
+            "transcription": "#হম?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10102,
+            "start": 501.044,
+            "end": 503.463,
+            "speakerSeqId": 1,
+            "transcription": "<lang:Foreign><initial>T. C</initial></lang:Foreign> দিয়ে না নিদিয়ে নাজানো ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10103,
+            "start": 503.463,
+            "end": 506.686,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো যোগাযোগ কৰি লবা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10104,
+            "start": 506.686,
+            "end": 510.28,
+            "speakerSeqId": 1,
+            "transcription": "তাত <lang:Foreign><initial>T. C</initial></lang:Foreign> দিলেও ইহতে ইয়াত এক্সেপ্ত কৰে না নকৰে সেইটো দেখিব লাগিব ন?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10105,
+            "start": 510.28,
+            "end": 520.507,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো এইফালৰ মানুহৰ পৰা যোগাযোগ কৰিব লাগিব, [overlap] আমি যেনে (()) যোগাযোগ আছিল, [overlap] ৰাখিব লাগিব, কলেজৰ লগত, কাৰোবাৰ লগত ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10106,
+            "start": 520.507,
+            "end": 522.987,
+            "speakerSeqId": 1,
+            "transcription": "কলেজতো যাব লাগিব এদিন ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10107,
+            "start": 522.987,
+            "end": 528.768,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়াতো আমি কলেজত আছো না, [overlap] মানুহ কেইটাক চিনি পাও, চো তোমাৰ বেছি প্ৰব্লেম নহ'ব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10108,
+            "start": 528.768,
+            "end": 529.628,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10109,
+            "start": 529.628,
+            "end": 535.492,
+            "speakerSeqId": 1,
+            "transcription": "চাৰ~চাৰ-মেমকোতো চিনি পোৱা কম বেছি ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10110,
+            "start": 535.492,
+            "end": 536.723,
+            "speakerSeqId": 2,
+            "transcription": "#উম ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10111,
+            "start": 536.723,
+            "end": 541.174,
+            "speakerSeqId": 2,
+            "transcription": "মুঠৰ ওপৰত মই ইয়াত তিনি বছৰৰ কোৰ্চ কৰিম, চাৰি বছৰৰ নকৰো । [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10112,
+            "start": 541.174,
+            "end": 548.435,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ <lang:Foreign>degree masters clear</lang:Foreign> কৰোতে কৰোতে পচিছ ব~চব্বিছ বছৰ হ'ব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10113,
+            "start": 548.435,
+            "end": 551.793,
+            "speakerSeqId": 1,
+            "transcription": "তোমালোকৰ তাত কি মছজিদ নাই নেকি ওচৰতে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10114,
+            "start": 551.793,
+            "end": 555.522,
+            "speakerSeqId": 2,
+            "transcription": "ইয়াতে মছজিদ নাই, এই পাঠশালাত নাই, বৰপেটাত আছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10115,
+            "start": 555.522,
+            "end": 560.172,
+            "speakerSeqId": 2,
+            "transcription": "পাঠশালাত নাইয়ে মানে । #উম পাঠশালাত মুছলমান মানুহ নাই যে ইয়াত ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10116,
+            "start": 560.172,
+            "end": 563.131,
+            "speakerSeqId": 1,
+            "transcription": "অ মানে কেতিয়া আজান দিয়ে নাজানা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10117,
+            "start": 563.131,
+            "end": 569.326,
+            "speakerSeqId": 2,
+            "transcription": "না, গম নাপাও । ইয়াত মছজিদ এটাও নাই, বৰপেটা টাউনত আছে । মানে আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10118,
+            "start": 569.326,
+            "end": 577.494,
+            "speakerSeqId": 2,
+            "transcription": "(()) ষ্টেচনত উঠো না বাছত, [overlap] বাছত উঠি কিনে পাচ মিনিটৰ ৰাস্তা যোৱাৰ পিছত বৰপেটা পাও পাও, টাউনত এটা ডাঙৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10119,
+            "start": 577.494,
+            "end": 580.497,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10120,
+            "start": 580.497,
+            "end": 593.137,
+            "speakerSeqId": 2,
+            "transcription": "পাঠশালাত মানে অকল খালি হিন্দু মানুহৰে বসৱাস ইয়াত, মানে আছামিজ বিলাক । আৰু [overlap] এই আৰু আছামিজৰ যি যি ভাগ আছে, সেইবিলাকে আছে, বেংগলীও নাই ইয়াত বেছি, ইয়াত অকল আছামিজ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10121,
+            "start": 593.137,
+            "end": 602.935,
+            "speakerSeqId": 2,
+            "transcription": "কিন্তু বৰপেটাত আছে মুছলমান মানুহ, সেইকাৰণে তাতে মানে যিটো ঠাইত যিটো কাষ্টৰ মানুহ থাকিব, সেইটোৱে বনাব না!"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10122,
+            "start": 602.935,
+            "end": 604.831,
+            "speakerSeqId": 1,
+            "transcription": "#উম #উম ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10123,
+            "start": 604.831,
+            "end": 608.088,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] দিয়া ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10124,
+            "start": 608.088,
+            "end": 610.944,
+            "speakerSeqId": 1,
+            "transcription": "ৰাখো ।"
+        }
+    ]
+}

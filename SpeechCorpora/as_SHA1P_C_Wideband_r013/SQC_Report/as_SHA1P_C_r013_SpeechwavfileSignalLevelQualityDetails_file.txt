@@ -1,0 +1,36 @@
+Clipped: as_SHA1P_C_r013_s037.wav
+Clipped: as_SHA1P_C_r013_s008.wav
+Clipped: as_SHA1P_C_r013_s009.wav
+Clipped: as_SHA1P_C_r013_s016.wav
+Clipped: as_SHA1P_C_r013_s052.wav
+Clipped: as_SHA1P_C_r013_s030.wav
+Clipped: as_SHA1P_C_r013_s020.wav
+Clipped: as_SHA1P_C_r013_s019.wav
+Clipped: as_SHA1P_C_r013_s042.wav
+Clipped: as_SHA1P_C_r013_s043.wav
+Clipped: as_SHA1P_C_r013_s053.wav
+Clipped: as_SHA1P_C_r013_s018.wav
+Clipped: as_SHA1P_C_r013_s032.wav
+Clipped: as_SHA1P_C_r013_s056.wav
+Clipped: as_SHA1P_C_r013_s047.wav
+Clipped: as_SHA1P_C_r013_s055.wav
+Clipped: as_SHA1P_C_r013_s015.wav
+Clipped: as_SHA1P_C_r013_s014.wav
+Clipped: as_SHA1P_C_r013_s051.wav
+Clipped: as_SHA1P_C_r013_s021.wav
+Clipped: as_SHA1P_C_r013_s049.wav
+Clipped: as_SHA1P_C_r013_s031.wav
+Clipped: as_SHA1P_C_r013_s024.wav
+Clipped: as_SHA1P_C_r013_s022.wav
+
+Summary of Observations
+--------------------------------
+Total duration of speech wavfiles (in seconds) 34359.286
+Total duration of speech wavfiles (in minutes) 572.6547729166664
+Total duration of speech wavfiles (in hours) 9.544246215277772
+Number of wav files 56
+Total number of Stereo wav files 0
+Percentage of clipped wav files 0.0
+Total number of clipped wav files 24
+Percentage of clipped wav files 42.857142857142854
+

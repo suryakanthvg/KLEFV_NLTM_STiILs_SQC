@@ -1,0 +1,580 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826153",
+    "speechFile": "as_SHA1P_C_r013_s026",
+    "callDuration": 605.568,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239028"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239029"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 8.924,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ তো আজি আমাৰ লগত আছে আমাৰ ৰাজিকোল ছাৰ ছাৰ কওক চোন আপুনাৰ খবৰ তো কেনেকোৱা আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 8.924,
+            "end": 12.333,
+            "speakerSeqId": 2,
+            "transcription": "#আহ মূৰ খবৰ ভালে আছে আৰু আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 12.333,
+            "end": 28.87,
+            "speakerSeqId": 1,
+            "transcription": "মই আছো ভালে তো ছাৰ আমি আজি অলপ (()) বিষয় আলোচনা কৰিম নিকি? তো আমাৰ যিটো বৰ্তমান আমি [silence] আমাৰ যিটো বৰ্তমান পৰিস্থিস্তি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 28.87,
+            "end": 30.44,
+            "speakerSeqId": 1,
+            "transcription": "পৰিস্থিস্তি (())"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10005,
+            "start": 30.44,
+            "end": 31.621,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 31.621,
+            "end": 43.417,
+            "speakerSeqId": 1,
+            "transcription": "যিটো [silence] বাওমণ্ডলত যিটো উতাপৰ বৰ্তমান কাৰণ বা আমাৰ যিটো পৰিবেশ নষ্ট হোৱাৰ কৰণ [overlap] মানে অলপ (()) লগিয়া লোকৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 43.417,
+            "end": 56.022,
+            "speakerSeqId": 1,
+            "transcription": "চাওক আমাৰ পৰিবেশ বুলিলে এনেঅখন থাইক বুজাই [silence] মানে যত আমাৰ গছ গছনি মানুহ জীৱ জন্তু মানে নদ নদী পাহাৰ পৰ্বত ইত্যাদি সকলো বিলাক থাকে হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 56.022,
+            "end": 69.556,
+            "speakerSeqId": 1,
+            "transcription": "তো আমাৰ [silence] এইবিলাক উপৰিও আমি পৰিবেশত বষবাষ বাষ কৰা মানুহ বিলাক #আহ সমাজৰ প্ৰতিও আমাৰ হচেতন হব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 69.556,
+            "end": 79.141,
+            "speakerSeqId": 1,
+            "transcription": "তো ছাৰ য়াৰ উপৰত আপুনি কিবা কব নিকি [silence] হেলো ছাৰ কিবা কব নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 79.141,
+            "end": 88.253,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] কিবা কলে হয় আমাৰ ভাল কৈ হোনা নাই (()) কৈক আকৌ কক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 88.253,
+            "end": 99.931,
+            "speakerSeqId": 1,
+            "transcription": "ছাৰ আমাৰ যিটো মানে পৰিবেশ আছে পৰিবেশৰ উপৰত আপোনি কিবা কব নিকি আলপ [silence] হেলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 99.931,
+            "end": 101.534,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় কি কলে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 101.534,
+            "end": 109.769,
+            "speakerSeqId": 1,
+            "transcription": "পৰিবেশ [overlap] আমাৰ যিটো পৰিবেশ তো পৰিবেশ (()) মানে আপোনাৰ কিবা মতা মত আছে নিকি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 109.769,
+            "end": 121.818,
+            "speakerSeqId": 2,
+            "transcription": "হয় মানেঅ কি কম আৰু আগৰ (()) পৰিবেশ কবলে গলে আৰু কি কম [silence] #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 121.818,
+            "end": 126.509,
+            "speakerSeqId": 2,
+            "transcription": "মুঠতে আমাৰ পৰিবেশ ৰক্ষা কৰিব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 126.509,
+            "end": 129.428,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 129.428,
+            "end": 137.765,
+            "speakerSeqId": 2,
+            "transcription": "আমি তেনেকৈ #আহ ৰক্ষা কৰিম পৰিবেশ তো সেই কথা তো হল যে আমি যিহেটো #আহ মানুহৰ জনসংখ্যা দিনক দিনে বৃদ্ধি পাইছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 137.765,
+            "end": 147.907,
+            "speakerSeqId": 2,
+            "transcription": "মানুহ বৃদ্ধি হোৱাৰ বাবে আমাৰ মাটিত দৰকাৰ হৈ (()) ঘৰ বাৰি দৰকাৰ হৈ আৰু এই দৰকাৰি বস্তু বিলাকৰ বাবে মানুহ কি কৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 147.907,
+            "end": 154.758,
+            "speakerSeqId": 2,
+            "transcription": "হাল বন কাটি #আহ বষ বাষ কৰি আছে আৰু হাবি খন কটা ফলত উদ্ভিদ বিনষ্ট হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 154.758,
+            "end": 166.908,
+            "speakerSeqId": 2,
+            "transcription": "এৰা পৰা আমি অক্সিজেন পালো সেতেন সেই অক্সিজেন বিলাক নোহোৱা হৈছে হৈটো এটা সময়ত এই (()) কটা ফলত মানে এটা সময়ত এক্সিজেন আভাব হব আৰু (()) লোৱাত মানুহৰ কষ্ট হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 166.908,
+            "end": 182.534,
+            "speakerSeqId": 1,
+            "transcription": "ছাৰক এইটো এই যে আমাৰ যিটো পৰিবেশ আছে পৰিবেশৰ যিটো (()) সেইটো ৰক্ষা কৰা মানে সকলোৰে প্ৰয়োজনীয় হৈ নে? আমি এটো প্ৰতি সছেতন থাকিব লাগিব যে আজি কালি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 182.534,
+            "end": 196.0,
+            "speakerSeqId": 1,
+            "transcription": "যিমান দুৰ্ত গটিত জনসংখ্যা বাৰহি আছে আমাৰ হাবি বন বিলাক বা গছ গছনি বিলাক কাটি আছে মানুহ আৰু এই য়াৰ জেগাত যিটো আমাৰ #আহ জনবসতি আছে সেইটো কৰি আছে হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 196.0,
+            "end": 210.074,
+            "speakerSeqId": 1,
+            "transcription": "তো আজি কালি আমাৰ যিহেটো মানে জন (()) গটিত আগ বাৰহি আছে তো আমাৰ পৰিবেশৰ ওপৰতো বহুত ধৰনৰ অসুবিধা সৃষ্টি হৈছে [silence] আজি কালি [babble] এইটো দেখাই যায় যে আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 210.074,
+            "end": 217.955,
+            "speakerSeqId": 1,
+            "transcription": "#আহ যিটো মানে পৰিবেশ আছে পৰিবেশ আগৰ নিছিনা (()) নহয় [overlap] আগতে ইমান মানে (()) নাছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 217.955,
+            "end": 229.447,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] আগৰ যিটো পৰিবেশ আছিল সেইটো বৰ্তমান নিছিনা কে মানে ইমান অসুবিধা পৰা নাছিল বা এনেকোৱা কৈ গছ গছনি #আহ কটোৱা নাছিল কিনোবাই [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 229.447,
+            "end": 238.61,
+            "speakerSeqId": 1,
+            "transcription": "আগৰ মানুহৰ বিলাকে অঘৰি মানুহ আছে সেই মানুহ বিলাকে মানে এনে খাই বৈ ঘূৰি ফুৰিছিল গছে পাতে খাইছিল [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 238.61,
+            "end": 248.532,
+            "speakerSeqId": 1,
+            "transcription": "তেওঁলোকে কিন্তু মানে আমাৰ যি হাবি বন বিলাক সেইবিলাক কিন্তু নষ্ট নকৰিছিল হয় নে? [overlap]  [silence] তো বৰ্তমান সময়ত কিন্তু আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 248.532,
+            "end": 256.261,
+            "speakerSeqId": 1,
+            "transcription": "যিহেতু আমাৰ মানুহৰ বস্তি স্থানৰ কাৰণে মানে এখন ঠাৰ প্ৰিয়োজন তো সেই আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 256.261,
+            "end": 268.664,
+            "speakerSeqId": 1,
+            "transcription": "#আহ হাবি বন বিলাক নষ্ট কৰিব লাগিছে বৰ্তমান আজি কালি এই কৰণে মানে দেখা যায় যে আমাৰ যিটো গোলকীয় উষ্ণতা আছে সেই গোলকিয় উষ্ণতা মানে দিনেক দিনে বৃদ্ধি পাই আছে হৈ নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 268.664,
+            "end": 281.388,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ (()) য়াটে এখিনিয়ে কব লাগিব যে আজি কালি যিটো আমাৰ মানে প্ৰাকৃতি দূৰ্যোগৰ পৰিমাণ দিনক দিনে বৃদ্ধি হৈ আছে তাৰ ফলতে আমি সকলোয়ে বেছি ভাগে ক্ষতিগ্ৰস্ত হৈ আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 281.388,
+            "end": 281.945,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 281.945,
+            "end": 292.07,
+            "speakerSeqId": 1,
+            "transcription": "তো আজি কালি যেনেকোৱা দেখা যায় যে আমাৰ ভূমিকম্প প্ৰাকৃতিক দূৰ্যোগৰ ভিতৰতে এটা অন্যতম হয় নে? আজি কালি সঘনায় ভূমিকম্প হোৱা বা বানপানী হোৱা দেখা যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 292.07,
+            "end": 303.697,
+            "speakerSeqId": 1,
+            "transcription": "তো বানপানীতো আমাৰ অসমৰ মানে এৰিব নোৱাৰে এটা সমস্যা (()) সমস্যা যিটো আমি মানে এনে দৰে যদি সঘনাই আমাৰ [silence] #আহ অসম দেশখন যদি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 303.697,
+            "end": 318.04,
+            "speakerSeqId": 1,
+            "transcription": "সঘনাই বানপানী হৈ থাকে কিন্তু মানে আমাৰ যিটো অসমৰ মানুহ আছে মনুহ বিলাকে কিন্তু কিতিয়াও উন্নতি পথত আগ বাঢ়িব নোৱাৰিব হৈ নে? [overlap] যিহেটো আমাৰ অসম খন হৈছে (()) কৃষি (()) দেশ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 318.04,
+            "end": 328.385,
+            "speakerSeqId": 1,
+            "transcription": "ৰাজ্য তো সেই আমি যিবিলাক আমাৰ কৃষি কৰ্যৰ লগত মানুহ যৰিত সেই বিলাক কিন্তু অকল মানে কৃষি কৰ্যৰ উপৰতে নিৰ্ভৰ কৰি জীৱিত (()) কৰে হৈ নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 328.385,
+            "end": 339.573,
+            "speakerSeqId": 1,
+            "transcription": "তো সেই তেওঁলোকৰ মানে যিটো কৃষি ব্যৱস্থা হেটো যদি আমাৰ বানপানী নষ্ট কৰি পেলাই তেনেহলে কিন্তু সিহঁতে কম ফচল বা ফচল মানে নাপাবই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 339.573,
+            "end": 353.944,
+            "speakerSeqId": 1,
+            "transcription": "আৰু যদি এনে ধৰণে খেতি-বাটী বিলাকো নষ্ট হৈ যায় তেনেহলে কিন্তু মানে সিহঁতৰ যি মানে অৰ্থনিতিক ভাবে সিহঁতে যিটো লাভবান হোৱা কথা সেইটো কিন্তু নহব আৰু যাৰ ফলত তেওঁলোকক মানে বহুতো ধৰনৰ অসুবিধা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 353.944,
+            "end": 359.283,
+            "speakerSeqId": 1,
+            "transcription": "কি হব যি জিয়াৰ থকা মানে যিটো প্ৰধতি সেইটো কিন্তু তান হৈ পৰিব হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 359.283,
+            "end": 359.975,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 359.975,
+            "end": 363.569,
+            "speakerSeqId": 1,
+            "transcription": "তো য়াৰ পৰা আমি এইটো কব লাগিব যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 363.569,
+            "end": 376.259,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ যিটো পৰিবেশ আছে পৰিবেশ ভিতৰত আকৌ আমাৰ সমাজ আছেতো আমাৰ যিটো পৰিবেশত বায়ু মানে মাটি পানী এই হকলো বিলাক মিলি কিন্তু আমাৰ পৰিবেশ সৃষ্টি হৈছে হৈ নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 376.259,
+            "end": 383.633,
+            "speakerSeqId": 1,
+            "transcription": "তো আমাৰ এই বায়ু এই বায়ু খিনি তো আজি কালি মানে [silence] বহুতো দূষিত হৈ আছে কৰণ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 383.633,
+            "end": 395.193,
+            "speakerSeqId": 1,
+            "transcription": "বৰ্তমান আমাৰ যিটো মানে গাড়ী মটৰ আছে সেই বিলাক কিন্তু এত্যাধিক পৰিমাণে #আহ যিবিলাক গেছ মিচৰ্ণ কৰে গাড়ী মটৰ পৰা যিবিলাক মানে ধুৱা মিচৰ্ণ হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 395.193,
+            "end": 402.145,
+            "speakerSeqId": 1,
+            "transcription": "কল কাৰখনৰ পৰা যিবিলাক ধুৱা মিচৰ্ণ হৈ সেইবিলাক কিন্তু আমাৰ (()) পৰিবেশতো বিনষ্ট কৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 402.145,
+            "end": 414.65,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ পৰিবেশৰ চাৰিউ পেনে সেই বিলাকৰ মানে যিটো আবোহাৱা মানে সেইটো ইমানে যদি বৃদ্ধি হয় থাকে তেনেহলে কিন্তু আমাৰ মানুহ বিলাকৰ বহুতো মানে অসুবিধা সৃষ্টি হব"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10046,
+            "start": 414.65,
+            "end": 414.667,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 414.667,
+            "end": 414.886,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 414.886,
+            "end": 428.886,
+            "speakerSeqId": 1,
+            "transcription": "আমি এটো কব লাগিব যে আমাৰ পৰিবেশখন সচেতন ৰাখিবলে আমি সকলোয়ে মানে পৰিবেশৰ প্ৰতি লক্ষ্য ৰখাতো উচিত আৰু সেই বক্ষা (()) আমি সকলোয়ে কিন্তু যিটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 428.886,
+            "end": 438.173,
+            "speakerSeqId": 1,
+            "transcription": "মানে পৰিবেশ আছে তো মানে (()) আমাৰ গছ গছনি ৰুপন কৰাৰ এইটো কিন্তু হকলোৰে ভালকে থাকিব লাগিব যে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 438.173,
+            "end": 447.657,
+            "speakerSeqId": 1,
+            "transcription": "যিহেটো জীৱায় থকাৰ কাৰণে আমাৰ পৰিবেশৰ প্ৰয়োজন বা আমাৰ পৰিবেশ (()) পৰিবেশৰ প্ৰওজন তো সেই আমি গছ গছনি বিলাক ৰোপন কৰিব লাগে ভালদৰে আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 447.657,
+            "end": 454.525,
+            "speakerSeqId": 1,
+            "transcription": "এটা কথা ভাবিব লাগিব যে এটা গছ কতা আগতে কিন্তু দহতা গছ ৰুব লাগে হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 454.525,
+            "end": 469.105,
+            "speakerSeqId": 1,
+            "transcription": "আৰু যদি আমাৰ মাজত মানে এনেকোৱা ধৰনৰ গছ গছনি বিলাক ভাল দৰে সকলোৰে ৰোপন কৰে কেবল আমাৰ পৰিবেশটোৰ কথা যদি আমি অকলে চিন্তা কৰো তেনেহলে কিন্তু নহব আমাৰ পৰিয়ালৰ কথা সকলোয়ে চিন্তা কৰিব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 469.105,
+            "end": 483.747,
+            "speakerSeqId": 1,
+            "transcription": "আমি সকলোয়ে যদি চিন্তা কৰো তেইয়া হলে আমাৰ পৰিবেশ মানে (()) পথৰ পৰা মানে অটৰি আহিব পাৰিব নহলে কিন্তু যদি এজন মানুহ মানে পৰিবেশৰ কথা চিন্তা কৰে আৰু বাকি মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 483.747,
+            "end": 492.511,
+            "speakerSeqId": 1,
+            "transcription": "বিলাকে বা গুতেয় পৰিবেশ মানুহে চিন্তা নকৰে তেনেহলে কিন্তু মানে নহব [silence] মানে এনেকৈ নহব ছাৰ আপোনাৰ মতা মত কিবা কব নিকি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 492.511,
+            "end": 499.16,
+            "speakerSeqId": 1,
+            "transcription": "সুনিছেনে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 499.16,
+            "end": 503.716,
+            "speakerSeqId": 2,
+            "transcription": "হয় সুনিআছে আপোনি কোচনতো মানে কিবা কি বিষ্যত মানে কোচতো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 503.716,
+            "end": 510.989,
+            "speakerSeqId": 1,
+            "transcription": "মানে আমাৰ যিটো পৰিবেশ আছে সেই পৰিবেশটো আমি কেনেকে ৰক্ষা কৰিব লাগিব এই বিষ্য আলপ কওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 510.989,
+            "end": 521.62,
+            "speakerSeqId": 2,
+            "transcription": "চাওক আজি পৰিবেশ ৰক্ষা কৰিবলে হলে আমি (()) গাওঁৰ মানুহ সচেতন হব লাগিব তাৰ পিছোত [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 521.62,
+            "end": 534.766,
+            "speakerSeqId": 2,
+            "transcription": "গাওঁ খন মামুহক সচেতন কৰিব সচেতন জনাব লাগিব তাৰ পিছত এনেকৈ এটা চ্চিতেমত গুতেই এই মানে এখন গাওঁ ভিতৰত আন আখন গাওঁ এনে কৈ বহুত কিখন গাওঁ লাগি তাৰ পিছত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 534.766,
+            "end": 544.57,
+            "speakerSeqId": 2,
+            "transcription": "#আহ মানে সমুষ্টি লগ লাগি যেতিয়া গুতেয় ভাৰত বৰ্ষত মানে যেতিয়া সচেতন হৈ যাব তেতিয়া আমি পৰিবেশখন (()) ৰক্ষা কৰিব পাৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 544.57,
+            "end": 550.527,
+            "speakerSeqId": 2,
+            "transcription": "কিয়নো [overlap] এজন মানুহ অকলে সচেতন হয় পৰিবেশটো ৰক্ষা কেতিয়াও নাপায়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10062,
+            "start": 550.527,
+            "end": 551.843,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 551.843,
+            "end": 560.483,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] পৰিবেশটো মানে আমি কেনেকে ৰক্ষা কৰিম #আহ পৰিবেশ ৰক্ষা কৰিম আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 560.483,
+            "end": 571.03,
+            "speakerSeqId": 2,
+            "transcription": "কে মানে আমি যিটো অক্সিজেন পাওঁ গছৰ এইটো প্ৰধান কামতো হল এইটো যে আমি বিষকৈ আমাৰ #আহ গছ গছনি বিলাক আমি ৰক্ষা কৰিব লাগিব কিওনো আমি গছ গছনি পৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 571.03,
+            "end": 574.928,
+            "speakerSeqId": 2,
+            "transcription": "যিটো গেচ পাই আছো এই গেচটো কাৰণে আমি জীয়াই আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 574.928,
+            "end": 576.565,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 576.565,
+            "end": 580.987,
+            "speakerSeqId": 2,
+            "transcription": "আপোনি কওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 580.987,
+            "end": 594.25,
+            "speakerSeqId": 1,
+            "transcription": "তো এইটো যে আমাৰ যিটো পৰিবেশ আছে এইটো পৰিবেশ মানে ভালে থাকিলে আমাৰ সকলোৰে মনউ ভাল থাকে বা আমাৰ যিটো পৰিবেশৰ সকলোৰে যিটো মনখিক মানে যিটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 594.25,
+            "end": 600.241,
+            "speakerSeqId": 1,
+            "transcription": "মানে মেন্তেলিতি যিটো কৈ সেইটো হকলোৰে ভাল হয় (()) আমি নেষত পাৰ্ত আলোচনা কৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 600.241,
+            "end": 605.568,
+            "speakerSeqId": 2,
+            "transcription": "ৰেকৰ্ডি তো তিপি দেউক ৰেকৰ্ড তো লাল তা"
+        }
+    ]
+}

@@ -1,0 +1,652 @@
+{
+    "speechMode": "C",
+    "recordingId": "20823052",
+    "speechFile": "as_SHA1P_C_r013_s013",
+    "callDuration": 616.683,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0237223"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0237224"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 7.102,
+            "speakerSeqId": 1,
+            "transcription": "হেৰি চিটি চেন্টাৰ গৈ পাইছা নেকি [silence] অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 7.102,
+            "end": 20.686,
+            "speakerSeqId": 2,
+            "transcription": "অ গৈ পাইছো অ~ [overlap] এদিন গলো, এ যাই পেলে কিন্তু বহুত দাম মানে বস্তুবিলাক ইমানে ধুনীয়া লাগে চাই, মানে এইটো পছন্দ হয় সেইটো পছন্দ হয়, মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 20.686,
+            "end": 32.009,
+            "speakerSeqId": 2,
+            "transcription": "চাও আৰু চাই পেলে মানে বহু কুৱালিটি [overlap] বিলাকো ভাল কাপোৰৰ, বা যিয়ে নহক আৰু যি বস্তুতে নহক কুৱালিটি [noise] বিলাক ধুনীয়া, বা দেখিবলৈও ধুনীয়া, এ মানে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 32.009,
+            "end": 38.05,
+            "speakerSeqId": 2,
+            "transcription": "কিন্তু ইমান সেইটো হে বাজেটতো হে নিমিলে তাৰমানে অকমান কস্তলি হয় [silence]  [noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10005,
+            "start": 38.05,
+            "end": 38.236,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10006,
+            "start": 38.236,
+            "end": 39.046,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 39.046,
+            "end": 52.377,
+            "speakerSeqId": 1,
+            "transcription": "আ~অ~ এনে গৈ পাইছা নেকি তুমি চাইছা নে কেতিয়াবা কাপোৰ [silence] অ কাপোৰবিলাক চাইছো [overlap] দাম, [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 52.377,
+            "end": 63.498,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] দেখাতটো চব ভাল লাগে, কিন্তু মানে সেইবিলাক কাপোৰ মানে দেখিলে মানে, [overlap] চেণ্ডেলে হক বা কাপোৰে হক বহুত দাম কিন্তু [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 63.498,
+            "end": 73.423,
+            "speakerSeqId": 2,
+            "transcription": "এ চাম বুলি ভাবিছিলো [music], মানে সেনেকে বহুত দামটো [overlap] মানে মানে আকৌ লব খুজা বস্তুযোৰ তাৰমানে লব নোৱাৰি এনেকুৱা হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 73.423,
+            "end": 89.587,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] মই মানে গৈছিলো, যাওতে মানে চালু কিবা কিবি চালু পছন্দ হৈছিল বহুত কিবা কিবি কিন্তু বাজেটত নিমিলিল কাৰণে মই নললো [silence] আও মানে ধৰা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 89.587,
+            "end": 100.37,
+            "speakerSeqId": 2,
+            "transcription": "দামটো বেছি কাৰণে যদিও ভাল লাগিছে অলপ দামটো অলপ মিলাকে হলে ভাল লাগে [silence] অলপমান নিয়মৰ হলে [overlap] লব মানে ভাল লাগে এতিয়া আকৌ অলপমান দামটো যে বহুত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 100.37,
+            "end": 104.167,
+            "speakerSeqId": 2,
+            "transcription": "সেইকাৰণে হে লোৱা নহয় আৰু চেণ্ডেলো চাইছিলো কাপোৰো চাইছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 104.167,
+            "end": 118.628,
+            "speakerSeqId": 1,
+            "transcription": "[noise] অ অ, তুমি লৈছা নেকি কেতিয়াবা [noise]  [silence] অ মই অ গৈছিলো [overlap] বেছি দিন হোৱা নাই যাব"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10014,
+            "start": 118.628,
+            "end": 119.978,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 119.978,
+            "end": 121.987,
+            "speakerSeqId": 1,
+            "transcription": "আও [overlap] কৰ পৰা ললা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10016,
+            "start": 121.987,
+            "end": 122.459,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 122.459,
+            "end": 133.968,
+            "speakerSeqId": 1,
+            "transcription": "কাপুৰ [silence] অ পূজা বুলি, অ পূজা বুলি মই সেই ফেনচী পৰাই লৈছো [babble] চিটী চেন্টাৰত মানে [overlap] বহুত লব মন যায়, কিন্তু অলপমান প্ৰাইজ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 133.968,
+            "end": 146.776,
+            "speakerSeqId": 2,
+            "transcription": "বিলাক আমাৰ হেৰি [overlap] ভাল হয় আৰু নহয় [silence] মানে [babble]  [overlap] ধৰা বহুত মানে [silence] কমত নাইয়ে চব মানে বহুত অলপ [overlap] মানে কব গলে বহুতে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 146.776,
+            "end": 151.147,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ লগত নিমিলে আৰু, অ অ অলপমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 151.147,
+            "end": 163.364,
+            "speakerSeqId": 2,
+            "transcription": "নিয়মৰ হলে আমি অলপমান মানে কৰিব পাৰো আৰু এইটো, এ লব বাৰু ইচ্ছা যায়, বহুত বস্তু থাকে বা এইটো ভাল লাগে সেইটো ভাল লাগে এনেকে বস্তুবিলাক চাও চাইছো, [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 163.364,
+            "end": 169.034,
+            "speakerSeqId": 2,
+            "transcription": "[babble] অ অ [silence] উম~"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 169.034,
+            "end": 180.897,
+            "speakerSeqId": 1,
+            "transcription": "পূজা বুলি কিবা এটা লব পাৰিলে ভাল হল হয়, এনে মানে অ চিটি চেন্টাৰত মানে অ~, [overlap] চিটি চেন্টাৰত [silence]  [babble] অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 180.897,
+            "end": 194.954,
+            "speakerSeqId": 2,
+            "transcription": "ভাল লাগে ভাল লাগে অ কেনেকুৱা [overlap] বহুত ভাল লাগে হোল বিলাক ভাল মানে চাউণ্ড~তু বহুত ধুনীয়া, <lang:Foreign>Sound System</lang:Foreign> তু বা বহাৰ চিটবিলাকে ধুনীয়া [overlap] দিছে মানে, মানে কিছুমান হোলত এনেকুৱা হয়, [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 194.954,
+            "end": 195.865,
+            "speakerSeqId": 2,
+            "transcription": "চাব নোৱাৰি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 195.865,
+            "end": 209.865,
+            "speakerSeqId": 2,
+            "transcription": "[babble] মানুহজনে স্ক্ৰিনখন ভালকে দেখা নাপায় মানুহ মাঠাটু মানে মূৰতু মানে আহি থাকে সেনেকুৱা নহব ধুনীয়া মেজাৰমেন্টত তাৰমানে, ধুনীয়া মানে স্ক্ৰিনখনে দেখা পায় চাইডত মানুহ বা আগফালে মানুহ আছে মানুহৰ, কিবা দেখাব এনেকুৱা নহয় ধুনীয়া স্ক্ৰিনখনত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 209.865,
+            "end": 219.372,
+            "speakerSeqId": 2,
+            "transcription": "[babble] চকু যায় ডাইৰেক্ত, কিছুমান হোলৰ মানে এনেকুৱা [overlap] যেনে চিটি চেন্টাৰ ধুনীয়া [silence] চাই পাইছো চিনেমা [silence] মানে চাউণ্ডতু ধুনীয়া এটা আহে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 219.372,
+            "end": 233.885,
+            "speakerSeqId": 2,
+            "transcription": "অ [overlap] বুজি পাইছো কাপোৰহে এনেকে লোৱা হোৱা নাই কাপোৰৰ বস্তু বহুত দাম মানে অ কাপোৰটো [silence] উম, [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 233.885,
+            "end": 245.866,
+            "speakerSeqId": 2,
+            "transcription": "[babble] মানে অকণমান পাৰি আৰু চাব কিন্তু খোৱা বস্তু বিলাকতো বহুত দাম সেইকাৰণে ইমান [overlap] সেই নকৰো আৰু চিনেমাখনে চাও আৰু [silence] খোৱা বস্তুবিলাকতো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 245.866,
+            "end": 257.071,
+            "speakerSeqId": 2,
+            "transcription": "[babble] বহুত বহুত দাম, মানে সেইটো মানে বাহিৰত খাবলে হলে মানে বাহিৰত [overlap] বেলেগ যাগাত যুদি খাও মানে পেটতো ভৰি যাব তাত মানে এনেকুৱা হয় ন অলপমান বস্তু বহুত দাম [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 257.071,
+            "end": 262.859,
+            "speakerSeqId": 1,
+            "transcription": "উম, বহুত দাম, নে~ কিবা কি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 262.859,
+            "end": 272.039,
+            "speakerSeqId": 2,
+            "transcription": "[babble] খোৱা হোৱা নাই দিয়া, মানে খাব চাও, কিন্তু~ এ মানে বহুত দামৰ কাৰণে ভাবো দে চিনেমাখনে চাই লও আৰু এনেকুৱা আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 272.039,
+            "end": 282.282,
+            "speakerSeqId": 2,
+            "transcription": "মানে ইমান দামৰতো ইমান সেই কৰিব নোৱাৰি ন চিনেমাখন কিবাকে চাও আৰু [silence]  [babble] নিয়মৰ যদি এটা দাম হল হৈ তেতিয়ালৈ চোৱা গল হয় মানে খোৱা গল হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 282.282,
+            "end": 294.247,
+            "speakerSeqId": 2,
+            "transcription": "চাও কিবা কিবি কি আছে কি নাই এনেকে চাও কিন্তু লোৱা নহয় এনেকে, উম অ অ অ এনেকুৱাৱে আৰু, তুমি চিনেমা চাই পাইছা নেকি তুমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 294.247,
+            "end": 306.329,
+            "speakerSeqId": 1,
+            "transcription": "অ মই চিনেমা চাই পোৱা নাই কিন্তু মানে চাম বুলি ভাবি আছো কিন্তু মানে [overlap] পোৱা নাই মানে তেনেকে চাব [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 306.329,
+            "end": 320.318,
+            "speakerSeqId": 2,
+            "transcription": "ইমান দামৰ নহয় কিন্তু নিমিলা আৰু, চিনেমা, [babble] যেনেকুৱা বহুত মানে বহুত দাম, লব নোৱাৰি সেনেকুৱা নহয় মানে বস্তু বিলাকৰ বহুত দাম খোৱা বস্তু হক হেৰি হক কিন্তু সেইবিলাক আৰু নকৰো আৰু নাখাও আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 320.318,
+            "end": 330.038,
+            "speakerSeqId": 2,
+            "transcription": "উম চিনেমাখনে চাও এনেকুৱা চাব পাৰা তুমিও, ইমান হেৰি নহয় চিনেমাখন [silence] অ অ [silence] উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 330.038,
+            "end": 330.747,
+            "speakerSeqId": 1,
+            "transcription": "অ চা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10038,
+            "start": 330.747,
+            "end": 330.899,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10039,
+            "start": 330.899,
+            "end": 332.722,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 332.722,
+            "end": 341.8,
+            "speakerSeqId": 2,
+            "transcription": "বহুত ডাঙৰ [babble] মানে, বিল্ডিংটো বহুত মানে এৰিয়াত আছে বহুত ডাঙৰ [silence] গুৱাহাটীৰ ভিতৰত সেইটোৱে ডাঙৰ মল নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 341.8,
+            "end": 350.795,
+            "speakerSeqId": 1,
+            "transcription": "চিটি চেন্টাৰটো, বহুত [overlap] ভাল লাগে [babble] অ এনেই মানে ঘূৰি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 350.795,
+            "end": 362.675,
+            "speakerSeqId": 2,
+            "transcription": "বাতচা বিলাকৰ এইবিলাক আছে খেলা ধূলা বিলাক [silence] এনেকে ভাল লাগে, যায় [silence] কিবা কিবি এনেকে হল মানে, পূজা বুলি পেলায় মানুহ বিলাক উলায় আহে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 362.675,
+            "end": 366.1,
+            "speakerSeqId": 2,
+            "transcription": "বা পূজাৰে ধুনীয়াকে চেলিব্ৰেচন কৰে তাতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 366.1,
+            "end": 366.337,
+            "speakerSeqId": 1,
+            "transcription": "অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 366.337,
+            "end": 375.5,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] কিবা কিবি লগায় সেনেকুৱা আৰু, ভাল লাগে যায় [silence] উম উম"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10046,
+            "start": 375.5,
+            "end": 376.394,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 376.394,
+            "end": 376.732,
+            "speakerSeqId": 1,
+            "transcription": "যাওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 376.732,
+            "end": 379.195,
+            "speakerSeqId": 1,
+            "transcription": "আৰু [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 379.195,
+            "end": 389.59,
+            "speakerSeqId": 2,
+            "transcription": "ফেমিলি হক ফ্ৰেণ্ড হক, [overlap] গৈছো কেতিয়াবা ফ্ৰেণ্ডৰ লগতো গৈছো কেতিয়াবা অ, এনেকে এনে আৰু [babble] এনেকে ফটোৱে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 389.59,
+            "end": 402.061,
+            "speakerSeqId": 2,
+            "transcription": "বা এনে ফুৰিব এ গলো কিমান নো ঘৰত থাকিম মন চন কেতিয়াবা হেৰি লাগে ন এনেকে অকমান উলাই সুমাই গলে মন বিলাক ধৰা চবৰে দিয়াচুন, অ অকমান উলুৱা সুমুৱা কৰিলে মনবিলাক চবৰে ভাল হয় অ ভাল [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 402.061,
+            "end": 404.828,
+            "speakerSeqId": 2,
+            "transcription": "মানে ওলোৱা সুমুৱা কৰিবই লাগে একটুৱেলি অ তেতিয়া ভাল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 404.828,
+            "end": 418.733,
+            "speakerSeqId": 1,
+            "transcription": "মানে মোৰ অ চিটি চেন্টাৰত মানে ইমান দ্ৰেচ বিলাকে ইমান ভাল লাগে মানে, কিনিব বহুত মন যায়, কিন্তু মানে, অ~কিনিব নোৱাৰো আৰু ইমান প্ৰাইচ হয় ন [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 418.733,
+            "end": 419.844,
+            "speakerSeqId": 1,
+            "transcription": "চফাৰ নিদিয়ে নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 419.844,
+            "end": 423.323,
+            "speakerSeqId": 1,
+            "transcription": "তুমি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 423.323,
+            "end": 428.858,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] কিবা অফাৰ চফাৰ এনেকে বিহু এতিয়া ৱে পূজা বুলি [overlap] পেলায় অফাৰ চফাৰ নাই নেকি একো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 428.858,
+            "end": 433.972,
+            "speakerSeqId": 1,
+            "transcription": "অ অফাৰ থাকা বুলি গম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 433.972,
+            "end": 434.208,
+            "speakerSeqId": 2,
+            "transcription": "পোৱা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10058,
+            "start": 434.208,
+            "end": 435.288,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 435.288,
+            "end": 449.125,
+            "speakerSeqId": 2,
+            "transcription": "অফাৰ দিয়ে [silence]  [babble] থাকিবও পাৰে বাৰু এনে এতিয়া বৰ্তমান যোৱা হোৱা নাই, মানে দামবিলাক চাই পেলে আৰু ইমান, যোৱাই নহয়, কিন্তু এনে পূজা বুলি অফাৰ থাকিব লাগে চাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 449.125,
+            "end": 465.578,
+            "speakerSeqId": 2,
+            "transcription": "কিবা হয় [silence] অফাৰটো থাকিলে লব পা পাৰি আৰু ধুনীয়াকে [silence] কিবা কিবি ধৰা অ, পূজা বুলি পেলায় চেণ্ডেল হক বেগ হক, কাপুৰ হক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 465.578,
+            "end": 478.572,
+            "speakerSeqId": 2,
+            "transcription": "চবখিনি বস্তুৱে লাগে ন পূজাৰ কাৰণে [silence] পূজাৰ কাৰণে মানে চবখিনি বস্তু কিয়া লাগে পূজা বুলি কোৱাৰ লগে লগে আৰু চবে আৰু ফেমেলিৰ লগত হক ফ্ৰেণ্ডৰ লগত হক, অ মানে ফুৰিব যাব ইচ্ছা যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 478.572,
+            "end": 481.289,
+            "speakerSeqId": 2,
+            "transcription": "পূজা বুলি কোৱাৰ লগে লগে অলপ ভাল লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 481.289,
+            "end": 483.938,
+            "speakerSeqId": 1,
+            "transcription": "উম~ অ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10064,
+            "start": 483.938,
+            "end": 484.259,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 484.259,
+            "end": 497.945,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] কবাত কবাত উলাই যাম, বহুত ডাঙৰ পূজা হয় এইবাৰ কিবা চাংচাৰিৰ সেইফালে কিবা~ কিবা এখন~ নাম কলে জাগাটো, কিবা বোৰ্কা নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 497.945,
+            "end": 512.187,
+            "speakerSeqId": 2,
+            "transcription": "কিবা এনেকে নাম কলে তাতে বুলে বহুত ডাঙৰ পূজা হব তাৰমানে [silence] মানে এনেকে [overlap] কবাৰ কবাত পুঠিমাৰীত ডাঙৰ পূজা হয়, বা~ নলবাৰীত বহুত ডাঙৰ পূজা হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 512.187,
+            "end": 517.537,
+            "speakerSeqId": 2,
+            "transcription": "অ~ [silence] (()) কবাত কবাত যাম চাগে অ ভাবি থৈ দিছো যাম বুলি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 517.537,
+            "end": 531.914,
+            "speakerSeqId": 2,
+            "transcription": "এনে আৰু~ উলাই গলে মোৰ নিজৰে ভাল লাগে পূজা বুলি কলে গোটেই মানুহখিনি উলাই আহে চব মানুহৰ লগতে অকমান এনে ভাল লাগে বন্ধুৰ লগতো বন্ধু বান্ধবৰ লগত, এনে উলাই যায় অলপ অলপ ভাল লাগে বা ফেমেলিৰ লগত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 531.914,
+            "end": 541.988,
+            "speakerSeqId": 2,
+            "transcription": "যেতিয়া যাৰ লগত টাইম মিলে বা সুবিধা মিলে তেতিয়া সেনেকে যাম, উলাই যাম এবাৰ এবাৰ [silence] উম তুমি যাবানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 541.988,
+            "end": 547.388,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] মই যাম চাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 547.388,
+            "end": 550.932,
+            "speakerSeqId": 1,
+            "transcription": "অ যাম চাগে ফেমে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 550.932,
+            "end": 551.623,
+            "speakerSeqId": 2,
+            "transcription": "[babble] লগত নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 551.623,
+            "end": 562.171,
+            "speakerSeqId": 1,
+            "transcription": "আ অ ফেমেলিৰ লগতেই যাম, [overlap] ফ্ৰেণ্ডচৰ লগতো যাব পাৰো সেইটো নাজানু বাৰু [overlap] মানে যোৱা হয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 562.171,
+            "end": 570.507,
+            "speakerSeqId": 2,
+            "transcription": "সেনেকুৱা চবৰে আৰু ফেমেলিৰ লগতে বা ফ্ৰেণ্ডৰ লগতে যোৱা হয়, যাৰ লগত সুবিধা মিলে যেতিয়াই, অ অ তেতিয়া সেনেকে যোৱা হয় আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 570.507,
+            "end": 576.11,
+            "speakerSeqId": 1,
+            "transcription": "অ বাকী অ~ মানে কৰ পৰা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 576.11,
+            "end": 589.812,
+            "speakerSeqId": 2,
+            "transcription": "এটা এনে চিংগেল কে এনে ফেনচীৰ পৰাই কিনি থলো, মানে, বহুত কিনা নাই মানে বে চিটি চেন্টাৰৰটো ভাবি থাকিলো তো, সেইকাৰণে ইমান কিনা নাই যেনেকে পূজা চোৱাৰ চলেদিয়ে এনেকে চিটি চেন্টাৰত গৈ পেলে কিনিব পাৰো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 589.812,
+            "end": 603.312,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া এনে ফেনচী পা ললো, ফেনচী পাই ললো [overlap] আৰু কিবা কিবি লম বুলি [overlap] ভাবি থৈ দিছো, চিটি চেন্টাৰত যদি কিবা [noise], ধৰা ডিচকাউন্ট আছে, তেনেকে লব পাৰো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10078,
+            "start": 603.312,
+            "end": 605.843,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 605.843,
+            "end": 616.683,
+            "speakerSeqId": 1,
+            "transcription": "অ অ উম, [overlap] ঠিক আছে বা ময়ো চাম, অ অ"
+        }
+    ]
+}

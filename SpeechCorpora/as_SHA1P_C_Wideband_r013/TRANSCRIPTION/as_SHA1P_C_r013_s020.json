@@ -1,0 +1,484 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826125",
+    "speechFile": "as_SHA1P_C_r013_s020",
+    "callDuration": 639.125,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239018"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239019"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 10.696,
+            "speakerSeqId": 1,
+            "transcription": "তো আজি আমাৰ ৰেকৰডিংত সংযোগত হৈ আছে মচতফা তো মুচতফা আপোনি কেনেকোৱা আছে? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 10.696,
+            "end": 27.605,
+            "speakerSeqId": 1,
+            "transcription": "অ মই ভালে আছো তো আজি আমাৰ হাতত বেচি সময় নাই আমাৰ হাতত মাঠু দহ মিনিট মান সময় আছে তো আজি আমাৰ এই দহ মিনিটত আমি শিক্ষা ব্যৱস্থা ওপৰত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 27.605,
+            "end": 42.438,
+            "speakerSeqId": 1,
+            "transcription": "শিক্ষা ব্যৱস্থা মানে কব গলে আমি সকলো লব লাগে সেইটো [overlap] সকলোৰে চিন্তা ধাৰা তো আলপ বেচি থাকিব লাগে শিক্ষা ওপৰত [silence] বেচিকৈ আমি দেখা পাঁও"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 42.438,
+            "end": 49.205,
+            "speakerSeqId": 1,
+            "transcription": "যে (()) অনল যিবিলাক আছে সেই বিলাকত অলপ যদিও চৰকাৰি ভাবে শিক্ষা ব্যৱস্থা প্ৰদাণ কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 49.205,
+            "end": 49.778,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 49.778,
+            "end": 63.481,
+            "speakerSeqId": 1,
+            "transcription": "তথাপিও আমাৰ কিছো অনেকো (()) কিছু এনেকোৱা লোক আছে যিটো মানে যে অকল মানুহ হিমান শিক্ষা ওপৰত চৰ্চা নকৰে বা শিক্ষা বাবে [silence] (()) নহয় তেওঁলোকৰ সন্তানক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 63.481,
+            "end": 77.268,
+            "speakerSeqId": 1,
+            "transcription": "তেওঁলোকৰ লৰা ছোৱালী যিবিলাক আছে সেইবিলাক শিক্ষা দিবলে বেচি নকৰে আৰু প্ৰাথমিক শিক্ষাতো লবৈ লাগে কম চে কম কাৰণ অলপ যদিও মানুহ যদি অলপ (()) কাৰণে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 77.268,
+            "end": 84.98,
+            "speakerSeqId": 1,
+            "transcription": "জীয়াই থাকিব কাৰণে অলপ হলেও শিক্ষা প্ৰয়োজন সেই কাৰণে মানুহক বাধ্যতা মুলক বাবে অলপ ক্লাছ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 84.98,
+            "end": 98.007,
+            "speakerSeqId": 1,
+            "transcription": "প্ৰথম মান শ্ৰেণী পৰা অষ্ঠম শ্ৰেণী লৈ কিছুমান লৰা ছোৱালী পঢ়ে আকৌ তাৰ পিচৰ দেখা পাওঁ যে আমি যে অলপ যেটো অৱস্তা দেখা পোৱাঁ গৈ আছে গ্ৰাম অঞ্চলত [overlap] গ্ৰাম অঞ্চলত লোকসকলৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 98.007,
+            "end": 111.22,
+            "speakerSeqId": 1,
+            "transcription": "যিটো মানে মুৰৰ এটা কথা কৰে কি যে পইচা কমাব লাগে [overlap] আমাৰ [silence] সিমান পলম নালাগে মানে আমাক সোনকালে পইচা লাগে যিবিলাক ডাঙৰ লৰা আছে সেই বিলাকক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 111.22,
+            "end": 122.813,
+            "speakerSeqId": 1,
+            "transcription": "মানে বেলেগ ৰাজ্য বা বেলেগ দেশত পঠাই দিয়ে পইচা কমাব কাৰণে মজডোৰি কৰিব কাৰণে [silence] তো [silence] আমাক চৰকাৰে কিন্তু ভাল দৰে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 122.813,
+            "end": 136.297,
+            "speakerSeqId": 1,
+            "transcription": "ব্যৱস্থা দিছে পইচা এই কৰিব কাৰণে কোনটো ব্যৱস্থা যে [silence] চৰকাৰী স্কুলক যিবিলাক সেই বিলাক স্কুলত কিন্তু ফীজ নালাগে [overlap] যিটো আমি আমি ইংগ্ৰাজিত ফী বুলি কঁও"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 136.297,
+            "end": 147.62,
+            "speakerSeqId": 1,
+            "transcription": "যিটো পৈচা নালাগে যিটো স্কুলত [silence] সেইবিলাক স্কুল (()) আমাৰ গ্ৰাম অনচলত চৰকাৰে প্ৰদান কৰিছে তথাপিও মানুহে অলপ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 147.62,
+            "end": 158.808,
+            "speakerSeqId": 1,
+            "transcription": "যদি নিজৰ ঘৰত দেখা আমি গম পাওঁ দেখা পাওঁ যেবিলাক ঘৰত ডাঙৰ লৰা ছোৱালী ছোৱালী বিলাকত কি ছোৱালী কথা কোৱাঁ কব গলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 158.808,
+            "end": 173.202,
+            "speakerSeqId": 1,
+            "transcription": "যিবিলাক মা দেওতা আছে সেই সকল ভাবে ছোৱালী বিলাক অকল [silence] মানুহৰ ঘৰত যাব ভাত ৰান্ধি পেনে সেই বিলাকে খাব আৰু লৰা বেলেগ দেশত যাব বা বেলেগ ৰাজিত যাব পইচা পঠাব নিজে খাব আৰু আনক খোৱাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 173.202,
+            "end": 186.027,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু আপুনি এটা বস্তু লক্ষ্য কৰিব যিবিলাক মানে অলপ টাওন এলাকা যেগা হয় সেই বিলাক যদিও মানে শিক্ষা ব্যৱস্থা ভাল আছে ঠিকেই কিন্তু তথাপিও"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 186.027,
+            "end": 194.296,
+            "speakerSeqId": 1,
+            "transcription": "চৰকাৰি ব্যৱস্থা আছে ঠিকেই কিন্তু তাত আপুনি লক্ষ্য কৰিব যিবিলাক স্কুলত যিটো নোন গভাৰ্নমেণ্ট যিবিলাক প্ৰাইভেট বোলি কৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 194.296,
+            "end": 194.937,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 194.937,
+            "end": 206.328,
+            "speakerSeqId": 1,
+            "transcription": "যিবিলাক সেই বিলাক বিদ্যালয় বা সেই বিলাক মহা বিদ্যালয় বা সেই বিলাক সৰু স্কুল ক্লাচ পাইৱ পৰা [silence] বা ক্লাচ এঠৰ পৰা সেই বিলাক স্কুল কিন্তু বেচি ভাগে প্ৰাইভেট হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 206.328,
+            "end": 219.305,
+            "speakerSeqId": 1,
+            "transcription": "তথাপিও সেই সকলৰ বা সেই সকল বাখিনদা লোকে সেই বিলাক স্কুলত (()) লৰা ছোৱালীক তাতে লৰা ছোৱালী ভাল দৰে শিক্ষা পাই আৰু ভাল এইটা চকৰি কৰি পানে নিজৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 219.305,
+            "end": 227.489,
+            "speakerSeqId": 1,
+            "transcription": "মানে দৈনিক যিটো জীৱন আছে সেইটো জীৱাই থাকিব পাৰে আৰু আমাকো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 227.489,
+            "end": 241.495,
+            "speakerSeqId": 1,
+            "transcription": "মানে সহায় কৰিব পাৰে সেই বিলাকো চিন্তা ধাৰা হল যিবিলাক উচ্চ শিক্ষা ধাৰা লোক সেইবিলাকৰে মানে সেনেকোৱা চিন্তা ধাৰা হয় আৰু আমাৰ য়াৰ জিবিলাক গ্ৰাম অঞ্চলৰ মানুহে আছে সেই ভাবে অকল নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 241.495,
+            "end": 253.763,
+            "speakerSeqId": 1,
+            "transcription": "টত কালিন পইচা লাগে আমাক যৰোৰি পইচা লাগে যাতে অলপ লৰা ছোৱালী ডাঙৰ হোৱাৰ ডাঙৰ হোৱাতেই কমত লগাই দিয়ে [silence] আৰু এটা হয় আমি য়াত দেখোযে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 253.763,
+            "end": 260.75,
+            "speakerSeqId": 1,
+            "transcription": "যিটো ভেতাৰ পৰিমাণ বেছী হৈছে [silence] ভেতা পৰিমাণ বেচি য়াৰ কাৰণে হৈছে যিবিলাক মানুহে অলপ পইচা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 260.75,
+            "end": 274.368,
+            "speakerSeqId": 1,
+            "transcription": "কমাব কাৰণে বা পইচা লব কৰণে চই মাহৰ কৰণে (()) কৰি থাকে আৰু তেওঁ লোকৰ যিবিলাক লৰা ছোৱালী আছে সেই বিলাকত কোনো স্কুলত প্ৰদান নকৰে সেই কৰণে আমাৰ য়াত শিক্ষাৰ অলপ মানে বহুত (()) হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 274.368,
+            "end": 288.847,
+            "speakerSeqId": 2,
+            "transcription": "আপুনি যিটো কথা কৈছে সেইটো সঁচা হয় যে বৰ্তমান শিশু চমিক বেচি দেখিবলে পোৱা গৈ আছে যেনেকৈ ইতা ভেতাত [overlap] আৰু আন আন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 288.847,
+            "end": 302.701,
+            "speakerSeqId": 2,
+            "transcription": "#উম (()) প্ৰতিস্তানত বহুতো ধৰণৰ শিশু চমিকক লগ পোৱাঁ যাই [silence]  [overlap] চৰকাৰে এটা বস্তু (()) লব লাগে যে হকলো বুৰ উদুগৰ (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 302.701,
+            "end": 315.07,
+            "speakerSeqId": 2,
+            "transcription": "মানে স্কুল স্থাপন কৰিব লাগে যাটে তাত থকা সকলো লৰা ছোৱালী তাত পঢ়িব পাৰে তাত শিক্ষা [overlap] পাৰে [silence] #হম মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 315.07,
+            "end": 328.992,
+            "speakerSeqId": 2,
+            "transcription": "আৰু কিছুমান আছে কিছুমান মানুহ আছে যে যানি হোনি যে যানে তেওঁলোকে যে শিশু তেওঁ শিক্ষা অৰজনৰ অধিকাৰ আছে [silence] তথাপিও সেই মানুহ বিলাকে তেওঁলোকক স্কুলত পৰা বঞ্চিত কৰি ৰাখে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 328.992,
+            "end": 332.654,
+            "speakerSeqId": 2,
+            "transcription": "সেইবিলাকৰ প্ৰতি কথুৰ ব্যৱস্তা লব লাগে চৰকাৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 332.654,
+            "end": 334.915,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 334.915,
+            "end": 347.808,
+            "speakerSeqId": 2,
+            "transcription": "ইয়াৰ (()) কেছুমান দেখা যাই যে গাওঁ অনচলত কিছোমান (()) শিক্ষক থকা উপৰিও গাঁওখন উচ সিশাৰে শিক্ষিত হব নোৱাৰে কৰণ তাত থকা মানুহ বিলাক হিমান সেইতো নাভাবে যে তেওঁলোকৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 347.808,
+            "end": 356.279,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো ভাবে যে #উম তেওঁলোকক #উম জীৱন তো কটাব লাগে [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 356.279,
+            "end": 370.707,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] (()) আপুনি কথা যিটো কলে যে গাওঁত অলপ শিক্ষা থকা মানুহ বুৰু চিন্তা চৰ্চা নকৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 370.707,
+            "end": 384.578,
+            "speakerSeqId": 1,
+            "transcription": "সিহটো যদিও শিক্ষা আছে সিহতৰ সিহতে অলপ ভাবি আছে যে আমাৰ চৰকাৰী চকৰি আছে আমি দৰমহা পাই আছো [silence]  [overlap] সেইকাৰনে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 384.578,
+            "end": 398.669,
+            "speakerSeqId": 1,
+            "transcription": "সেইটো নিজে ভাবে যে আমি তো দৰমহা পাই আছো তো মানুহক যিখিনি কৈ সেইখিনি কওঁ মানুহে যদি কৰিলে কৰিব নকৰিলে নায় সেইতো ভাবে কিন্তু নিজেই অলপ চিন্তা যদি ভাল দৰে চিন্তা কৰে মানুহক যদি অলপ ভাল দৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 398.669,
+            "end": 410.397,
+            "speakerSeqId": 1,
+            "transcription": "বিজায় কৈ যে নহয় আমি যেনেকে চৰকাৰী চাকৰি কৰি আছো যনেকে তো আপুনাৰ লোকৰ লৰা ছোৱালী বিলাক (()) উতচ সিষ্টিত কৰক আপুনাৰ লৰা ছোৱালী"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 410.397,
+            "end": 422.176,
+            "speakerSeqId": 1,
+            "transcription": "(()) ভাল দৰে চৰকাৰী পইচা পাব আপুনাৰ লোকৰ সুবিধা হব [silence] (()) তেনেকা মানুহ আছে (()) যদিও বা সেইবিলক চিন্তা কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 422.176,
+            "end": 435.507,
+            "speakerSeqId": 1,
+            "transcription": "যিবিলক গাঁও অঞ্চলিয়া লোক আছে সেই বিলাকৰ মানে যিমানে বুজাওক ন কিয় [overlap] তেওঁলোকে মানে এটাই বোযে যে নহয় ছোৱালী যদি হয় মানুহৰ ঘৰত যাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 435.507,
+            "end": 443.759,
+            "speakerSeqId": 1,
+            "transcription": "ভাত ৰান্ধি পেনে সেইতো খাব লৰা কি লৰা কাম কৰিব নিজে কাম কৰিব নিজে খাব আৰু আমাকো ধুৱাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 443.759,
+            "end": 459.79,
+            "speakerSeqId": 2,
+            "transcription": "মানুহৰ কিছোমান এইবিলাক চিন্তা চৰ্চা কৰণে (()) নোৱাৰে [silence] মানুহ [babble] সকলৰ পৰা (()) কৰিব লাগে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10042,
+            "start": 459.79,
+            "end": 459.824,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10043,
+            "start": 459.824,
+            "end": 461.849,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 461.849,
+            "end": 470.793,
+            "speakerSeqId": 1,
+            "transcription": "হয় অৰু আপুনি য়াৰ অগতে এটা কথা কৈছিল যে বিভিন্ন উদুগ কাৰ্য বা যিবিলাক ভেতৰ সেই বিলাকৰ যিবিলাক মানে অলপ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 470.793,
+            "end": 482.15,
+            "speakerSeqId": 1,
+            "transcription": "হৰু লৰা ছোৱালী বিলাক যিবিলাক কাম কৰি অছে সেইবিলাকৰ অলপ বেচি চিন্তা চৰচা কৰি সেইবিলাক মানে কিবা এটা বিবস্তা লব লাগে চৰকাৰৰ পৰা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 482.15,
+            "end": 496.909,
+            "speakerSeqId": 1,
+            "transcription": "আৰু প্ৰতি মাক হৈক প্ৰতি চই মাহ হৈক দিন মাহ কে হৈক সেই বিলাক এটা মানে স্কুল ইনস্পেক্টৰ যিটো কৈ সেইটো অলপ নিযে গৈ গৈ লেনে যদি সেই বিলাক ভাল দৰে আধাৰ কাৰ্দ চাই আধাৰ কাৰ্দ চোৱাৰ পিচত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 496.909,
+            "end": 502.855,
+            "speakerSeqId": 1,
+            "transcription": "সেই বিলাকো যদি ছাত্ৰ ছাত্ৰীৰ হৰু লৰা ছোৱালী আছে উঠাৰ বচৰ (()) হোৱা নায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 502.855,
+            "end": 514.617,
+            "speakerSeqId": 1,
+            "transcription": "সেইবিলাকৰ লৰা ছোৱালী যদি ভাল দৰে বুজাই তেওঁলোকৰ ডেউতাক বুজাই আজি কালি কিন্তু অপুনি এটা বস্তু লক্ষ্য কৰিব আজি কালি চৰকাৰি স্কুলৰ কোনো মানে অভাব নায় গ্ৰাম অঞ্চলত আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 514.617,
+            "end": 526.058,
+            "speakerSeqId": 1,
+            "transcription": "গ্ৰাম অঞ্চলত তো আছে (()) তাৰ পিচত মানে ডাঙৰ যিটো চহৰ বুলি কওঁ সেই বিলাকতো আছে গ্ৰাম অনচত বিশেকে সেইটো বচতো চিন্তা চৰ্চা কৰিব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 526.058,
+            "end": 540.031,
+            "speakerSeqId": 1,
+            "transcription": "যে য়াত আমৰ পইচা নালগে বঢ়ি কিনিব নালাগে কিতাপ কিনিব নালাগে [silence] তো সেইটো কৰিব লাগে আৰু এনেটো প্ৰতিতো স্কুলত [silence] মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 540.031,
+            "end": 554.527,
+            "speakerSeqId": 1,
+            "transcription": "যিতো মানুহে কিতাপ কিনিবলে পইচা নাপাই কিবা এটা আছে বস্তু যিতো নাজানে সেইতোকে কতাবৰ কাৰণে লাইব্ৰেৰী এটা স্কুলত দিব লাগে [silence] চৰকাৰ ফেলৰ পৰা সেইবিলাক পদক্ষেপ লব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 554.527,
+            "end": 566.44,
+            "speakerSeqId": 2,
+            "transcription": "চৰকাৰে বহুতো পদক্ষেপ লৈছে #হম [overlap] আচনি মতে #উম সকলো (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 566.44,
+            "end": 580.362,
+            "speakerSeqId": 2,
+            "transcription": "বৰ্তমান যিবিলাক উৎসৱ (()) উচ্চ শিক্ষাৰ জিবিলাক কি আছে মানে স্তান আছে সেইবিলাকটো চৰকাৰে বিনা মোলিয়া কৰি দিয়ে আছে যেনেকোৱা #উম তোমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 580.362,
+            "end": 588.26,
+            "speakerSeqId": 2,
+            "transcription": "#উম দ্বাদশ শ্ৰেণী এই বিলাকটো বৰ্তমান ফ্ৰি #উম মানে কিতাপ চিতাপ এইবিলাক দিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 588.26,
+            "end": 602.654,
+            "speakerSeqId": 1,
+            "transcription": "হয় [silence] অগত যদি সেইটো ব্যৱস্থা লোৱা নাছিল চৰকাৰে এটিয়া কিন্তু চৰকাৰে ব্যৱস্থা লৈছে কিন্তু চৰকাৰে এটা বস্তু ভালদৰে সেইটো চিনতা কৰি আছে যে আজিকালি ভাৰতবৰ্ষত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 602.654,
+            "end": 615.344,
+            "speakerSeqId": 1,
+            "transcription": "নহলো অসম হৰু এটা ৰাজ্য যদিও কিন্তু তথাপিও মানে চৰকাৰে ভাবই আছে যে আমাৰ শিক্ষা ব্যৱস্থা কম হৈ আছে সেই কৰণে সেই বিলাক পদক্ষেপ লৈছে সেইটো আমাৰ কাৰণে ভাল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 615.344,
+            "end": 624.71,
+            "speakerSeqId": 1,
+            "transcription": "মানুহে অলপ ভাল দৰে চিন্তা চৰ্চা কৰি সেইতো বস্তু লক্ষ্য ৰাখি কৰিব লাগে যে নহয় আমাৰ লৰা ছোৱালী বিলাক ভাল দৰে উতচ শিক্ষা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 624.71,
+            "end": 639.125,
+            "speakerSeqId": 1,
+            "transcription": "তো আজি হাতত ইমান সময় নাই আমাৰ আলোচনা দহ মিনিট আছিল আৰু আমাৰ দহ মিনিট সম্পূৰ্ণ হল তো আমি য়াতে ৰেকৰ্ডিঙটো অফ কৰোঁ"
+        }
+    ]
+}

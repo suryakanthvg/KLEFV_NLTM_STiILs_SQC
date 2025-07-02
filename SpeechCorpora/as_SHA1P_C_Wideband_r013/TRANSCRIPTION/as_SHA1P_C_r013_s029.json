@@ -1,0 +1,948 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826166",
+    "speechFile": "as_SHA1P_C_r013_s029",
+    "callDuration": 605.739,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0238045"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0238046"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 5.836,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ মূৰ লগত কাজেন এটা চিচতাৰ আছে আপুনাৰ খবৰ ভালনে বাইদেও?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 5.836,
+            "end": 7.793,
+            "speakerSeqId": 2,
+            "transcription": "অ ভালে আপুনাৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 7.793,
+            "end": 11.337,
+            "speakerSeqId": 1,
+            "transcription": "অ ভাল মাজেত বেয়া চলি আছো কিবা কিবি কে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 11.337,
+            "end": 14.56,
+            "speakerSeqId": 2,
+            "transcription": "#আহ [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 14.56,
+            "end": 16.028,
+            "speakerSeqId": 1,
+            "transcription": "(()) পিন্ধি লৈছো আপুনাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 16.028,
+            "end": 17.412,
+            "speakerSeqId": 2,
+            "transcription": "অ হৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 17.412,
+            "end": 27.925,
+            "speakerSeqId": 1,
+            "transcription": "হয় [silence] তো আজি আমি আলোচনা কৰিম ৰিলেশন সিপৰ বিষয়ে ৰিলেশন সিপ মানে কি হৈছে তো আপুনি অলপ দুই চাৰি কথা কৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 27.925,
+            "end": 31.25,
+            "speakerSeqId": 2,
+            "transcription": "ৰিনেশনৰ বিষয়ে মূৰ কোনো নলেজ নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 31.25,
+            "end": 34.81,
+            "speakerSeqId": 1,
+            "transcription": "তো আপুনি ৰিলেশন সিপ কৰা নাই নিকি বাইদেও?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 34.81,
+            "end": 36.565,
+            "speakerSeqId": 2,
+            "transcription": "না না কৰা নাই মই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 36.565,
+            "end": 43.737,
+            "speakerSeqId": 1,
+            "transcription": "#আহ তো মানে ৰিলেশন সিপ হৈছে যে মানে লৰা ছোৱালী মানে এটা প্ৰেম হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 43.737,
+            "end": 45.053,
+            "speakerSeqId": 2,
+            "transcription": "#আহ হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 45.053,
+            "end": 48.648,
+            "speakerSeqId": 1,
+            "transcription": "(()) [silence] আৰু মা ডেউটাকৰ লগত আমি ভাল পোৱা কৰোঁ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10014,
+            "start": 48.648,
+            "end": 49.39,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 49.39,
+            "end": 52.327,
+            "speakerSeqId": 1,
+            "transcription": "দুটা (()) চবৰ লগত ভাল পোৱা তো থাকে হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 52.327,
+            "end": 53.069,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 53.069,
+            "end": 55.533,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু [silence] আজি কালি যিটো হৈছে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10018,
+            "start": 55.533,
+            "end": 56.393,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 56.393,
+            "end": 58.621,
+            "speakerSeqId": 1,
+            "transcription": "মানে লৰা আৰু ছোৱালী মানে ভাল পোৱা কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 58.621,
+            "end": 59.448,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 59.448,
+            "end": 65.928,
+            "speakerSeqId": 1,
+            "transcription": "এটো হোল মানে আজি কালি মানে আমি অগত শুনিছো লেইলা মাজনো প্ৰেম বুলি শুনিছে নে আপুনি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 65.928,
+            "end": 67.025,
+            "speakerSeqId": 2,
+            "transcription": "অ শুনিছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 67.025,
+            "end": 71.53,
+            "speakerSeqId": 1,
+            "transcription": "তো মানে লেইলা মজনো মানে দেখাত ইমান মানে ধুনীয়া নাছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 71.53,
+            "end": 72.323,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 72.323,
+            "end": 76.778,
+            "speakerSeqId": 1,
+            "transcription": "ইমান মানে হেণ্ডচাম নাছিল দেখাত কিন্তু মানে সিহতৰ ভাল পোৱা তো মানে কি অমৰ হৈ গৈছিলে হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 76.778,
+            "end": 77.555,
+            "speakerSeqId": 2,
+            "transcription": "#হম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 77.555,
+            "end": 86.347,
+            "speakerSeqId": 1,
+            "transcription": "আৰু আজি কালি দেখা যায় যে লৰা আৰু ছোৱালী বিলাক যিমানে ভাল পোৱা কৰি থাকে সেইটো মানে [silence] ৰিছাষ তো মনত নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 86.347,
+            "end": 95.628,
+            "speakerSeqId": 1,
+            "transcription": "আৰু মই ছোৱালী বিষয়ে অলপ কম যে মানে ছোৱালী বিলাক এনেকা কৈ থাকে আপুনি খং নকৰিব বাইদেও ছোৱালী বিষয়ে অলপ কম মই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 95.628,
+            "end": 96.91,
+            "speakerSeqId": 2,
+            "transcription": "অ অ ক'ক ক'ক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 96.91,
+            "end": 110.917,
+            "speakerSeqId": 1,
+            "transcription": "যে মানে ছোৱালী বিলাক মানে দিনে ৰাতি চব্বিশ ঘণ্টা তাৰ লগত ফোন এচ ম এচ টাইম দিওঁ ছোৱালী বিলাক টঠাপি (()) সেই মানে মূৰ লগত টাইম নিদিয়া তুমি মূৰ এচ ম এচ ৰিপ্লাই নকৰা আৰু কল বেক নকৰা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10031,
+            "start": 110.917,
+            "end": 111.693,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 111.693,
+            "end": 113.11,
+            "speakerSeqId": 1,
+            "transcription": "হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 113.11,
+            "end": 113.903,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 113.903,
+            "end": 125.75,
+            "speakerSeqId": 1,
+            "transcription": "তো মানে সেইটো হল যে মানে লৰা বিলাক মানে প্ৰব্লেম থাকিব পাৰে হয় নে? কিবা মানে কাজ কাম কিবা থাকিব পাৰে বা ঘৰত কিবা কামত ব্যস্ত হৈ যে সেইটো কাৰণে মানে যে ৰিপ্লাই দিব নোৱাৰিলে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10035,
+            "start": 125.75,
+            "end": 126.357,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 126.357,
+            "end": 129.985,
+            "speakerSeqId": 1,
+            "transcription": "তো সেইটো কাৰণে ফোন কৰিব নালাগে [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 129.985,
+            "end": 130.306,
+            "speakerSeqId": 2,
+            "transcription": "অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 130.306,
+            "end": 138.068,
+            "speakerSeqId": 1,
+            "transcription": "[silence] এটো হোল যে মানে আমি যেতিয়া মা দেউতাকৰ লগত ভাল পোৱা কৰো [silence] তো মানে এটো আমাৰ ভাল পোৱা (())"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10039,
+            "start": 138.068,
+            "end": 138.828,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 138.828,
+            "end": 151.163,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু আমি আজি কালি মানে যিটো ৰিলেশন সিপ উলাইছে [silence] (()) মানে ছোৱালী বিলাক এনাকা মানে কৰে যে মানে এদিনত দুইতা তিন্তা চাৰিতা পাঁচতা বৈফ্ৰেন্দ বনাব পাৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 151.163,
+            "end": 152.007,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 152.007,
+            "end": 158.386,
+            "speakerSeqId": 1,
+            "transcription": "হয় আকো আমি দেখা পাইছো মানে মূৰ ফ্ৰেন্দ্ৰ লগত এটা মানে মূৰ ফ্ৰেন্দ্ৰ ৰিলেশন সিপত"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10043,
+            "start": 158.386,
+            "end": 159.162,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 159.162,
+            "end": 167.414,
+            "speakerSeqId": 1,
+            "transcription": "মানে তাৰ মানে তাক (()) লগত মানে ফাৰ্চ টাইম ৰিলেশন সিপত গৈছে তিনি দিন পিচত ব্ৰেকাপ হৈ গল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 167.414,
+            "end": 169.81,
+            "speakerSeqId": 2,
+            "transcription": "হয় এনেকোৱা হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 169.81,
+            "end": 172.814,
+            "speakerSeqId": 1,
+            "transcription": "তো আপুনি মানে অলপ কব ছোন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 172.814,
+            "end": 186.719,
+            "speakerSeqId": 2,
+            "transcription": "যেনেকোৱা [silence] (()) মানে এটা ৰিলেশনত থাকিলে [silence]  [overlap] লৰা ছোৱালী [silence] মানে দুইতা একেই থাকিব লাগিব যেনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 186.719,
+            "end": 201.721,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] এই মানে ভাল মানে ৰিলেশন সিপ কেনেকোৱা দুজনৰে মানে মন একেই থাকিব লাগিব এজনে [overlap] ছোৱালী যাক বহুত ভাল পাই সেই লৰা খিনি তাক ভাল নপাই এনেকোৱা নহলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 201.721,
+            "end": 205.957,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] মনে দুইজনৰে [overlap] হমান থাকিব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 205.957,
+            "end": 217.786,
+            "speakerSeqId": 1,
+            "transcription": "[silence] হয় হয় এটো আপুনি ভাল কৈছে যে মানে দুটা ৰিলেশন সিপত থাকিলে দুটাৰে মানে সমান সমান সেৰি কৰি লাগিব ভাল পোৱা সমান সমান কৰিব লাগিব তেতিয়া মানে ভাল পোৱাতো মানে বেছি দিন লাস্তিং দিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 217.786,
+            "end": 219.035,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10052,
+            "start": 219.035,
+            "end": 221.667,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 221.667,
+            "end": 227.624,
+            "speakerSeqId": 2,
+            "transcription": "কিহৰ কাৰণে ব্ৰেকাপতো হয়? [silence] এজনে [overlap] আমি মানে সেইটো নাচাই সেই কাৰণে তো ব্ৰেকাপ হয় ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 227.624,
+            "end": 238.778,
+            "speakerSeqId": 1,
+            "transcription": "হয় আকৌ আমি দেখা পাওঁ যে মানে কোনে কোনে মানুহ চুইচাইড ল কৰিলৈ ভাল পোৱা মানে সিহতে মানে কৰিলে চুইচাইড কৰিলৈ কিয় বাইদেও কিহৰ কাৰণে সিহতে চুইচাইড কৰিলৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 238.778,
+            "end": 251.671,
+            "speakerSeqId": 2,
+            "transcription": "যে মানে মনৰ পৰা ভাল পাই এজনক সেই মনতো মানে [overlap] (()) নোৱাৰে [silence]  [overlap] কোনোবা আছে যে [silence] (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 251.671,
+            "end": 255.198,
+            "speakerSeqId": 2,
+            "transcription": "ফেমেলি আকো মানি নলয় সেই কাৰণে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 255.198,
+            "end": 269.862,
+            "speakerSeqId": 1,
+            "transcription": "হয় [silence] হয় এইটো কৰি এটো মানে কাম (()) কৰিব লাগিব যে মানে মই যদি কাকো ভাল পাওঁ মানে মই এক বাৰ মানে তাক ছৈচ কৰি লব লাগে যে মানে মই লাইফ পাৰ্টনাৰ বনাই লম হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 269.862,
+            "end": 270.689,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 270.689,
+            "end": 274.317,
+            "speakerSeqId": 1,
+            "transcription": "তো (()) ডিচিজন লৈ কেনে মানে (()) কৰিলে ভাল হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 274.317,
+            "end": 275.144,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 275.144,
+            "end": 280.763,
+            "speakerSeqId": 1,
+            "transcription": "তো তেতিয়া মানে কি হব মানে ব্ৰেকাপ চেকাপ নহব মানে (()) লাইফপাৰ্টনাৰ হৈ থাকিব দুইটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 280.763,
+            "end": 281.759,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 281.759,
+            "end": 292.475,
+            "speakerSeqId": 1,
+            "transcription": "(()) আমি দেখা পাওঁ যে মানে আমাৰ কি হয় [silence] যে মানে লৰা ছোৱালী মানে ক্লাছ টেনত পঢ়ি আছে বা ক্লাছ নাইনত পঢ়ি আছে [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10064,
+            "start": 292.475,
+            "end": 292.492,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10065,
+            "start": 292.492,
+            "end": 292.593,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10066,
+            "start": 292.593,
+            "end": 292.66,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 292.66,
+            "end": 298.313,
+            "speakerSeqId": 1,
+            "transcription": "মই তো যটে স্কুল পঢ়ি আছে (()) পলাই যাই ঘৰৰ পৰা পলাই যাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 298.313,
+            "end": 299.056,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10069,
+            "start": 299.056,
+            "end": 299.107,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10070,
+            "start": 299.107,
+            "end": 301.047,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10071,
+            "start": 301.047,
+            "end": 301.081,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10072,
+            "start": 301.081,
+            "end": 301.418,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10073,
+            "start": 301.418,
+            "end": 301.587,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 301.587,
+            "end": 302.127,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 302.127,
+            "end": 302.937,
+            "speakerSeqId": 1,
+            "transcription": "ভুল ধাৰনা হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10076,
+            "start": 302.937,
+            "end": 303.629,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 303.629,
+            "end": 311.037,
+            "speakerSeqId": 1,
+            "transcription": "সেনেকে কৰিব নালাগে কিয় মানে সিহতে মানে ক্লাছ নাইন টেনত পঢ়ি থাকে থাকোতে সিহতি মানে ইনকাম তো নকৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 311.037,
+            "end": 312.033,
+            "speakerSeqId": 2,
+            "transcription": "অ অ হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 312.033,
+            "end": 316.167,
+            "speakerSeqId": 1,
+            "transcription": "বিয়া কৰিলে কিন্তু খছা আছে মাইকীক মানে খৰচা দিব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 316.167,
+            "end": 317.551,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় দিব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10081,
+            "start": 317.551,
+            "end": 325.027,
+            "speakerSeqId": 1,
+            "transcription": "(()) এতিয়া আমি চিংল আছো আমাৰ মানে একো খৰচা নাই আমি যিটো মানে আমাৰ পকেত খৰচ লাগে সেইটো মানে এশ দেৰ্শ সলে হৈ যাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 325.027,
+            "end": 326.09,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10083,
+            "start": 326.09,
+            "end": 333.886,
+            "speakerSeqId": 1,
+            "transcription": "আৰু মানে যেতিয়া বিয়া পাতিম তেতিয়া কি হব আমাৰ কিবা মানে কাপুৰ চাপুৰ আনি দিব লাগে কিবা ক্ৰিম চিম আনি দিব লাগে হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10084,
+            "start": 333.886,
+            "end": 334.865,
+            "speakerSeqId": 2,
+            "transcription": "অ হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 334.865,
+            "end": 348.736,
+            "speakerSeqId": 1,
+            "transcription": "সিহটে কৰে কি ক্লাছ নাইন টেনৰ লৰা ছোৱালী বিলাক মানে ঘৰৰ পৰা মানে পলাই যাই তো সেইটো মানে কি হয় বাহিৰত থাকে অলপ চলপ মানে ঘৰৰ পৰা পৈইছা লৈ তো সেই খিনি পৈইছা দি সিহতে কি কৰে অলপ বাহিৰত থাকে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10086,
+            "start": 348.736,
+            "end": 349.343,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10087,
+            "start": 349.343,
+            "end": 352.465,
+            "speakerSeqId": 1,
+            "transcription": "বাহিৰৰ পৰা যেতিয়া ঘৰ আহে লৰা তো ইনকাম নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10088,
+            "start": 352.465,
+            "end": 364.902,
+            "speakerSeqId": 2,
+            "transcription": "[babble] হয় হয় [silence]  [overlap] নহলে (()) কি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10089,
+            "start": 364.902,
+            "end": 375.905,
+            "speakerSeqId": 1,
+            "transcription": "হয় এতিয়া দেখা যায় যে মানে লৰা তোৰ ইনকাম নাই হিমানে পঢ়ি থাকোতে ক্লাছ নাইন টেনত পঢ়ি থাকোতে সি যেতিয়া ছোৱালী এটা লৈ পলাই আহিব তেতিয়া"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10090,
+            "start": 375.905,
+            "end": 378.503,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10091,
+            "start": 378.503,
+            "end": 382.672,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়া কি হব আমাৰ সংখাৰত শৃংখলা এটা আহি যাব হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10092,
+            "start": 382.672,
+            "end": 390.029,
+            "speakerSeqId": 2,
+            "transcription": "(()) [noise]  [silence] অ অ হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10093,
+            "start": 390.029,
+            "end": 413.063,
+            "speakerSeqId": 1,
+            "transcription": "তো সেইটো দেখা যায় যে আমাৰ মানে লৰা তো যদি ইনকাম নাথাকিব [overlap]  [silence] হেলো [silence] হেলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10094,
+            "start": 413.063,
+            "end": 421.028,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ য়াত নেটৱৰ্কৰ প্ৰব্লেম হৈছে হেলো মূৰ আৱাজ তো আহিছে নে বাইদেও [silence] হেলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10095,
+            "start": 421.028,
+            "end": 430.057,
+            "speakerSeqId": 2,
+            "transcription": "হেলো হেলো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10096,
+            "start": 430.057,
+            "end": 430.259,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10097,
+            "start": 430.259,
+            "end": 432.301,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10098,
+            "start": 432.301,
+            "end": 434.68,
+            "speakerSeqId": 1,
+            "transcription": "হেলো বাইদেও মূৰ আৱাজতো আহা নাই নিকি আপুনাৰ তাতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10099,
+            "start": 434.68,
+            "end": 444.383,
+            "speakerSeqId": 2,
+            "transcription": "[silence] হেলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10100,
+            "start": 444.383,
+            "end": 447.387,
+            "speakerSeqId": 1,
+            "transcription": "হয় বাইদেও আপুনি কই থাকিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10101,
+            "start": 447.387,
+            "end": 449.243,
+            "speakerSeqId": 2,
+            "transcription": "হেলো (())"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10102,
+            "start": 449.243,
+            "end": 469.038,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10103,
+            "start": 469.038,
+            "end": 479.737,
+            "speakerSeqId": 1,
+            "transcription": "হয় বাইদেও [silence] মানে মূৰ আলপ [overlap] নেটৱৰ্কৰ প্ৰব্লেম আছে [silence] আ সেই কাৰণে মানে আৱাজ বিলাক আহা নাই তো সেইটো হয় যে মানে [silence] লৰা তো যদি ইনকাম নাথাকিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10104,
+            "start": 479.737,
+            "end": 492.578,
+            "speakerSeqId": 1,
+            "transcription": "বস্তু [overlap] হয় যাব ঘৰ মানে (()) সৃষ্টি হৈ যাব মা দেউতাকৰ লগত কাজিয়া হব মানে তাৰ (()) মাইকী যুঁজ দিব সেইটো লৰা তো মানে কি কৰিব সি মানে ভাল পাওঁ কৈ বিয়া কৰি আনিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10105,
+            "start": 492.578,
+            "end": 505.184,
+            "speakerSeqId": 1,
+            "transcription": "এইটো থিকে আছে [overlap]  [silence] তো (()) [silence] (()) সেইটো হয় কি [silence]  [overlap] বহুত কাজিয়া হৈ থাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10106,
+            "start": 505.184,
+            "end": 506.77,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10107,
+            "start": 506.77,
+            "end": 515.41,
+            "speakerSeqId": 1,
+            "transcription": "তো সেইটো কৰিব নালাগে যেতিয়া বয়স মেচিউৰ হব তাৰ কিবা ইনকাম ৰাস্তা আহিব তেতিয়া বিয়া তো কৰিলে মানে তেতিয়া মানে সিহতৰ ভবিষ্যৎ তো ভাল হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10108,
+            "start": 515.41,
+            "end": 525.923,
+            "speakerSeqId": 2,
+            "transcription": "হয় [silence] (()) আৰু এক মিনিট"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10109,
+            "start": 525.923,
+            "end": 538.259,
+            "speakerSeqId": 1,
+            "transcription": "এটো হল বস্তু [silence] হয় [silence] সেইটো হেনেকা বস্তু যে মানে (()) বিয়া তো কৰিলে মানে মেচিউৰ বয়সত বিয়া তো কৰিব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10110,
+            "start": 538.259,
+            "end": 539.609,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10111,
+            "start": 539.609,
+            "end": 552.215,
+            "speakerSeqId": 1,
+            "transcription": "বস্তু তো এনেকা হৈ গৈছে মানে বস্তু যেতিয়া মেচিউৰ হব তেতিয়া বিয়া তো পাতিলে ভাল হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10112,
+            "start": 552.215,
+            "end": 553.615,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10113,
+            "start": 553.615,
+            "end": 568.043,
+            "speakerSeqId": 1,
+            "transcription": "আজি কালি দেখা যাই যে মানে আজি কালি মানে লৰা ছোৱালী বেছিকে মানে ঘৰৰ পৰা পলাই যায় পলাই যায় কেনে বিয়া চিয়া কৰি কেনে মানে এক দুই বচৰ মান বাহিৰত থাকে তাৰ পিছত ঘৰ আহি যায় [silence]  [overlap] সেইটো বস্তু এনেকে কৰিব নালাগে সেইটো মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10114,
+            "start": 568.043,
+            "end": 582.404,
+            "speakerSeqId": 1,
+            "transcription": "পিচত মানে সিহতৰ (()) প্ৰব্লেম হব পাৰে ঘৰত মানে ঘৰৰ মানুহ লগত (()) বনিব নোৱাৰে (()) মানে সেইটো মানে অসুবিধা হৈ যাব [overlap] মানে কথা হল যে আমাৰ মানে চবে কৈ থাকো আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10115,
+            "start": 582.404,
+            "end": 596.528,
+            "speakerSeqId": 1,
+            "transcription": "যে মানে যেতিয়া ব্যচ খিনি মেচিউৰ হব তেতিয়া মানে বিয়া তো পাতিলে ভাল হব তেতিয়া মানে সিহতৰ ভবিষ্যৎ (()) হব [silence]  [overlap]  [silence] কিন্তু আৰু এটা কথা (()) কথা এইটো এইটো কথা হল যে আমাৰ মা দেউতাক চবচে বেছি ভাল পাব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10116,
+            "start": 596.528,
+            "end": 605.739,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] মানে আমাক মানে সৰু পৰা ডাঙৰ কৰিছে খুৱাই বুৱাই চব কৰিছে অসুবিধা কৰি দিছে তো মা দেউতাকক [overlap] ভাল পাই থাকিব লাগে"
+        }
+    ]
+}

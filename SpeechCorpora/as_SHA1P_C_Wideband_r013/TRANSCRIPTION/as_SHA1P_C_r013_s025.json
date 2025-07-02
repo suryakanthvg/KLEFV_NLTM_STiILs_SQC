@@ -1,0 +1,708 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826146",
+    "speechFile": "as_SHA1P_C_r013_s025",
+    "callDuration": 608.469,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239277"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239278"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 3.592,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ মোৰ লগত আছে এজন বাইদেউ আজি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 3.592,
+            "end": 4.807,
+            "speakerSeqId": 2,
+            "transcription": "বাইদেউ আছে না [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 4.807,
+            "end": 7.777,
+            "speakerSeqId": 1,
+            "transcription": "ভালে আছা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10004,
+            "start": 7.777,
+            "end": 8.249,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10005,
+            "start": 8.249,
+            "end": 10.544,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 10.544,
+            "end": 11.422,
+            "speakerSeqId": 2,
+            "transcription": "আছো আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 11.422,
+            "end": 17.075,
+            "speakerSeqId": 1,
+            "transcription": "অ মইয়ো ভালে আছো খা খোৱা দোৱা হৈ গল [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 17.075,
+            "end": 18.188,
+            "speakerSeqId": 2,
+            "transcription": "হল বাৰু আপোনাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 18.188,
+            "end": 23.842,
+            "speakerSeqId": 1,
+            "transcription": "অ মইয়ো কৰিলো এতিয়া গতিকে আজি আমাৰ বিষয়টো কি আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 23.842,
+            "end": 24.803,
+            "speakerSeqId": 2,
+            "transcription": "বানপানীৰ ওপৰত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 24.803,
+            "end": 41.83,
+            "speakerSeqId": 1,
+            "transcription": "অ বানপানী মানে মানুহৰ কি কি ক্ষতি হৈ থাকে মানুহৰ কেনেকুৱা কেনেকুৱা অৱস্থা কৰি থাকে এই বিলাকৰ ওপৰত ন [silence] মানে বানপানীটো হৈছে এনেকুৱা মানুহক এনেকুৱা কৰি দিয়ে মানে তোমাৰ মাতটো অহা নাই"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10012,
+            "start": 41.83,
+            "end": 42.134,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 42.134,
+            "end": 44.817,
+            "speakerSeqId": 2,
+            "transcription": "হেল্লো [silence] হেল্লো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 44.817,
+            "end": 57.862,
+            "speakerSeqId": 1,
+            "transcription": "অ আহি আছে এতিয়া বানপানী টো এনেকুৱা বস্তু এটা মানে এনেকুৱা ক্ষতি কৰি থাকে মানুহৰ মানে আমাৰ নামনি অসমৰ নামনি অসমৰ মানুহ বিলাকৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 57.862,
+            "end": 68.003,
+            "speakerSeqId": 1,
+            "transcription": "এনেকুৱা ক্ষতি কৰি থাকে মানে মানুহ বিলাকৰ প্রতি বছৰ বানপানী [noise] সম্মুখীন হব লাগে আৰু বহুত সমস্য়া হৈ থাকে তোমাৰ এইটো কি মন্তৱ্য আছে হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 68.003,
+            "end": 79.968,
+            "speakerSeqId": 2,
+            "transcription": "মইয়ো মইয়ো একে যেনেকুৱা নামনি সকল মানে নামনি ফালৰ যিবিলাক মানুহে আছে সেই বিলাক মানুহে জানে ন যে বছৰে বছৰে বানপানী হৈয়ে থাকে হৈয়ে থাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 79.968,
+            "end": 80.407,
+            "speakerSeqId": 1,
+            "transcription": "অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 80.407,
+            "end": 94.936,
+            "speakerSeqId": 2,
+            "transcription": "তাত বানপানীৰ হোৱাৰ মানে বিশেষকৈ বানপানী কাৰণটো হল যে বেছি বৰষুণ হোৱাৰ ফলত বানপানী হয় আকৌ এই ভূটানৰ পানীটো এৰি দিয়ে [overlap] সেইকাৰণে বানপানী হয় গতিকে বানপানী হোৱাৰ ফলত মানুহৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 94.936,
+            "end": 100.555,
+            "speakerSeqId": 1,
+            "transcription": "আপোনাৰ নেট নেটৱাৰ্কটোৰ সমস্য়া হৈ আছে জাগা টো সলনি কৰি লব অলপ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 100.555,
+            "end": 112.958,
+            "speakerSeqId": 2,
+            "transcription": "গতিকে আচলতে কবলৈ গলে যে বানপানীৰ ওপৰত মানে বানপানী হলে মানুহৰ কি মানে কেনে কেনে ক্ষতি হয় কি কি ক্ষতি হয় সেই বিষয় আপুনি অলপ অলপ কলে ভাল হল হেতেন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 112.958,
+            "end": 120.164,
+            "speakerSeqId": 1,
+            "transcription": "মানে মানুহৰ [overlap] মানুহৰ [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 120.164,
+            "end": 121.143,
+            "speakerSeqId": 2,
+            "transcription": "মানে মানুহৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 121.143,
+            "end": 122.948,
+            "speakerSeqId": 1,
+            "transcription": "মানে সাধাৰণ লোকবিলাক [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 122.948,
+            "end": 128.517,
+            "speakerSeqId": 2,
+            "transcription": "মানে কি কি ক্ষতি হয় আৰু কি মানুহ বিলাকৰ কি কি অসুবিধা হয় বানপানীৰ ফলত সেইখিনিৰ ওপৰত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 128.517,
+            "end": 138.558,
+            "speakerSeqId": 1,
+            "transcription": "অ মানে মানুহৰ ওপৰত কি কি হৈ থাকে হয় না মানে আজি কালি যেনেকুৱা হৈ আছে মানে #এৰ মানুহ বিলাকে ঘৰ বাৰী বনাই আছে না"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 138.558,
+            "end": 153.537,
+            "speakerSeqId": 1,
+            "transcription": "মানে বান বানপানীৰ সন্মুখত এতিয়া এনেকুৱা পৰিস্থিতি হৈ গৈছে যে ঘৰ বাৰী বনোৱা বা নবনাই আৰু মানুহে আজিকালি মানে এনেকুৱা পৰিস্থিতিত কেনেকুৱা কৰিব আৰু মানে ঘৰ বাৰী চব ভাঙি লৈ চৰকাৰে একো [noise] মানে ব্য়ৱস্থা লোৱা নাই চৰকাৰে কিবা সুবিধা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 153.537,
+            "end": 158.504,
+            "speakerSeqId": 1,
+            "transcription": "তাক দিয়া নাই তাৰ কাৰণে মানুহ বিলাকৰ বহুত সন্মুখীন সন্মুখীন হব লাগে হয় না"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 158.504,
+            "end": 170.131,
+            "speakerSeqId": 2,
+            "transcription": "যেনেকুৱা মানুহ বিলাকৰ এই নামনি অঞ্চলৰ মানুহ বিলাকে সেই সকল বানপানী হলে তেওলোকৰ যে যে থকা বাসস্থান যিকোনো যিটো থাকে সেই বাসস্থানটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 170.131,
+            "end": 182.247,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো মানে বানপানীৰ ফলত ভাঙি যায় সেইটো ডুবি যায় আৰু তেওলোকে কত যাব কি কৰিব কি খাব কত থাকিব সেইটো লৈ মানে তেওলোকে মানে বহুত চিন্তাত থাকে সেইটো লৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 182.247,
+            "end": 194.768,
+            "speakerSeqId": 1,
+            "transcription": "#আহ মানে বানপানী‌টো এনেকুৱা এটা বস্তু বানপানী‌ হয় চাৰিওফালতে আমাৰ নামনি আমাৰ অসমত পানী আহি যায় অহাৰ পিছত পানী বিলাক আহি যায় নামনি অসমত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 194.768,
+            "end": 206.311,
+            "speakerSeqId": 1,
+            "transcription": "নামনি অসমত আহি পিনে ব্ৰহ্মপুত্ৰত যোগ হয় ব্ৰহ্মপুত্ৰত যোগ হৈ কেনে তাৰপিছত আহি যায় আমাৰ গংগাধৰ চিনি পোৱা না গংগাধৰত আহি যায় [silence] এই গংগাধৰৰ পৰা পানী আমাৰ এইফালে আহি যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 206.311,
+            "end": 220.53,
+            "speakerSeqId": 1,
+            "transcription": "এইফালৰ পৰা পানী আহি আহি কেনে আমাক এনেকুৱা লোকচান কৰি দিয়ে মানে মানুহ বিলাকৰ এনেকুৱা পৰিস্থিতি কৰি দিছে আজি ৰাস্তা ঘাট দলং চলং যিমান খিনি বস্তু আছে চব খিনি বস্তু একদম নষ্ট কৰি দিছে দলং বিলাক ভাঙি গৈছে ৰাস্তা বিলাক ভাঙি গৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 220.53,
+            "end": 231.303,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ তাতে এনেকুৱা এই ৰাস্তা বানৰ কাৰণত ৰাস্তা ভাঙি গৈছে আজিলৈকে কোনো ব্য়ৱস্থা লোৱা নাই চৰকাৰে মাত্ৰ চাই চাই যায় আৰু কিবা কাম কৰা নাই ৰাস্তাটোৰ এতিয়ালৈকে এনেকৈয়েই পৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 231.303,
+            "end": 242.558,
+            "speakerSeqId": 1,
+            "transcription": "মানে চৰকাৰী মানুহ বিলাকো কোনো ব্য়ৱস্থা নলয় ৰাস্তা বিলাক এনেকুৱা পৰি আছে যে দলং বনাই দিব দলং বনাই দিলে লোক বিলাকো ভালে থাকিব ৰাস্তা ঘাট বিলাক ভালে থাকিব এনেকুৱা এটা কাম নলয় আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 242.558,
+            "end": 257.588,
+            "speakerSeqId": 1,
+            "transcription": "মোৰ মন্তৱ্য হৈছে এইটো যে মানুহে কাম কাম ভাল কৰি ভালকৈ কৰিব লাগে সেই বিলাক ৰাস্তা ঘাট এনেকুৱা হৈ পৰি আছে বহু আজি তিনি বছৰ চাৰি বছৰ পাচ বছৰ মান হৈ গল সেইবিলাক কামৰ এতিয়া লৈকে কোনো ব্য়ৱস্থা লোৱা নাই সেই বিলাক আৰু যদি যে কামৰ যদি এতিয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 257.588,
+            "end": 267.972,
+            "speakerSeqId": 1,
+            "transcription": "ব্য়ৱস্থা লয় মানে কাম বিলাক ভাল হব আৰু পিছত আৰু বানপানীৰ সন্মুখীন হব নালাগে আমাক মানে বহুত সমস্য়াত পৰি আছো আমি তাৰকাৰণত আমাক ভাল দৰে দেখিব লাগে আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 267.972,
+            "end": 270.672,
+            "speakerSeqId": 2,
+            "transcription": "যেনেকুৱা [noise] চৰকাৰ বিলাক [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10038,
+            "start": 270.672,
+            "end": 270.959,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 270.959,
+            "end": 277.034,
+            "speakerSeqId": 2,
+            "transcription": "সেই ৰাস্তা ঘাট বিলাক ভাল কৰিব লাগে মানে যেতিয়া বানপানী হয় সেই বানপানী হোৱা হোৱাৰ সময়ত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 277.034,
+            "end": 289.69,
+            "speakerSeqId": 2,
+            "transcription": "সেই মানে নামনি অঞ্চলত মানুহ বিলাকে কত যায় সেই ওখ ওখ ৰাস্তা যিবিলাক আছে সেইবিলাকতে যায় কেনে মানে সেইবিলাকতে ঠাই লয় ন সেইটো চৰকাৰে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 289.69,
+            "end": 301.435,
+            "speakerSeqId": 2,
+            "transcription": "সেইখিনি চৰকাৰে চাব লাগিছিল যে ওখ ওখ ৰাস্তা খিনি বনাই দিও মানে নামনি অঞ্চল বিলাকত যেতিয়া বানপানী আহে তেতিয়া মানে নাওৰ ব্যৱস্থা কৰি দিব লাগে সেই খিনি চৰকাৰে চাব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 301.435,
+            "end": 303.781,
+            "speakerSeqId": 2,
+            "transcription": "কিবা কিবি [noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10043,
+            "start": 303.781,
+            "end": 304.473,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10044,
+            "start": 304.473,
+            "end": 305.232,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 305.232,
+            "end": 314.041,
+            "speakerSeqId": 1,
+            "transcription": "মই এটা বস্তু চালো আৰু গুৱাহাটীত মানে মানুহে যে গুৱাহাটীত থাকে কিছুমান মানুহ আছে এই (()) বুলি কয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 314.041,
+            "end": 328.513,
+            "speakerSeqId": 1,
+            "transcription": "(()) তলত আছিল ওপৰত আছিল পাহাৰটো মানে বৰষুণ আহি আহি এনেকুৱা হৈ গৈছে পাহাৰৰ যিবিলাক মাটি বিলাক আছিল যেনেকুৱা মাটি বিলাক পৰি পৰি মানুহৰ বাৰীৰ ওপৰত পৰিছিল মানুহৰ মানুহৰ বাৰী টাৰী ভাঙি গৈছে চৰকাৰে এটাও এটা সুবিধা দিয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 328.513,
+            "end": 336.721,
+            "speakerSeqId": 1,
+            "transcription": "দিয়া নাই বাৰী ঘৰ ভাঙি গৈছে ভাঙি গৈছে ভাঙি গৈছে এটা ব্য়ৱস্থা লোৱা নাই এতিয়ালৈকে সেইবিলাক সেইবিলাক লোক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 336.721,
+            "end": 350.89,
+            "speakerSeqId": 1,
+            "transcription": "মানে দৰিদ্ৰত পৰি গৈছে সেইবিলাক লোকক অলপ যদি কিবা কিবি #আহ কৰিলে হয় কিবা সহায় সহায় যদি কৰিলে হয় আজিকালি লোকবিলাক খুব ভাল থাকিলে হয় আজিকালি লোকবিলাক বেলেগ জাগাত জাগাত এটাত যাব পাৰিলেহে বেলেগ জাগাত ঠাই লৈ তাত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 350.89,
+            "end": 353.933,
+            "speakerSeqId": 1,
+            "transcription": "থাকিব পাৰিলে হয় মানে এনেকুৱা ব্য়ৱস্থা লোৱাই নাই এতিয়ালৈকে [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 353.933,
+            "end": 364.312,
+            "speakerSeqId": 2,
+            "transcription": "কৃষি কৃষি কৰা মানুহ বিলাক তেওলোকৰ কৃষি মানে কৃষি কাম কৰি কেনে জীৱন নির্বাহক কৰে তেওলোকৰ বাবে বানপানী হলে কেনে কেনে অসুবিধা হয় অলপ কব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 364.312,
+            "end": 381.231,
+            "speakerSeqId": 1,
+            "transcription": "মানে আমাৰ কৃষি লোক বিলাক কি হয় আমাৰ ধান যে থাকে ধান সেই ধান বিলাক ডুবি যায় ডুবি ডুবি আমাৰ ফল ফল বিলাক যে আছে সেই ধান বিলাক একদম পোকাই খাই দিয়ে তাৰ পিছত আমাৰ ফল নহয় হয় (()) মাৰি যায় আমাৰ (()) মানে মাৰি যায় সেই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 381.231,
+            "end": 388.544,
+            "speakerSeqId": 1,
+            "transcription": "সেই সময় খনত তাৰো কোনো ব্য়ৱস্থা লোৱা নাই এতিয়ালৈকে সেই বিলাকত [noise] কিবা কিবি দিবা লাগে চৰকাৰত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 388.544,
+            "end": 398.112,
+            "speakerSeqId": 1,
+            "transcription": "ব্য়ৱস্থা লোৱাই নাই এতিয়ালৈকে মানে সেই বিলাক কাম যদি কৰিলে হয় তেনেহলে মানুহ বিলাক কৃষি মানুহ বিলাক সেই বিলাকতো মানুহ সেই বিলাকতো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 398.112,
+            "end": 407.022,
+            "speakerSeqId": 1,
+            "transcription": "ধানেই লই খাই থাকে না সেই বিলাকৰ ওপৰত নিজৰ নিজৰ জীৱনটোত যিখিনি আশা থাকে টকাও কি কৰে উপাৰ্জন কৰে তাৰ ওপৰত সেই কৰে হয় হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10055,
+            "start": 407.022,
+            "end": 407.056,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 407.056,
+            "end": 407.613,
+            "speakerSeqId": 1,
+            "transcription": "হয় না"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 407.613,
+            "end": 408.254,
+            "speakerSeqId": 2,
+            "transcription": "সেইখিনিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 408.254,
+            "end": 423.115,
+            "speakerSeqId": 1,
+            "transcription": "তাক তাক যদি কিবা যদি দিলে হৈ মানে কিবা যদি দিলে হৈ সেই মানুহ বিলাকো ভাল থাকিল হয় তুমিও ভাল থাকিলা হে মানে এনেকুৱা কিবা ব্য়ৱস্থা লোৱা নাই আজি কৃষি মানুহ বিলাকটো চব সেইটোৰ কাৰণতে ভৰষা কৰি থাকে যে সি তো মোক পইচা দিব তাৰ পৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 423.115,
+            "end": 432.25,
+            "speakerSeqId": 1,
+            "transcription": "মই পইচা উপাৰ্জন কৰিম মানুহক মানুহক দিম এনেকুৱা ধৰণৰ [noise] হৈ থাকে তাকে যদি এটা সহায় নহয় তে সেই বিলাক লোক কি কৰিব এতিয়া কওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 432.25,
+            "end": 434.056,
+            "speakerSeqId": 2,
+            "transcription": "জীৱন জীৱন জীৱন নিৰ্বাহ কৰিব ন"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10061,
+            "start": 434.056,
+            "end": 434.663,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 434.663,
+            "end": 449.767,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় #আহ হয় মানে সেই লোকৰ ওপৰে এতিয়ালৈকে কোনো ব্য়ৱস্থা লোৱা নাই লোকবিলাকক পইচা দিয়া নাই মানে সেইটো এটা ব্য়ৱস্থা লৱ লাগিছিল মানুহৰ [noise] যিমান আবাদ কৰি থাকে সেইবিলাক আবাদ ডুবি যায় সেইবিলাক আবাদ খাই দিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 449.767,
+            "end": 461.208,
+            "speakerSeqId": 1,
+            "transcription": "তাৰপিছত তাৰপিছত আৰু আৰু বহুত কিবা কিবি সমস্য়া হৈ থাকে সেই বিলাকৰ সন্মুখীন হব লাগে মানুহৰ সেই বিলাকৰ ব্য়ৱস্থা এতিয়ালৈকে লোৱা নাই মানে বানপানীটোই ইমান বেয়া কৰি থাকে মানুহৰ প্ৰত্য়েক বছৰে বছৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 461.208,
+            "end": 474.1,
+            "speakerSeqId": 1,
+            "transcription": "আৰু ধুবৰীৰ এইফালেটো ডুুবি যায় মানুহৰ ঘৰ বাৰী চব চবখিনি ডুুবি যায় মানুুহে থাকিবই নোৱাৰে এনেকুৱা ধৰণৰ হৈ যায় মানুহৰ ৰাস্তাত ঘাট বিলাক ভাঙি ভাঙি যায় দলং যেনেেকুৱা আছে দলং বিলাক ভাঙি ভাঙি যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 474.1,
+            "end": 476.007,
+            "speakerSeqId": 1,
+            "transcription": "আৰু বহুত সমস্য়া হৈ থাকে মানুহৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 476.007,
+            "end": 479.078,
+            "speakerSeqId": 2,
+            "transcription": "মানে বানপানী হোৱাৰ [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 479.078,
+            "end": 480.952,
+            "speakerSeqId": 1,
+            "transcription": "তুমি কেনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 480.952,
+            "end": 495.903,
+            "speakerSeqId": 2,
+            "transcription": "এই যে এই যে বানপানী ফলত #উম কি কৈ আছিলে এই যে মানে জীৱ জন্তু বিলাকে যে থাকে সেইখিনি জীৱ জন্তু বিলাকে ধৰা চৰাই চিৰিকতি বিলাকে তেওলোকৰ তেওলোকে কিন্তু মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 495.903,
+            "end": 508.627,
+            "speakerSeqId": 2,
+            "transcription": "অ তেওলোকৰ মৃত্যু হয় হোৱাৰ পিছত সেই পানীখিনি যে সেই পানী খিনি গেলি পচি গৈ কেনে সেই পানী খিনি পানী খিনি মানে নষ্ট কৰি দিয়ে আৰু পৰিৱেশটোই মানে প্রদূষণ হৈ যায় সেই কাৰণে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10070,
+            "start": 508.627,
+            "end": 510.432,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 510.432,
+            "end": 513.335,
+            "speakerSeqId": 2,
+            "transcription": "মানুহৰ মানে মানুহক অ কোৱা কোৱা মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 513.335,
+            "end": 518.043,
+            "speakerSeqId": 1,
+            "transcription": "[silence] আজি যেনেকুৱা আছে গৰু ছাগলী"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 518.043,
+            "end": 532.245,
+            "speakerSeqId": 1,
+            "transcription": "এই বিলাক বস্তুটো কি এই বিলাক বস্তুটো অমাত বস্তু একো নাজানে এইবিলাক বানপানী হয় মানে সেইবিলাকৰ কিমান কষ্ট হৈ থাকে এইবিলাকৰ কাৰণে ৰাস্তাত পৰি পৰি মৰি মৰি থাকে পৰি পৰি থাকে সেইবিলাকক দেখি আমি দেখি আমাক ইমান মৰম লাগে আমি কিবা কৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 532.245,
+            "end": 541.448,
+            "speakerSeqId": 1,
+            "transcription": "কৰিবটো নোৱাৰো চৰকাৰে কিবাটো কৰিব লাগে আমি নিজে আমি কৰিব নোৱাৰো আমি নিজে ঠাইটো ভালকে যাব নোৱাৰো সেইবিলাক ঠাই আমি এইবিলাক বস্তু আমি কি কৰিম"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10075,
+            "start": 541.448,
+            "end": 541.82,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 541.82,
+            "end": 549.076,
+            "speakerSeqId": 1,
+            "transcription": "হয় নে নহয় [noise] মানে তাৰকাৰণত তাৰকাৰণত কিবা এটা লব লাগিছিল আৰু তাৰকাৰণত কিবা এটা ভাল কাম কৰিলে আৰু ভাল হল হৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 549.076,
+            "end": 550.73,
+            "speakerSeqId": 2,
+            "transcription": "মানে সেইটো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10078,
+            "start": 550.73,
+            "end": 553.143,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 553.143,
+            "end": 555.168,
+            "speakerSeqId": 2,
+            "transcription": "মানে সেইটো মানে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 555.168,
+            "end": 569.168,
+            "speakerSeqId": 2,
+            "transcription": "জীৱ জন্তু বিলাকে যে এনেকৈ মানে গেলি পচি থাকে মৰি গৈ কেনে যিমান ঠাইত থাকে সেইখিনি ঠাই তো নষ্ট হৈ যায় ন সেই পৰিৱেশটোয়ে ই নষ্ট হৈ যায় সেই কাৰণে মানুহৰ মানে ডাঙৰ ডাঙৰ বেমাৰো হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10081,
+            "start": 569.168,
+            "end": 573.545,
+            "speakerSeqId": 2,
+            "transcription": "যেনেকুৱা মহামাৰী হয় মানে কলেৰিয়া এইবিলাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 573.545,
+            "end": 576.768,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় আজি যিমান হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10083,
+            "start": 576.768,
+            "end": 590.768,
+            "speakerSeqId": 1,
+            "transcription": "কলেৰিয়া বেমাৰ আছে আৰু বহুত ধৰণে বেমাৰ কি হয় বুলি বেমাৰ আহি থাকে আৰু মানুহে যেতিয়া লৈ হস্পিতাল যাব যাবা নোৱাৰে কোনোৱাই সেইটো সময়তে মৃত্যু হৈ যায় কোনোৱাৰ [noise] এনেকুৱা হৈ যায় মানুহে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10084,
+            "start": 590.768,
+            "end": 595.668,
+            "speakerSeqId": 1,
+            "transcription": "এই কোনো এটা ঠাই যাবই নোৱাৰি এনেকুৱা সময়ত [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 595.668,
+            "end": 599.735,
+            "speakerSeqId": 2,
+            "transcription": "সকলো সকলো ফালত হয় হয় [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10086,
+            "start": 599.735,
+            "end": 608.469,
+            "speakerSeqId": 1,
+            "transcription": "[silence] গতিকে আমাৰ সময়টো সমাপ্ত হৈ গেছি পৰৱৰ্তী অংশত আমি কথা পাতিম"
+        }
+    ]
+}

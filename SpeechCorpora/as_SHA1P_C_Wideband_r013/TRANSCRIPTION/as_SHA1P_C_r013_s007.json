@@ -1,0 +1,788 @@
+{
+    "speechMode": "C",
+    "recordingId": "20296914",
+    "speechFile": "as_SHA1P_C_r013_s007",
+    "callDuration": 612.352,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239275"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239276"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 4.57,
+            "speakerSeqId": 1,
+            "transcription": "#আহ মোৰ লগত আছে আজি বুলু ভাইটি বুলু ভাইটি কি খবৰ এইটো আৰু কি নাম ৰাখিছা বুলু ভাইটি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 4.57,
+            "end": 9.835,
+            "speakerSeqId": 2,
+            "transcription": "নামতো ভাল আছিল মোৰ না বুলু বুল বুলি এটা দান কোম্পেনী আছে বোলে না সেই কাৰণে নামতো মই ৰাখিছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 9.835,
+            "end": 10.983,
+            "speakerSeqId": 1,
+            "transcription": "বুলু চেনেমা নহয়তো আকৌ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 10.983,
+            "end": 14.138,
+            "speakerSeqId": 2,
+            "transcription": "#আহ নহয় এইটো মানে মৰম দিলে নহব [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 14.138,
+            "end": 28.769,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে আজি মানে আলোচনা কৰিম এটা বিষয়ৰ ওপৰত #এৰ বিষয় হৈছে আমাৰ যেনেকুবা এইটো বিষয় নহয় কবলৈ হলে গতিকে আচলতে বিষয়ে হয় এইটো গতিকে আজি আমি আলোচনা কৰিম আমাৰ যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 28.769,
+            "end": 40.666,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ মোবাইল ফোন যে আছে সাধাৰণতে আমি মোবাইল ফোনতো যে চলাই থাকো সেইটো মোবাইলে ফোনৰ ওপৰত আলোচনা কৰিম গতিকে #আহ মোবাইল ফোন #আহ মোবাইল ফোন আজি কি কয় আজি যেতিয়া মোবাইল ফোন নাছিল তেতিয়া কিন্তু বহুত সমস্য়া দেখা দিছিল হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 40.666,
+            "end": 52.613,
+            "speakerSeqId": 1,
+            "transcription": "আজিকালি মোবাইল মোবাইল ফোন আহি কি হৈছে যে সমস্য়া বিলাক আমাৰ পৰা কি গুচি গৈছে নেকি সমাধান হৈছে নেকি আৰু কিবা ভাল হৈছে নেকি মোবাইল ফোন আহি কি দেখা মোবাইল ফোনৰ বিষয়ে অলপ কোৱা চোন [overlap] আলোচনা কৰো অলপমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 52.613,
+            "end": 66.62,
+            "speakerSeqId": 2,
+            "transcription": "যে আপুনি ভাল কথা কৈছে আগৰ দিনত চাওক আমি মোবাইল ফোন পোৱা নাছিলো দেখা পোৱা নাছিলো মোবাইল ফোন কি আমি বুজি পোৱা নাছিলো সেনেকুৱা #উম কি কোনোৱা কৈছে যদি মোবাইল ফোন মোবাইল ফোন কি আমিতো দেখা পোৱা নাছিলো কি হয় মোবাইল ফোন অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 66.62,
+            "end": 76.424,
+            "speakerSeqId": 2,
+            "transcription": "তাৰ পিছত আমি কিছু দিন পিছতে আমি হাতে হাতে পাই গলো বা কাৰ ওচৰত দেখো কাবাৰ হাতত দেখো মানে এইটো মোবাইল ফোন এই মোবাইল ফোনৰ জৰিয়তে [overlap] লোকৰ লগত কথা পাতো মানে দেখা পালি মানে চিনাকি হব পাৰো মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 76.424,
+            "end": 77.318,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10011,
+            "start": 77.318,
+            "end": 77.977,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 77.977,
+            "end": 89.485,
+            "speakerSeqId": 2,
+            "transcription": "আগৰ দিনত যেনেকুবা চাওক আগৰ দিনত আমি যদি কাৰোবাৰ লগত গৈ কথা পাতো মানে দেখা কৰো মানে নিজে যাব লাগতো #হম হয় এটা আছিল এটা বস্তু মানে চব নহয় লেন ফোন বুলি কই লেন ফোন মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 89.485,
+            "end": 101.922,
+            "speakerSeqId": 2,
+            "transcription": "সি এতিয়া ফোন কৰিছে #আহ তেতিয়া মোৰ ঘৰত খবৰ আহিছে তাৰপিছত যায় কিনে লাইন লব লাগিব অ সেনেকুবা এটা বস্তু আছিল মানে কেতিয়া তাত আহিব আমি কিমান সময়ত যাম মানে সেইটো মানে সময়টো মিলা নাছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 101.922,
+            "end": 105.348,
+            "speakerSeqId": 1,
+            "transcription": "পি চি অ কথা কলা তুমি পি চি ও ত তুমি কথা পাতিছিলা নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 105.348,
+            "end": 106.462,
+            "speakerSeqId": 2,
+            "transcription": "অ মই পি চি ও ত কথা পাতছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 106.462,
+            "end": 121.463,
+            "speakerSeqId": 1,
+            "transcription": "মোৰো মনত আছে মই মানে দেউতা আজি এদিন গুৱাহাটীত আছিল মই মাৰ লগত গৈছিলো ই আমাৰ যে ইয়াত ৰহমান বঞ্চি কৈ যে অ তাতে এটা পি চি ও আছিল তাত কিবা এক টকা কিবা দুই টকা ভৰাই দিয়া হৈছিল হয় হয় ভৰাই দিয়াৰ পিছত কথা আছিল পি চি ও ৰ কথা কিন্তু বহুত স্পষ্টকৈ আহিছিল হয় না অ বহুত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 121.463,
+            "end": 122.392,
+            "speakerSeqId": 1,
+            "transcription": "বহুত স্পষ্টকৈ আহিছি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 122.392,
+            "end": 124.67,
+            "speakerSeqId": 2,
+            "transcription": "যেনেকুবা মানে আগৰ দিনত ৰেডিঅ আছিল যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 124.67,
+            "end": 126.712,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 126.712,
+            "end": 132.095,
+            "speakerSeqId": 2,
+            "transcription": "মানে ৰেডিঅ খন মানে যেনেকুবা কাঠৰ বস্কৰ যেনেকুবা মাত মানে এনেকা এনেকা হব লাগে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10021,
+            "start": 132.095,
+            "end": 132.787,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10022,
+            "start": 132.787,
+            "end": 133.377,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 133.377,
+            "end": 146.371,
+            "speakerSeqId": 1,
+            "transcription": "ভাল একদম স্পষ্ট হোৱা স্পষ্ট মাত আছিলে একদম [silence] গতিকে আজি কালি আমাৰ মোবাইল ফোন আহি কি হৈছে যেনেকুবা আজি স্মার্ট যুগ আধুনিকতাৰ যুগ হয় নে নাই গতিকে আজিৰ আধুনিকতাৰ যুগত কি মোবাইল ফোন আহি আমাৰ আমি যেনেকুবা লৰা গতিলে আমাৰ সিমান বয়সো হোৱা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 146.371,
+            "end": 157.947,
+            "speakerSeqId": 1,
+            "transcription": "আমাক কবলৈ হলে আমি এতিয়াও ছাত্ৰ ছাত্ৰী যদি পঢ়ি থাকিলো হৈ এতিয়াও ছাত্ৰ ছাত্ৰী হয় নে নাই হয় গতিকে মানে কি হৈছে যে আজি কালি আমাৰ লৰা ছোৱালী ছাত্ৰ ছাত্ৰী বিলাকে ছাত্র ছাত্রী বিলাকে কি মোবাইল ফোন আহি কি ভাল হৈছে না বেয়া হৈছে কোৱা অলপমান ইয়াৰ ওপৰত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 157.947,
+            "end": 162.453,
+            "speakerSeqId": 2,
+            "transcription": "আজিকালি মোবাইল ফোন আহি বহুত এটা সুবিধা হৈছে মোবাইল মানে কি সুবিধা হৈছি মানে যেনেকুবা চাওক যে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10026,
+            "start": 162.453,
+            "end": 162.925,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 162.925,
+            "end": 173.725,
+            "speakerSeqId": 2,
+            "transcription": "আমি এইটো কথা মানে প্রথমে কম যে আমি যেনেকুৱা মানুহৰ লগত মিলি পাতি কৰিব পৰা নাছিলো আগৰ মানে হয় বর্তমান এনেকুৱা সুবিধা পাইছিলো যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 173.725,
+            "end": 186.196,
+            "speakerSeqId": 2,
+            "transcription": "বজাৰত যাব লাগে বজাৰত কিয় যাও চবজি বা যিকোনো খৰচ উলাব লাগে মানে কি নিজে যাব লাগছিল আগত বা এনেকুবা এটা সুবিধা পাইছিলো এ কোনোবা লৰাক #উম কৈছিলো ভাই এই খিনি আমাৰ বস্তু খিনি দি থৈ আহিবি ঘৰত পতাককৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 186.196,
+            "end": 198.177,
+            "speakerSeqId": 2,
+            "transcription": "দেখা যায় আগত আমি মোবাইলত যিকোনো মানে বস্তু এটা দেখা পোৱা নাছিলো আগত মানে #উম কোনো গাওত বা কোনো ঠাইত কোনো এটা ৰাজ্য়ত যি কোনো হাল্লা কাজিয়া বা ঘটনা হৈ গেল আমি দেখা পোৱা নাছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 198.177,
+            "end": 199.612,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 199.612,
+            "end": 207.442,
+            "speakerSeqId": 2,
+            "transcription": "অলপ আগত মই অলপ আগত মই ওয়েস্ট বেঙ্গলৰ পৰা আহিলো আৰু ঘটনা খন আমাৰ অসমতে হৈছিলে যে [overlap] জাগা বুলি কই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 207.442,
+            "end": 209.146,
+            "speakerSeqId": 1,
+            "transcription": "কি কি নাম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 209.146,
+            "end": 211.475,
+            "speakerSeqId": 2,
+            "transcription": "চানমাৰি চ চিতোকুমা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 211.475,
+            "end": 212.167,
+            "speakerSeqId": 1,
+            "transcription": "কাছম মৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 212.167,
+            "end": 213.601,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো কোৱা বুলি যে ডুম পাৰা বুলি কয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10036,
+            "start": 213.601,
+            "end": 215.002,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 215.002,
+            "end": 217.955,
+            "speakerSeqId": 2,
+            "transcription": "চেতোকুমাৰ থানা মানে পুলিচ পইন্ট আগতে অট্টালিকা আছে নহয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10038,
+            "start": 217.955,
+            "end": 219.457,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 219.457,
+            "end": 231.64,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো অট্টালিকাত মানে আজি চুৰি হৈছে [overlap] চুৰি হৈছে গ্ৰীল ভাঙি কিনে তলা ফাটায় কিনে মানে ঘৰৰ পৰা সোনা পইচা যি খিনি আছে মানে লুটি লৈ গৈছে চুৰে হয় সেই খিনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 231.64,
+            "end": 245.516,
+            "speakerSeqId": 2,
+            "transcription": "এ আমি অলপ আগত বাৰিতত দেখা পালো মানে [silence] আগত যিখিনি বস্তু শুনি পাইছো যে চুৰি হৈছে দেখা পোৱা নাই আজি মানে আজি মানে [overlap] মোবাইল খুলি কিনে চালো মানে সেই খিনি বস্তু দেখা পালো মানে ফেচবুকত মানে ভাইৰেল কৰি দিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 245.516,
+            "end": 252.262,
+            "speakerSeqId": 2,
+            "transcription": "মানে আজি এই খন চুটি হৈ গল মোবাইল এনেকুৱা এটা সুবিধা পালো না সিখিনি বস্তু আমি দেখা [overlap] পোৱা নাছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 252.262,
+            "end": 265.54,
+            "speakerSeqId": 1,
+            "transcription": "তাৰ মানে ইয়াৰ মানে আমি কি হয় যে আমাৰ দৈনন্দিন জীৱনত চলি থকা জীৱনত কি হয় যেতিয়া যিবিলাক বস্তু আমি মোবাইলত দেখি আছো ইয়াৰ পৰা আমি কি #আহ সজাগ হয় আছো মানে বহুত স্মার্ট হয় আছো যেনেকুৱা আজি আজি এটা তুমি ঘটনা দেখা পাইছা চুৰি ঘটনা হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 265.54,
+            "end": 270.44,
+            "speakerSeqId": 1,
+            "transcription": "আমি কিন্তু কি ভাবি আছো যে চুৰি এটা হয় গল এতিয়া কিন্তু দোকান ডাঙৰ ডাঙৰ দোকান আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 270.44,
+            "end": 280.477,
+            "speakerSeqId": 1,
+            "transcription": "সেই বিলাক মানুহে যেতিয়া বাতৰি খন খবৰটো দেখিবো তেতিয়া কিন্তু কি ভাবিব #আহ দোকানতো এনেকা এনেকা চুৰি হৈ গল তাৰ পিছত সুৰক্ষা ব্য়ৱস্থা আৰু কি হয় সলনি কৰি দিয়া হবো ভাল কৰি দিয়া হব যাতে চুৰি নহয় হয় নে নাই"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10045,
+            "start": 280.477,
+            "end": 280.679,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 280.679,
+            "end": 284.028,
+            "speakerSeqId": 1,
+            "transcription": "দোকানটো কেনেকে কেনেকে চুৰি হল এইতো বস্তু কিন্তু সকলে চাইছে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10047,
+            "start": 284.028,
+            "end": 284.416,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 284.416,
+            "end": 292.053,
+            "speakerSeqId": 1,
+            "transcription": "তাৰ পিছত মানুহ বিলাকে #আহ ভাবিব যে এনেকুৱা ব্য়ৱস্থাত চুৰি হৈছি মোৰ দোকান খিনি এনেকুৱা কৰিম তেতিয়া হলে কি চোৰে চুৰ কৰিব নোৱাৰে হয় নে নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 292.053,
+            "end": 303.055,
+            "speakerSeqId": 2,
+            "transcription": "চুৰ কৰিলে দেখা পাম যেনেকুৱা চি চি ব্য়ৱস্থা আছে আজি কালি যে মোবাইলত [overlap] উলাব পাৰো মই যে এটা ঘৰতো পিছ লাগালো এটা মানে #উম পিছ ফালত লগাই দিলো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10050,
+            "start": 303.055,
+            "end": 304.393,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 304.393,
+            "end": 310.818,
+            "speakerSeqId": 2,
+            "transcription": "মোবাইলত সংযোগ কৰিলো বাচ আমি যতে যাও আমাৰ গুয়াহাটী যাও দিল্লি যাও হাৰিয়ানা যাও পান্জাব যাও মুম্বাই যাও মানে মোবাইলতো #উম দেখা পাই আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 310.818,
+            "end": 320.139,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে আমাৰ কি হৈছে যে তোমাক যে কৈছিলো ছাএ ছাত্রী মানে আজিৰ শিক্ষাৰ্থী ছাত্র ছাত্রী সকলে কি কৰি আছে মোবাইল পাই কি বেয়া হৈ আছে না ভাল হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 320.139,
+            "end": 328.992,
+            "speakerSeqId": 2,
+            "transcription": "বেছি ভাগ ভাবা যায় যে মোবাইল পাই কেনে মানে ভালে হৈছে ভাল বেয়া কাৰণ কব নোৱাৰা বেয়া কাৰণ এইটো হৈছে #উম এই যে বেয়া কিহৰ কাৰণত হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 328.992,
+            "end": 333.768,
+            "speakerSeqId": 1,
+            "transcription": "#আহ কোৱা ভাইটি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 333.768,
+            "end": 335.995,
+            "speakerSeqId": 2,
+            "transcription": "যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 335.995,
+            "end": 336.569,
+            "speakerSeqId": 1,
+            "transcription": "ফোন আহিছে নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 336.569,
+            "end": 350.423,
+            "speakerSeqId": 2,
+            "transcription": "নহয় নহয় ফোন নহয় যে অ তে কোৱা [silence] মানে মোবাইল পাই কিনে কি এটা সুবিধা পাইছে যে মোবাইলত যিখিনি বস্তু আমি আগত মানে পঢ়া শুনা মানে বেছি পোৱা নাযায় যিখিনি মানে কিতাপত আছিল সেই খিনি পাইছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 350.423,
+            "end": 354.558,
+            "speakerSeqId": 2,
+            "transcription": "মানে [overlap] এটা মানে আমি এটা মোবাইলত কি দেখা পাইছিলো যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 354.558,
+            "end": 356.988,
+            "speakerSeqId": 1,
+            "transcription": "এ এ ইউটুবৰ পৰা ভিডিও আছে চায়ো হয় নে নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 356.988,
+            "end": 363.383,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো হয় যে কিতাপত আমি নিজে নিজে ভাবা মানে পঢ়িছো মানে বেছি ভাগ বুজি পোৱা নাছিলো যে আমি মোবাইল ফোনত এনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 363.383,
+            "end": 364.362,
+            "speakerSeqId": 1,
+            "transcription": "#আহ বুজি পোৱা নাছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 364.362,
+            "end": 366.117,
+            "speakerSeqId": 2,
+            "transcription": "যে কুচিন চিন্তা বুলি [noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10063,
+            "start": 366.117,
+            "end": 366.961,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 366.961,
+            "end": 380.95,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় আজি যদি গুগলটো বিচাৰো কৰো মানে সেইটোৰ উত্তৰ #উম যিটো থাকে সেইটো উত্তৰ আমি কিতাপতো নাপাও আমি যদি মোবাইলত বিচাৰো কৰো #উম উত্তৰটো আমি পাই যাও অকল মানে মোবাইলত ৰীল দেখাৰ কাৰণে যিটো নহয় [silence] আমি মোবাইল [overlap] ভাল কামটো ব্য়ৱহাৰ কৰিব পাৰো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 380.95,
+            "end": 392.037,
+            "speakerSeqId": 2,
+            "transcription": "মানে বেয়া কামত ব্য়ৱহাৰ কৰিব নোৱাৰো আমি ভাল কামত ব্য়ৱহাৰ কৰিব পাৰো মোবাইল ফোন হৈ বহুত সুবিধা হল ছাত্র ছাত্রী বহুত সুবিধা হৈছে সেনেকৈ সাধৰণ মানুহৰো বহুত সুবিধা হৈছে অকলে ছাত্র ছাত্রীৰ নহয় [overlap] সাধাৰণ মানুহৰো বহুত সুবিধা হৈছি"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10066,
+            "start": 392.037,
+            "end": 394.286,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 394.286,
+            "end": 395.834,
+            "speakerSeqId": 2,
+            "transcription": "যে আপুনি কি কয় [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 395.834,
+            "end": 409.925,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে মই ভাবো যে আজি ছাত্র ছাত্রী কি হৈছে যে মোবাইল পাই যেনেকুৱা স্মার্ট হৈছে স্মার্ট হোৱাৰ লগতে ক্ষতিয়ো হৈ আছে বহুত মানে কি কৰি আছে যে মা দেউতাকৰ পৰা ফাকি দি মস্তি কৰি আছে মিছা কথা কৈ মোবাইল লৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 409.925,
+            "end": 414.818,
+            "speakerSeqId": 1,
+            "transcription": "মোবাইল লোৱাৰ পিছত কি হয় আছে যে মা দেউতাক কৈ আছে যে অনলাইন পঢ়া আছে যেনেকুৱা অনলাইন পঢ়া চলি থাকে আজিকালি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 414.818,
+            "end": 428.099,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে অনলাইন পঢ়া থকা বুলি কৈ মোবাইলত কি আছে যে ৰীলচ দেখি আছে আৰু কি কৰি আছে যেনেকুৱা ভিডিও বনাই আছে যে কেনেকে ভিডিও বনাব লাগে আচলতে পঢ়া শুনা সময়ত এই বিলাক বস্তু কৰিব নালাগে যদি পঢ়াশুনা নাই তেতিয়া হলে বেলেগ কথা যে সময় মোৰ হাতত বহুত আছে মই এইবিলাক বস্তু কৰি লও হয় নে নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 428.099,
+            "end": 440.62,
+            "speakerSeqId": 1,
+            "transcription": "শুটিং টুটিং কিবা কৰি লও ভিডিও বনাই লও (()) কৰি লও ইয়াৰ পৰা ভিউজ পাম সাবস্ক্রাইবাৰ আহিব টকা পাম হয় নে নাই গতিকে যিবিলাক ছাত্র ছাত্রীয়ে পঢ়ি আছে সেই বিলাক ছাত্র ছাত্রীয়ে মোৰ হিচাপত মোবাইলৰ পৰা দূৰত থাকিব লাগে কাৰণ মোবাইলতো এনেকুৱা এটা সাংঘাতিক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 440.62,
+            "end": 449.918,
+            "speakerSeqId": 1,
+            "transcription": "মানে এতিয়াৰ দিনত মোবাইলতো এনেকুৱা সাংঘাটিক ব্য়ৱস্থা আছে মোবাইলত মোবাইলত মানে যে আমাৰ সুৰক্ষা ব্য়ৱস্থাটো যে আছে আৰু যে মোবাইলৰ যিবিলাক (()) বহুত সাংঘাটিক সাংঘাটিক হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 449.918,
+            "end": 456.888,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে ইয়াৰ পৰা দূৰত থাকিব লাগে মোবাইল পৰা আজি কালি ছাত্র ছাত্রী দূৰ থাকিলে ভাল জীৱন মানে জীয়াই থাকিব পাৰিব [overlap] মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 456.888,
+            "end": 470.489,
+            "speakerSeqId": 2,
+            "transcription": "যে আপুনি ঠিকে কৈছে যে দূৰত থাকিলে ভাল হব মানে কিয়নো মা দেউতা যি খিনি সময় আছে সেই খিনি সময় মানে লক্ষ্য় দিবো লাগিব মানে কেনেকুৱা যেনে ওঠোৰ বছৰ [overlap] তলত যেনেকুৱা সাংঘাটিক হয় লৰা ছোৱালী হাতত মোবাইল দিব নাপাই কিয় দিব নাপাই [overlap] সি মেট্রিক পাছ কৰা নাই মেট্রিক পাছ কৰাৰ পিছত যদি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 470.489,
+            "end": 482.943,
+            "speakerSeqId": 2,
+            "transcription": "লৰা ছোৱালীৰ মানে জ্ঞান আহিব মানে আমি ভাল কামত খতাব লাগিব বেলেগ কাৰণত খতাব নোৱাৰো আজি [overlap] সেইবিলাক আমাৰ সেইটো লোকচান হৈ যাব আমি যিখিনি [overlap] ভালে কাম কৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 482.943,
+            "end": 494.907,
+            "speakerSeqId": 2,
+            "transcription": "#উম সেইটো মানে তাৰ দিমাগত আহি যাব ওঠোৰ বছৰ তলত যদি কার্টুনেই চাব ৰীলচেই চাব মানে মানে [overlap] লগৰ লগত বাৰ্তা কৰিব মানে ভাল কাৰণত নাথাকা খালি বেয়া কাৰণতে যাব"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10077,
+            "start": 494.907,
+            "end": 495.953,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 495.953,
+            "end": 496.966,
+            "speakerSeqId": 1,
+            "transcription": "#আহ বেয়া কামতে যাব [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 496.966,
+            "end": 500.645,
+            "speakerSeqId": 2,
+            "transcription": "নাজানিছিলো যে আমি সেইতো বেয়া কাজ হৈ মানে কি জানা #উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 500.645,
+            "end": 503.243,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে মোবাইল আহিছে কাৰণে যে আমি বেয়া বেয়া কাম কৰিম সেইটো কোনো ধৰণৰ কথা নহয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10081,
+            "start": 503.243,
+            "end": 503.699,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 503.699,
+            "end": 517.283,
+            "speakerSeqId": 1,
+            "transcription": "আজি কিন্তু মোবাইল উলাইছে ভাল কাৰণে মোবাইল যে বানাইছে ভালৰ কাৰণে হয় নে নাই [babble] মোবাইল মানুহক কি আজিকালি মানুহক পঢ়া শুনা নালাগে পঢ়া শুনা নকৰি এজন মানুহ ইংৰাজী কব পাৰি আছে [babble] বেলেগ বেলেগ ভাষা কব পাৰি আছে এইটো কি মোবাইলৰ মোবাইলত শিকি শিকি দেখি দেখি শিকি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10083,
+            "start": 517.283,
+            "end": 518.127,
+            "speakerSeqId": 1,
+            "transcription": "আৰু কৰি আছে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10084,
+            "start": 518.127,
+            "end": 518.482,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 518.482,
+            "end": 533.848,
+            "speakerSeqId": 1,
+            "transcription": "আৰু মোবাইলে মানুহক স্মার্ট বনাইছে বনাই দিছে আজিকালি মানে শিক্ষিত বনাই দিছে যেনেকুৱা এজন মানুহে তাইপিং বা কিবা কথা কব নোৱাৰে বা বেলেগৰ লগত কেনেকে কথা কব লাগে গতিকে যেনেকুৱা মই এটা বেলেগ ভাষা নাজানো যেনেকুৱা আমাৰ অসমতে আছে বড়ো বড়ো ভাষা মই যেনেকুৱা বড়ো জাতিৰ ভাষা জানানো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10086,
+            "start": 533.848,
+            "end": 541.01,
+            "speakerSeqId": 1,
+            "transcription": "বড়ো ভাষা মই কিন্তু তেতিয়া কি বিচাৰ কৰিম মোবাইলত যে #আহ মই কেনেকৈ বড়ো ভাষা কব পাৰিম বড়ো ভাষাৰ এটা প্লে ষ্টোৰৰ পৰা এপ লম"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10087,
+            "start": 541.01,
+            "end": 541.313,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10088,
+            "start": 541.313,
+            "end": 555.438,
+            "speakerSeqId": 1,
+            "transcription": "এপ লোৱাৰ পিছত কি কৰিম এই আমাৰ যিটো ভাষা আছে সেইটো ভাষা আজিকালি কি স্ক্যানাৰ কৰা যায় স্ক্যানাৰ কৰি ভাষা টোক মানে বিচাৰ কৰি দিম #আহ বিচাৰ কৰি দিয়াৰ পিছত অনুবাদ কৰি দিম মই সেইটো আসামীয়াত পায় যাম তেতিয়া মই বড়ো ভাষা কব পাৰিম বা বেলেগক দেখাব পাৰিম যদি মোৰ কিবা সমস্য়া হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10089,
+            "start": 555.438,
+            "end": 560.77,
+            "speakerSeqId": 1,
+            "transcription": "দেখাম যে এইটো মানে এই হয় টো হয় হয় নে নাই [silence] গতিকে মোবাইলত দ্বাৰা কিন্তু এইটো বস্তু বহুত ভাল হৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10090,
+            "start": 560.77,
+            "end": 575.03,
+            "speakerSeqId": 2,
+            "transcription": "মই হয় কিনে এটা ভাল এটা বস্তু সুবিধা পাইছো যে যেনেকুৱা আৰু আৰু এটা সুবিধা মানে সকলো বড়ো ভাষা বুলি নহয় যেনেকুৱা [overlap] আজিকালি অলপ মান পঢ়া শুনা কৰিছে মানে সি মানে অকল আসমীয়াটো কব পাৰে মানে ইংৰাজীটো কব নাজানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10091,
+            "start": 575.03,
+            "end": 580.598,
+            "speakerSeqId": 1,
+            "transcription": "#উহ হয় [silence] #আহ ভাইটি কোৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10092,
+            "start": 580.598,
+            "end": 590.234,
+            "speakerSeqId": 2,
+            "transcription": "যি অকলে খালি #আহ মানে আসামীয়া কব পাৰে ইংৰাজীটো কব নোৱাৰো আসামীয়াটো আমি যেনেকুৱা আপুনি কৈছি স্ক্য়ানাৰ যে আমি আখৰতো লিখি কেনে স্ক্য়ানাৰ কলো বাচ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10093,
+            "start": 590.234,
+            "end": 590.47,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10094,
+            "start": 590.47,
+            "end": 594.622,
+            "speakerSeqId": 2,
+            "transcription": "মানে ইংৰাজী খন লৈ কিনে অসমীয়াদি স্ক্যানাৰ কৰিলো বাচ ইংৰাজী খন অসমীয়া হৈ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10095,
+            "start": 594.622,
+            "end": 600.477,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া আমি বুজি পালো যে আমাৰ সেইটো মানে ইংৰাজীত যেনেকৈ লিখা আছে আই মানে কি [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10096,
+            "start": 600.477,
+            "end": 612.352,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় গতিকে মানে #আহ আমাৰ হাতত বেছি সময় নাই গতিকে আমাৰ মোবাইল আহিছে কাৰণে আমাৰ আজিকালি নতুন প্ৰজন্মই যাতে বেয়া কাম নকৰে আশা কৰো যাতে বহুত ভাল ভাল কাম কৰে হয় নে নাই হয় হয় ঠিক আছে মই সংৰক্ষন কৰি দি আছো"
+        }
+    ]
+}

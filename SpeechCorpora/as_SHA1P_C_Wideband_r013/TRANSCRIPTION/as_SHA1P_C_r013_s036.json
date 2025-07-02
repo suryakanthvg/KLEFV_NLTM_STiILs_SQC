@@ -1,0 +1,604 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826174",
+    "speechFile": "as_SHA1P_C_r013_s036",
+    "callDuration": 603.477,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239040"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239041"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 4.502,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ মোৰ লগত আছে আজি মোৰ সৰু ভাইটি। ভাইটি আছানা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 4.502,
+            "end": 8.62,
+            "speakerSeqId": 1,
+            "transcription": "তোমাৰ কথাবিলাক আহা নাই।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 8.62,
+            "end": 10.94,
+            "speakerSeqId": 2,
+            "transcription": "অ এতিয়া শুনা পাইছেনা আপুনি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 10.94,
+            "end": 13.177,
+            "speakerSeqId": 1,
+            "transcription": "অ শুনা পাইছো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 13.177,
+            "end": 13.72,
+            "speakerSeqId": 2,
+            "transcription": "ভালে আছা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 13.72,
+            "end": 16.0,
+            "speakerSeqId": 1,
+            "transcription": "অ ভালে আছো আৰু আপোনাৰ খবৰ কেনেকুৱা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 16.0,
+            "end": 19.025,
+            "speakerSeqId": 2,
+            "transcription": "অ ভালে আছো। ঘৰৰ মানুহ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 19.025,
+            "end": 22.129,
+            "speakerSeqId": 1,
+            "transcription": "ঘৰৰ মানুহ আৰু ভালে আছে। আপুনি এতিয়া কত~কত আছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 22.129,
+            "end": 25.799,
+            "speakerSeqId": 2,
+            "transcription": "এ মই ৰাস্তাত এতিয়া ঘূৰি-ফুৰি আছো। [noise] তুমি কত আছা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 25.799,
+            "end": 30.609,
+            "speakerSeqId": 1,
+            "transcription": "অ ময়ো মানে ভাত-চাত খাই কিনে ৰাস্তাৰ পিনে আৰু খোজকাঢ়িব লগা হৈছে অলপ-চলপ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 30.609,
+            "end": 34.902,
+            "speakerSeqId": 2,
+            "transcription": "অ [babble] যিয়ে নহওঁক আজিৰ টপিকটো আমাৰ কি আছিল?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 34.902,
+            "end": 37.96,
+            "speakerSeqId": 1,
+            "transcription": "অ আজিৰ টপিকটো আছিল বানপানীৰ বিষয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 37.96,
+            "end": 43.04,
+            "speakerSeqId": 2,
+            "transcription": "নে বানপানী মানুহৰ কি কি ক্ষতি কৰি থাকে হয়না?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 43.04,
+            "end": 43.62,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 43.62,
+            "end": 53.238,
+            "speakerSeqId": 1,
+            "transcription": "মানে বানপানীৰ মানে প্ৰভাৱত আমাৰ কি কি মানে ক্ষতিসাধন হয় সেইটো বস্তু আমি আজি এতিয়া মানে হেৰী কৰিম, হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 53.238,
+            "end": 55.027,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 55.027,
+            "end": 65.369,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ অস~অস~অসমখন যে আছে একদম মানে স্থল জাগা মানে সমতল জাগা।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 65.369,
+            "end": 70.72,
+            "speakerSeqId": 1,
+            "transcription": "গোটেই ৰাজ্যৰ ভিতৰত আমাৰ অসম জাগাখন মানে একদম মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 70.72,
+            "end": 73.4,
+            "speakerSeqId": 1,
+            "transcription": "মানে বানপানী হৈ থাকে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 73.4,
+            "end": 83.255,
+            "speakerSeqId": 1,
+            "transcription": "বানপানীৰ সময়ত আমাৰ যে [babble] চৰৰ মানুহ বুল~বোৰ আছে সেইটো মানে মানে পুৰা মানে [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 83.255,
+            "end": 88.355,
+            "speakerSeqId": 1,
+            "transcription": "অ হেলো আপুনি শুনা পাইছেনে নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 88.355,
+            "end": 91.066,
+            "speakerSeqId": 2,
+            "transcription": "অ শুনা পাইছো, কৈ থাকা কৈ থাকা।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 91.066,
+            "end": 97.74,
+            "speakerSeqId": 1,
+            "transcription": "মানে বানপানীৰ মানে প্ৰভাৱত মানে আমাৰ যে মানুহখিনি যে আছে সমতল জাগাৰ মানুহ চৰৰ মানুহ বুলি কব পাৰি আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 97.74,
+            "end": 102.327,
+            "speakerSeqId": 1,
+            "transcription": "বানপানীৰ ফলত আমাৰ যে নদীবান্ধৰ মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 102.327,
+            "end": 109.142,
+            "speakerSeqId": 1,
+            "transcription": "পাৰ যে আছে সেইটো ভাঙি-চিঙি একদম আমাৰ ঘৰ-বাৰী ইত্যাদি আৰু ভাঙি-চিঙি লৈ যায়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 109.142,
+            "end": 113.439,
+            "speakerSeqId": 1,
+            "transcription": "আৰু আমাৰ গৰু-ছাগলো নোহোৱা হৈ যায়, হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 113.439,
+            "end": 127.159,
+            "speakerSeqId": 1,
+            "transcription": "মানে বান~বানপানীটো আজি কি কি ক্ষতি কৰি আছে মানুহৰ [overlap] মই যেতিয়া মই এটা জাগাত গৈছিলো, এটা জাগা মানে নলবাৰীত গৈছিলো। নলবাৰীত তোমাৰ চাইছো যে ৰাস্তা-ঘাটগিলা আছে না ৰাস্তা-ঘাটগিলা তেনেকুৱা ভাঙি ভাঙি পৰি আছে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 127.159,
+            "end": 131.774,
+            "speakerSeqId": 1,
+            "transcription": "আৰু এইবিলাক চৰকাৰে (()) লোৱা নাই [overlap] মানে আমাৰ তাতে এটা ঘটনা হৈ আছে, হৈ আছিল।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 131.774,
+            "end": 141.494,
+            "speakerSeqId": 1,
+            "transcription": "হৈ গৈছে আৰু চাৰি-পাঁচ বছৰ হৈ গল মানে [overlap] সেই তাৰপৰা ৰাস্তাটো ভাঙি লৈ গৈছে এতিয়ালৈকে চৰকাৰৰ মানুহ কোনো একচন লোৱা নাই, চৰকাৰৰ মানুহ আহি কিনে দেখি কিনে যায় [overlap] মানে একচনটো লোৱা নাই এতিয়ালৈকে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 141.494,
+            "end": 150.86,
+            "speakerSeqId": 1,
+            "transcription": "মই আৰু ভাবিলো যে চৰকাৰে একো নকই কিয় খালী ভোটৰ সময়ত আহি যায় [overlap] মানে ভোট এই যে ভোট~ভোটৰ পিছত আৰ (()) [overlap] সিবিলাক কৰি কাম কৰি দিয়ে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 150.86,
+            "end": 162.419,
+            "speakerSeqId": 1,
+            "transcription": "আজি আমাৰ ব্ৰহ্মপুত্র নদীটো যে আছে নদীৰ ওপৰত এনেকুৱা হৈ আছে আজি নদীৰ পানীবিলাক নামনি অসমত আহি থাকে [overlap] আহি কিনে আমাৰ ইমান ডিষ্টাৰ্ব (()) মানে মানুহো প্ৰত্যেক বছৰে বছৰে বানপানীত ভূগিব লগা হয় [overlap] এনেকুৱা কাম কৰি থাকে আজিকালি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 162.419,
+            "end": 175.126,
+            "speakerSeqId": 1,
+            "transcription": "তাৰপিছত আৰু এই~এই যে মানুহবিলাক শুকনা শুকনা খাৱাৰ দিয়ে [overlap] সিবিলাক খাৱাৰ যে একো নহয় মানুহে মানে আজিকালি এনেকুৱা~এনেকুৱা পৰিস্থিতিত পৰি আছে আজিকালি মানুহবিলাক মানে ঘৰ-বাৰী ব~নবনাওঁ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 175.126,
+            "end": 188.626,
+            "speakerSeqId": 1,
+            "transcription": "পৰিস্থিতিত পৰি আছে, ঘৰ-বাৰী নবনায় আৰু। ঘৰ-বাৰী বনাই~বনাই দিয়ে তাৰপিছত বানপানী আৰু ভাঙি লৈ যায়। সেইগিলা চৰকাৰৰ পৰা কিবা দিয়া নাই এতিয়ালৈকে। অ চৰকাৰে কিবা দিলে আৰু মানুহবিলাক ভাল হলে, মানুহবিলাক ভাল কৰিব পাৰিলে আৰু কিবা ভাল খাৱা কৰিলে এনেকুৱা এটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 188.626,
+            "end": 201.319,
+            "speakerSeqId": 1,
+            "transcription": "একচন লোৱা নাই এতিয়া চৰকাৰে [overlap] মানে মই আৰু ভাবিলো চৰকাৰে যদি কিবা এটা একচন লয় তেনেহলে মানুহবিলাক ভাল থাকিব, আমিও ভাল থাকিম, তুমিও ভাল থাকিবা মানে চাৰিওফালে মানুহ~মানুহবিলাক ভাল থাকিব তেতিয়া আমাৰ দেশটো উন্নতি হব, ব~বহুত আগবাঢ়ি যাব [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 201.319,
+            "end": 212.539,
+            "speakerSeqId": 1,
+            "transcription": "নহলে আমাৰ মানুহবিলাক এতিয়া ইমান~ইমান পিছত পৰি আছে মানুহবিলাক কিছু কৰিব লাগা কৰিব লাগা না আছে এতিয়া [overlap] মানে নিজৰ ঘৰটো বনাব নোৱাৰে, ঘৰটো বনাইলে~বনাইলে আৰু বানপানীয়ে লৈ যায়।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 212.539,
+            "end": 221.566,
+            "speakerSeqId": 1,
+            "transcription": "চৰকাৰৰ পৰা কিবা সুবিধা দিয়া নাই এতিয়ালৈকে [overlap]  [babble] ময়ো ভাবিলো চৰকাৰে যদি কি~কি~এই কিবাকিবি দিয়ে সিবি~ সিবিলাক লোকক, কিবা সহায় কৰে~কৰে যদি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 221.566,
+            "end": 231.619,
+            "speakerSeqId": 1,
+            "transcription": "তেনেহলে মানুহবিলাক ভাল থাকিব [overlap] মানুহবিলাক কিবা আগবাঢ়ি যাব, কিবা ভাল কৰিব এনেকুৱা এটা কামত থাকিব (()) মানুহে। আজিকালি এনেকুৱা পৰিস্থিতিত পৰি আছে মানুহে কিবা কৰিব নোৱাৰা হৈছিলে [overlap] এতিয়া।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 231.619,
+            "end": 240.095,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো আপনি বাৰু ঠিকে কৈছে চৰকাৰে এইবিলাক দায়িত্ব মানে হাতত লব লাগে, হাতত নললে আমাৰ মানুহখিনি [overlap] মানে কি একদম দুখিত মানে (()) হৈ যাব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 240.095,
+            "end": 246.608,
+            "speakerSeqId": 2,
+            "transcription": "এনেটো সমতল মানুহৰ মানে ঘৰটো মানে সমতল জাগাতে থাকে সেইটো বানপানীৰ অভাৱত বানপানীৰ ফলতহে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 246.608,
+            "end": 250.959,
+            "speakerSeqId": 2,
+            "transcription": "ঘৰ-দুৱাৰ মানে ভাঙি-চিঙি লৈ যায়। যাৰফলত আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 250.959,
+            "end": 255.299,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ চৰকাৰে একো গুৰুত্ব মানে আদায় নকৰে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 255.299,
+            "end": 273.687,
+            "speakerSeqId": 2,
+            "transcription": "আজি মই ওপৰে~ওপৰৰখিনি চাওঁ চাইছো মই [overlap] ওপৰত যেনেকুৱা জাগা আছে যোৰহাট, ডিব্ৰুগড় এনেকুৱা তিনিচুকীয়া জাগাবিলাক আছে সিবিলাক জাগা কিমান ডেভলপ হৈ আছে, কিমান দেখিবলৈ ভাল লাগি আছে। আমাৰ নামনি অসমৰ এ~এটাও একচন লোৱা নাই (()) তাৰ কাৰণত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 273.687,
+            "end": 284.138,
+            "speakerSeqId": 2,
+            "transcription": "আজি নামনি অসমত পুৰা আজি বানপানী হৈ থাকে, কিবা একচন লোৱা নাই চৰকাৰে, মানে আমাৰ নামনি অসম~অসমৰ মানুহবিলাক~ মানুহবিলাক আজি এনেকুৱা পৰিস্থিতিত পৰি আছে প্ৰত্যেক বছৰে বানৰ সন্মুখীন হব লাগে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 284.138,
+            "end": 291.614,
+            "speakerSeqId": 2,
+            "transcription": "আৰু মই তাতে যাই কিনে চাইছিলো যে তাৰ মানুহবিলাকে ইমান শান্তিত থাকে কিমান #আহ মানে এ ঘূৰি-ফুৰি থাকে, কিমান মজাত থাকে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 291.614,
+            "end": 300.919,
+            "speakerSeqId": 2,
+            "transcription": "আমি সেইটো আমিও কৰিব চাওঁ তাৰ কাৰণে চৰকাৰৰ কৰণত, চৰকাৰৰ লগত আকৌ #আহ কি কৰি আছো যে আমাকো এনেকুৱা কাম এটা দিয়ে। আমি আমিও জানো ভাল ভালদৰে থাকিব পাৰো, ভাল কাম কৰিব পাৰো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 300.919,
+            "end": 317.778,
+            "speakerSeqId": 1,
+            "transcription": "সেইটো চৰকাৰে দায়িত্ব লব লাগে [overlap] আমি আৰু কি কম চৰকাৰে যদি দায়িত্ব নলয় এইটো আমাৰ কৰিব লগা একো নাই। আমি দুখীয়া মানুহ আমি যত বাস কৰি আছো তাতো যদি এনেকুৱা প্ৰভাৱ পেলায় মানে বানপানীয়ে সেইটো আমাৰ কৰাৰ মানে [overlap] একো নাই।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 317.778,
+            "end": 329.398,
+            "speakerSeqId": 1,
+            "transcription": "এইটো চৰকাৰে মানে [overlap] নিজে বুজিব লাগে যে সমতল মানুহৰ (()) সমতল জাগাৰ মানুহখিনি কি হালত আছে, কি কৰি আছে, কি খাই আছে সেইটো চৰকাৰে নুবুজিলে আমি আৰু এতিয়া কি কৰিম হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 329.398,
+            "end": 345.057,
+            "speakerSeqId": 2,
+            "transcription": "মানে মই এটা জাগাত গৈছিলো সেই তাৰে মোৰ এটা বন্ধু লৰা আছিল [overlap] তাৰ লগত মই কথা পাতিলো যে তোমাৰ ঘৰটো কিয় নবনোৱা [overlap]? ভাই মোৰ ঘৰটো এয়া কাৰণত নবনাওঁ যে মোৰ প্ৰত্যেক বছৰে বানপানীয়ে লৈ যায় [overlap] তাৰ কাৰণত মই ঘৰটো বনাব নোৱাৰা হৈছো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 345.057,
+            "end": 361.598,
+            "speakerSeqId": 2,
+            "transcription": "মানে ঘৰ বনালেই আৰু এই বানপানীয়ে লৈ যায় এনেকুৱা পৰিস্থিতিত পৰি আছে এইবিলাক লোক। মানে আৰু চৰকাৰক কয় যে সিবিলাক যদি কিবা পইচা-তইছা দিয়ে সিবিলাক মানুহো ভাল থাকিব, আমিও ভাল থাকিম [overlap] মানে দেশটো আগবাঢ়ি যাব এনেকুৱা পৰিস্থিতিত থাকিব লগা হয় এইটো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 361.598,
+            "end": 375.685,
+            "speakerSeqId": 1,
+            "transcription": "ভাল থাকিলে আৰু আমাৰ পৰিৱেশটো ভাল । সেইটো অকল মানে ঘৰ [overlap] এইটো মানে অকল ঘৰ-বাৰীৰ কথা নহয় এইটো মানে যিমান খেতি-বা~খেতি-বাতি কৰিছে সমতল জাগাৰ মানুহখিনি সেইখিনিও ধ্বংস হৈ গল। সেইখিনিৰ মানে চৰকাৰে কিন্তু মানে দায়িত্ব নিদিয়ে।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 375.685,
+            "end": 385.578,
+            "speakerSeqId": 1,
+            "transcription": "সেইটো আমাৰ জাগা-জমীনখিনি [overlap] মানে টেক্স দিব লাগে চৰকাৰক। চৰকাৰে যদি ইমান মানে [overlap] দায়িত্ব নিদিয়ে এতিয়া আমিনো আৰু কি কৰিম, আমাৰ কৰিব লগা একো নাই [overlap] । চৰকাৰে বুজিব লাগে এইবিলাক কথা।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 385.578,
+            "end": 411.718,
+            "speakerSeqId": 1,
+            "transcription": "মানে মানুহে আজি যদি ঘৰ-বাৰী ভাঙি যায় ৰাস্তা-ঘাটত আহি থাকে [overlap] । ৰাস্তা-ঘাট যদি ভাল নাথাকে মানুহে কত যাব, কি কৰিব তাৰ কাৰণত যদি ডাঙৰ ব্যৱস্থা এটা কৰি দিলে হয় তাৰ মানুহবিলাক ভাল থাকিল হয়, মানুহবিলাক মৰিল নহয় [overlap] ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 411.718,
+            "end": 425.618,
+            "speakerSeqId": 1,
+            "transcription": "প্ৰত্যেক বছৰে মই শুনিছো যে নিউজত যে মানুহ মৰি থাকে আজি ইয়াতে মৰি আছে, কালি পৰচু ইয়াতে মৰি আছে এনেকুৱা শুনি পাওঁ মই। তাৰ কাৰণত যদি আমাৰ ব্ৰহ্মপুত্র নদীটো যে আছে [overlap] সেই নদীটোত যদি এটা #আহ দুই-তিনটা যদি ভালকৈ গড় বান্ধি দিয়ে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 425.618,
+            "end": 430.973,
+            "speakerSeqId": 1,
+            "transcription": "তাৰ কাৰণৰ বান~বানপানীটো ৰখি যাব [overlap] । আমিও সুৰক্ষিত থাকিম, (()) মানুহবিলাকো ভাল থাকিব।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 430.973,
+            "end": 438.764,
+            "speakerSeqId": 2,
+            "transcription": "আপনি বাৰু ঠিকে কৈছে। আমাৰ ব্ৰহ্মপুত্রৰ নৈখনত যে আমাৰ যে আছে দুই-তিনটা মানে গড়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 438.764,
+            "end": 443.198,
+            "speakerSeqId": 2,
+            "transcription": "গড় বুলি কয় গড়বিলাক আমাৰ মানে সমতল জাগাৰ মানুহখিনি একদম চেফত থাকিব, হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 443.198,
+            "end": 458.052,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] তেতিয়া আমাৰ খেতি-বাতি কিবা ঘৰ-দুৱাৰ আমাৰ মানে ধ্বংস হৈ নাযায়। সেইটো আমি মানে চৰকাৰক মানে প্ৰটেক্ট কৰিব লাগিব যে আমাক এইখিনি কৰি দিব লাগিব কিন্তু চৰকাৰে এইটো নাভাবে যে আৰু চৰকাৰে আমাক গুৰুত্ব নিদিয়া হৈছে। আমাৰ ধুবুৰী ডিষ্ট্ৰিকৰ যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 458.052,
+            "end": 465.498,
+            "speakerSeqId": 1,
+            "transcription": "ধুবুৰী ডিষ্ট্ৰিক হয় এইটো চৰকাৰে মানে গুৰুত্ব নিদিয়া হৈছে। ইহঁতে কি কৰে [overlap] এনেকুৱা কথা আৰু হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 465.498,
+            "end": 470.843,
+            "speakerSeqId": 1,
+            "transcription": "মানে আজিকালি কেনেকুৱা কৰি আছে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 470.843,
+            "end": 476.698,
+            "speakerSeqId": 1,
+            "transcription": "সি খালী বহি বহি থাকে মানুহ মৰি আছে তো চাৰিফালে সি দে~দেখি আছে তাও সি একচন লোৱা নাই এতিয়ালৈকে [overlap] মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 476.698,
+            "end": 487.258,
+            "speakerSeqId": 1,
+            "transcription": "সি কৈ আছে মানুহ মৰিলে মৰি যাওঁক। মোৰ~মোৰ ভোটৰ সময় আহিলে মোৰ ভোটত ভোটৰ সময়ত যাম যে এইটো কৰি দিম সেইটো কৰি দিম [overlap], মানুহ আশা দিয়ে তাৰপিছত মানুহে কামবিলাক নকৰি দিয়ে। এনেকুৱা পৰিস্থিতিত পৰি আছো আজিকালি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 487.258,
+            "end": 499.978,
+            "speakerSeqId": 2,
+            "transcription": "আজিকালি এইটো কথা কৈছে আৰু ঠিকে আছে আজিকালি লোকবিলাকো এনেকুৱা বা ভোটৰ সময়ত পইচা হলে পইচা দি মানে ভোট দিব যায় তাৰপিছত যে কি হব চৰকাৰে কি কৰিব সেইটো নাভাবে না।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 499.978,
+            "end": 509.576,
+            "speakerSeqId": 1,
+            "transcription": "অ আজিকালি লোকবিলাকো এনেকুৱা হৈছিল মানে এ চৰকাৰৰ খালী পইচা দুই টকা লোভ দিয়ে যে লোভৰ লোভৰ কাৰণত দৌৰি থাকে আজিকালি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 509.576,
+            "end": 514.718,
+            "speakerSeqId": 1,
+            "transcription": "কাক ভোট দিব, কাক ভোট না দিব এনেকুৱা আজি হৈ~হৈ আছে আজি আমাৰ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 514.718,
+            "end": 523.017,
+            "speakerSeqId": 1,
+            "transcription": "তাৰ কাৰণত আমাৰ এইবিলাক মানুহবিলাক এনেকুৱা দুখীয়া হৈ থাকে মানে (()) এইবিলাক ইমান কষ্টত আছে আজিকালি [overlap] মানে বহুত প্ৰব্লেম কৰি থাকে আজি লোকবিলাক আমাৰ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 523.017,
+            "end": 534.542,
+            "speakerSeqId": 1,
+            "transcription": "পিছে তোমাৰ মন্তব্যটো কি আছে? গড় বান্ধিলে কি ভাল হব আমাৰ কিন্তু।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 534.542,
+            "end": 540.301,
+            "speakerSeqId": 2,
+            "transcription": "মোৰ মতামত হিচাপতটো গড় বান্ধিলেটো একদম মানে বস্তুটো একদম ভাল হৈ যাব। আমিও বাচিম,"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 540.301,
+            "end": 552.217,
+            "speakerSeqId": 2,
+            "transcription": "সমতল জাগাৰ মানুহখিনিও বাচিব, কিবা কৰি খাব পাৰিব সেইটোৱে কথা। খেতি-বাতি কৰিব আৰু চাকৰি-বাকৰিটো নাথাকে সমতল জাগাৰ মানুহখিনিৰ সেইখিনি খেতি-বাতি কৰি আৰু জীৱন নিৰ্বাহ [overlap] কৰিব হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 552.217,
+            "end": 563.717,
+            "speakerSeqId": 2,
+            "transcription": "খেতি-বাতিবিলাক যদি খাৰাপ হৈ যায় আমি খাম কি আমি [overlap] এ কি কৰিম আমি কি~কি হৈ থাকিম আমি সেইবিলাক (()) [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 563.717,
+            "end": 575.975,
+            "speakerSeqId": 1,
+            "transcription": "মই সেইকাৰণে চৰকাৰক মানে অ~অনুগ্ৰহ কৰি কৈছো যে মানে গড় বান্ধি দিব লাগে সোনকালে। মানুহে বহুত দুখীয়া মানে একদম পৰিণিত হৈ গৈছে হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 575.975,
+            "end": 581.238,
+            "speakerSeqId": 1,
+            "transcription": "গড় বান্ধি দিলে আমি সুৰক্ষিত থাকিম, বানপানীৰ মানে প্ৰভাৱটোও কমিব হয়নে নহয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 581.238,
+            "end": 586.457,
+            "speakerSeqId": 1,
+            "transcription": "এইটো চৰকাৰে কৰিব লাগিব, দায়িত্ব এইটো লবই লাগিব। আপুনি কি কয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 586.457,
+            "end": 603.477,
+            "speakerSeqId": 2,
+            "transcription": "ময়ো এইটো কৈ আছো যে চৰকাৰে যদি একটা ভাল এটা ব্যৱস্থা কৰি দিয়ে লোকবিলাক ভাল থাকিব, আমিও ভাল থাকিম [overlap] গতিকে আমাৰ সময়টো শেষ হৈ গল, আমি নেক্সট পাৰ্টত আহি আছো বেলেগ কিবা কবলৈ [overlap]"
+        }
+    ]
+}

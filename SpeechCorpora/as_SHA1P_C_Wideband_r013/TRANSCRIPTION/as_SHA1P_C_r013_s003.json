@@ -1,0 +1,612 @@
+{
+    "speechMode": "C",
+    "recordingId": "20199657",
+    "speechFile": "as_SHA1P_C_r013_s003",
+    "callDuration": 632.363,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0234424"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0234425"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 2.369,
+            "speakerSeqId": 1,
+            "transcription": "হেল্ল' [silence] হেল্ল' [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 2.369,
+            "end": 12.395,
+            "speakerSeqId": 2,
+            "transcription": "[silence] #উম (()) তাৰ মানে কথাটো ইমান দেৰিকৈ কিয় আহে? [overlap] হে মানে দেৰিকে আহাৰ কাৰণো আছে মানে তাৰ মানে কথাটো হৈছে কি? [silence] ওপৰৰ লেবেলৰ পৰা এটা মেছেজ আহিছে ঠিক আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 12.395,
+            "end": 22.216,
+            "speakerSeqId": 2,
+            "transcription": "(()) [silence] তেওঁলোকে কৈছে যে, [overlap] সেইটো পইচাটো মেইন কথা ডাউত্ কৰিছা ন? [silence]  [overlap] ডাউট্তো সচাকেই এইটো হোৱা নাই [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 22.216,
+            "end": 23.954,
+            "speakerSeqId": 1,
+            "transcription": "মই, [silence] মই কৈছো নহ, এইটো নহব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 23.954,
+            "end": 28.004,
+            "speakerSeqId": 2,
+            "transcription": "পিছত মোক কৈছে যে বুলবুল অকলে আছে এইটো নহব [silence] এইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 28.004,
+            "end": 42.331,
+            "speakerSeqId": 1,
+            "transcription": "এ আপুনি চাই আপুনি শুনক না, আপুনি ইচ্কিনত্ চাব পাৰিছে নে? আপোনাৰ ওপৰত চাক্ <lang:Foreign>ninety nine</lang:Foreign> পাৰ্চেন্ হৈ আছে মোৰ তলত নাইন্টি হল এতিয়া হয়নে নহ? [silence] পাৰ্চেনতেজ পাৰ্চেনতেচ্টো হব লাগিব তেতিয়াহে দুজনৰ কথাটো ৰেকৰ্ড হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 42.331,
+            "end": 47.866,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়া মই নাজানো মোৰ কিবা প্ৰবলেম্ হৈছিলে নেকি, [silence] মোৰ কথাখিনি মানে ৰেকৰ্ড হোৱা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 47.866,
+            "end": 55.426,
+            "speakerSeqId": 2,
+            "transcription": "অ কিবা অসুবিধা হৈছিলে আৰু যেতিয়া মই কথা কওঁ, মোৰ পাৰ্চেনতেচ্টো মানে বাঢ়ি যায় [silence] যেতিয়া তই কথা কোৱা, [silence] তোৰ পাৰ্চেনতেচ্তা বাঢ়ি যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 55.426,
+            "end": 64.724,
+            "speakerSeqId": 1,
+            "transcription": "মানে [silence] এক্সোৱেলি বস্তুটো (()) মই এতিয়া বুজিছো মানে দুইজন লোকে ইকুৱেলি কথা কব লাগিব গম পাইছেনে নাই? মানে এজন অন্লি কথা কৈ থাকিলে নহব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 64.724,
+            "end": 77.735,
+            "speakerSeqId": 2,
+            "transcription": "হয় ইকুৱেলি [overlap] ইকুৱেলি নালাগে মানে কথা কলে হল আৰু [silence] আমি যেনেকৈ কথা পাতি আছো সেনেকৈ ঠিক আছে সেই সময়ত কিবা এটা অসুবিধা হৈ আছিল [silence] বাকী তোমাৰ যিটো মাত [overlap] তোমাৰ কথাবিলাক উঠাই নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 77.735,
+            "end": 90.661,
+            "speakerSeqId": 2,
+            "transcription": "উঠাই নাই উঠাই নাই [overlap] কিবা অসুবিধা হয়তো মিউট (()) মইতো শুনি আছিলো তোমাৰ সকলো বিলাক কথাই শুনি আছিলো [overlap] কেপচাৰ কৰা নাই (()) কেপচাৰ কৰা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 90.661,
+            "end": 102.119,
+            "speakerSeqId": 1,
+            "transcription": "কেপচাৰ (()) কৰা নাই হয়, হয় [silence] এতিয়া চোৱা <lang:Foreign>ninety nine</lang:Foreign> হৈ আছে আপোনাৰতো <lang:Foreign>ninety six</lang:Foreign> হৈ আছে হয় ন? [silence] তেও মানে (()) হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 102.119,
+            "end": 112.885,
+            "speakerSeqId": 2,
+            "transcription": "(()) বস্তু প্ৰথমতেতো [silence] ঠিক নহবই (()) চলাৰে আৰু ভালকে গম পাম কোনটো বস্তু কেনেকোৱা [silence] কি কৰিলে কেনেকোৱাই হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 112.885,
+            "end": 116.935,
+            "speakerSeqId": 1,
+            "transcription": "(()) মই যে কলো, এইটো কনফাৰ্ম কেঞ্চেল হব ৰিজেক্ট হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 116.935,
+            "end": 118.707,
+            "speakerSeqId": 2,
+            "transcription": "বুজি পাইছ'? তইটো ভালকে দেখা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 118.707,
+            "end": 121.407,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 121.407,
+            "end": 133.557,
+            "speakerSeqId": 2,
+            "transcription": "এহ কাশ্মিৰী ফাইলবিলাক যিবিলাক আছিল সেইবিলাক কি কথা কৈছে পায়, শুনাই নে বুজাই নাই কেনেকোৱা কথা কৈছে মইও গম নাপাও"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 133.557,
+            "end": 136.527,
+            "speakerSeqId": 1,
+            "transcription": "মই শুনিছিলো মই, মই বহুত, মই শুনিছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 136.527,
+            "end": 148.154,
+            "speakerSeqId": 2,
+            "transcription": "কিন্তু এটা কথা, [overlap] এটা কথা গেৰাণ্টি ভাই যে এটা কথা গেৰাণ্টি যে আমাৰ (()) ভালকৈ আৰু স্পষ্টকে কথা পাতি আছো ন? [silence] সকলো [overlap] ভালকে টাইপিং কৰিব পাৰিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 148.154,
+            "end": 163.291,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় [silence] কিন্তু একচুৱেলী এটা কথা কি জানা? [silence] যিটো কাশ্মিৰী ফাইল আছিলে, কাশ্মিৰী কথাবোৰ কেনেকা টাইপৰ আছিল গম নাপাও মানে, (()) কৈ দিছিল নেকি? গম নাপাও, কিন্তু (()) বা কথা কৈ আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 163.291,
+            "end": 167.932,
+            "speakerSeqId": 1,
+            "transcription": "মানে এক ছেকেণ্ডত কথাতো শেষ হৈ গল এনেকা হৈছিল [silence] হয় নহ? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 167.932,
+            "end": 177.888,
+            "speakerSeqId": 2,
+            "transcription": "(()) [silence] এইটো ফাৰ্ষ্ট টাইম কত দি আছিল? [silence] (()) [overlap] হয়, হয়, হয় মানে এইটো শুনা কাম নাছিল নহ? ইয়াৰ কাৰন আৰু যিটো শুনা কাম, সেইটো তো এনে জেনেৰেলী থাকিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 177.888,
+            "end": 190.088,
+            "speakerSeqId": 1,
+            "transcription": "#উম ইয়াৰ পিছত আমাৰ ৰিপৰ্টবোৰ, যিকোনো ৰেপৰ্ট (()) যিখিনি [silence] মানে (()) যোৱাৰ পিছতে ভাগ ভাগ কৰিব আমাৰ ৰিপৰ্টবোৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 190.088,
+            "end": 193.042,
+            "speakerSeqId": 2,
+            "transcription": "#উম [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 193.042,
+            "end": 204.336,
+            "speakerSeqId": 1,
+            "transcription": "[silence] মই বুজি পাইছো পুৰা চিষ্টেমটোৱে বুজি পাইছো [silence] চাবি আৰু দেই পিছত এইবোৰ লৈ কিনে কোনো চাইবাৰ ক্ৰাইমতো নহব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 204.336,
+            "end": 215.279,
+            "speakerSeqId": 2,
+            "transcription": "এইবিলাক এটা কাম হয় [silence] এইবিলাক এটা কাম হয় এক প্ৰকাৰৰ কাম হয় [silence] এই কাম বিলাক (()) কৰি আছো এইটোৱেই কোনো প্ৰবলেম নাই কেনেকৈ (()) কাম হব এইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 215.279,
+            "end": 227.281,
+            "speakerSeqId": 1,
+            "transcription": "কাৰন মই এটা ষ্টোৰি চালো কালি পুৰখী এটা ষ্টোৰি চাইছিলো [overlap]  [silence] ইঞ্চটাগ্ৰামত চাইছিলো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10028,
+            "start": 227.281,
+            "end": 228.985,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 228.985,
+            "end": 242.958,
+            "speakerSeqId": 1,
+            "transcription": "[silence] এটা লৰা এটা ফ্লাইতত উঠি কিনে গৈ আছিল [silence] ফ্লাইটত উঠা, ফ্লাইটতো টেক অফ কৰাৰ এক দুই মিনিট মান আগত [silence] এটা ফ্ৰেণ্ডক এটা মেছেজ পঠাইছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 242.958,
+            "end": 247.058,
+            "speakerSeqId": 1,
+            "transcription": "(()) মই [silence] মোৰ লগত দম আছে আৰু মই এই প্লেন খ্ন ক্ৰেচ কৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 247.058,
+            "end": 247.447,
+            "speakerSeqId": 2,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 247.447,
+            "end": 257.909,
+            "speakerSeqId": 1,
+            "transcription": "বুজি পাইছানে নাই? [silence] এনে জ'ক কৰা কাৰণে [silence] ত' এইটো মেছেজ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 257.909,
+            "end": 267.359,
+            "speakerSeqId": 1,
+            "transcription": "কেনেকে নাজানো কিন্তু [silence] ফ্লাইট কনট্ৰোলৰ ৰুম যিটো থাকে নহয় [silence] ফ্লাইট কনট্ৰোলৰ ৰুমত মেছেজটো ৰেকৰ্ড হৈ গৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 267.359,
+            "end": 280.842,
+            "speakerSeqId": 2,
+            "transcription": "এইটো শুনা, মই তোমাক কি কৈছো [silence] এইবিলাক বস্তু কি হয়, কিছুমান ৱৰ্ড [silence] এনেকোৱা আছে যিবিলাক ৱৰ্ড তুমি ইউজ কৰিলে [silence] তেওলোকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 280.842,
+            "end": 288.588,
+            "speakerSeqId": 1,
+            "transcription": "মইও গম পাইছো কিন্তু বস্তুতো চোৱা [silence] অনলি এটা মেছেজ টাইপ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 288.588,
+            "end": 295.844,
+            "speakerSeqId": 2,
+            "transcription": "এইটো পাব এইটো টেকনলজি ভাই [silence] এতিয়া গোটেই পৃথিৱীখন টেকনলজিত চলে [silence] ঠিক আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 295.844,
+            "end": 307.572,
+            "speakerSeqId": 1,
+            "transcription": "তাই এটা, তাই এটা অনলি মেছেজ টাইপ (()) তাৰ ফ্ৰেণ্ডতো যে মই বা ব'ম, মোৰ লগত ব'ম আছে মই প্লেনখন ব্লাষ্ট কৰিম [silence] চ' এইটো কথা সিঁহতে গম পালে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 307.572,
+            "end": 313.951,
+            "speakerSeqId": 1,
+            "transcription": "ফ্লাইট কনট্ৰলাৰৰ হতে গম পালে [silence] আৰু লৰাটোক এৰেষ্ট কৰি ললে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 313.951,
+            "end": 327.653,
+            "speakerSeqId": 2,
+            "transcription": "[silence]  [overlap]  [silence]  [overlap] নুশুনে এটা কথাও [overlap] (()) কথা নহয় এইটো [silence] শুনা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 327.653,
+            "end": 338.926,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] (()) গাও নে মজকা গাও নে? [silence] ইমানজন মানুহ [silence] লাইফটো ৰিক্সত পেলাব নোৱাৰে নহয় [silence] ফ্লাইট মেনেজ মেণ্টে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 338.926,
+            "end": 348.275,
+            "speakerSeqId": 1,
+            "transcription": "(()) লৰাটোক লৈ কিনে [silence] জেলত সোমাই দিছে তিনি বছৰৰ কাৰনে জেল [silence] আৰু [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 348.275,
+            "end": 363.979,
+            "speakerSeqId": 1,
+            "transcription": "অ' আৰু এটা কথা [silence] লৰাটো যে মেছেজটো কৰিলে, ফ্লাইটতো টেক অফ কৰি ললে [silence] গম পাইছা নাই? [silence] এই ফ্লাইটতোক, এই ফ্লাইটতো প্ৰটেক্ট কৰা কাৰনে [silence] দুই চাইডত দুখন [silence] হেৰি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 363.979,
+            "end": 377.649,
+            "speakerSeqId": 1,
+            "transcription": "ফাইটাৰ জেট, [silence] ফাইটাৰ জেট ফ্লাইটৰ দুচাইডত দুখন মানে প্ৰতেক্ট কৰা কাৰনে কৈ আছে [overlap]  [silence] এই ফ্লাইট দুখন, যি দুখন ফাইটাৰ জেদ উৰিছিল যিমান সময় উৰিছিল সিমান চাৰ্জ গোটেই খিনি লৰাক দিব লাগে লৰাটোক দিব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 377.649,
+            "end": 379.173,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 379.173,
+            "end": 389.146,
+            "speakerSeqId": 1,
+            "transcription": "তাত টোটেল, [silence] তাত টোটেল ফাইন লাগিছে <lang:Foreign>seventy five</lang:Foreign> লাখ মান [overlap]  [silence] দিবই লাগিব এইটো নহলে জেলত থাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 389.146,
+            "end": 396.233,
+            "speakerSeqId": 1,
+            "transcription": "তিনি বছৰ জেল থাকিব লাগিব এইটো কম্পালচেৰী"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 396.233,
+            "end": 409.463,
+            "speakerSeqId": 2,
+            "transcription": "ঠিকে আছে এনেকোৱা হব লাগে, নহলে বেছি উতলা হৈ গৈ আছে ন? উদ্ভন্দালিতো বেছি বাঢ়ি গৈছে ফ্লাইটত [silence] এতিয়া আৰু মানুহ [overlap] পইচা পইচা নকয় ন? [silence] চাওক আজি আজিকালি ৰেলত (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 409.463,
+            "end": 421.377,
+            "speakerSeqId": 2,
+            "transcription": "তিনিমাহ আগতে বুকিং কৰিব লাগিব টিকেট তাৰ পিছতহে ৰেলত চিট পাব [silence] এইটো মানে বহুত কেলেংকাৰী হৈ আছে ৰেলৰ চিটত ইয়াৰ কাৰনে ফ্লাইটতো বেছি চলি আছে বৰ্তমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 421.377,
+            "end": 427.553,
+            "speakerSeqId": 1,
+            "transcription": "এটা ফ্লাইটৰ এটা চিতো খালি নাথাকে [overlap]  [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 427.553,
+            "end": 438.944,
+            "speakerSeqId": 2,
+            "transcription": "আচৰিত কথা হল, তেনেকোৱা হৈ (()) আছিল যে [silence] (()) উঠা মানুহ নাই [silence] ফ্লাইট কোম্পানী বন্ধ হবই হৈছে [silence] (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 438.944,
+            "end": 449.812,
+            "speakerSeqId": 1,
+            "transcription": "(()) [silence] মই চাৰিখ্ন ফ্লাইটত গৈছো [silence] প্ৰতিটো ফ্লাইটে মোৰ ইণ্ডিগ' আছিল [silence] গম পাইছা নাই? [silence] ইণ্ডিগ' ফ্লাইটত চিট কেপাচিটি বহুত হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 449.812,
+            "end": 464.965,
+            "speakerSeqId": 2,
+            "transcription": "(()) [overlap] চিটত বহি আছে [silence]  [overlap] বহুত ডাঙৰ প্লেন আছিলে এ এইটো, [silence] মই ইমান ডাঙৰ [overlap] মই যাত্ৰা কৰিছো এটা সৰু সুৰা প্লেনত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 464.965,
+            "end": 469.623,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] এইখন এখন বাছৰ নিচিনা (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 469.623,
+            "end": 474.905,
+            "speakerSeqId": 1,
+            "transcription": "নাই মই যিখন উঠিছো, সেইখন বহুত ডাঙৰ হয় [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 474.905,
+            "end": 484.102,
+            "speakerSeqId": 2,
+            "transcription": "আপোনি আহি আছে মই কবই নোৱাৰো এ সঁচাকে, [silence] বহুত বেয়াকে টোপনি আহি আছে ৰে [silence] কিন্তু আৰু [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 484.102,
+            "end": 489.012,
+            "speakerSeqId": 1,
+            "transcription": "নাই নাই এইটো কৰি কিনে টোপনি যামে মায়ে মাতি আছে মোক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 489.012,
+            "end": 491.763,
+            "speakerSeqId": 2,
+            "transcription": "(()) এঘণ্টা মানতো কৰিব লাগিব ন?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 491.763,
+            "end": 505.617,
+            "speakerSeqId": 2,
+            "transcription": "তাত কামটো [overlap] (()) মোৰতো অসুবিধা নাই মোৰেই অসুবিধা হৈ আছে মই (()) এইটো পোৱাৰ পিছত পানী চানি (()) খাম অলপমান চকুৰ (()) পানী চানি মাৰিম মাৰি পিনে দুটা (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 505.617,
+            "end": 520.163,
+            "speakerSeqId": 2,
+            "transcription": "(()) আমাৰলোকে দহ মিনিট [silence] এটা ৰিপৰ্ট কৰি আছো ঠিক আছে এইটো অসুবিধা নাই অসুবিধা কোনটো জানা? [silence] এইটো ৰিপৰ্ট কৰা কিছুমান কাম কৰিব লাগে এইবিলাকত বহুত সময় যায় [silence] এক ঘণ্টাৰ কামত [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 520.163,
+            "end": 533.832,
+            "speakerSeqId": 1,
+            "transcription": "(()) এঘণ্টা মানত [silence] ডেৰ ঘণ্টা যাবই (()) বহুত সময়ৰ আগতে মই আপোনাক কব বিচাৰিছিলো যে, আমাৰ কামটো ঠিক এঘণ্টাৰ হব কিন্তু সময়তো হব আমাৰ দুঘণ্টা [silence] বুজি পাইছানে নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 533.832,
+            "end": 539.84,
+            "speakerSeqId": 1,
+            "transcription": "কাৰন ৰিপৰ্ট কৰিব লাগে এগেন লিংক চেণ্ড কৰিব লাগে এগেন জইন কৰিব লাগে [overlap] ত' সময় লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 539.84,
+            "end": 544.21,
+            "speakerSeqId": 2,
+            "transcription": "মই (()) [silence]  [overlap] সেইটোৱে কৈছিলো যে একেবাৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 544.21,
+            "end": 550.935,
+            "speakerSeqId": 1,
+            "transcription": "একেবাৰে লংগেষ্ট [silence] একেবাৰে যে (()) যেনে একেবাৰে এক ঘণ্টা (()) এতিয়ালৈকে আমাৰ কামটোৱে হৈ (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 550.935,
+            "end": 560.694,
+            "speakerSeqId": 2,
+            "transcription": "কামে হৈ গল হয় [silence] কথাতো [overlap] এয়াও আমাৰ [silence] আমাৰ (()) [overlap] ইয়াৰ পিছতো দহ মিনিট মানত (()) [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 560.694,
+            "end": 571.953,
+            "speakerSeqId": 1,
+            "transcription": "(()) নিয়াৰ পিছতো আমাক আৰু ইয়াৰ পিছতো আমাক আৰু <lang:Foreign>twenty</lang:Foreign> মিনিট মান লাগিব চ' [silence] <lang:Foreign>twenty</lang:Foreign> মিনিটত আৰু <lang:Foreign>ten</lang:Foreign> মিনিট এড কৰি দিয়া তাৰ মানে আমাৰ আধা ঘণ্টা মান কাম কৰিব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 571.953,
+            "end": 584.997,
+            "speakerSeqId": 2,
+            "transcription": "(()) কাম কৰিব পাৰে এটা বজালৈকে কাম কৰিব লাগিব [silence] #উম [silence] চাৰিটা বজালৈকে কাম কৰিম আৰু ইমান ৰাতিপুৱা উঠি গোটেই মোৰতো বিষাই আছে সচাঁকে কৈছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 584.997,
+            "end": 599.561,
+            "speakerSeqId": 2,
+            "transcription": "শুনা, আজি ফাৰ্ষ্ট টাইম অ' কালি অসুবিধা হলো (()) কাম কৰিব লাগিব ভাই আঠ বজাত (()) যাম, নহলে তাই (()) তেও যে (()) কথা কৈ আছিলো নহ মই [silence] (()) [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 599.561,
+            "end": 605.885,
+            "speakerSeqId": 2,
+            "transcription": "যদি আমাৰ লগ নাপাও, তেন্তে কেচটো বেয়া হৈ যাব [silence] সচাঁকে কৈছো মই, কেচটো বেয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 605.885,
+            "end": 607.728,
+            "speakerSeqId": 1,
+            "transcription": "কামত জইনে কৰিব নোৱাৰিম খালী"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 607.728,
+            "end": 613.725,
+            "speakerSeqId": 2,
+            "transcription": "তেওৰ বন্ধু যিটো মেইন হয়, হেড হয় [silence] (()) [overlap] বন্ধু হয়, ফ্ৰেণ্ড হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 613.725,
+            "end": 615.862,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 615.862,
+            "end": 619.996,
+            "speakerSeqId": 2,
+            "transcription": "কৈছে, একো টেনছন কৰিব নালাগে যিটো মেইন মানুহ, সেইটো মোৰ হাতত আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 619.996,
+            "end": 628.113,
+            "speakerSeqId": 1,
+            "transcription": "(()) ঠিকে আছে আপোনি ৰেকৰ্ডিংতো ষ্টপ কৰি দিয়া চোন [overlap] ঠিক আছে মই চোৱাই নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 628.113,
+            "end": 632.363,
+            "speakerSeqId": 2,
+            "transcription": "[silence] ইফালে"
+        }
+    ]
+}

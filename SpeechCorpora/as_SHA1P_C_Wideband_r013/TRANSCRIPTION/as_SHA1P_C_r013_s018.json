@@ -1,0 +1,580 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826115",
+    "speechFile": "as_SHA1P_C_r013_s018",
+    "callDuration": 613.291,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239020"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239021"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 2.174,
+            "speakerSeqId": 1,
+            "transcription": "হেল্লো [overlap] হেল্লো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 2.174,
+            "end": 4.385,
+            "speakerSeqId": 2,
+            "transcription": "অ বাইদেউ কেনে খবৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 4.385,
+            "end": 6.967,
+            "speakerSeqId": 1,
+            "transcription": "অ ভালে আছো তুমি ভালে আছা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 6.967,
+            "end": 8.924,
+            "speakerSeqId": 2,
+            "transcription": "অ ভালে আছো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10005,
+            "start": 8.924,
+            "end": 10.173,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 10.173,
+            "end": 13.396,
+            "speakerSeqId": 2,
+            "transcription": "বাইদেউ অসমৰ [noise] জনজাতি কেনে ধৰণৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 13.396,
+            "end": 27.436,
+            "speakerSeqId": 1,
+            "transcription": "#আহ আতচা আমাৰ অসমৰ জনজাতি বুলি কবলৈ গলে মানে আমাৰ অসমত বহুত ধৰণৰ তেনেকুৱা জনজাতি আছে [noise] আমাৰ অসমটো মানে এক ধৰণে কব গলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 27.436,
+            "end": 37.46,
+            "speakerSeqId": 1,
+            "transcription": "জনজাতি সংস্কৃতি তেনেকুৱা একেবাৰে মানে চবৰেই চব জাতি চব জনজাতীয়েই মিলা প্ৰীতিৰে থাকে ঠিক আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 37.46,
+            "end": 39.721,
+            "speakerSeqId": 2,
+            "transcription": "ঠিক আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 39.721,
+            "end": 45.526,
+            "speakerSeqId": 1,
+            "transcription": "#আহ তাত মানে বহুত কেইটা জনজাতি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 45.526,
+            "end": 59.482,
+            "speakerSeqId": 1,
+            "transcription": "প্ৰত্য়েকটো জনজাতিয়ে প্ৰত্য়েকটো জনজাতিক সন্মান কৰে আৰু চবৰে মানে কিছু কিছু জনজাতিয়েও উৎসৱ পাৰ্ৱন থাকে তেওলোকে যদি একেটা মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 59.482,
+            "end": 63.025,
+            "speakerSeqId": 1,
+            "transcription": "#আহ জাতিৰ লোকে যদি বা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 63.025,
+            "end": 77.481,
+            "speakerSeqId": 1,
+            "transcription": "উৎসৱ পালন কৰে তেতিয়াহলে সেইটো উৎসৱত আন জাতিৰ লোকসকলেও #আহ সেইটো উৎসৱ পাৰ্ৱনত মিলিত হয় তাৰপিছত কোনোবা এজনৰ কিবা বিপদত পৰিলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 77.481,
+            "end": 87.68,
+            "speakerSeqId": 1,
+            "transcription": "এইটো এজনৰ এটা জনজাতিৰ যদি এটা বিপদত পৰে তেতিয়াহলে আন এটা জনজাতিয়ে তেওলোকক সহায় কৰে বুজি পাইছা নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 87.68,
+            "end": 95.105,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পাইছো #উম অসমত কি কি জনজাতিৰ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 95.105,
+            "end": 99.88,
+            "speakerSeqId": 1,
+            "transcription": "অ আমাৰ অসমত বিভিন্ন ধৰণৰ জনজাতি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 99.88,
+            "end": 113.965,
+            "speakerSeqId": 1,
+            "transcription": "যেনে কবলৈ গলে চাউতাল জনজাতি তাৰ পিছত আদিবাসী জনজাতি বড়ো জনজাতি অসমীয়া জনজাতি ৰাভা কছাৰী মিচিং নেপালী তাৰপিছত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 113.965,
+            "end": 118.426,
+            "speakerSeqId": 1,
+            "transcription": "বঙালী আৰু কোছ ৰাজবংশী"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 118.426,
+            "end": 133.168,
+            "speakerSeqId": 1,
+            "transcription": "তাৰপিছত এনেকুৱা ধৰণৰ বহুত কেইটা জনজাতি আছে আৰু কিছুমান #আহ হয়তো মোৰ হেনেকে মনত পৰা নাই কিন্তু তেনেকুৱা বহুত ধৰণৰ জনজাতি আছে আৰু আমাৰ অসমত তেনেকুৱা ধৰণৰ বহুত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 133.168,
+            "end": 139.115,
+            "speakerSeqId": 1,
+            "transcription": "জন জাতি লগ হৈ পিনে আমাৰ অসমটো পৰিপূৰ্ণ হৈ আছে বুজি পালা নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 139.115,
+            "end": 142.118,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পালো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 142.118,
+            "end": 153.475,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ অ আমাৰ অসমত কবলৈ গলে বেলেগ #আহ অন্য় এটা #আহ ৰাষ্ট্ৰতকৈ বা অন্য় এটা দেশ বুলিও কব পাৰি বা অন্য় এটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 153.475,
+            "end": 169.028,
+            "speakerSeqId": 1,
+            "transcription": "[noise] কৈয়ো অধিক মানে বেলেগ বেলেগৰ পৰা অহা কিছুমান জনজাতি ইয়াত আহিছে আৰু ইয়াত আহি পিনে আমাৰ অসমত বহুত ধৰণৰ তেনেকুৱা দেখিবলৈ পোৱা যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 169.028,
+            "end": 180.948,
+            "speakerSeqId": 1,
+            "transcription": "মহাৰাষ্ট্ৰৰ পৰা বা বিহাৰৰ পৰা বিহাৰী সকল মাৰৱাৰীসকল ইয়াত আহি পিনে ইয়াত বসবাস কৰি আছে ইয়াত #আহ বহুকেইটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 180.948,
+            "end": 193.03,
+            "speakerSeqId": 1,
+            "transcription": "কাম কৰি নিজৰ জীৱন যাপন কৰি আছে #আহ বা আমাৰ অসমতে বেলেগ দেশৰ পৰা আহি পিনে বেলেগ #আহ ৰাষ্ট্ৰৰ পৰা আহি পিনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 193.03,
+            "end": 201.907,
+            "speakerSeqId": 1,
+            "transcription": "আহিয়েই ইয়াত নিজৰ কাম কাজ কৰি আছে আৰু নিজৰ ভাল জীৱন যাপন কৰি আছে বুজি পালা নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 201.907,
+            "end": 204.893,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পালো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10028,
+            "start": 204.893,
+            "end": 205.383,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 205.383,
+            "end": 208.505,
+            "speakerSeqId": 2,
+            "transcription": "সকলো জনজাতিৰ বিষয়ে কোৱা ছোন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 208.505,
+            "end": 216.588,
+            "speakerSeqId": 1,
+            "transcription": "অ আচ্ছা প্ৰথমতো আৰম্ভ কৰো আমাৰ #আহ চাউতাল জনগোষ্ঠীৰ পৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 216.588,
+            "end": 230.875,
+            "speakerSeqId": 1,
+            "transcription": "চাউতাল জনগোষ্ঠীসকল আচলতে #আহ এতিয়া অসমত টি ট্ৰাইব বা চাহ জনগোষ্ঠী বুলি পৰিচিত কিন্তু আচলতে তেওসকল চাহ জনগোষ্ঠী নহয় তেওলোক আদিবাসীত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 230.875,
+            "end": 231.426,
+            "speakerSeqId": 1,
+            "transcription": "পৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 231.426,
+            "end": 233.362,
+            "speakerSeqId": 1,
+            "transcription": "অৰ্থাৎ তেওলোক #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 233.362,
+            "end": 247.902,
+            "speakerSeqId": 1,
+            "transcription": "খিলঞ্জীয়া জনগোষ্ঠী হয় তেওলোক অতি আগৰে পৰা আমাৰ এই অসমৰ অসমত আছিল আৰু #আহ তেওলোক আদিবাসী হয় সেইকাৰণে তেওলোকক আদিবাসী কোৱা হয় আৰু তেওলোকৰ বহুত কেইটা উৎসৱ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 247.902,
+            "end": 249.46,
+            "speakerSeqId": 1,
+            "transcription": "পাৰ্বন আছে হা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10036,
+            "start": 249.46,
+            "end": 253.223,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 253.223,
+            "end": 258.421,
+            "speakerSeqId": 1,
+            "transcription": "[noise] তাৰ পিছত #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 258.421,
+            "end": 271.432,
+            "speakerSeqId": 1,
+            "transcription": "#আহ তেওলোকৰ ডাঙৰ দুটা বহুত ডাঙৰ উৎসৱ আছে চহৰাই উৎসৱ আৰু বাহা উৎসৱ তেওলোকে চহৰাই উৎসৱটো #আহ যেতিয়া আমাৰ খেতি হয় ন"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10039,
+            "start": 271.432,
+            "end": 274.081,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 274.081,
+            "end": 289.853,
+            "speakerSeqId": 1,
+            "transcription": "#আহ ধানৰ খেতি আৰু তেনেকুৱা বহুত ধৰণৰ খেতি সেইটো ধানৰ খেতি আচলতে মানে প্ৰকৃততে আমি কব গলে যে ধানৰ খেতি #আহ যেতিয়া আমি সেই ধানৰ খেতি উঠাও তাৰমানে কাটি পিনে যেতিয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 289.853,
+            "end": 300.676,
+            "speakerSeqId": 1,
+            "transcription": "আমি থৈ #আহ দিও ধানটো তেতিয়া সেইবোৰ কাম শেষ হোৱাৰ পিছত তাৰ সেইটো চাউতালসকলৰ #উম সেইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 300.676,
+            "end": 314.648,
+            "speakerSeqId": 1,
+            "transcription": "চহৰাই পৰবটো হয় আৰু তেতিয়া তেওলোকে উলহ মালহেৰে এই চহৰাই পৰবটো পালন কৰে এই চহৰাই পৰবটো ছয়দিন ধৰি হয় তাত অতি #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 314.648,
+            "end": 328.891,
+            "speakerSeqId": 1,
+            "transcription": "উলহ মালহেৰে হাহি ফুৰ্তিৰে সেইটো উৎসৱটো পালন কৰে তাৰ পিছত তেওলোকৰ দ্ৱিতীয়টি উৎসৱ হল #উম বাহা পৰব এইটো বাহা মানে আমাৰ অসমীয়াত কবলৈ গলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 328.891,
+            "end": 338.155,
+            "speakerSeqId": 1,
+            "transcription": "বাহা পৰবটো ফুলৰ পৰ্ব বুলি কোৱা হয় যিটো নেকি যেতিয়া আমাৰ নতুন ফুল ফুলে [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 338.155,
+            "end": 352.712,
+            "speakerSeqId": 1,
+            "transcription": "নতুন নতুন বহু ধৰণৰ ফুল ফুলে তেতিয়া তেওলোকে সেই নতুন ফুলটো সেই [noise] বাহা পৰ্ব পূজা নকৰাৰ আগত তেওলোকে কোনেও নলগাই বা ঘৰলৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 352.712,
+            "end": 359.722,
+            "speakerSeqId": 1,
+            "transcription": "নানে [noise] বুজি পাইছানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 359.722,
+            "end": 362.405,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পাইছো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 362.405,
+            "end": 373.222,
+            "speakerSeqId": 1,
+            "transcription": "তেওলোকে #আহ মানে সেইটো যেতিয়া ফুলটোৰ পূজা পাতে তেতিয়াহে তেওলোকে ফুলবোৰ পালন কৰে তাৰ পিছত আছে অসমীয়া লোকসকল অসমীয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 373.222,
+            "end": 387.694,
+            "speakerSeqId": 1,
+            "transcription": "বহাগ মাহত বহাগ বিহু মানে তেওলোকৰ আচলতে তিনিটা বিহু আছে তেওলোকে তিনিটা মাহত বছৰৰ তিনিটা মাহত তেওলোকে সেই বিহুটো বিহু উৎসৱ পালন কৰে প্ৰথমতে কও যে বহাগ বিহু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 387.694,
+            "end": 399.496,
+            "speakerSeqId": 1,
+            "transcription": "বহাগ মাহত মানে যিটো অসমীয়া অসমীয়া বাৰ মাহৰ যিটো প্ৰথমটি মাহ বহাগ মাহ সেইটো বহাগ মাহতে তেওলোকে #আহ বহাগ বিহু পালন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 399.496,
+            "end": 416.196,
+            "speakerSeqId": 1,
+            "transcription": "বহাগ বিহু পালন কৰে বহাগ মাহত তেওলোকে #আহ প্ৰথমতে গৰু বিহু তাৰ পিছত মানুহ বিহু তাৰ পিছত তেনেকুৱা ধৰণৰ নাম আছে সিমান মোৰো মনত নাই বাৰু গতিকে তেওলোকে সেই বহাগ বিহু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 416.196,
+            "end": 429.888,
+            "speakerSeqId": 1,
+            "transcription": "অতি উলহ মালহেৰে পালন কৰে পিঠা বনায় তাৰ পিছত বহু ধৰণৰ তেনেকুৱা #আহ খোৱা বস্তু ৰান্ধে তুমি কেতিয়াবা নিজৰ লগৰ বিহু খাই পাইছানে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10053,
+            "start": 429.888,
+            "end": 431.93,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 431.93,
+            "end": 444.957,
+            "speakerSeqId": 1,
+            "transcription": "#আহ অতি উলহ মালহেৰে তেওলোকে পালন কৰে তাৰপিছত আছে #আহ বড়ো সকল বোৰোসকলৰ খেৰাই খৃষ্টি মানে খেৰাই পূজা কৰে তেওলোকৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 444.957,
+            "end": 459.447,
+            "speakerSeqId": 1,
+            "transcription": "তেওলোকে বহাগ বিহুতো বৈশাগু বুলি এটা নাম আছে তেওলোকে বহাগ বিহুক বৈশাগু বুলি নাম দিয়ে তেওলোক অতি #উম উলহ মালহেৰে মানে বহুত হাহি ফুৰ্তিৰে তেওলোকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 459.447,
+            "end": 466.793,
+            "speakerSeqId": 1,
+            "transcription": "সেই খেৰাইটো পূজা কৰে আৰু তাৰ পিছত #আহ কিছুমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 466.793,
+            "end": 481.407,
+            "speakerSeqId": 1,
+            "transcription": "আৰু বেলেগ বেলেগ লোক আছে যেনেকুৱা চাউতাল লোকসকল তাৰ পিছত নেপালী বোৰো কিছুমান বড়ো লোকেও তাৰ মানে খৃষ্টিয়ান হয় তেওলোকে যীশু খৃষ্টক আৰাধনা কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 481.407,
+            "end": 484.563,
+            "speakerSeqId": 1,
+            "transcription": "সেই ধৰণে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 484.563,
+            "end": 505.606,
+            "speakerSeqId": 1,
+            "transcription": "সেইধৰণে তেওলোকে অতি #আহ মানে তেওৰ যীশু খৃষ্টৰ জন্মদিন ডিচেম্বৰৰ পচিশ তাৰিখে হয় গতিকে তেওলোকে #আহ সেই পচিশ তাৰিখে [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 505.606,
+            "end": 520.315,
+            "speakerSeqId": 1,
+            "transcription": "যীশু খৃষ্টৰ জন্মদিন হিচাপে পালন কৰে বা তেওক আকৌ এবাৰ জন্ম হৈ উঠা বুলি তেওলোকে বিশ্ৱাস কৰে তেওৰ ওচৰত আৰাধনা কৰে আৰু সেইটোও সেইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 520.315,
+            "end": 527.223,
+            "speakerSeqId": 1,
+            "transcription": "#আহ পাচ ছয়দিন ধৰি তেওলোকে অতি উলহ মালহেৰে সেই খৃষ্টীয়ান যিটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 527.223,
+            "end": 542.039,
+            "speakerSeqId": 1,
+            "transcription": "খ্ৰীষ্টমাছ বুলি কোৱা হয় খ্ৰীষ্টমাছটো মানে আমাৰ অসমৰ বা দেশ বিদেশ সকলোৱে অতি আদৰেৰে #আহ সেইটো পালন কৰি আহিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 542.039,
+            "end": 553.16,
+            "speakerSeqId": 1,
+            "transcription": "#আহ খ্ৰীষ্টমাছত অকল খৃষ্টিয়ান বুলিয়েই নহয় আমাৰ হিন্দু লোকসকলেও তেওলোকৰ #আহ যিটো খ্ৰীষ্টমাছ হয় তাত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 553.16,
+            "end": 567.666,
+            "speakerSeqId": 1,
+            "transcription": "অংশগ্ৰহণ কৰে তাত যায় #আহ নাচ গান কৰে ভাল লাগে ফুৰ্তি লাগে বুলি মানে আমাৰ অসম দেশখন ইমানেই ধুনীয়া যে সকলো জাতি সকলো জনজাতিয়ে সকলো জনজাতিক সন্মান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 567.666,
+            "end": 572.009,
+            "speakerSeqId": 1,
+            "transcription": "সন্মান কৰে তেলোকৰ যিটো [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 572.009,
+            "end": 584.8,
+            "speakerSeqId": 1,
+            "transcription": "যি উৎসৱবোৰ হয় তেওলোকে তাত অংশগ্ৰহণ কৰে আৰু অতি উলহ মালহেৰে তেলোকৰ লগত পালন কৰে আৰু এইয়াই হল আমাৰ অসমীয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 584.8,
+            "end": 596.782,
+            "speakerSeqId": 1,
+            "transcription": "অসমীয়া লোক অসমৰ অসমবাসী ৰাইজ সকলোৰে মানে সকলোৱে স্ৱদেশৰ সকলোৱে প্ৰেমৰ অসম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 596.782,
+            "end": 606.603,
+            "speakerSeqId": 1,
+            "transcription": "অসমীয়া অসম [noise] হয় আৰু ইয়াত সকলো লোকসকলে অতি উলহ মালহৰে পালন কৰে বুজি পালা নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 606.603,
+            "end": 609.927,
+            "speakerSeqId": 2,
+            "transcription": "অ বুজি পাইছো"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10070,
+            "start": 609.927,
+            "end": 613.291,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        }
+    ]
+}

@@ -1,0 +1,516 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826188",
+    "speechFile": "as_SHA1P_C_r013_s040",
+    "callDuration": 602.752,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239032"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239033"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 7.304,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ মোৰ লগত আছে আজি আমাৰ [noise] আপোনাৰ খবৰ চবৰ কওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 7.304,
+            "end": 12.181,
+            "speakerSeqId": 2,
+            "transcription": "খবৰটো মোটা মোতি ভালে চলি আছে আপোনাৰ খবৰ কেনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 12.181,
+            "end": 15.05,
+            "speakerSeqId": 1,
+            "transcription": "হয় ভালে আছে আৰু ৰাতিৰ খোৱা লোৱা হল নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 15.05,
+            "end": 17.648,
+            "speakerSeqId": 2,
+            "transcription": "হল [noise] এইমাত্ৰ হল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 17.648,
+            "end": 29.039,
+            "speakerSeqId": 1,
+            "transcription": "যি নহওক মানে আজি আমি আলোচনা কৰিম বা আলোচনা মূল বিষয়টো হব ঐতিয্য়াৰ ওপৰত সেইটো আপুনি দুই এখাৰ কত্তক যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 29.039,
+            "end": 43.653,
+            "speakerSeqId": 2,
+            "transcription": "চাওক ঐতিয্য়া অৰ্থাত মানে যিটো আমি সৌন্দৰ্য্য় বুলি কত্ত হয় নে সেই সৌন্দৰ্য্য়টো মানে আমাৰ যিটো আছে সৌন্দৰ্য্য়টো সকলো বস্তুৰে কিন্তু এটাকৈ সৌন্দৰ্য্য় থাকে হয় নাই হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 43.653,
+            "end": 57.463,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ মানুহৰ মানুহৰো সৌন্দৰ্য্য় থাকে বা আমাৰ যিটো মানে পৰিয়াল আছে পৰিয়ালৰ সৌন্দৰ্য্য় আছে আমাৰ সমাজৰ সৌন্দৰ্য্য় আছে আমাৰ যি দেশ খন আছে এইটোৰ সৌন্দৰ্য্য় আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 57.463,
+            "end": 71.403,
+            "speakerSeqId": 2,
+            "transcription": "কিন্তু আমি কেৱল সৌন্দৰ্য্য় থকা মানে যিবিলাক বস্তু আছে সেই বস্তু বিলাকৰ ভিতৰত অন্য়তম হৈছে যেনেকুৱা এটা তাজমহল বা (()) কামাক্ষ্য় মন্দিৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 71.403,
+            "end": 79.107,
+            "speakerSeqId": 2,
+            "transcription": "এইবিলাক মানে সৌন্দৰ্য্য় থকা আমাৰ বস্তু হয় নে হয় গতিকে আমাৰ এই সৌন্দৰ্য্য়টো হৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 79.107,
+            "end": 93.917,
+            "speakerSeqId": 2,
+            "transcription": "এজন মানুহৰ যদি অকল সৌন্দৰ্য্য়ই থাকে তে সেইটো কিন্তু নহয় সেই সেই মানুজনক কিন্তু আমি সুন্দৰ বুলি কব নোৱাৰিম বা তাৰ সৌন্দৰ্য্য় থকা বুলি কব নোৱাৰিম কাৰণ যদি মানুহজনৰ ব্য়ৱহাৰ মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 93.917,
+            "end": 107.339,
+            "speakerSeqId": 2,
+            "transcription": "ভাল নহয় বা মানুহজনৰ কথা বতৰা পতাৰ যিটো প্ৰণালী সেইটো যদি ভাল নহয় তেনেহলে আমি তাক মানুহ হিচাপে গণ্য়ই কৰিব নোৱাৰো হয় নে গতিকে তেনেহলে মানে তেনেহলে তাক আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 107.339,
+            "end": 121.396,
+            "speakerSeqId": 2,
+            "transcription": "মানে অনাবৰতে কৈ থাকো যে গৰু ছাগলৰ নিচিনাকে ইমান কথা পাতি থাকা তই গতিকে মানে এনেকুৱাই কথা যে এই জন মানুহ যদি মানে সুন্দৰ হয় যেতিয়াই হে যদি তাক মানুহ বুলি গণ্য় কৰা হয় তেনেহলে এনেই বিলাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 121.396,
+            "end": 129.968,
+            "speakerSeqId": 2,
+            "transcription": "কথা কিয় আহিব যে আমাৰ কথা বতৰা পতাৰ যিটো মানে প্ৰকাশ [noise] সেইটো কিন্তু নাজানিব তেও হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10014,
+            "start": 129.968,
+            "end": 130.036,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10015,
+            "start": 130.036,
+            "end": 130.07,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10016,
+            "start": 130.07,
+            "end": 130.272,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 130.272,
+            "end": 136.027,
+            "speakerSeqId": 2,
+            "transcription": "সেইটোৱেই অকল মানুহৰ সৌন্দৰ্য্য় হলেই নহব মানুহৰ গুণ টোৱেই প্ৰধান আচল হয় নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 136.027,
+            "end": 136.803,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 136.803,
+            "end": 143.62,
+            "speakerSeqId": 2,
+            "transcription": "(()) ভিতৰত আমাৰ যিটো প্ৰাকৃতিক পৰিৱেশ আছে সেই পৰিৱেশ সৌন্দৰ্য্য়টো কোনে বচাই ৰাখে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10020,
+            "start": 143.62,
+            "end": 144.076,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 144.076,
+            "end": 155.888,
+            "speakerSeqId": 2,
+            "transcription": "হয় সমাজৰ মানুহ বিলাকে আৰু এই সমাজৰ মানুহ বিলাকে য্দি আমাৰ #আহ পৰিৱেশটো নষ্ট কৰি পেলোৱাৰ চেষ্টা কৰে তেনেহলে আকৌ মানে সমাজটো ভালদৰে পৰিচালিত নহব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 155.888,
+            "end": 169.169,
+            "speakerSeqId": 2,
+            "transcription": "প্ৰধান হৈছে মানুহ মানুহে সকলো বিলাক জীৱক সামৰি লৈ বা সকলো বিলাক জীৱকে #উম মানে যিটো আমাৰ কয় #আহ কি লালন পালন কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 169.169,
+            "end": 182.129,
+            "speakerSeqId": 2,
+            "transcription": "গতিকে আমাৰ সেই সকলো বিলাক বস্তুৰে প্ৰধানত যিহেতু মানুহ গতিকে সকলোবিলাক বস্তুকেই আমি মানুহেই মানে থিক থাক মতে ৰাখিব লাগিব বা পাৰিচালিত কৰিব লাগিব হয় নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 182.129,
+            "end": 196.388,
+            "speakerSeqId": 2,
+            "transcription": "তেতিয়াহে আমাৰ পৰিয়াল বা সমাজৰ যিটো সৌন্দৰ্য্য় সেইটো বাঢ়িব আকৌ দেখা যায় যে আজিকালি সমাজত ইমান হাই কাজিয়া হৈ থাকে যে সমাজৰ পৰা আমি মানে ইমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 196.388,
+            "end": 209.99,
+            "speakerSeqId": 2,
+            "transcription": "সমাজ্ত থকাটো আমাৰ ইমান আখুবিধা সৃষ্টি হৈছে পৰিছে যে ইফালে আজি কালি দেখা যায় যে লৰা ছোৱালী বিলাক বহুতো লৰা ছোৱালী লিখা পঢ়া [noise] হয় নে তাৰ মানে [noise] ওচৰত যদি কিবা এখন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 209.99,
+            "end": 223.372,
+            "speakerSeqId": 2,
+            "transcription": "তেনেকুৱা হাই কাজিয়া হৈ তেতিয়া হলে তেত্তৰ মনটো তাত আৰু নাথাকিব সেই মানে যিটো আমাৰ হাই কাজিয়া আছে তালৈকৈ যাব তেতিয়া হলেটো আৰু এই পঢ়া শুনাটো কিন্তু অসুবিধা হব হয় নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 223.372,
+            "end": 231.809,
+            "speakerSeqId": 2,
+            "transcription": "গতিকে এইটো হৈছে আমাৰ যিটো সমাজৰ বৰ্তমান অৱস্থা তো এনেকুৱা হলে কিন্তু ভাল নহয় সমাজ পাৰিচালিত হব নোৱাৰে ভাল দৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 231.809,
+            "end": 240.297,
+            "speakerSeqId": 2,
+            "transcription": "আমি সমাজ এখন পৰিচালিত কৰা কাৰণে যেনে ধৰণে মানে গছনি ৰুপন কৰিব লাগিব তেনে ধৰনে সমাজ খনক মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 240.297,
+            "end": 252.683,
+            "speakerSeqId": 2,
+            "transcription": "সুকলমে ৰাখিবলে আমি প্ৰতিজন মানুহৰ লগত ভাল আচৰন ভাল বেয়া গুন সেইবিলাক বিচাৰ কৰি চলিব লাগিব হয় তো চাৰ ইয়াতে আপোনাৰ কিবা মতামত আছে নেকি অলপ কব চোন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 252.683,
+            "end": 259.788,
+            "speakerSeqId": 2,
+            "transcription": "হেল্লো চাৰ শুনিছে নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 259.788,
+            "end": 270.605,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় শুনি আছো মানে #আহ চাত্তক সৌন্দৰ্য্য় এটা ভাল (()) মানে সৌন্দৰ্য্য় #হম সৌন্দৰ্য্য়ৰ মানুহে মানুহে আকৌ নৱেল বটাও পাই"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10032,
+            "start": 270.605,
+            "end": 272.562,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 272.562,
+            "end": 275.853,
+            "speakerSeqId": 1,
+            "transcription": "সৌন্দৰ্য্য় থাকিলেই নহব মানুহৰ ভাল ভাল #আহ গুণো লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 275.853,
+            "end": 277.439,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 277.439,
+            "end": 292.958,
+            "speakerSeqId": 2,
+            "transcription": "গতিকে এই খিনিয়ে চাত্তক আজি কালি কি আমি দেখা পাও যে তেনেকুৱা মানুহ এজন মানুহ আছে যিজনৰ চবি মানুহ বা টকা পইছা সকলো খিনিকে লগাই থৈ যায় তো তেনেকোৱা এজন মানুহ বা মহান ব্য়ক্তি হৈছে আমাৰ যেনেকুৱা মহাত্মা গান্ধি হয় নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 292.958,
+            "end": 305.806,
+            "speakerSeqId": 2,
+            "transcription": "তেওৰ কি ইমান সৌন্দৰ্য্য় আছিলে আজিকালিটো দেখা যায় যে তাতকে মানে বহুতো ভাল ভাল সৌন্দৰ্য্য় থকা মানুহ কিন্তু সেই মানে সেইবিলাক মানুহক কিন্তু কোনেও সৌন্দৰ্য্য় বা মহান বুলি নকয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 305.806,
+            "end": 314.311,
+            "speakerSeqId": 2,
+            "transcription": "যেনেকুৱা আমাৰ সিমান্ত শংকৰদেৱ [silence] যেনেকুৱা সিমান্ত শংকৰদেৱ মাধৱ দেৱ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 314.311,
+            "end": 330.292,
+            "speakerSeqId": 2,
+            "transcription": "হজৰত (()) ইত্য়াদি মানুহ বিলাকক কিন্তু মানে আমাৰ সৌন্দৰ্য্য় থকা বুলি কৈ হয় নে হয় হয় গতিকে এইখিনিয়ে যে আমাৰ সৌন্দৰ্য্য় যে কেৱল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 330.292,
+            "end": 339.742,
+            "speakerSeqId": 2,
+            "transcription": "শাৰীৰিক যিটো ওপৰতেই যি মানে যিবিলাক দেখা যায় সেইটোকে যে আমি সৌন্দৰ্য্য় বুলি কম সেইটো কিন্তু নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 339.742,
+            "end": 340.282,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 340.282,
+            "end": 356.195,
+            "speakerSeqId": 2,
+            "transcription": "সেয়ে আমি সৌন্দৰ্য্য় বঢ়াবৰ কাৰনে কিন্তু আমাৰ ব্য়ৱহাৰ মানে ভাল কৰা উচিত বা মানুহৰ লগত কথা বতৰা কেনেদৰে পাতিব লাগে সেইটো জনা উচিত আৰু তেতিয়াহলে মানুহে এজনৰ পৰা আন এইজনৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 356.195,
+            "end": 366.59,
+            "speakerSeqId": 2,
+            "transcription": "(()) মানে যিজনে মানে ভাল ব্য়ৱহাৰ কৰে তাৰ প্ৰশাংস শুনিব হয় নে [silence] হয় হয় কৰি যদি মানে যিবিলাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 366.59,
+            "end": 379.617,
+            "speakerSeqId": 2,
+            "transcription": "বেয়া গুন আছে যদি তাৰ মানে পৰিলক্ষিত হৈ তেনেহলেটো তাৰ সমাজৰ পৰাই তাক মানে বঞ্চিত কৰি দিব বা তাৰ যদি গুন বেয়া হয় তেনেহলে সমাজতটো কুনেও ভাল নাপাব হয় নে নাই হয় এইখিনিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 379.617,
+            "end": 390.907,
+            "speakerSeqId": 2,
+            "transcription": "আজিকালি দেখা যায় যে যিবিলাক আমাৰ কবলৈ গলে [silence] আমেৰিকাৰ যি ৰাষ্ট্ৰপতি বাৰাক ওবামা [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 390.907,
+            "end": 401.977,
+            "speakerSeqId": 1,
+            "transcription": "যিহেতু আমাৰ [noise] সৌন্দৰ্য্য় মানে আচলতে #আহ মানে সৌন্দৰ্য্য় মানে এতিয়া আমি [noise] আনৰ ওপৰত আছে মানে কোনোৱাই ভাবিছে মানে প্ৰাকৃতিক মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 401.977,
+            "end": 415.763,
+            "speakerSeqId": 1,
+            "transcription": "[noise] সৌন্দৰ্য্য় আৰু কোনোবাই মানে সৌন্দৰ্য্য় বঢ়াবৰ বাবে মানে কিবা ঔষদ কৰে সেই বিষয়ে অলপমান কওক মানে যিটো #আহ প্ৰাকৃতিক যিটো মানে #আহ সৌন্দৰ্য্য় থাকে সেইটো ভাল নে মানুহে ঔষদ লৈ সৌন্দৰ্য্য় বঢ়াই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 415.763,
+            "end": 417.603,
+            "speakerSeqId": 1,
+            "transcription": "সেই বিষয়ে অলপমান কওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 417.603,
+            "end": 434.933,
+            "speakerSeqId": 2,
+            "transcription": "গতিকে চাওক এইটোৱেই যে আমাৰ যিটো [silence] মানে আমাৰ যিটো সৌন্দৰ্য্য় আছে তো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 434.933,
+            "end": 448.822,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো কিন্তু ঈশ্বৰে দিয়ে সৌন্দৰ্য্য় গতিকে এই সৌন্দৰ্য্য়ৰ উপৰিও যদি আমি মানে যিবিলাক ৰাসায়নিক বস্তু মানে ওলাইছে আজিকালি বজাৰত হয় সেইবিলাক যদি ব্য়ৱহাৰ কৰো তেনেহলে কিন্তু আমাৰ বহুতো ক্ষতি সাধন হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 448.822,
+            "end": 458.727,
+            "speakerSeqId": 2,
+            "transcription": "তেনেকুৱা আজি দেখা যায় যে মানুহ বিলাকৰ মুখত ইমান (()) মানে যিবিলাক আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 458.727,
+            "end": 467.182,
+            "speakerSeqId": 2,
+            "transcription": "আৰু তাৰ উপৰিও দেখা যায় যে আজিকালি মানুহে বহুতো ক্ৰিম লগাই মানে নিজৰ শৰীৰৰ চাল বিলাক নষ্ট কৰি পেলাই আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 467.182,
+            "end": 482.7,
+            "speakerSeqId": 2,
+            "transcription": "কিন্তু এইবিলাক হৈছে যে আমাৰ বৰ্তমান যি আধুনিক প্ৰযুক্তি বিদ্য়াৰে মানে গঠিত কিছুমান বস্তু সেইবিলাক আমাৰ ব্য়ৱহাৰ কৰা উচিত নহয় যাৰ ফলত বহুতো অসুবিধাৰ সৃষ্টি হৈছে আৰু আজিকালি দেখা যায় যে লৰা ছোৱালী বিলাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 482.7,
+            "end": 492.646,
+            "speakerSeqId": 2,
+            "transcription": "চুলি চিধা কৰে গতিকে এইবিলাক কৰিলে আমাৰ যিটো চুলিৰ মানে #আহ চুলিৰ মানে যিটো আমাৰ মানে এইটোক কি কয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 492.646,
+            "end": 503.969,
+            "speakerSeqId": 2,
+            "transcription": "আৰু চুলিটো মানে আমাৰ যেতিয়া তেনেকুৱা কৈ মানে বিদ্য়ুতৰে মানে চিধা কৰি লও তেনেহলে আমাৰ চুলিৰ মানে যিটো #আহ কি কয় এইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 503.969,
+            "end": 518.127,
+            "speakerSeqId": 2,
+            "transcription": "মানে চুলিটো মানে যৰ পৰা #আহ গজি উঠে তাত কিন্তু মানে আঘাত পাই মানুহৰ শৰীৰৰ বা মানাৱ শৰীৰত বা সিহতৰ যিটো মস্তিস্ক আছে সেই মস্তিস্কটোৰ কিন্তু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 518.127,
+            "end": 531.897,
+            "speakerSeqId": 2,
+            "transcription": "বহুতো ক্ষতি হয় হয় হয় দিনটোত তেনে ধৰনে যদি আমাৰ বিদ্য়ুত মানে যিকোনো বিদ্য়ুত পদ্ধতিৰ দ্বাৰাই তেনেকুৱা কৰা হয় মুৰটোত তেনেহলে তাতটো মানে এনেকুৱা অসুবিধা হব য়েই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 531.897,
+            "end": 544.165,
+            "speakerSeqId": 2,
+            "transcription": "তাৰ উপৰিও আজিকালি দেখা যায় যে মানে বহুতে সৌন্দৰ্য্য় আকৌ বঢ়াবৰ কাৰনে ভাল ধৰণৰ কাপোৰ কানি পৰিধান কৰে সেইটো বাৰু ভাল কথা যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 544.165,
+            "end": 556.72,
+            "speakerSeqId": 2,
+            "transcription": "গতিকে আমি যে সেইটোকেই যে আমি সৌন্দৰ্য্য় বুলি কম সেইটো কিন্তু নহয় হয় হয় বাহিৰৰ যিটো সৌন্দৰ্য্য় আছে যে মানে দেখাত মানে যিটো আজিকালি কৈ ধুনীয়া ধুনীয়া আমি কিন্তু সেইটো চাই মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 556.72,
+            "end": 563.318,
+            "speakerSeqId": 2,
+            "transcription": "তাই কিন্তু তাক সৌন্দৰ্য্য় বা তাৰ সুন্দৰতা থকাটো বুলি আমি গণ্য় কৰিব নোৱাৰো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 563.318,
+            "end": 574.777,
+            "speakerSeqId": 1,
+            "transcription": "[noise] চাওক আজি #আহ মানে যিটো #আহ জন্মৰ পৰা সৌন্দৰ্য্য় থাকে আৰু মানে কিছুমানে সৌন্দৰ্য্য় বঢ়াবলৈ কিছুমান ঔষদ যিটো ব্য়ৱহাৰ কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 574.777,
+            "end": 587.992,
+            "speakerSeqId": 1,
+            "transcription": "সেইটো ঔষদ আজি আমি #আহ দেখা যায় আছে যে মানে সৌন্দৰ্য্য় বঢ়াবৰ কাৰনে যিটো ঔষদ ব্য়ৱহাৰ কৰি আছে সৌন্দৰ্য্য় নহয় বৰঞ্চ মানে মানে #আহ কুৎচিত হে হৈ আছে মানে আচলতে প্ৰাকৃতিক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 587.992,
+            "end": 602.752,
+            "speakerSeqId": 1,
+            "transcription": "যিটো সৌন্দৰ্য্য় থাকে সেইটোৱেই মানে #আহ ভাল [noise]"
+        }
+    ]
+}

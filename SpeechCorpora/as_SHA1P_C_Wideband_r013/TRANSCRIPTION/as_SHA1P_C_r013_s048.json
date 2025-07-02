@@ -1,0 +1,596 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826205",
+    "speechFile": "as_SHA1P_C_r013_s048",
+    "callDuration": 604.736,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239042"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239043"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 12.569,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ মোৰ লগত আছে আজি আমাৰ #আহ আনিদুল আপোনাৰ #আহ খবৰ চবৰ কওক হয় মোৰ খবৰ ভালেই আপোনাৰ কেনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 12.569,
+            "end": 26.508,
+            "speakerSeqId": 1,
+            "transcription": "হয় মোৰো ভালেই আছে পিছে আৰু খোৱা লোৱা হল নে অ হৈ গল আকৌ এনে বহি আছো আপুনি আপোনাৰ হল নে নাই হয় মোৰো হৈছে [babble] কিহেৰে বা খালে আজি [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 26.508,
+            "end": 39.063,
+            "speakerSeqId": 1,
+            "transcription": "কিহেৰে খালে আজি অ আজি বনাইছে আকৌ মাছ বনাইছে তাৰপিছত দাইল আছে [silence] ভালেই হল ন হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 39.063,
+            "end": 45.374,
+            "speakerSeqId": 1,
+            "transcription": "হৈছে আকৌ #আহ আজি আলোচনা কৰিম আমি"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10005,
+            "start": 45.374,
+            "end": 49.863,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 49.863,
+            "end": 64.966,
+            "speakerSeqId": 2,
+            "transcription": "আজি আলোচনা কৰিম আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 64.966,
+            "end": 69.539,
+            "speakerSeqId": 1,
+            "transcription": "আজি মানে [noise] আমাৰ খেতি বাতিৰ ওপৰত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 69.539,
+            "end": 71.159,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 71.159,
+            "end": 85.047,
+            "speakerSeqId": 1,
+            "transcription": "চাওক #আহ খেতি বাতি যিটো আছে মানে আমি খেতি বাতিৰ পৰা আমাৰ #আহ জীৱন ৰক্ষা হৈ আছে আমি কিয়নো আমি #আহ খাবলৈ নাপালে জীয়াই থকাটো অসম্ভৱ হল হৈ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10010,
+            "start": 85.047,
+            "end": 85.672,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 85.672,
+            "end": 96.674,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে আমি #আহ কেনেকে খেতি বাতি কৰো বা কি সাৰ ব্যৱহাৰ কৰো খেতিটো আমাৰ কেনেকে ভাল হব সেই বিষয়ে অলপ মান কওক"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10012,
+            "start": 96.674,
+            "end": 96.708,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 96.708,
+            "end": 107.457,
+            "speakerSeqId": 1,
+            "transcription": "খেতিটো বস্তু হল এনেকুৱা ধৰণৰ যে আগত যে কি বস্তুটো আছিল [silence] বস্তুটোৰ নামটো মোৰ মনত অহা নাই দে চোন এতিয়া"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10014,
+            "start": 107.457,
+            "end": 120.974,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 120.974,
+            "end": 129.293,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে যিয়েই নহওক মানে আচলতে #আহ আগৰ যিটো খেতি বাতি আছিল আৰু বৰ্তমানৰ যিটো খেতি বাতি আছে ইহতৰ দুয়োটাৰ মাজত আমাৰ পাৰ্থক্য থকা দেখা যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 129.293,
+            "end": 143.519,
+            "speakerSeqId": 1,
+            "transcription": "মানে আগৰ যিটো #আহ খেতি বাতি #আহ কৰিছিল সেই খেতি বাতিত মানুহে কি জৈৱিক সাৰ ব্যৱহাৰ কৰিছিল গতিকে জৈৱিক সাৰ বুলি মানে কবলৈ গলে আমি বুজো যিটো গৰুৰ গোবৰ আছে সেইটোৰ পৰা যিটো সাৰ ওলাই সেইটো এই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 143.519,
+            "end": 154.488,
+            "speakerSeqId": 1,
+            "transcription": "এই সাৰটো দিয়ে মানে মানুহে খেতি বাতি কৰিছিল এই খেতি বাতি বিলাক খালে মানুহৰ একো সমস্য়া মানে অসুবিধাৰ কোনো সন্মুখীন হব লগা নাছিল হোৱা নাছিল মানে মানুহে আৰু বৰ্তমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 154.488,
+            "end": 168.741,
+            "speakerSeqId": 1,
+            "transcription": "খেতি বাতি আছে সেই খেতি বাতিত মানুহে ৰাসায়নিক সাৰ ব্যৱহাৰ কৰি আছে কিন্তু খেতি বাতি বিলাক মানে দেখাত সুন্দৰ হলেও এই খেতি বাতি বিলাক যদি মানুহে খাই মানে যেনেকে শাক পাচলি আছে ধান খেতি কৰে মানে এইবিলাকত আচলতে বৰ্তমান সময়ত ৰাসায়নিক ব্যৱহাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 168.741,
+            "end": 178.94,
+            "speakerSeqId": 1,
+            "transcription": "কৰি আছে আগত যদি এক বিঘা #আহ মাটিত দহ মোন ধান নামিছিল কিন্তু বৰ্তমান সময়ত এক বিঘা মাটিত ৰাসায়নিক সাৰ ব্যৱহাৰ কৰাৰ ফলত বিশ মোন নামি আছে কিন্তু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 178.94,
+            "end": 184.66,
+            "speakerSeqId": 1,
+            "transcription": "#আহ তথাপিও আমি এইটো জানো যে ৰাসায়নিক সাৰ #আহ ব্যৱহাৰ কৰাৰ [silence]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10021,
+            "start": 184.66,
+            "end": 184.677,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 184.677,
+            "end": 196.912,
+            "speakerSeqId": 1,
+            "transcription": "বৰ্তমান সময়ত #আহ যিবিলাক খেতি বাতিত মানে ৰাসায়নিক সাৰ ব্যৱহাৰ কৰি আছে সেই খেতি বাতি বিলাক সুন্দৰ হয় কিন্তু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 196.912,
+            "end": 207.408,
+            "speakerSeqId": 1,
+            "transcription": "এই খেতি বাতি বিলাক #আহ খোৱাৰ পিছত মানুহে বৰ্তমান সময়ত মানে কি হৈ আছে বেমাৰত #আহ ভুগি আছে বা প্ৰত্যেকটো মানুহৰে পেটত কিবা বেমাৰৰ #আহ সৃষ্টি হৈ আছে মানে আচলতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 207.408,
+            "end": 211.07,
+            "speakerSeqId": 1,
+            "transcription": "[noise] হয় কওক যে বৰ্তমান সময়ত যিটো খেতি বাতি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 211.07,
+            "end": 223.034,
+            "speakerSeqId": 1,
+            "transcription": "আৰু আগৰ যিটো খেতি বাতি আছিল মানে ইহতৰ মানে এই দুটাৰ বিষয়ে অলপ কওক যে আচলতে বৰ্তমান খেতি বাতিটো কেনেকে আগৰ নিচিনা কৰি থৈ দিলে ভাল হব নে বৰ্তমান যিটো ৰাসায়নিক সাৰ ব্যৱহাৰ কৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 223.034,
+            "end": 231.91,
+            "speakerSeqId": 1,
+            "transcription": "এইটো মানে খেতি বাতি ভাল হয় অলপমান কওক আচলতে মানে কি জানে এই বৰ্তমান যিটো চলি আছে এইটোৰ কাৰণে মানে বহুত মানে সমস্য়া হৈ যায় মানুহৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 231.91,
+            "end": 240.668,
+            "speakerSeqId": 1,
+            "transcription": "যে এই ধৰণে কিবা এটা বেমাৰ চেমাৰ হৈ আছে বা যিকোনো এটা বেমাৰ হৈ আছে আকৌ মানে এইটো বস্তু মানে আগৰ ভিটামিনটো এইটো ভিটামিন (()) হোৱা নাই"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10028,
+            "start": 240.668,
+            "end": 241.883,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10029,
+            "start": 241.883,
+            "end": 242.018,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 242.018,
+            "end": 256.778,
+            "speakerSeqId": 1,
+            "transcription": "আগৰ টো হল বেলেগ ধৰণৰ এতিয়াৰ টো হল বেলেগ ধৰণৰ আচলতে আমাৰ কোৱা হল এইটোৱেই যে আগৰ সকলোতকৈ ভাল আছিল আকৌ আৰু এইটো মানে যিমানে কি নিদিওক মানে যিমান আগত যিমান আছিল দহ মোন এতিয়া হল বিশ মোন কিন্তু বিশ মোনটো মানে এনে ধৰণৰ বস্তু যিমানে আপোনাৰ ইয়াতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 256.778,
+            "end": 262.15,
+            "speakerSeqId": 1,
+            "transcription": "উজ্বল হৈ আছে কিন্তু ইমানটো আমি খাই কেনে আৰু বেমাৰ তেমাৰ হৈ আছে আচলতে আমাৰ এইটোয়েই ভাল আছিল আগৰ টোয়েই"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10032,
+            "start": 262.15,
+            "end": 263.99,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10033,
+            "start": 263.99,
+            "end": 264.378,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10034,
+            "start": 264.378,
+            "end": 264.462,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10035,
+            "start": 264.462,
+            "end": 264.53,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10036,
+            "start": 264.53,
+            "end": 264.547,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 264.547,
+            "end": 279.616,
+            "speakerSeqId": 1,
+            "transcription": "#আহ কিছুমান মানে শাক পাচলিৰ বিষয়ে কওক যে কোন বিলাক শাক পাচলি খালে আমাৰ কাৰণে ভাল হয় মানে আমাৰ শাক পাচলি ভিতৰত আমাৰ সেই লাই শাক টো চিনি পাই নে আপুনি হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 279.616,
+            "end": 290.737,
+            "speakerSeqId": 1,
+            "transcription": "লাই শাক টো আৰু ঢেকীয়া শাক টো এইটো আমাৰ টো গাৱতেই পোৱা যায় ন এইটো এটা মানে কি বস্তু থাকে মানে ধৰি লওক আপোনাৰ মানে পিছপিনে (()) শাক চাক থাকি যায় মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 290.737,
+            "end": 303.106,
+            "speakerSeqId": 1,
+            "transcription": "এইবিলাক মানে এটা মানে বস্তু এইবিলাক মানে ভিটামিন বস্তু ইয়াক চি ভিটামিন বস্তু টো এনে ধৰণৰ হয় মানে এইটো খালে আপোনাৰ বেমাৰ চেমাৰ একো নাথাকে হয় হয় এই মানে মাটিৰ পৰা উঠে ন ইয়াতে মানে একো সাৰ তাৰ দিব নালাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 303.106,
+            "end": 315.863,
+            "speakerSeqId": 1,
+            "transcription": "এইবিলাক মানে এনে হৈ থাকে অকল এই বিলাক খালে মানে বহুত ভাল আকৌ মানে শৰীৰৰ ভিতৰত ভিটামিন আহি থাকে [silence] কওক আপুনি কওক কিবা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 315.863,
+            "end": 331.034,
+            "speakerSeqId": 1,
+            "transcription": "চাওক মানে বৰ্তমানৰ যিটো শাক পাচলি আছে মানে আগতেটো মানুহে জৈৱিক সাৰ ব্যৱহাৰ কৰিছিল কিন্তু বৰ্তমান সময়ত সেই শাক পাচলি বিলাকত মানে মানুহে কি কৰি আছে মানে ৰাসায়নিক সাৰ ব্যৱহাৰ কৰি আছে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10042,
+            "start": 331.034,
+            "end": 332.165,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 332.165,
+            "end": 341.665,
+            "speakerSeqId": 1,
+            "transcription": "মানে এনে ধৰণৰ হয় হয় মিঠা লাও তাৰপিছত বহুত এনে ধৰণৰ বস্তু থাকে ন তাৰপিছত বহুত এনে ধৰণৰ বস্তু থাকে ন এইবিলাক মানে সাৰ তাৰ দি কেনে বৰ্তমান মানে বেলেগ ধৰণৰ হৈ গৈছে এতিয়া বৰ্তমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 341.665,
+            "end": 351.942,
+            "speakerSeqId": 1,
+            "transcription": "মোৰ হিচাপত সৰ্বোত্তম আগৰ টোৱেই ঠিক আছিল মানে শাক চাক বা যিকোনো মানে খেতি বাতি বস্তু বুলি [silence] সেইটোৱেই আকৌ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 351.942,
+            "end": 365.189,
+            "speakerSeqId": 1,
+            "transcription": "চাওক যে মানে #আহ আগৰ দিনত মানুহে যদি খেতি বাতি কৰিব লগা হৈছিল তেনে আগৰ দিনত মানুহে কি কৰি আছিল যে কিবা নাঙলৰে বা কিবা বেলেগ ধৰণে মাটি চহাব লাগিছিল কিন্তু বৰ্তমান সময়ত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 365.189,
+            "end": 373.762,
+            "speakerSeqId": 1,
+            "transcription": "মানে কি হৈ আছে মাটি চহাবলৈ #আহ আগৰ নিচিনা নাঙল চাঙল এইবিলাক মানুহে #আহ ব্যৱহাৰ নকৰে বৰ্তমানত কি হৈ আছে ট্ৰেক্টৰেৰে মাটি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 373.762,
+            "end": 386.536,
+            "speakerSeqId": 1,
+            "transcription": "চহাই আছে কিন্তু #আহ খেতি বাতি কৰাৰ মানে যেতিয়া খেতি বাতি কৰে এতিয়া যিটো ৰসায়নিক সাৰ ব্যৱহাৰ কৰি আছে আচলতে এই যে মাটি বিলাকত যে ৰসায়নিক যে পৰি আছে সেই মাটি বিলাকৰ যিটো উৰ্বৰতা মানে #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 386.536,
+            "end": 395.918,
+            "speakerSeqId": 1,
+            "transcription": "#আহ মাটিৰ যিটো উৰ্বৰতা মানে যিকন মাটিত #আহ মানে খেতি কৰিব লাগে এই মাটিত যদি ৰাসায়নিক সাৰ যদি ব্যৱহাৰ কৰে সেই মাটি কনৰ যিটো শক্তি বা মাটিত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 395.918,
+            "end": 409.267,
+            "speakerSeqId": 1,
+            "transcription": "#আহ ধান হোৱাৰ যিখিনি মানে মাটি খিনিৰ শক্তি থাকিব সেই ৰাসায়নিক সাৰ ব্যৱহাৰ কৰাৰ ফলত সেই মাটি খিনিৰ উৰ্বৰতা কমি আছে দিনক দিনে হয় [noise] এইটো মাটিৰ শক্তি টো মানে কমি যায় ন হয় ইয়াৰ কাৰণে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 409.267,
+            "end": 424.049,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে আপুনি কওক মানে আচলতে যে মানে ৰাসায়নিক সাৰৰ পৰিৱৰ্তে আমি জৈৱিক সাৰ ব্যৱহাৰ কৰা উচিত আৰু জৈৱিক সাৰ ব্যৱহাৰৰ ফলত মানে কেনে ধৰনে আমি উপকৃত হম মানে গৰুৰ গোবৰ যিটো আমি কও সেইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 424.049,
+            "end": 426.85,
+            "speakerSeqId": 1,
+            "transcription": "কেনেকৈ ব্যৱহাৰ কৰিব বা কেনেকৈ কি কৰিব সেইটো বিষয়ে অলপমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 426.85,
+            "end": 441.238,
+            "speakerSeqId": 1,
+            "transcription": "এইটো হয় যে গৰু আমাৰ এইটো টো স্থানীয় হয় ন গৰুৰ সাৰ টো মানে এনে ধৰণৰ বস্তু আপুনি যিমানে সাৰ দিওক জানো গৰুৰ সাৰ টো হল আপোনাৰ প্ৰধান মানে ভিটামিন বস্তু হয় এইটোত মানে একো মানে ঔষধ নাথাকে একো কিবা বস্তু নাথাকে এইটো মানে এনে ধৰণৰ বস্তু হয় সাৰ টো দি কেনে আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 441.238,
+            "end": 454.643,
+            "speakerSeqId": 1,
+            "transcription": "মানে যিকোনো এটা আবাদ কৰি লওক আবাদ কৰিলে ইয়াতে দিলে মানে অকলে এইটো মানে বস্তু টো ভাল হয় মানে দেখাতো ভাল হয় খোৱাটো ভাল লাগে মানে চব বিলাক ভাল হয় আকৌ [silence] মোৰ হিচাপে [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10054,
+            "start": 454.643,
+            "end": 454.778,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 454.778,
+            "end": 464.06,
+            "speakerSeqId": 1,
+            "transcription": "হয় কওক [silence] আপুনি কি কি বা শাক পাচলি খাই সেইবিলাকৰ নাম অলপমান কৈ দিওক আৰু মানে কেনেকৈ খাই কেনেকৈ বনাই সেই বিষয়ে মানে অলপমান কওক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 464.06,
+            "end": 479.072,
+            "speakerSeqId": 1,
+            "transcription": "লাই শাক টো আমি টো চব ভাবে খাব পাৰে এনে ধৰণৰ ভাৱি লওক আপুনি কিন্তু ভাজা কৰি খাব পাৰি তাৰপিছত মানে বহুত ধৰণে খাব পাৰে ভজা কৰি খাব পাৰে দালি চালি দি কেনে ভজা কৰি কেনে খালি আকৌ ভাল লাগে মানে বহুতেই আকৰ্ষণীয় খাবৰ হয় আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 479.072,
+            "end": 489.254,
+            "speakerSeqId": 1,
+            "transcription": "ঢেকীয়া শাক টো এইটো ভাজা কৰিব পাৰে আৰু বহুত এনে ধৰণৰ ব্যৱস্থা আছে লাই শাক টো আপোনাৰ এইটো মানে চবজি বনাই আলু বেঙেনা দি কেনে বনাই খাব পাৰে বহুতে আকৌ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 489.254,
+            "end": 491.38,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 491.38,
+            "end": 504.323,
+            "speakerSeqId": 1,
+            "transcription": "কৰি আছে ন হয় [silence] কওক [silence] প্ৰশ্ন কৰক আচলতে আপুনি কি কব সুজিছে মোক প্ৰশ্ন কৰক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 504.323,
+            "end": 517.891,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় এই শাকৰ বিষয়ে আপুনি কৈ আছিল আপুনি কোনটো শাক পছন্দ কৰে হয় আমি #আহ যিহেতু আমি গাৱৰ মানুহ হয় আৰু গাৱত থাকিলে মানুহে শাক পাচলি বেছিকৈ খাই আৰু শাক পাচলি খেতি বাতিও কৰে শাক পাচলি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 517.891,
+            "end": 534.057,
+            "speakerSeqId": 1,
+            "transcription": "আমি #আহ বেছিকে খাও যিটো লাই শাক বুলি কলে আপুনি কলে আৰু মূলা শাক আছে মূলা মানে মূলা টোৱো খাও শাক টোৱো খাও তাৰপিছত আলু আছে আলু শাক খাও তাৰপিছত #আহ বেঙেনা আছে কেৰেলা আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 534.057,
+            "end": 546.342,
+            "speakerSeqId": 1,
+            "transcription": "তাৰপিছত [noise] আছে হয় [silence] এইবিলাকেই মানে আমি মানে যিহেতু গাৱৰ মানুহ হয় সেইবিলাকেই খাই থাকো আৰু মানে আৰু কিবা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 546.342,
+            "end": 558.256,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় এই আপুনি টো #উম পটল খাই না [noise] হয় হয় পটলো খাই দিও আমি পটল টো মানে দালিৰ লগত ভাজা খালে আৰু ভালেই লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 558.256,
+            "end": 570.355,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় পটল বস্তুটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 570.355,
+            "end": 576.278,
+            "speakerSeqId": 1,
+            "transcription": "পটল বস্তুটো এনে ধৰণৰ বস্তুটো কিন্তু খোৱাতে মানে ভাল লাগে আকৌ হয় হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10066,
+            "start": 576.278,
+            "end": 576.295,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10067,
+            "start": 576.295,
+            "end": 577.038,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 577.038,
+            "end": 587.585,
+            "speakerSeqId": 2,
+            "transcription": "[noise] হয় কিবা কলে বুজি পোৱা নাই"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10069,
+            "start": 587.585,
+            "end": 587.602,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10070,
+            "start": 587.602,
+            "end": 588.867,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 588.867,
+            "end": 602.435,
+            "speakerSeqId": 1,
+            "transcription": "হয় মানে আপোনাৰ তাতে হয় নে নহয় যিটো (()) শাক আছে মানে যিয়েই নহওক আজি আমি কথা খিনি সমাপ্ত কৰিম মানে আচলতে আমি যদি খাব লগা হয় মানে জৈৱিক সাৰেৰে #আহ খেতি বাতি কৰি খাই থাকিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 602.435,
+            "end": 604.736,
+            "speakerSeqId": 1,
+            "transcription": "হয় তাৰপিছত আপোনাৰ হেৰি কিবা আছে নে"
+        }
+    ]
+}

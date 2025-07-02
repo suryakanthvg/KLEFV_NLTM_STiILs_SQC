@@ -1,0 +1,764 @@
+{
+    "speechMode": "C",
+    "recordingId": "20536277",
+    "speechFile": "as_SHA1P_C_r013_s010",
+    "callDuration": 610.091,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0234443"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID232459"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 6.14,
+            "speakerSeqId": 1,
+            "transcription": "তুমি যিমান পঢ়া শুনা কৰিবা সিমানে গৰীব হৈ থাকিবা সেইটো চিৰসত্য কথা গতিকে দাদা আপুনি সেইটো কি কথা কয় আপুনি কৈ দিয়ক অলপমান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 6.14,
+            "end": 20.753,
+            "speakerSeqId": 2,
+            "transcription": "দাদা এইটো মানে চিৰসত্য কথা হয়ো কি ঠিক নহয়ো মানে পঢ়া শুনাটো #আহ জীৱনৰ কাৰণে বহুত প্রয়োজন এটা বস্তু ন পঢ়া শুনা #আহ চবৰে কাৰণে পঢ়া শুনাটো বহুত প্রয়োজন #আহ আচলতে পঢ়া শুনাটো সিমানে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 20.753,
+            "end": 33.359,
+            "speakerSeqId": 2,
+            "transcription": "#আহ সীমাহীন পঢ়িব নালাগে পঢ়া শুনা সীমিতত পঢ়িলেই হয় যেনেকৈ যেনেকুৱা মানে [noise] উচ্চতৰ মাধ্য়মিক পৰ্যান্ত পঢ়িলেই হয় মানে চাকৰি আজিতো #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 33.359,
+            "end": 43.18,
+            "speakerSeqId": 2,
+            "transcription": "মানে চাকৰিতকৈ ব্য়ৱসায়টো টো বহুত ভাল চাকৰি কৰিলে #আহ মানে [silence] চাকৰ হব লাগে ন চৰকাৰৰ [overlap] চাকৰ হব লাগে গতিকে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 43.18,
+            "end": 53.474,
+            "speakerSeqId": 1,
+            "transcription": "মই মই অলপ (()) হেৰী ৰবা মই ইয়াত মানে মই অলপ কম যে পঢ়া শুনা যিটো মাত্র চাকৰিৰ কথা যে চাকৰিটো পঢ়া শুনা তুমি এটা উদাহৰণ লোৱা ডলি চাইৱালাক লোৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 53.474,
+            "end": 54.503,
+            "speakerSeqId": 2,
+            "transcription": "অ অ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 54.503,
+            "end": 61.102,
+            "speakerSeqId": 1,
+            "transcription": "তাই চাহ বেছি ইমান ধনী হৈ গৈছে তাই মানে সেই পঢ়া শুনা মানুহক দহবাৰ কিনিব দহবাৰ বেছিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 61.102,
+            "end": 73.606,
+            "speakerSeqId": 2,
+            "transcription": "অ মানে এইটো কথা ভাবক এই #আহ মানে আমালোক যে উচ্চ মাধ্য়মিক পঢ়া শুনা কৰিছে উচ্চ মাধ্য়মিক #আহ যিবিলাক মানে ছাত্ৰ #উম ছাত্র নহয় মানে যিবিলাক ছাৰ বাইদেউ আছে #আহ সেইবিলাকটো মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 73.606,
+            "end": 79.428,
+            "speakerSeqId": 2,
+            "transcription": "তাই চব এতিয়া মানে যিটো স্বাভাৱিক চাৰিচুকীয়া হয় এই #আহ পাচ ছয় লাখৰ #আহ ভিতৰতে আহে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 79.428,
+            "end": 88.574,
+            "speakerSeqId": 2,
+            "transcription": "সেই গাড়ী বিলাকে তেওলোকে দেখা নাই আৰু ডলি চাইৱালা তো ৰোলচ ৰয়েচত #আহ ঘুৰি ফুৰে এতিয়া গতিকে মানে পঢ়া শুনা আজিৰ দিনত মানে পঢ়া শুনাৰ কামেই নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 88.574,
+            "end": 103.559,
+            "speakerSeqId": 1,
+            "transcription": "সেইটোৱে কথা ময়ো ভাবিছো আজিৰ দিনত পঢ়া শুনাৰ একেবাৰে কাম নাই কাৰন [noise] চাহ বেছি যদি আমি কোটি টকা উপাৰ্জন কৰিব পাৰি গতিকে সেইটো আৰু কি বাৰু গতিকে এই ডিগ্ৰী লৈ কেনে আৰু কোনো মূল্য়ই নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 103.559,
+            "end": 116.418,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় আচলতে মানে #আহ পঢ়াশুনা এই ইমানেই প্রয়োজন অলপ অলপ পঢ়া শুনা হলেই মানে (()) কৰিবলৈ পালেই হল এনে মানে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 116.418,
+            "end": 124.636,
+            "speakerSeqId": 1,
+            "transcription": "অলপ [noise] পঢ়িব জানিলেই যথেষ্ট [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 124.636,
+            "end": 137.09,
+            "speakerSeqId": 2,
+            "transcription": "মানে দশম #আহ দশম শ্ৰেনীৰ পৰা পঢ়িলেই #আহ তাৰ পিছত বাদ দিলে মানে আৰু একো নাই যদি কোনো ব্য়ৱসায়ৰ #আহ মানে ব্য়ৱসায়ত [noise] মাথা সোমাই দিয়ে বা আৰু কিবা বেলেগ কৰিবলৈ জীৱনৰ কাৰণত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 137.09,
+            "end": 147.653,
+            "speakerSeqId": 2,
+            "transcription": "[noise] বেলেগ কাম কৰিবলৈ খোজে গতিকে সেইখিনি কৰিব পাৰে পঢ়া শুনা ইমান আজিৰ দিনত পঢ়ি লাভেই নাই [silence] আজিৰ দিনত পঢ়া শুনা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 147.653,
+            "end": 155.5,
+            "speakerSeqId": 2,
+            "transcription": "এটা চাকৰি লয় চাকৰিটোৰ মাহত মানে কিমান টকা তোমাৰ বেতন হব পঞ্চাছ হাজাৰ বেছিকৈ [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10017,
+            "start": 155.5,
+            "end": 155.872,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10018,
+            "start": 155.872,
+            "end": 155.973,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 155.973,
+            "end": 159.28,
+            "speakerSeqId": 1,
+            "transcription": "নূন্য়তম ধৰক পঞ্চাছ বা এক লাখ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 159.28,
+            "end": 170.097,
+            "speakerSeqId": 2,
+            "transcription": "আজি আজি আৰু মানে প্ৰযুক্তিবিদ্য়াটো এনেকুৱা হৈছে #আহ ট্ৰেডিং আৰু #আহ ষ্টক মাৰ্কেট আৰু [noise] বহুত কিবা কিবি #আহ ব্য়ৱসায় মানে বহুত আছে হয় ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 170.097,
+            "end": 179.851,
+            "speakerSeqId": 2,
+            "transcription": "গতিকে এই এক লাখ টকা পঞ্চাছ হাজাৰ টকা যে মাহত বেতন পায় [noise] চাকৰি চাকৰিৰ দ্বাৰা যিবিলাক চাকৰি কৰে যিবিলাক চাকৰি কৰে যিবিলাক মানুহে চাকৰি কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 179.851,
+            "end": 189.993,
+            "speakerSeqId": 2,
+            "transcription": "এই পঞ্চাছ হাজাৰ এক লাখতো মানে পাচ মিনিটত #আহ টকা উপাৰ্জন কৰি লয় উপাৰ্জন কৰে [silence] পঢ়াতটো আৰু বাৰু ঠিকেই [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 189.993,
+            "end": 202.345,
+            "speakerSeqId": 1,
+            "transcription": "মানুহ বিলাকে হয় ন পঢ়াশুনা নকৰে তাৰে টো এইবিলাক কোনে উপাৰ্জন কৰে পঢ়াশুনাৰ কাৰণে তাইৰ সিহতেটো এইবিলাক কৰে বেক বেঞ্চাৰ বিলাক অ অ আৰু যিজনে বেছি পঢ়া শুনা কৰে সিহতে টো স্বাভাৱিক চাকৰি কৰি থাকে এটা দুটা দেখা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 202.345,
+            "end": 208.387,
+            "speakerSeqId": 1,
+            "transcription": "ডলি চাইৱালাৰো কোনো ডিগ্ৰী নাই কিন্তু দেখাত কিমান পইচা গতিকে নিশ্চিতভাৱে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 208.387,
+            "end": 220.351,
+            "speakerSeqId": 2,
+            "transcription": "অ এই যিবিলাক মানে শিক্ষক আছে বাইদেউ আছে সেইবিলাকক টো #আহ এশ এশ টা শিক্ষক এশ টা বাইদেউ ডলি চাইৱালা মানে [noise] এনেই মানে কিনি লব পাৰিব ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 220.351,
+            "end": 235.69,
+            "speakerSeqId": 2,
+            "transcription": "সিহতৰ টো পঢ়াশুনা একো নাই আজি পঢ়াশুনা কৰিব লাগে ইমানো এনেকুৱাও নহয় যে পঢ়াশুনা একেবাৰেই #আহ মানে নকৰে নকৰিলেটো এইটোও ভাল নহব জীৱনৰ কাৰণত পঢ়াশুনা অলপ মান কৰিলে হল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 235.69,
+            "end": 244.567,
+            "speakerSeqId": 2,
+            "transcription": "এইখিনি মই অলপমান আগতে কলো যে (()) কৰি [noise] কৰিবলৈ জানিলে হল এই এনেকুৱা পঢ়াশুনা কৰিব লাগে আজিৰ দিনত আপুনি কিমান দূৰ পঢ়া শুনা কৰিলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 244.567,
+            "end": 256.7,
+            "speakerSeqId": 1,
+            "transcription": "মইটো মেট্ৰিক ফেইল কৰিলো নেকি মইটো পঢ়াশুনা বাদে দিলো পঢ়া শুনা কৰি আৰু কি হম পঢ়াশুনাৰ ইচ্ছায়ে নাই কৰা ভাৱি আছো যে পঢ়া শুনাটো একেবাৰে বাদ দিম নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 256.7,
+            "end": 265.677,
+            "speakerSeqId": 2,
+            "transcription": "অ বাদ দি আৰু কি কৰিব আপুনি আপোনাৰটো মানে [noise] মূৰতো মানে বুদ্ধি নাই পঢ়া শুনা বাদ দি যে কিবা এটা কৰিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 265.677,
+            "end": 272.36,
+            "speakerSeqId": 1,
+            "transcription": "সেইটোৱেই ভাবি আছো চাগে পঢ়া শুনা বাদ দিলে আৰু কি হব পঢ়া শুনা কৰিব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 272.36,
+            "end": 285.758,
+            "speakerSeqId": 2,
+            "transcription": "অ অ মেট্রিক ফেইল কৰিছে আপুনি এই খিনি মানে মিছা কথা কলে দাদা #উম আপুনি মেট্রিক ফেইল কৰা নাই মইটো শুনিছো আপুনি নকল দি মেট্ৰিকটো পাছ কৰি লৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 285.758,
+            "end": 299.14,
+            "speakerSeqId": 2,
+            "transcription": "নকলৰ নকলৰ দ্বাৰা #আহ আপুনি মানে মই শুনিছো যে [overlap] কৰ পৰা শুনিছো আপুনি বহুত নকল কৰে এইটো সত্য হয় নে মানে নকলৰ দ্বাৰাই [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 299.14,
+            "end": 312.387,
+            "speakerSeqId": 1,
+            "transcription": "কোনে কৈছে [overlap] না না এইবিলাক জোনে মোৰ মোক দেখি জ্বলে সেই বিলাকৰে এনেকুৱা কৈ নকল গতিকে আৰু জো এইটো মোৰ মানে এটা মানে শত্রু হয় এটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 312.387,
+            "end": 315.56,
+            "speakerSeqId": 1,
+            "transcription": "এই ধৰা জাহিদুল লৰাটোকে চাওক তাইয়ে কৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 315.56,
+            "end": 318.361,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় হয় ইয়াৰ কাৰণে দুৰ্নামটো দিয়ে আপোনাৰ না"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10036,
+            "start": 318.361,
+            "end": 319.255,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 319.255,
+            "end": 327.305,
+            "speakerSeqId": 2,
+            "transcription": "নাই এই মানে গোটেইখিনি কথা সত্যই কলে কিন্তু এই জাহিদুলৰ নামটো #আহ যিটো মুখত ললে সেইটো কথা #আহ মিছা হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 327.305,
+            "end": 330.798,
+            "speakerSeqId": 1,
+            "transcription": "আৰে সেই জাহিদুলটো আৰু লৰা হয় নেকি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 330.798,
+            "end": 338.543,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] জাহিদুল লৰাটো নিজৰ #আহ বন্ধুৰ [noise] মানে কথা এনেকুৱা নাভাৱে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 338.543,
+            "end": 340.113,
+            "speakerSeqId": 1,
+            "transcription": "নকল কৰাত সহায় কৰে নেকি"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10041,
+            "start": 340.113,
+            "end": 341.277,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 341.277,
+            "end": 344.838,
+            "speakerSeqId": 1,
+            "transcription": "নকল কৰাত সহায় কৰে নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 344.838,
+            "end": 346.154,
+            "speakerSeqId": 2,
+            "transcription": "অ [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 346.154,
+            "end": 354.22,
+            "speakerSeqId": 1,
+            "transcription": "এ মই ভাবিছো জাহিদুলৰ যিটো চুলিৰ এইবিলাক সম্পদনা কৰিছো তোমাৰ চুলি আছে সেই চুলি বিলাকৰ ভাঙৰ ডাঙৰ (()) চুলিত সোমাই যাব দে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 354.22,
+            "end": 365.138,
+            "speakerSeqId": 2,
+            "transcription": "অ নকল এই #আহ চুলিত সোমাই দি মানে ক্লিপ মাৰি দিব লাগিব নহলেটো মানে উলাই যাব অ চাৰ বাইদেউ গম পাই যাব যে [noise] তোমাৰ মুৰত নকল আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 365.138,
+            "end": 376.546,
+            "speakerSeqId": 2,
+            "transcription": "মই এনেকুৱা #আহ মানে এনেকুৱা (()) নকৰো পৰীক্ষাত মই অলপ মানে বেছিৱো নপঢ়ো অলপ [overlap] পঢ়াশুনা কৰিয়েই যাও পৰীক্ষা দিবলৈ এই তাতেই মোৰ হৈ যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 376.546,
+            "end": 383.296,
+            "speakerSeqId": 1,
+            "transcription": "এ বাপা আপুনি ধোৱা তুলসিৰ পাট আপোনাৰটো নকলৰ কোনো সিদ্ধান্তই নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 383.296,
+            "end": 389.523,
+            "speakerSeqId": 2,
+            "transcription": "#আহ নহয় দাদা এনেকুৱা নহয় ধোৱা তুলসি পাট কব মানে এইটো যে কলে এইটোও মিছা কথা কাৰণ [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 389.523,
+            "end": 400.34,
+            "speakerSeqId": 2,
+            "transcription": "মানে মই মই যে যিটো ৰুমত মানে বহিছো পৰীক্ষা দিবলৈ সেইটো ৰুমত তো আৰু বেলেগ লৰা ছোৱালী আছে ন গতিকে এই লৰা ছোৱালীবিলাকে #আহ নকল লৈ আহে গতিকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 400.34,
+            "end": 409.823,
+            "speakerSeqId": 2,
+            "transcription": "[noise] সিহতে মোক নকল দিয়ে মানে মই তেওক ধমকি দিও যে মই #আহ চাৰক কই দিম বাইদেউক কই দিম যে তুমি নকল আনিছা গতিকে সিহতে ভয় খায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 409.823,
+            "end": 410.988,
+            "speakerSeqId": 1,
+            "transcription": "এই হেৰি আপোনাৰ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10052,
+            "start": 410.988,
+            "end": 411.865,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 411.865,
+            "end": 413.62,
+            "speakerSeqId": 1,
+            "transcription": "আপোনাৰ খবৰ কেনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 413.62,
+            "end": 424.032,
+            "speakerSeqId": 2,
+            "transcription": "#আহ খবৰতো মোটামোটি ভালেই দাদা মানে এনেকুৱা নহয় যে ইমান ভাল মানে চলি আছে জীৱনটো এনেকুৱাই মানে না বেছি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 424.032,
+            "end": 425.753,
+            "speakerSeqId": 2,
+            "transcription": "বেছি ভাল না বেছি বেয়া [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10056,
+            "start": 425.753,
+            "end": 425.821,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 425.821,
+            "end": 428.622,
+            "speakerSeqId": 1,
+            "transcription": "ভাত চাত খাইছা নে নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 428.622,
+            "end": 438.612,
+            "speakerSeqId": 2,
+            "transcription": "অ ভাততো খাইছো মোটা মোটি দুই ঘন্টা আগতে ভাত খাইছো মাংস দি খাইছো দাদা আপোনাৰ [noise] আপুনিটো [overlap] মূৰ্গী খালে ন"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10059,
+            "start": 438.612,
+            "end": 439.625,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10060,
+            "start": 439.625,
+            "end": 439.642,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 439.642,
+            "end": 442.24,
+            "speakerSeqId": 1,
+            "transcription": "হয়তো কুকুৰৰ মাতটো আহি আছে নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 442.24,
+            "end": 449.969,
+            "speakerSeqId": 2,
+            "transcription": "দাদা মোৰ ইয়াত তো মানে কোনো কুকুৰৰ মাত নাই আপোনাৰ #আহ তাতে কুকুৰৰ মাত মানে আহি আছে [silence] অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 449.969,
+            "end": 453.8,
+            "speakerSeqId": 2,
+            "transcription": "মোৰ ইয়াত তো মই [overlap] মই ছাদত বহি আছো ইয়াত মানে একো শব্দ নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 453.8,
+            "end": 455.362,
+            "speakerSeqId": 2,
+            "transcription": "ইয়াত #আহ চাৰিওফালে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 455.362,
+            "end": 462.642,
+            "speakerSeqId": 2,
+            "transcription": "মানে খালি কোম্পানি কোম্পানী আৰু মানুহৰ #আহ ঘৰেই নাই ইয়াত খালি কোম্পানি চাৰি চাৰিওফালে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 462.642,
+            "end": 472.818,
+            "speakerSeqId": 1,
+            "transcription": "আৰু আমাৰ হেৰি এইটো আৰু কি কম আমাৰ ইয়াত মানে আজি টো বৰষুণ দিবলৈ আহিছে কিন্তু বৰষুণটো দিয়াই নাই বৰষুণ দিব দিব মাতিছে কিন্তু এতিয়া দিয়া নাই কি বা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 472.818,
+            "end": 482.048,
+            "speakerSeqId": 2,
+            "transcription": "অ বৰষুণ ইয়াত হৈছে আজি মোটামোটি বৰষুণ হৈছে [silence] ঠাণ্ডা লাগি আছে এই বৰষুণৰ কাৰণত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 482.048,
+            "end": 492.562,
+            "speakerSeqId": 1,
+            "transcription": "তাত ঠাণ্ডা লাগি আছে অ [silence] অ আমাৰ ইয়াত তেনেকৈ ঠাণ্ডা নাই ইয়াত টো ম মানে বতৰটোৱো ঠিকে আছে ইমান ঠাণ্ডা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 492.562,
+            "end": 503.041,
+            "speakerSeqId": 2,
+            "transcription": "আপোনাৰ ঠাণ্ডা গৰম আৰু আপুনি কি গম পায় মানে ঠাণ্ডা লাগিলেও আপুনি এ চি লগাই কৰি দি কম্বল এটা মানে উৰি টোপনি মাৰে গতিকে আপোনাৰ ঠাণ্ডা গৰম [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 503.041,
+            "end": 506.652,
+            "speakerSeqId": 1,
+            "transcription": "দাদা এইটো ঘৰ নহয় এইটো দাদা ঘৰ নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 506.652,
+            "end": 513.689,
+            "speakerSeqId": 2,
+            "transcription": "অ এইটো মানে এইটো ঘৰ নহয় কিন্তু হোষ্টেল তো হয় ন অ গতিকে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 513.689,
+            "end": 515.191,
+            "speakerSeqId": 1,
+            "transcription": "হোষ্টেল নহয়, এপাৰ্টমেন হয় ৰুম [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 515.191,
+            "end": 518.026,
+            "speakerSeqId": 2,
+            "transcription": "এপাৰ্টমেন ৰুম তো, ৰুমত তো সবে এভেইলেবেল থাকে ন? [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 518.026,
+            "end": 521.013,
+            "speakerSeqId": 1,
+            "transcription": "ইয়াত <initial>AC</initial> ক'ত থাকে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 521.013,
+            "end": 521.705,
+            "speakerSeqId": 2,
+            "transcription": "<initial>AC</initial> নাথাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 521.705,
+            "end": 523.713,
+            "speakerSeqId": 1,
+            "transcription": "না"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 523.713,
+            "end": 533.467,
+            "speakerSeqId": 2,
+            "transcription": "অ তেনেকুৱা আপুনি ঘৰৰ পৰা #আহ ঘৰৰ পৰা #আহ ঘৰৰ পৰা উলাই গৈ মানে গৰীব হৈ গৈছে ন? [silence] ঘৰত থাকে <initial>AC</initial> ত আৰু বাহিৰত গৈ ফেন, মানে পাংখা, ফেনত থাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 533.467,
+            "end": 540.824,
+            "speakerSeqId": 1,
+            "transcription": "ইয়াত বর্তমান বহুত কষ্ট (()) কি কম আৰু বাৰু ইয়াত কষ্টৰ কোনো সীমাই নাই [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 540.824,
+            "end": 554.813,
+            "speakerSeqId": 2,
+            "transcription": "#আহ আপোনাৰ কষ্টৰ কথা শুনি মোৰ চকুত পানী আহি গল দেই আৰু এ দাদা মানে এই [noise] যিটো #আহ পানীপুৰি যিটো মানে #আহ দোকান হয় গুটি দাদাৰ দোকান পানীপুৰিৰ #আহ দোকান ফুস্কা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 554.813,
+            "end": 563.369,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো [overlap] মই শুনিছো যে এইটো মানে গুৱাহাটীত #আহ তেওৰ দোকান হয় গুৱাহাটীত হয় কি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10081,
+            "start": 563.369,
+            "end": 570.195,
+            "speakerSeqId": 1,
+            "transcription": "কিবা গুটি দাদাক বিচাৰিব কৰিব লাগিব (()) কিয় আপোনাৰ পানীপুৰি খাবলৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 570.195,
+            "end": 579.89,
+            "speakerSeqId": 2,
+            "transcription": "অ বহুত ইচ্ছা কৰিছে মানে [noise] জালা খাবলৈ বহুত মন কৰিছে জিভাত পানী আহি গল এনেকুৱা কথা কৈ আৰু গুটি দা [noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10083,
+            "start": 579.89,
+            "end": 579.991,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10084,
+            "start": 579.991,
+            "end": 581.493,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 581.493,
+            "end": 583.18,
+            "speakerSeqId": 1,
+            "transcription": "ফুস্কাৰ ইমান [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10086,
+            "start": 583.18,
+            "end": 588.8,
+            "speakerSeqId": 2,
+            "transcription": "[noise] এই পাহৰি গৈছো ন কিবা কৈছে আৰু এবাৰ আৰু এবাৰ চা [overlap] চালে মনত পৰি যাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10087,
+            "start": 588.8,
+            "end": 593.542,
+            "speakerSeqId": 1,
+            "transcription": "হয় গুটি দা তোমাৰ ফুস্কাৰ ইমান ৰস"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10088,
+            "start": 593.542,
+            "end": 598.587,
+            "speakerSeqId": 2,
+            "transcription": "[noise] গুটি দা আৰু এটা [overlap] (())"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10089,
+            "start": 598.587,
+            "end": 599.363,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10090,
+            "start": 599.363,
+            "end": 604.072,
+            "speakerSeqId": 2,
+            "transcription": "না মইনা আৰু এটা ফুস্কা দিলে [babble] হব পাৰে মোৰ লোকচান [silence] কিন্তু মই যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10091,
+            "start": 604.072,
+            "end": 608.307,
+            "speakerSeqId": 1,
+            "transcription": "না না মইনা ৰাখিলো মই ৰখিলো পুনৰ যোগদান কৰা অ অ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10092,
+            "start": 608.307,
+            "end": 608.476,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10093,
+            "start": 608.476,
+            "end": 610.091,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        }
+    ]
+}

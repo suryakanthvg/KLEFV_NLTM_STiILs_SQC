@@ -1,0 +1,652 @@
+{
+    "speechMode": "C",
+    "recordingId": "20823053",
+    "speechFile": "as_SHA1P_C_r013_s014",
+    "callDuration": 633.259,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0237223"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0237224"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 14.813,
+            "speakerSeqId": 1,
+            "transcription": "অ তুমি ফ্ৰি আছানে, অ আছো, অ~ মই মানে তোমাক, অ~ বিহুৰ বিষয়ে সুধিব খুধিছো মই মানে ভালকে নাজানো বিহু, কি হয় বা কেনেকে পালন কৰা হয়, অ বিহু [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 14.813,
+            "end": 16.906,
+            "speakerSeqId": 1,
+            "transcription": "(()) অলপ কব পাৰিবা নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 16.906,
+            "end": 25.495,
+            "speakerSeqId": 2,
+            "transcription": "অ~ পাৰিম দিয়া, [overlap] বিহুতু হল আমাৰ মানে অসমীয়া সমাজৰ বহুত ডাঙৰ এটা উৎসৱ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 25.495,
+            "end": 37.932,
+            "speakerSeqId": 2,
+            "transcription": "অ মানে, জাতীয় উৎসৱ বুলিয়ে জনা যায় বিহু, অ বিহুতু মানে অসমীয়া সমাজত বহুত এটা ডাঙৰ আৰু মানে চবৰে মানে ভাল লগা এটা উৎসৱ আৰু, অ চব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 37.932,
+            "end": 48.395,
+            "speakerSeqId": 2,
+            "transcription": "[noise] সৰুৰ পৰা ডাঙৰলৈকে মানে, এ চবে মানে তু বিহুৰ কাৰণে অপেক্ষাত থাকে মানে চবে বিহু আহিব এনেকুৱা বুলি মানে, অ অ উম অ~"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 48.395,
+            "end": 60.697,
+            "speakerSeqId": 2,
+            "transcription": "এ~ [babble] বিহু মানে তিনিটা এনে বিহু, [overlap] এটা মাঘ বিহু, আৰু এটা বহাগ বিহু আৰু কাতি বিহু, তিনিটা বিহু হয়, অ এ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 60.697,
+            "end": 70.231,
+            "speakerSeqId": 2,
+            "transcription": "বহাগ বিহুতু মানে অলপমান ৰং উৎসৱৰ বিহু মানে সেইটো, অ, বহাগ বিহু বুলি কলে মানে হেৰি মানে, এ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 70.231,
+            "end": 72.88,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] হয় নেকি মানে বিহুত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 72.88,
+            "end": 84.878,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] হয় হয় হয় বহুত ডাঙৰ ফানচন হয়, [overlap] বিহু মানে বুলি কলে মানে বহাগ বিহুতু মানে বহাগ মাহতো মানে হয় মানে চবতে আৰু ফানচন তাৰমানে, [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 84.878,
+            "end": 93.991,
+            "speakerSeqId": 2,
+            "transcription": "তাৰ পৰা বা বিহু গানৰ পৰা গায়ক মাতে, বিহু নাচনীবিলাকে বিহু নাচে, অ~ মানে বহুত ৰঙৰ উৎসৱ মানে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 93.991,
+            "end": 94.548,
+            "speakerSeqId": 1,
+            "transcription": "বিহু"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10012,
+            "start": 94.548,
+            "end": 95.915,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10013,
+            "start": 95.915,
+            "end": 96.218,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10014,
+            "start": 96.218,
+            "end": 99.155,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10015,
+            "start": 99.155,
+            "end": 99.931,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 99.931,
+            "end": 111.828,
+            "speakerSeqId": 2,
+            "transcription": "এনে [overlap], বহুত [overlap], অ এনে উচৰে পাজৰে হয় নহয় আমাৰ বিহু বা বিহুত আমি মানুহৰ ঘৰত যাও, অ বা বিহুত বিহুৱান দিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 111.828,
+            "end": 125.378,
+            "speakerSeqId": 2,
+            "transcription": "অ এনেকুৱা আৰু ইজনে সিজনক, মানে ৰঙালী বিহুটো বহুত ৰঙৰ আৰু মানে বিহু নাচাৰ পৰা গোৱাৰ পায়, মানে মহিলাবিলাকেও ধুনীয়াকে নাচে গছৰ তলত নাচে বিহুত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 125.378,
+            "end": 137.95,
+            "speakerSeqId": 2,
+            "transcription": "অ অ~, এনেকুৱা তাৰমানে বহুত ভাল লগা উৎসৱ আৰু, তাৰপিছত এই মাঘ বিহুটোত আকৌ খানা হয় আৰু মেজি জ্বলায়, অ~"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 137.95,
+            "end": 142.591,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] মেজি জ্বলায় এইটো মানে, কিয় মানে জ্বলায় কব পাৰিবা নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 142.591,
+            "end": 157.306,
+            "speakerSeqId": 2,
+            "transcription": "অ মেজিটো তাৰমানে এনে আৰু মানে চবে মেজিটো জ্বলায় হেৰি কৰে, এ~ ভুজ খাই মানে তাতে, অ অ মেজিটো অ মেজিটো জ্বলোৱা এটা কিবা এটা আছে, এ [babble] মানে চবখিনি মানুহ লগ হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10021,
+            "start": 157.306,
+            "end": 158.977,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 158.977,
+            "end": 171.97,
+            "speakerSeqId": 1,
+            "transcription": "বিহুৰ যে মানে ড্ৰেচ পিন্ধে মানে যি উম উম কি কয় এইটো মেখেলা চাদৰ বুলি কয় নেকি অ অ অ [overlap] বিহুৰ যে ড্ৰেচ পিন্ধে সেই ড্ৰেচটো মানে অ হাতেদি বনায় নে নে কিনিব [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 171.97,
+            "end": 174.198,
+            "speakerSeqId": 2,
+            "transcription": "বনায় বনায় বনায় কিনিবও পাৰি"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10024,
+            "start": 174.198,
+            "end": 175.16,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 175.16,
+            "end": 178.366,
+            "speakerSeqId": 2,
+            "transcription": "বনায়ো মানে, অ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 178.366,
+            "end": 182.146,
+            "speakerSeqId": 1,
+            "transcription": "(()) আৰু কিবা যে গলত যে পিন্ধে বিহু নাচিলে [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10027,
+            "start": 182.146,
+            "end": 182.298,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 182.298,
+            "end": 195.359,
+            "speakerSeqId": 2,
+            "transcription": "সেইবিলাকক কয় জুনবিৰি, তাৰপিছত গলপাতা, তাৰপিছত এ~ এনেকে ধুলবিৰি, অ গগনা এনেকে মানে বহুত বস্তু আছে তাৰমানে, [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 195.359,
+            "end": 209.359,
+            "speakerSeqId": 2,
+            "transcription": "খাৰু, এনেকে ছোৱালীবিলাকে ধুনীয়াকে বিহু সাজ এযোৰ মেখেলা চাদৰ পিন্ধি লয়, পিন্ধি লৈ এইবিলাক জুনবিৰি গলপাতা এইবিলাক পিন্ধে গাম খাৰু পিন্ধে, পিন্ধি ধুনীয়াকে চেলেং লয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 209.359,
+            "end": 222.207,
+            "speakerSeqId": 2,
+            "transcription": "লৈ ফেলে ধুনীয়াকে খোপা গাঠে, আৰু কপৌ ফুল হয়, কপৌ ফুলটো বিহু [babble] নিজে লগায়, অ অ অ কপৌ ফুলটো তাৰমানে বিহুৰ কাৰণে মানে সেইখিনি টাইমতে কপৌ ফুল ফুলে চাবা চুন, অ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 222.207,
+            "end": 236.197,
+            "speakerSeqId": 2,
+            "transcription": "[babble] বহাগৰ সেইখিনিতে ফুলে, মানে অৰিজিনেল মানে বহুত এনেকুৱা গাওত ধুনীয়া মানে, এ কিছুমান পৰিৱেশ আছে অৰিজিনেল বস্তুবিলাক ইউচ কৰে মানে কপৌ ফুলটো ধুনীয়াকে খোপাত লগাব বিহুত, অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 236.197,
+            "end": 240.179,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] ধুনীয়াকে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 240.179,
+            "end": 241.445,
+            "speakerSeqId": 1,
+            "transcription": "চবতে পোৱা যায় ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 241.445,
+            "end": 254.894,
+            "speakerSeqId": 2,
+            "transcription": "অ যায় যায় যায়, অ পোৱা যায়, কপৌ ফুলটো পোৱা যায় মানে মানে বহাগৰ সেইখিনি চিজিনত মানে ফুলে আৰু সেইটো ফুল, অ এচস্পেচিয়েলি বিহুৰ কাৰণে মানে কপৌ ফুলতো, অ~"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 254.894,
+            "end": 266.718,
+            "speakerSeqId": 2,
+            "transcription": "[noise] এনেকে বহুত ভাল লাগে মানে, [overlap] মাঘ বিহুতু বহুত ভাল লগা, [overlap] কাতি বিহুতু কেতিয়া হয়, কাতি বিহুতু যেতিয়া ধান চান কাটিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 266.718,
+            "end": 279.127,
+            "speakerSeqId": 2,
+            "transcription": "কাতি বিহু, মানে ধান চান কাটাৰ টাইমত সেইটো কাতি বিহু বুলি কয় মানে নতুন যেতিয়া ধান আহে, অ ভৰালত যেতিয়া নতুন ধান সুমাই, অ সেইটোক কয় কাতি বিহু, অ~"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 279.127,
+            "end": 292.458,
+            "speakerSeqId": 2,
+            "transcription": "উম দে তেতিয়া ধুনীয়াকে নতুন নতুন শস্য় বিলাক তাৰমানে, আহি পায় আৰু ঘৰত মানে সেইটো এটা বিহু হিচাপে মানে উদযাপন কৰে আৰু মানে ইমান ধুনীয়া ধুনীয়া ধৰা এই ধান বিলাক চব [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 292.458,
+            "end": 306.177,
+            "speakerSeqId": 2,
+            "transcription": "বিভিন্ন ধৰণৰ ধা ধান, জহা ধান হক, এ বা এনেকুৱা আৰু, আইজুন হক বা এনেকুৱা বহুত কিবা কিবি ধৰণৰ ধান আছে ন সেইবিলাক মানে ভৰালতো ভৰ্ত্তি হৈ যায় আমি ভাতেই দিয়ে আমাৰ অসমীয়া মানুহ ভাততে ন, অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 306.177,
+            "end": 317.602,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] খায় ন তিনো সাজত বা ভাতে ভাতে প্ৰধান, অ অ সেইকাৰণে তাৰমানে সেই বস্তু তাৰমানে বিহু হিচাপে মানে বহুত মানে ভাল হিচাপত উদযাপন কৰে আৰু, অ অ এনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 317.602,
+            "end": 332.182,
+            "speakerSeqId": 2,
+            "transcription": "মানে বিহু বুলি কলে মানে~ মানে বহুত আৰু আনন্দৰ আৰু, অ আনন্দৰ উৎসৱ তাৰমানে সৰুৰ পৰা বুঢ়ালৈকে তাৰমানে, অ অ~, উম বহুত ভাল লাগে এই মাঘ বিহুতু [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 332.182,
+            "end": 336.873,
+            "speakerSeqId": 1,
+            "transcription": "অ কিবা এনেকুৱা এ কিবা খোৱা বস্তু বনাই নেকি যে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 336.873,
+            "end": 342.003,
+            "speakerSeqId": 2,
+            "transcription": "অ আছে আছে খোৱা বস্তুবিলাক বহুত ধৰণৰ লাৰু, পিঠা মানে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 342.003,
+            "end": 351.79,
+            "speakerSeqId": 2,
+            "transcription": "[babble] কিন্তু লাৰুৰে বিভিন্ন প্ৰকাৰৰ লাৰু, ধৰা চুজিৰ লাৰু গম, ধৰা এই কি নাৰিকলৰ লাৰু, তিলৰ লাৰু [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 351.79,
+            "end": 365.29,
+            "speakerSeqId": 2,
+            "transcription": "বিধৰ তাৰমানে লাৰু বনাব পাৰি, এনেকে তিল হক নাৰিকল হক সেনেকে মিক্স কৰিও কিবা এটা বনায়, [overlap] এনে লাড্ডূ লাৰু বুলি কোৱাৰ লগে লগে এটাহে, কিন্তু তাতে বহুত প্ৰকাৰৰ আছে তাৰমানে লাৰু [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 365.29,
+            "end": 376.968,
+            "speakerSeqId": 2,
+            "transcription": "[babble] তাৰমানে এইটো খাবানে সেইটো খাবা গোটেই কেইটা মানে ধুনীয়া, [overlap] বহুত ভাল লাগে এতিয়া পিঠা বুলি কলেও নাৰিকলৰ পিঠা, [overlap] লাৰু অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 376.968,
+            "end": 384.005,
+            "speakerSeqId": 2,
+            "transcription": "অ বনাইছো বনাইছো বনাই পাইছো, অ অ, অ বনাও আমি বিহুত [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 384.005,
+            "end": 397.268,
+            "speakerSeqId": 1,
+            "transcription": "মোবাইলত মানে ভিডিওত বা <lang:Foreign>Insta Reels</lang:Foreign> ত মানে পাই থাকু, অ [overlap]  [babble] বিহুৰ যিবিলাক অ সাজ পাৰ যিটো ড্ৰেচ পিন্ধে ন, সেইটো [overlap] যিটো পিন্ধে মেখেলা চাদৰ সেইবিলাক মানে বহুত ভাল লাগে চাই কেনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 397.268,
+            "end": 410.87,
+            "speakerSeqId": 2,
+            "transcription": "অ~ বহুত ধুনীয়া লাগে কিবা এটা পিন্ধাৰ লগে লগে ধুনীয়া এটা দেখে মানুহখিনিক, অ~ মানে মাইকী মানুহ হক ছোৱালী হক বা সৰু ল ছোৱালী হক মানে ধুনীয়া লৰাও হক [overlap] ঢুল আছে, ঢুলে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 410.87,
+            "end": 420.623,
+            "speakerSeqId": 2,
+            "transcription": "ঢুল ঢুল বজাই ঢুল বজাত ঢুলৰ মানে [overlap] অ পাইচু পাইচু ফানচনত নাচো ময়ো, অ অ কেতিয়াবা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 420.623,
+            "end": 434.208,
+            "speakerSeqId": 2,
+            "transcription": "[babble] এনেকে মিলাই এনেকে ফানচনত নাচো বা গান গাৱ বিহু গান গাৱ, [overlap], অ সেনেকে <lang:Foreign>Cultural Programe</lang:Foreign> বিলাক ভাল লাগে তু, বিহু বুলি কলেতো আৰু ভাল লাগে নিজৰে তেজত থাকা বিহু অসমীয়া মানুহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 434.208,
+            "end": 443.928,
+            "speakerSeqId": 2,
+            "transcription": "অ অ অ সেনেকুৱা আৰু, আকৌ মাঘ বিহুত এটা আকৌ হেৰি বনায় এই~তু কি কয়, এ চুঙা পিঠা বনায়, সেইটোও ধুনীয়া [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 443.928,
+            "end": 448.231,
+            "speakerSeqId": 1,
+            "transcription": "অ অ সেইটোও মানে মোবাইলত দেখিছিলো কিবা দীঘল দীঘল যে বনায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 448.231,
+            "end": 448.467,
+            "speakerSeqId": 1,
+            "transcription": "আ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10054,
+            "start": 448.467,
+            "end": 448.67,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10055,
+            "start": 448.67,
+            "end": 448.923,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 448.923,
+            "end": 450.695,
+            "speakerSeqId": 2,
+            "transcription": "অ বাহৰ এনেকে [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10057,
+            "start": 450.695,
+            "end": 451.15,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 451.15,
+            "end": 456.196,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] সেতু অ কিছুমানে পিঠাগুৰি সুমাই দিয়ে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 456.196,
+            "end": 469.19,
+            "speakerSeqId": 2,
+            "transcription": "অ অ~, অ সেইটো জুইত দিব জুইত দি এনেকে যেতিয়া, মানে ঘুৰাই ঘুৰাই থাকিব লাগিব গম পোৱা যাব যেতিয়া মানে বাহতো, এ এনেকে শুকান হৈ গল, তেতিয়া মানে ভিতৰৰ বস্তুটো হৈছে গম পোৱা যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 469.19,
+            "end": 477.256,
+            "speakerSeqId": 2,
+            "transcription": "অ~ এনে কিছুমান বৰা ধানটোৱে বৰা চাউলটোৱে দি দিয়ে, পিঠা গুৰি নকৰাকৈ সেইটোও ভাল লাগে মানে বেলেগ বেলেগ দুই প্ৰকাৰৰ বনায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 477.256,
+            "end": 490.874,
+            "speakerSeqId": 1,
+            "transcription": "মানে [overlap] সিতু নবনায়, এনে ধৰি লোৱা মাঘ বিহুত যদি সেইটো মানে নবনায় আৰু সেইটো নবনালে মানে [overlap] অ কিবা এনেকুৱা নিয়ম আছে নেকি এইটো বনাব এ লাগিব বা"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10062,
+            "start": 490.874,
+            "end": 492.325,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 492.325,
+            "end": 500.037,
+            "speakerSeqId": 2,
+            "transcription": "আ নিয়ম সেনেকুৱা নিয়ম নাই কিন্তু বনায়ে আৰু যিহেতু সেই বস্তুটো পৰম্পৰা বুলি কয় যেনে, অ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 500.037,
+            "end": 513.488,
+            "speakerSeqId": 2,
+            "transcription": "[babble] আতা আতাৰ দিনৰ পৰা চলি আহিছে মাঘ বিহুত ধৰা চুঙা তু থাকিলেহে ধৰা আমাৰে নিজৰে যদি চুঙাটো নবনাও আমাৰে এনেকুৱা লাগে যেন কিবা এটা, নবনালো কিবা এটা এ~ ৰৈ গল, এ ভাল লগা নাই এনেকুৱা এটা হৈ যায় তাৰমানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 513.488,
+            "end": 527.316,
+            "speakerSeqId": 2,
+            "transcription": "অ অ মানে বহুত ভাল লাগে এনেকুৱা ঘৰৰ মানুহখিনিক যেতিয়া গোটেইখিনি লগ হৈ ধৰা কুনবা মানুহ কুনবা ধৰা ঘৰৰ চব ফেমেলিয়ে কেতিয়াবা ঘৰত নাথাকে ন, [overlap] কামে কাজে হক বা কিবা ধৰক এনে বাহিৰত থাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 527.316,
+            "end": 540.847,
+            "speakerSeqId": 2,
+            "transcription": "অ থাকিলে সেই সেইখিনি যি মানুহ গোটেইখিনি ঘৰত আহে আহাৰ পিছত গোটেইখিনিৰ লগ হৈ যেতিয়া আমি পিঠা বনাম চুঙা পিঠা হক বা এনে নৰ্মেল পিঠা হক লাৰু হক, যুনে যি চিৰা হক এনেকে যুনে যি বনায় মানে লগ হৈ বনায় ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 540.847,
+            "end": 555.488,
+            "speakerSeqId": 2,
+            "transcription": "মানে [overlap] অ অ যেতিয়া মানুহখিনি গোটে লগ হৈ আমি কিবা এটা বনাম কিবা এটা ভাল লাগে তাৰমানে [silence] সেনেকুৱা, চবখিনি মানুহ যেতিয়া লগ হও আমি গোটেইখিনি বনাও সেইকাৰণে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 555.488,
+            "end": 565.377,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] মানুহ নিমন্ত্ৰণ দিও ঘৰত বিহু আহিবা বুলি মানুহবিলাক আহে বা আমি যাও অ তেনেকে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 565.377,
+            "end": 578.0,
+            "speakerSeqId": 1,
+            "transcription": "বিহু বিহু নাচনীবিলাক যে মানে~ চবৰে মানে ঘৰত যায় বা [overlap] নাচ মানে কিবা যে বিহুত যে মানে খানা খায় সেনেকে, অ ডেন্স [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 578.0,
+            "end": 583.062,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] নাচি কেনে যে, কালেকচন কৰি [overlap] লাগে চাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 583.062,
+            "end": 591.5,
+            "speakerSeqId": 2,
+            "transcription": "অ বহুত বহুত ভাল লাগে এইবিলাক মানে কিবা এটা মানে ভাল লগা আৰু এইবিলাক, এইবিলাক নহলে যেন কিবা আধৰুৱা এনেকুৱা লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 591.5,
+            "end": 592.85,
+            "speakerSeqId": 1,
+            "transcription": "অ অ চবখিনিয়ে মা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 592.85,
+            "end": 603.548,
+            "speakerSeqId": 2,
+            "transcription": "মানে কিবা এটা উৎসৱ হোৱাৰ লগে লগে মানুহখিনিৰ লগ এক একলগ হব পাৰি, [overlap] কিবা এটা ভাল লাগে মানে মানুহখিনিৰ লগত মানে চবে কামে কাজে বেলেগ বেলেগ কে থাকে ন, ধৰা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 603.548,
+            "end": 612.796,
+            "speakerSeqId": 2,
+            "transcription": "লগ হোৱা নাযায় কিছুমান মানুহৰ লগত সেনেকুৱা মানে উদযাপনতে আমি, চব মানুহৰে লগ হব পাৰো ঘৰত যাব পাৰো সেনেকুৱা ভাল লাগে আৰু, অ~"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 612.796,
+            "end": 618.432,
+            "speakerSeqId": 1,
+            "transcription": "জানি কেনে ভাল লাগিল মানে জানা নাছিলু এইবিলাক কথা, [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 618.432,
+            "end": 618.685,
+            "speakerSeqId": 2,
+            "transcription": "অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 618.685,
+            "end": 620.322,
+            "speakerSeqId": 1,
+            "transcription": "জানি কেনে মানে ভাল লাগিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 620.322,
+            "end": 625.402,
+            "speakerSeqId": 1,
+            "transcription": "আ অ~ দিয়া পিছে, পিছত কেতিয়াবা কথা পাতিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 625.402,
+            "end": 633.259,
+            "speakerSeqId": 2,
+            "transcription": "অ ঠিক আছে"
+        }
+    ]
+}

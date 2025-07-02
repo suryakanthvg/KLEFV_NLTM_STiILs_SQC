@@ -1,0 +1,548 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826181",
+    "speechFile": "as_SHA1P_C_r013_s038",
+    "callDuration": 606.848,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239046"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239047"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 9.751,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 9.751,
+            "end": 17.041,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ আজি মোৰ লগত মোৰ দাঙ্গৰ এজন ভন্তি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 17.041,
+            "end": 17.918,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 17.918,
+            "end": 30.828,
+            "speakerSeqId": 1,
+            "transcription": "ভন্তি আছানে [silence] অহ কেনে আছা তুমি [overlap] #আহ আছু [overlap] #আহ আছু আৰু [overlap] ভালে আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 30.828,
+            "end": 36.43,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া বতৰতু ভাল নহয় ন বৰখুন দিয়ে আছে দিয়ে আছে একু ভাল নালাগে বতৰতু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 36.43,
+            "end": 49.424,
+            "speakerSeqId": 1,
+            "transcription": "#আহ সেইতু কথা আৰু নকবা সেইতু কথা নকবা বতৰতু এনেই খাৰাপ হৈ আছে দুই দিনৰ পৰা এনেই এনেকুৱা হৈ আছে বতৰতু"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10007,
+            "start": 49.424,
+            "end": 49.542,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 49.542,
+            "end": 62.3,
+            "speakerSeqId": 1,
+            "transcription": "[silence] হয় আছে ভালে আছে আপনাৰ [silence] হয় খোৱা দোৱা হল আপোনাৰ [overlap] এতিয়া আজি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 62.3,
+            "end": 75.293,
+            "speakerSeqId": 1,
+            "transcription": "হয় কি দি খাইছে আপুনি (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 75.293,
+            "end": 81.115,
+            "speakerSeqId": 1,
+            "transcription": "চসিয়েল মিদিয়াৰ কথা যে আপুনি কৈছে হয় এইতু ভাল কথা কৈছে হয়্নে না নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 81.115,
+            "end": 95.925,
+            "speakerSeqId": 1,
+            "transcription": "চসিয়েল মিদিয়াতু আহি আহি আমাৰ কি কি হেল্প হৈছে সেইতু কথা হল যে ফেচ্বুক অন্লাইন আমাৰ ফেচ্বুক যিতু আছে ফেচ্বুক যিতু হোৱাত্চাপ সেইতুক মৈ চাব গলে তেওৰ ফেচ্বুকতু আছে ন সেইতু ফেচ্বুক্তুৰ কথা কলে মই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 95.925,
+            "end": 97.535,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু মানুহক নিচিনু হয়্নে ন্হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 97.535,
+            "end": 110.9,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া কথা হল ফেচ্বুকৰ পৰা মই ঘৰৰ পৰায় মই বহুত মানুহক লগ পাও বহুতো মানুহক লগ নাপাও কিন্তু এইতু মোৰ কথা মই ছিনি পাও হয়্নে নহয় ফেচ্বুকৰ পৰা বহুতো মানুহক দেখা বা আমি কথা বাত্ৰা কও"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 110.9,
+            "end": 123.488,
+            "speakerSeqId": 1,
+            "transcription": "মানে ঘৰৰ পৰা বহি আন দেশৰ পৰা আন দেশলৈ কথা পাতু তাৰ পিছত মই দেখা পাও ফেচ্বুকৰ পৰা যে কি কি হৈ আছে কত কি হৈ আছে খবৰ বিলাক আমি লও হয়্নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 123.488,
+            "end": 136.094,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া [overlap] আপোনাৰ কি মন্তৈব্য় সেইতু কওক (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 136.094,
+            "end": 142.76,
+            "speakerSeqId": 1,
+            "transcription": "সেইখিনি (()) ফেচ্বুকৰ ফেচ্বুকতু আছে সেইখিনি তাৰ জৰিয়তে মই গম পাইছু [overlap] হয় হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10017,
+            "start": 142.76,
+            "end": 142.895,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 142.895,
+            "end": 149.189,
+            "speakerSeqId": 1,
+            "transcription": "এনেকুৱা এই এতিয়া যে ইন্চাগ্ৰামতু বাহিৰ হৈছে ন সেই ইন্চ্তাগ্ৰামতু [overlap] হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10019,
+            "start": 149.189,
+            "end": 149.307,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 149.307,
+            "end": 153.644,
+            "speakerSeqId": 1,
+            "transcription": "যে ৰিল্চ ৰিল্চ বুলি কয় সেইতু চৰ্ত ভিদিও [overlap] #আহ #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 153.644,
+            "end": 153.931,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 153.931,
+            "end": 165.018,
+            "speakerSeqId": 1,
+            "transcription": "যুনে যুনে কিনে তাৰ পৰা মানে টকা ইন্কাম কৰিব পাৰে মানুহে [silence] আকৌ আকৌ মানে মানুহে মানুহৰ [overlap] সেইতু আপুনি ভাল কথা কৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 165.018,
+            "end": 173.303,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ মানুহৰ কুনো কাম কৰিলে সময়তু বেছি লাগে আৰু এতিয়া ইন্কাম নাইকিয়া হওতে সেই সময় খিনি ইমান সন্চয় নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 173.303,
+            "end": 187.445,
+            "speakerSeqId": 1,
+            "transcription": "তেনেকুৱা মই আজি ঘৰৰ পৰাই চোপিং কৰিব পাৰু ঘৰৰ পৰাই কিবা কিবি অৰ্দাৰ সমুহ কৰিলে আহি যায় কিবা খোৱা লোৱাৰ বিশয়ে মানে আমি ঘৰৰ পৰায় [overlap] হয় অৰ্দাৰ কৰু সেইতু আহি যায় ন [overlap] অন্লাইন চোপিং কৰিব পাৰু"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10025,
+            "start": 187.445,
+            "end": 190.685,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 190.685,
+            "end": 198.667,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় হয় [silence] হয় সেইতু আপুনি ভাল কথা কৈছে যিতু মিচো ফ্লিপ্কাৰ্ত যিতু আছে ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 198.667,
+            "end": 212.717,
+            "speakerSeqId": 1,
+            "transcription": "সেইতুৰ পৰায় মই এদ্ৰেছতু লব পাৰু হয়্নে নহয় ঘৰৰ পৰায় মই এদ্ৰেছতু লব পাৰু কিন্তু কথাতু হল যে আমি যেতিয়া মই দ্ৰেছতু চুছ কৰু তেতিয়া ভাল দেখায় হয়্নে নহয় যেতিয়া দ্ৰেছ্তু অহাৰ পিছত কি হৈ যায় দ্ৰেছ্তু ভাল নাহে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 212.717,
+            "end": 224.587,
+            "speakerSeqId": 1,
+            "transcription": "সেইতু কথা মই কিনি কেনে লং যে সেইতু কেনেকে হল যে মোবাইলত ভাল দেখিলু এতিয়া দ্ৰেছ্তু যেতিয়া মই ৰিয়েলত দেখিলু এতিয়া দ্ৰেছ্তু ভাল নহয় সেইতু চোচিয়েল মিদিয়াৰ পৰা মই মনতুক মই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 224.587,
+            "end": 234.239,
+            "speakerSeqId": 1,
+            "transcription": "কেনেকৈ আপোনাক কম যে সেইতু আমাৰ পৰা মানে হেল্প নহয় সেইতু (()) মানে কি হৈ যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 234.239,
+            "end": 241.782,
+            "speakerSeqId": 1,
+            "transcription": "(()) সেইবিলাক কি কি যে আছে নহয় মই সেইবিলাক মইতু কোৱা নাই শুনিছু আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 241.782,
+            "end": 253.713,
+            "speakerSeqId": 1,
+            "transcription": "সেইখিনিৰ মাধ্য়মত যিবিলাক মানুহে কত আছে নে নাই সেইবিলাক যদি মাধ্য়মত যদি (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 253.713,
+            "end": 267.23,
+            "speakerSeqId": 1,
+            "transcription": "আগৰ দিনত যিবিলাক আছিল মানে এতিয়া ভাই ভন্তি সোকলে দুৰত মানে বাহিৰত আছিল বাহিৰত আছিল তেওলোকক খা খবৰ লব চিথিৰ মাধ্য়মতে লব লাগছিল ন [overlap] হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 267.23,
+            "end": 276.848,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া আজিকালি আজিকালি এতিয়া [overlap] হয় হয় হয় আপুনি এতা ভাল কথা কৈছে আজিকালি (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 276.848,
+            "end": 290.939,
+            "speakerSeqId": 1,
+            "transcription": "আৰু আজিকালি মোবাইল ফনৰ দ্ৱাৰা বেছি সময় নালাগে [overlap] হয় ইমান সময় খৰছা কৰিব নালাগে আজিকালি এথাইৰ পৰা আন থাই (())"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10035,
+            "start": 290.939,
+            "end": 292.238,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 292.238,
+            "end": 306.897,
+            "speakerSeqId": 1,
+            "transcription": "এই মোবাইল ফনৰ দ্ৱাৰা এইখিনি মানে তেও কেনে আছে খা খবৰ লব পাৰু আৰু তেওক চাবও পাৰু ন আগতে একু নোৱাৰিছিলু (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 306.897,
+            "end": 311.51,
+            "speakerSeqId": 1,
+            "transcription": "যে তাক চাব পাৰু যে তাই কেনে আছে অলপ সময় তু জানিব পাৰু ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 311.51,
+            "end": 330.848,
+            "speakerSeqId": 1,
+            "transcription": "অহ আপুনি এতা ভাল কথা কৈছে যে চচিয়েল মিদিয়া অহাৰ পিছত কি হৈ গল যে মানুহ বিলাক ঘৰৰ পৰাই আন মানুহ বিলাক আন মানুহ মানে যিবিলাক মানুহ অন্য় মানুহ মানে অন্য় ৰাস্ত্ৰ থাকে অন্য় জাগাত থাকে তেওলোকক চাব পাৰু আমি ঘৰৰ পৰা হয়্নে নহয় আপুনি সেইতু কৈছে নে নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 330.848,
+            "end": 335.337,
+            "speakerSeqId": 1,
+            "transcription": "সেইতু কথা ভাল কথা এইতু ভাল চচিয়েল মিদিয়াৰ কাৰনে এইতু আমাৰ ভাল হেল্প হৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 335.337,
+            "end": 347.774,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া তাই সিহতৰ ঘৰ বিলাকত যাব নালা আৰু আমাৰ তাইম বিলাক নস্ত নহয় সেই তাইম বিলাক আমি ঘৰতে থাকিম হয়্না নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 347.774,
+            "end": 353.933,
+            "speakerSeqId": 1,
+            "transcription": "থিকেই ঘৰৰ পৰা আমি ছাই আহে আমি মানে আমি এই সময়তু ইয়াতে লওক এতিয়া কথাতু হল যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 353.933,
+            "end": 367.349,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ যেতিয়া মানে আমাৰ যেতিয়া আত্মিয় চজন বিলাক আছে নহয় তেওলোকৰ যে বেমাৰ আজাৰতু হয় তেওলোকক আমি কি কৰিব লাগে আমি মোবাইলৰ মাধ্য়মৰে আমি মানে খবৰতু দিব লাগে তেতিয়া কম সময়ৰ ভিতৰত হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 367.349,
+            "end": 381.473,
+            "speakerSeqId": 1,
+            "transcription": "সেইতু আমাৰ ভাল মানে সুবিধা এতিয়া আপুনি কওক যে আমি চোচিয়েল মিদিয়া যেতিয়া আহিছে এইতু তহ সুবিধা কাৰনে অসুবিধাও আছে হয়্না নহয় এতিয়া আপুনি কওকচুন অখুবিধাৰ কাৰনে কি কি আমাৰ দুই সাৰি কব নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 381.473,
+            "end": 391.801,
+            "speakerSeqId": 1,
+            "transcription": "চোচিয়েল মিদিয়াতু আহিছে সৰু সৰু যিবিলাক লৰা ছোৱালি আছে সেইকাৰনে মানে সেইকাৰনে মানে বেয়ায় হৈ আছে কাৰন সিহতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 391.801,
+            "end": 403.175,
+            "speakerSeqId": 1,
+            "transcription": "সিহতৰ মানে মোবাইলতু হৈ কেনে এনে হৈছে [overlap] হয় তেওলোকক ভাবিলে মানে এতিয়া মানে হাল্লা কৰি থাকে তেতিয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 403.175,
+            "end": 416.033,
+            "speakerSeqId": 1,
+            "transcription": "তেওলোকক খেলিবলৈ কিবা এতা দিব লাগে চাবলৈ কিবা এতা দিব লাগে কিন্তু আজিকালি মাক দেউতাকে সেইতু নকৰি কেনে মানে মোবাইলটু হাতত তুলি দিয়ে [overlap] হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 416.033,
+            "end": 427.475,
+            "speakerSeqId": 1,
+            "transcription": "সেই মোবাইলতু পাই মানে সেই মাক দেউতাকেও চাব লাগে যে মোৰ লৰা ছোৱালিক মোবাইল্তু দি কেনে ভাল কৰিলু নে খাৰাপ কৰিলু সেইতু চাব লাগে ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 427.475,
+            "end": 446.841,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় বাইদো আপুনি এইতু এতা থিক কথা কৈছে যে কথাতু হল যে যে কেছুৱা বিলাক যিবিলাক আছে যে সৰু সৰু লৰা ছোৱালি বিলাক কি কৰে যে হাই কাজিয়া কৰি থাকে কান্দি কাজিয়া কৰি থাকে তেওলোকক কি কৰে মোবাইলতু হাতত দি দি দিয়ে তেওলোকে ভাবে যে মোৰ লৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 446.841,
+            "end": 453.985,
+            "speakerSeqId": 1,
+            "transcription": "আকো তেতিয়া চুপ হৈছে এতিয়া মই ভালকৈ কাম্তু কৰিব পাৰিম সেইতু তেওলোকে ভাবি আছে কথাতু আচলতে ভুল কথা হয়্না নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 453.985,
+            "end": 464.853,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া ছোৱালি লৰা ছোৱালি বিলাক যে আছে সেইতু তেওলোকে মোবাইলৰ প্ৰতি বেছি গুৰুত্ত দি আছে ইন্তেৰ্চ্তিং দি আছে তেওলোকে পৰা শুনাৰ প্ৰতি কম গুৰুত্ত দিয়ে হয়্না নহয় এতিয়া তেওলোকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 464.853,
+            "end": 473.543,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু তেওলোকে পৰা শুনাৰ প্ৰতি যে গুৰুত্ত দিব যে না মই অকল যে মোবাইলতু তিপিম সেইতু নহয় মোবাইল তিপিলেতু নহব ন পৰা শুনাও কৰিব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 473.543,
+            "end": 486.503,
+            "speakerSeqId": 1,
+            "transcription": "চোচিয়েল মিদিয়াৰ কাৰনে ভাল নহয় কিন্তু লৰা ছোৱালি মিদিয়াম লৰা ছোৱালি বিলাকৰ কাৰনে ভাল কিন্তু সৰু সৰু লৰা ছোৱালিৰ কাৰনে এইতু ভাল নহয় হয়্নে নহয় [overlap] যেনেকুৱা তেওলোকৰ মানে [overlap] সেইতু কথা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 486.503,
+            "end": 492.038,
+            "speakerSeqId": 1,
+            "transcription": "আগত যিবিলাক লৰা ছোৱালি আছিল সেইবিলাকে বাহিৰত ঘুৰা ফুৰা কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 492.038,
+            "end": 503.733,
+            "speakerSeqId": 1,
+            "transcription": "মানে সময়্তু এনেকে পাৰ কৰিছিল ভাল মানে ভালে আছিল আৰু এতিয়া লৰা ছোৱালিক বিলাক দেখিবা মোবাইল তিপিয়ে ব্য়স্ত হৈ থাকে খালি সময় খিনি মোবাইল তিপিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 503.733,
+            "end": 513.217,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া লৰা ছোৱালি আৰু বাহিৰত ফুৰিবলৈ নাজায় এইখিনিয়ে মানে যিখিনি তাইম তেওলোকে পৰা শুনা কৰিব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 513.217,
+            "end": 525.451,
+            "speakerSeqId": 1,
+            "transcription": "মানে সেই মোবাইল্তু চালে তেওলোকৰ এনে এতা নিছা হৈ যায় সেই পৰা শুনাৰ প্ৰতি সেই বা যিকোনো জিনিচৰ প্ৰতি তেওলোকৰ সেইতু কমি যায় ইন্ত্য়াৰচ্তু অকল খালি অকল মোবাইল্তুয়ে সিহতক লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 525.451,
+            "end": 528.91,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10058,
+            "start": 528.91,
+            "end": 528.978,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10059,
+            "start": 528.978,
+            "end": 528.995,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 528.995,
+            "end": 531.745,
+            "speakerSeqId": 1,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 531.745,
+            "end": 547.973,
+            "speakerSeqId": 1,
+            "transcription": "হয় আপুনি এতা ভাল কথা কৈছে হয় সেইতু কথা ভুল কথা সেইতু গাৰ্জেন্তয়ে শিক্ষিত থাকিব লাগিব হয়্নে নহয় যে গাৰ্জেন্তে শিক্ষিত থাকিব লাগিব যদি গাৰ্জেন্ত্য়ে মুৰ্খ থাকে তেনেহলে সেইতুতু নহব গাৰ্জেন্তয়ে যদি শিক্ষিত হয় তেনেহলে সেইতু লৰা ছোৱালিক মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 547.973,
+            "end": 561.901,
+            "speakerSeqId": 1,
+            "transcription": "যিকনো এতা কথা কৈ মানে চুপ কৰিব মোবাইল্তু নিদিব হাতত যিবিলাক মুৰ্খ গাৰ্জেন্ত আছে সেইবিলাকে মোবাইলতু হাতত দিব হয়্নে নহয় [silence] সেইতু ভুল সেইতু গাৰ্জেন্তু বিলাকে সতৰ্ক থাকিব লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 561.901,
+            "end": 576.076,
+            "speakerSeqId": 1,
+            "transcription": "#উম সৰু সৰু লৰা ছোৱালিক কি মোবাইল দিব লাগে হাতত তেওলোকৰ তাইমতু এনেই গৈ আছে এনেই নস্ত হৈ আছে তেওলোকৰ যদি মোবাইল্তু নিদি তেওলোকৰ হাতত মোবাইল্তু নিদিয়ে তেওলোকৰ হাতত যদি কিতাপ খন দিউ তেনেহলে তেওলোকৰ কাৰনে ভাল হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 576.076,
+            "end": 581.948,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া কথাতু হল যে [overlap] হয় হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 581.948,
+            "end": 595.381,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া কথাতু হল যে লৰা ছোৱালি সৰু সৰু লোৱালিৰ কাৰনে চোচিয়েল মিদিয়েতু থিক নহয় আচলতে চোচিয়েল মিদিয়েতু মিদিয়াম যিবিলাক লৰা ছোৱালি আছে সেইবিলাকৰ কাৰনে থিকে আছে যে তেওলোকে অন্লাইনত কিবা কাজ কৰ্ম কৰি তেওলোকে কি কৰে পইছাতু ইনকাম কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 595.381,
+            "end": 606.848,
+            "speakerSeqId": 1,
+            "transcription": "ইনকাম কৰি তেওলোকৰ কি হয় ভাল হয় ভালেই উপকাৰ হয় হয়্নে নহয় #আহ আমাৰ ৰেপৰ্তিংতু হৈ গল"
+        }
+    ]
+}

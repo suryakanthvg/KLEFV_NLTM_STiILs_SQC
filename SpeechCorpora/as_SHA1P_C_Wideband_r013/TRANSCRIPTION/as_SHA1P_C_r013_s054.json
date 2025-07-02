@@ -1,0 +1,708 @@
+{
+    "speechMode": "C",
+    "recordingId": "20829002",
+    "speechFile": "as_SHA1P_C_r013_s054",
+    "callDuration": 622.734,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239286"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239287"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 1.178,
+            "speakerSeqId": 1,
+            "transcription": "হেলো [overlap] ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 1.178,
+            "end": 5.009,
+            "speakerSeqId": 2,
+            "transcription": "এ মই পঢ়ি শুনি আছো ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 5.009,
+            "end": 6.916,
+            "speakerSeqId": 1,
+            "transcription": "এক্জাম কেতিয়া?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 6.916,
+            "end": 10.831,
+            "speakerSeqId": 2,
+            "transcription": "এক্জাম পৰহি আছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 10.831,
+            "end": 12.89,
+            "speakerSeqId": 1,
+            "transcription": "সব পঢ়া হ'ল?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 12.89,
+            "end": 16.315,
+            "speakerSeqId": 2,
+            "transcription": "নাই হোৱা, তোমাৰ হ'ল?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 16.315,
+            "end": 21.007,
+            "speakerSeqId": 1,
+            "transcription": "মোৰো হোৱা নাই, [noise] কোৱাচোন তুমি কি কি পঢ়িবা [overlap]?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 21.007,
+            "end": 28.212,
+            "speakerSeqId": 2,
+            "transcription": "মই বৰ্তমান পঢ়ি আছো, পঢ়ি শুনাম নেকি? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 28.212,
+            "end": 31.894,
+            "speakerSeqId": 2,
+            "transcription": "ৰাজনীতি তত্ব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 31.894,
+            "end": 38.035,
+            "speakerSeqId": 2,
+            "transcription": "পঢ়ি শুনাম নেকি (())?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 38.035,
+            "end": 39.215,
+            "speakerSeqId": 1,
+            "transcription": "অ শুনোৱা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 39.215,
+            "end": 52.208,
+            "speakerSeqId": 2,
+            "transcription": "#উম বহল অৰ্থত কবলৈ গ'লে সমাজৰ কোনো ঘটনা নাইবা পৰিঘটনা নাইবা কোনো এটা সমস্যা নিৰ্বাচিত কৰিসেই সমস্যা বা পৰিঘটনাটোৰ বিষয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 52.208,
+            "end": 65.928,
+            "speakerSeqId": 2,
+            "transcription": "বিভিন্ন তথ্য সংগ্ৰহ কৰি তাত আগবঢ়োৱা বিশ্লেষণৰ দ্বাৰা ইয়াৰ সমাধানৰ সুত্ৰ বা বিকল্প উত্তাপিত কৰি তত্ব আগবঢ়োৱা হয় । সেয়ে সমাজবোৰক প্ৰকৃততে এক দৃষ্টিভংগী বুলিব পাৰি ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 65.928,
+            "end": 76.053,
+            "speakerSeqId": 2,
+            "transcription": "সাধাৰণতে কোনো সমস্যাৰ বিষয়ে কৰা অধ্যয়নৰ সময়ত চিন্তাবিদ সকলে বি~বিভিন্ন পন্থা বা দৃষ্টিভংগী অৱলম্বন কৰে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 76.053,
+            "end": 88.912,
+            "speakerSeqId": 2,
+            "transcription": "দৃষ্টিভংগী হ'ল কোনো এক বিশেষ দৃষ্টিকোণৰ পৰা বিচাৰ কৰি চোৱা কাৰ্য । প্ৰাচীন কালৰে পৰা বিভিন্ন ৰাজনৈতিক চিন্তাবিদে [overlap] দৃষ্টিভংগী"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 88.912,
+            "end": 103.722,
+            "speakerSeqId": 2,
+            "transcription": "গ্ৰহণ কৰি সমাজৰ ঘটনাৱলী তথা সমস্যাৰ বিশ্লেষণ কৰি ৰাজনৈতিক তত্ব সমূহ আগবঢ়াই আহিছে । ৰাজনৈতিক তত্ব অধ্যয়নৰ দৄষ্টিভংগী সমূহ সময়ৰ সোতত পৰিবৰ্তন হোৱা দেখা যায় । কিন্তু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 103.722,
+            "end": 116.857,
+            "speakerSeqId": 2,
+            "transcription": "পৰিবৰ্তনৰ প্ৰকৃতি ভেদেও প্ৰাচীন দৃষ্টিভংগীৰ প্ৰাসংগিকতা আজিও যঠেষ্ট পৰিমাণে দেখা যায় । একেদৰে নতুনকৈ উদ্ভৱ হোৱা সমস্যা সমূহৰ সমাধানৰ বাবে পৰৱৰ্তী পৰ্যায়ত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 116.857,
+            "end": 124.4,
+            "speakerSeqId": 2,
+            "transcription": "(()) তথা আধুনিক দৃষ্টিভংগীৰ দ্বাৰা আগবঢ়োৱা বিশ্লেষণৰ প্ৰয়োজনীয়তা দিনক দিনে বৃদ্ধি পাইছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 124.4,
+            "end": 135.115,
+            "speakerSeqId": 2,
+            "transcription": "ইতিহাসৰ দৃষ্টিভংগী ৰাজনৈতিক তত্ব অধ্যয়নৰ এটা গুৰুত্বপূৰ্ণ দৃষ্টিভংগী । এই দৃষ্টিভংগীয়ে ইতিহাসৰ ঘটনা আৰু (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 135.115,
+            "end": 140.482,
+            "speakerSeqId": 2,
+            "transcription": "সমূহৰ ওপৰত ভিত্তি কৰি বৰ্তমান অনুষ্ঠান সমূহৰ বিষয়ে আ~"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 140.482,
+            "end": 152.986,
+            "speakerSeqId": 2,
+            "transcription": "অৱগত হোৱা আৰু ভৱিষ্যত পৰিকল্পনা বা বৰ্তমান সমস্যা সমাধানত গুৰুত্ব দিয়ে । অতীতৰ সংস্পৰ্শই মানুহক বৰ্তমানৰ কাৰ্যপন্থা নিৰ্ধাৰণত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 152.986,
+            "end": 155.163,
+            "speakerSeqId": 2,
+            "transcription": "সহায় কৰে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 155.163,
+            "end": 170.091,
+            "speakerSeqId": 2,
+            "transcription": "পূৰণি কালৰ ৰাজনৈতিক অনুষ্ঠান সফলতা আৰু বিফলতাৰ বিশ্লেষণে বৰ্তমান সময়তো একোটা বিশেষ পৰিস্থিতিৰ সিদ্ধান্ত গ্ৰহণ কৰাত সহায় কৰে । ইতিহাসিক পৰিস্থিত~পদ্ধতি অৱলম্বন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 170.091,
+            "end": 178.467,
+            "speakerSeqId": 2,
+            "transcription": "কৰা দাৰ্শনিক সকলে ইতিহাসক এটা প্ৰক্ৰিয়া হিচাপে গণ্য কৰে । তেওলোকে ৰাজনৈতিক ঘটনা বা অনুষ্ঠান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 178.467,
+            "end": 190.769,
+            "speakerSeqId": 2,
+            "transcription": "এটাৰ বিষয়ে বিশ্লেষণ আগবঢ়াওতে এইটোৰ বৰ্তমান অৱস্থাত আলোচনা নকৰি অতীতত এইবোৰ কেনে আছিল আৰু [silence] কেনে প~কেনে পৰিস্থিতিত উদ্ভৱ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 190.769,
+            "end": 204.167,
+            "speakerSeqId": 2,
+            "transcription": "হৈছিল, আদিৰ ওপৰত গুৰুত্ব আৰোপ কৰে । সেইদৰে ৰাজনৈতিক তত্ব সমূহকো নিৰ্দিষ্ট সময়ত হোৱা অৰ্থনৈতিক প্ৰভাৱৰ ফলত উদ্ভৱ হোৱা সমস্যা সমাধানৰ উদ্দেশ্যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 204.167,
+            "end": 212.116,
+            "speakerSeqId": 2,
+            "transcription": "দাৰ্শনিক চিন্তাবিদ সকলে আগবঢ়োৱা ধাৰণাৰ ফলত গঢ়ি উঠা দেখা যায় । [silence] (()) ৰ মতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 212.116,
+            "end": 226.171,
+            "speakerSeqId": 2,
+            "transcription": "ফ্ৰীমেনৰ মতে শুদ্ধ শুদ্ধতা বিচাৰ কৰি কোনো এটা সিদ্ধান্ত গ্ৰহণৰ ক্ষেত্ৰত ইতিহাসে প্ৰয়োজনীয় তত্ব যোগান ধৰে । ইতিহাসে কেৱল বৰ্তমান সমস্যা সমাধানতহে সহায় কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 226.171,
+            "end": 231.59,
+            "speakerSeqId": 2,
+            "transcription": "তেনে নহয়, ই ভৱিষ্যতৰ নীতি নিৰ্ধাৰণৰতো গুৰুত্বপূৰ্ণ ভুমিকা পালন কৰে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 231.59,
+            "end": 248.802,
+            "speakerSeqId": 2,
+            "transcription": "চিন্তাবিদে ইতিহাসিক দৃষ্টিভংগী অৱলম্বন কৰিছে, ৰাজনৈতিক অনুষ্ঠান সমূহক বৰ্তমান অৱস্থাত উপনীত কৰিলে সেই বিষয়ে জনাটো অৱশ্যক । কোনো এটা সমস্যাক ই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 248.802,
+            "end": 261.087,
+            "speakerSeqId": 2,
+            "transcription": "তেনে পৰিস্থিতিৰ কিয় উদ্ভৱ হয় আদি কথা সঠিক ভাৱে নিৰোধ কৰিব~কৰিব পাৰিলে স্থায়ী সমাধান লাভ কৰাটো সম্ভৱ হয় । প্ৰাচীন গ্ৰীক সমাজৰ বিভিন্ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 261.087,
+            "end": 265.466,
+            "speakerSeqId": 2,
+            "transcription": "প্ৰাচীন গ্ৰীক সমাজৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 265.466,
+            "end": 277.422,
+            "speakerSeqId": 2,
+            "transcription": "বিভিন্ন ঘটনাৱলী <lang:Foreign>Plato, Aristotle</lang:Foreign> আৰু সোতৰ শতিকাৰ ইংলেণ্ডৰ ঘটনাৱলীৰ আদিচিন্তাবিদ সকলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 277.422,
+            "end": 281.771,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] #উম কোৱা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 281.771,
+            "end": 283.278,
+            "speakerSeqId": 2,
+            "transcription": "কোৱা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 283.278,
+            "end": 285.285,
+            "speakerSeqId": 1,
+            "transcription": "আৰে শুনা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 285.285,
+            "end": 286.028,
+            "speakerSeqId": 2,
+            "transcription": "কোৱা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 286.028,
+            "end": 286.924,
+            "speakerSeqId": 2,
+            "transcription": "কোৱা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 286.924,
+            "end": 290.747,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া মোৰ~এতিয়া মই পঢ়ি শুনাম মই কি কি পঢ়িছো, তুমি শুনা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 290.747,
+            "end": 292.841,
+            "speakerSeqId": 2,
+            "transcription": "অ পঢ়া ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 292.841,
+            "end": 298.547,
+            "speakerSeqId": 1,
+            "transcription": "ৰাজনীতি বিজ্ঞানৰ অধ্যয়নৰ বিষয়টো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 298.547,
+            "end": 303.038,
+            "speakerSeqId": 1,
+            "transcription": "[noise] ৰাজনীতি বিজ্ঞানৰ অধ্যয়নৰ বিষয়টোত ৰাজনীতি তত্বৰ গুৰুত্ব বহুত ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 303.038,
+            "end": 317.578,
+            "speakerSeqId": 1,
+            "transcription": "ৰাজনীতি বিজ্ঞানৰ শিক্ষা এটা~ৰাজনীতি বিজ্ঞান শিক্ষাৰ এটা~ৰাজনীতি বিজ্ঞান শিক্ষাৰ এটা শাখালৈ লৈ যোৱা ৰাজনীতি বিজ্ঞান ৰাজনীতি তত্বৰ গুৰুত্ব বহুত । ৰাজনীতি তত্ব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 317.578,
+            "end": 329.802,
+            "speakerSeqId": 1,
+            "transcription": "ৰ বিষয়ে~তত্বৰ ওপৰতে বিষয়টোৰ গুৰুত্ব আৰু বৈজ্ঞানিক (()) তত্বৰ ওপৰতে বিষয়টোৰ গুৰুত্ব আৰু বৈজ্ঞানিক চৰিত্ৰ নিৰ্ধাৰণ হয় । তত্বৰ স~"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 329.802,
+            "end": 339.691,
+            "speakerSeqId": 1,
+            "transcription": "তত্বৰ সহায়ত ইয়াৰ অধ্যয়নৰ~তত্বৰ সহায়ত যিকোনো বিষয় এটা অধ্যয়ন ঘটনা বা বিশ্লেষণৰ সৈতে পৰিচিত সিদ্ধান্ত গ্ৰহণ কৰা হয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 339.691,
+            "end": 354.018,
+            "speakerSeqId": 1,
+            "transcription": "তত্বৰ সহায়ত যিকোনো ঘটনাৰ বিশ্লেষণ আৰু সিদ্ধান্ত গ্ৰহণ কৰা হয় । কোনো এটা বস্তু কৰিব লাগে নে গ্ৰহণ কৰিব লাগে বা কি [noise] গ্ৰহণ কৰিব নালাগে ~কি গ্ৰহণ কৰিব লাগে, কি গ্ৰহণ কৰিব নালাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 354.018,
+            "end": 362.225,
+            "speakerSeqId": 1,
+            "transcription": "তত্ব প্ৰয়োগৰ জৰিয়তে জানিব পাৰি~প্ৰয়োগৰ জৰিয়তে জানিব পাৰি । ৰাজনীতি বিজ্ঞান অধ্য~শুনি আছা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 362.225,
+            "end": 365.425,
+            "speakerSeqId": 2,
+            "transcription": "অ শুনি আছো, কোৱা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 365.425,
+            "end": 377.221,
+            "speakerSeqId": 1,
+            "transcription": "ৰাজনীতি বিজ্ঞানৰ অধ্যয়ন বিষয়ত~ৰাজনীতি বিজ্ঞান অধ্যয়নৰ বিষয়ত ৰাজনীতি তত্বৰ ভালেমান গুৰুত্ব আছে । ৰাজনীতি তত্ব অধ্যয়নৰ বিষয়ত ৰাজনীতি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 377.221,
+            "end": 383.431,
+            "speakerSeqId": 1,
+            "transcription": "নীতি তত্বৰ ভালেমান গুৰুত্ব আছে । ৰাজনীতি বিজ্ঞানৰ (()) লৈ যোৱাত ৰাজনীতিৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 383.431,
+            "end": 397.707,
+            "speakerSeqId": 1,
+            "transcription": "গুৰুত্ব বহুত । প্ৰাচীন তত্বৰ ওপৰতে বিষয়টোৰ গুৰুত্ব আৰু বৃদ্ধি । বৈজ্ঞানিক (()) পৰিতত্বৰ সহায়তে যিকোনো বিষয় এটাৰ বিশ্লেষণ হ'লে সিদ্ধান্ত গ্ৰহণত সহায়ক হয় । কি গ্ৰহণ কৰিব লাগে, কি গ্ৰহণ কৰিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 397.707,
+            "end": 403.394,
+            "speakerSeqId": 1,
+            "transcription": "নালাগে, ৰাজনীতি তত্বৰ জৰিয়তে জানিব পাৰি । কম্পাছে দিশ নিৰ্ধাৰণ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 403.394,
+            "end": 417.715,
+            "speakerSeqId": 1,
+            "transcription": "কৰা নিচিনা তত্বৰ~কম্পাছে দিশ নিৰ্ধাৰণ কৰাৰ নিচিনা তত্বৰ সহায়~ৰাজনীতি তত্বৰ সহায়তো ৰাজনীতিক ঘটনা বা ৰাজনীতিক পৰিঘটনা সমস্যা সমূহ বিশ্লেষণ কৰি ইয়াৰে সিদ্ধান্ত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 417.715,
+            "end": 428.369,
+            "speakerSeqId": 1,
+            "transcription": "গ্ৰহণ কৰিব পাৰি । কম্পাছে দিশ নিৰ্ধাৰণ কৰি দিয়াৰ দৰে ৰাজনীতি তত্বই ৰাজনীতিৰ ঘটনা বা পৰিঘটনা বা সমস্যা সমূহ বিশ্লেষণ কৰি সিদ্ধান্ত গ্ৰহণত সহায় কৰিব পাৰে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 428.369,
+            "end": 442.258,
+            "speakerSeqId": 1,
+            "transcription": "ৰাজনীতি [noise] তত্বৰ সহায়ত অধ্যয়নৰ নতুন দিশ আৱিস্কাৰ কৰিব পাৰি~তত্বৰ সহায়ৰ অধ্যয়নৰ নতুন দিশ আৱিস্কাৰ কৰিব পাৰি আৰু নতুন নতুন ধাৰণা সৃষ্টি কৰিব পাৰি । তো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 442.258,
+            "end": 446.538,
+            "speakerSeqId": 2,
+            "transcription": "তো শুনা, ইখিনি ৰাজনীতি [overlap] তত্বৰ গুৰুত্ব বুলি আহিলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 446.538,
+            "end": 448.786,
+            "speakerSeqId": 2,
+            "transcription": "মই যিমান খিনি [overlap] ক'লো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 448.786,
+            "end": 450.782,
+            "speakerSeqId": 2,
+            "transcription": "ইখিনি [overlap] লিখিলে হ'ব না?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 450.782,
+            "end": 462.473,
+            "speakerSeqId": 1,
+            "transcription": "হ'ব কিন্তু ইটো [overlap] <lang:Foreign>five mark</lang:Foreign> ৰ কাৰণে ঠিক আছে । <lang:Foreign>five mark</lang:Foreign> ৰ কাৰণে ইখিনি ঠিক আছে কিন্তু <lang:Foreign>ten mark</lang:Foreign> ৰ কাৰণে ইখিনি ঠিক নহয়, আৰু লাগিব যদি <lang:Foreign>ten mark</lang:Foreign> ৰ আহে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 462.473,
+            "end": 463.952,
+            "speakerSeqId": 2,
+            "transcription": "শুনা শুনা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 463.952,
+            "end": 467.17,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] অৱশ্যে <lang:Foreign>ten mark</lang:Foreign> ৰ আহিলে এইটো নাহিব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 467.17,
+            "end": 474.877,
+            "speakerSeqId": 2,
+            "transcription": "শুনা শুনা, মই এবাৰ ভালকে কৈ দিও ফাৰ্ষ্ট চাই চাই কিনে, এইটো শুনা চোন <lang:Foreign>five mark</lang:Foreign> ৰ কাৰণে হ'ব না নহ'ব । [overlap] ৰাজনীতি বিজ্ঞানৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 474.877,
+            "end": 484.546,
+            "speakerSeqId": 2,
+            "transcription": "অধ্যয়নৰ বিষয়ত ৰাজনীতি তত্বৰ ভালেমান গুৰুত্ব আছে । ৰাজনীতি বিজ্ঞানক শিক্ষাৰ এটা শাখা হিচাপে গঢ় দিয়াত ৰাজনীতি তত্বৰ গুৰুত্ব আছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 484.546,
+            "end": 495.346,
+            "speakerSeqId": 2,
+            "transcription": "তত্বৰ ওপৰতে বিষয়টোৰ গুৰুত্ব আৰু বিজ্ঞানিক চৰিত্ৰৰ বিষয়ে জানিব পাৰি । তত্বৰ সহায়ত ইয়াৰ অধ্যয়ন, ঘটনাৰ বিশ্লেষণ আৰু সিদ্ধান্ত গ্ৰহণ কৰিব পাৰি ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 495.346,
+            "end": 505.032,
+            "speakerSeqId": 2,
+            "transcription": "কি গ্ৰহণ কৰিব লাগে, কি গ্ৰহণ কৰিব নালাগে তত্বৰ প্ৰয়োগৰ জৰিয়তে জানিব পাৰি । কম্পাছে দিশ নিৰ্ধাৰন কৰাৰ নিচিনাই ৰাজনীতি তত্বৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 505.032,
+            "end": 518.701,
+            "speakerSeqId": 2,
+            "transcription": "সহায়তো ৰাজনীতিক ঘটনা আৰু ৰাজনীতিক সমস্যা বিশ্লেষণ কৰি সিদ্ধান্ত গ্ৰহণ কৰিব পাৰি । তত্বৰ সহায়ত অধ্যয়ণৰ নতুন দিশ আৱিস্কাৰ কৰিব পাৰি আৰু নতুন নতুন ধাৰণাৰ সৃষ্টি কৰিব পাৰি । হ'ব না?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 518.701,
+            "end": 522.194,
+            "speakerSeqId": 1,
+            "transcription": "অ হ'ব হ'ব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 522.194,
+            "end": 524.65,
+            "speakerSeqId": 2,
+            "transcription": "#উম [overlap] এতিয়া তুমি কোৱা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 524.65,
+            "end": 527.516,
+            "speakerSeqId": 2,
+            "transcription": "তুমি কি পঢ়িলা? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 527.516,
+            "end": 530.328,
+            "speakerSeqId": 1,
+            "transcription": "মই পঢ়িলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 530.328,
+            "end": 536.234,
+            "speakerSeqId": 2,
+            "transcription": "আৰু শুনা, [overlap] এইটো বেছি ইম্পৰ্টেন্ট মোৰ লাগি নাছে । ৰাজনীতি তত্বৰ গুৰুত্ব হ্ৰাস"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 536.234,
+            "end": 541.578,
+            "speakerSeqId": 2,
+            "transcription": "গুৰুত্ব হ্ৰাস, ইটো ইমান ইম্পৰ্টেন্ট নহয় ন?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 541.578,
+            "end": 547.498,
+            "speakerSeqId": 1,
+            "transcription": "ৰাজনীতি তত্বৰ গুৰুত্ব না ৰাজনীতি [overlap] তত্বৰ গুৰুত্ব হ্ৰাস? [silence] নহয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 547.498,
+            "end": 551.06,
+            "speakerSeqId": 2,
+            "transcription": "গুৰুত্ব হ্ৰাসটো ইমান ইম্পৰ্টেন্ট নহয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 551.06,
+            "end": 555.807,
+            "speakerSeqId": 1,
+            "transcription": "নহয়, ৰাজনীতি তত্বৰ গুৰুত্বটো ইম্পৰ্টেন্ট, ৰাজনীতি তত্বৰ গুৰুত্ব হ্ৰাসটো ইম্পৰ্টেন্ট নহয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 555.807,
+            "end": 559.046,
+            "speakerSeqId": 2,
+            "transcription": "তুমি পঢ়া এতিয়া [overlap] কি পঢ়িলা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 559.046,
+            "end": 560.3,
+            "speakerSeqId": 1,
+            "transcription": "অ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 560.3,
+            "end": 570.541,
+            "speakerSeqId": 2,
+            "transcription": "ৰাজনীতিক চিন্তাবিদৰ লেখনি সমূহৰ একোটা বিশেষ পৰিস্থিতিৰ পৰিণাম স্বৰুপে সৃষ্টি হৈছিল । বৰ্তমান সময়ত সেই তত্ব সমূহ প্ৰাসংগিক হ'ব নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 570.541,
+            "end": 576.127,
+            "speakerSeqId": 1,
+            "transcription": "আৰু কি পৰিস্থিতিত এই তত্ব সমূহ সৃষ্টি হৈছিল, সেই কথা নিৰ্ধাৰণ কৰাটো প্ৰয়োজনীয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 576.127,
+            "end": 588.243,
+            "speakerSeqId": 1,
+            "transcription": "ইতিহাসিক দৃষ্টিভংগীৰ কিছু সীমাবদ্ধতা দেখা যায় । এই দৃষ্টিভংগীয়ে বহল অৰ্থত সমাজৰ বিষয়ে অধ্যয়ন কৰাতকৈ ৰাষ্ট্ৰীয় অধ্যয়নতহে সীমাবদ্ধ থকা দেখা যায় । ই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10081,
+            "start": 588.243,
+            "end": 601.709,
+            "speakerSeqId": 1,
+            "transcription": "প্ৰচলিত পৰম্পৰাৰ বিষয়ে বেছি সজাগতা প্ৰদৰ্শন কৰে, ই ধৰ্মীয় বিশ্বাস বৰ্ণনা সম্পৰ্কীয় পক্ষপাতিত্বৰ বা অন্য আৱেগিক বৈশিষ্ঠ সমূহৰ দ্বাৰা প্ৰভাৱিত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 601.709,
+            "end": 603.7,
+            "speakerSeqId": 1,
+            "transcription": "হোৱাৰ সম্ভাবনা থাকে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10083,
+            "start": 603.7,
+            "end": 605.506,
+            "speakerSeqId": 2,
+            "transcription": "ঐ ৰবা ৰবা [overlap] মই আহি আছো হা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10084,
+            "start": 605.506,
+            "end": 608.324,
+            "speakerSeqId": 1,
+            "transcription": "অ অ ঠিক আছে দিয়া ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 608.324,
+            "end": 609.32,
+            "speakerSeqId": 2,
+            "transcription": "ৰবা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10086,
+            "start": 609.32,
+            "end": 622.734,
+            "speakerSeqId": 1,
+            "transcription": "#উম ।"
+        }
+    ]
+}

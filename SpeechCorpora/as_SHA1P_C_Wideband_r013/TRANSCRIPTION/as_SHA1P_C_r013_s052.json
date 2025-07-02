@@ -1,0 +1,1388 @@
+{
+    "speechMode": "C",
+    "recordingId": "20828997",
+    "speechFile": "as_SHA1P_C_r013_s052",
+    "callDuration": 615.659,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0234567"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239285"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 2.967,
+            "speakerSeqId": 1,
+            "transcription": "অ [babble] আছো ভালে আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 2.967,
+            "end": 7.338,
+            "speakerSeqId": 2,
+            "transcription": "অ [babble]  [silence] এনে খবৰ-চবৰ ভালে আছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 7.338,
+            "end": 11.54,
+            "speakerSeqId": 1,
+            "transcription": "অ আছে (()) টোপনি গল নে না আছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 11.54,
+            "end": 21.469,
+            "speakerSeqId": 2,
+            "transcription": "অ (()) আতিয়াও আ~আছে? [babble]  [overlap] একদম দিষ্টাপ কৰি আছে, মোক [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 21.469,
+            "end": 28.128,
+            "speakerSeqId": 1,
+            "transcription": "(()) কালি (()) কি আছে না নাই ~একজাম আছে না নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 28.128,
+            "end": 31.182,
+            "speakerSeqId": 2,
+            "transcription": "কি কৈয়া~কি কৈ আছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 31.182,
+            "end": 34.861,
+            "speakerSeqId": 1,
+            "transcription": "(()) [overlap] একজাম আছে নে নাই কালি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 34.861,
+            "end": 41.493,
+            "speakerSeqId": 2,
+            "transcription": "অ আছে [silence]  [overlap] আছে কাই~ কালি ছচিয়েল ছ একজাম আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 41.493,
+            "end": 44.716,
+            "speakerSeqId": 1,
+            "transcription": "না (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 44.716,
+            "end": 46.91,
+            "speakerSeqId": 2,
+            "transcription": "অ (()) আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 46.91,
+            "end": 49.897,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 49.897,
+            "end": 50.943,
+            "speakerSeqId": 2,
+            "transcription": "মেট আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 50.943,
+            "end": 55.561,
+            "speakerSeqId": 1,
+            "transcription": "অ (()) মেট [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 55.561,
+            "end": 60.241,
+            "speakerSeqId": 1,
+            "transcription": "#আহ [noise] থিকে আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 60.241,
+            "end": 63.835,
+            "speakerSeqId": 2,
+            "transcription": "#আহ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 63.835,
+            "end": 67.649,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়াও টোপনি [overlap] আৰু মোক দিষ্টাপ কৰি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 67.649,
+            "end": 73.775,
+            "speakerSeqId": 1,
+            "transcription": "#আহ কালি ৰাতিপুৱা (()) লগতো যাব নাই অকলে যাব ই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 73.775,
+            "end": 82.364,
+            "speakerSeqId": 2,
+            "transcription": "অ, অকলে যাব তাইৰ একটা বজাত আছে, আৰু মোৰ ৰাতিপূৱা [overlap] মোৰ ন ৰাতিপুৱা নৈটা বাজিত আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 82.364,
+            "end": 85.064,
+            "speakerSeqId": 1,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 85.064,
+            "end": 94.177,
+            "speakerSeqId": 2,
+            "transcription": "কালে [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10021,
+            "start": 94.177,
+            "end": 97.015,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 97.015,
+            "end": 100.032,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ চাৰ [babble] আমাৰ চাৰ লৈ যাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 100.032,
+            "end": 102.631,
+            "speakerSeqId": 1,
+            "transcription": "কাক লৈ যাব?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 102.631,
+            "end": 107.002,
+            "speakerSeqId": 2,
+            "transcription": "#আহ চাৰ লৈ যাব পিকনিকট [babble] কৈ আছে দছ তাৰিখে লৈ যাম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 107.002,
+            "end": 109.831,
+            "speakerSeqId": 1,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 109.831,
+            "end": 110.68,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 110.68,
+            "end": 113.009,
+            "speakerSeqId": 1,
+            "transcription": "কিমানজন তহঁতৰ ষ্টোডেন্ত?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 113.009,
+            "end": 119.793,
+            "speakerSeqId": 2,
+            "transcription": "অ, ষ্টোডেন্ত ত বহু আছে; চাৰ কৈ আছে (()) লৈ যাম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 119.793,
+            "end": 124.012,
+            "speakerSeqId": 1,
+            "transcription": "ষ্টোডেন্ত~ ষ্টোডেন্ত কিমান আছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 124.012,
+            "end": 128.281,
+            "speakerSeqId": 2,
+            "transcription": "ষ্টোডেন এক~এশ পাৰ ~এশ পাৰ, এশ বিছ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 128.281,
+            "end": 129.192,
+            "speakerSeqId": 1,
+            "transcription": "অহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 129.192,
+            "end": 130.88,
+            "speakerSeqId": 2,
+            "transcription": "এশ বিছ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 130.88,
+            "end": 135.039,
+            "speakerSeqId": 1,
+            "transcription": "খালি <lang:Foreign>Ten</lang:Foreign> ৰ [noise] <lang:Foreign>Nine</lang:Foreign> ৰো?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 135.039,
+            "end": 139.699,
+            "speakerSeqId": 2,
+            "transcription": "অ, #আহ [babble] ছ <lang:Foreign>Seven, Eight, Nine, Ten</lang:Foreign> [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 139.699,
+            "end": 142.253,
+            "speakerSeqId": 1,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 142.253,
+            "end": 145.105,
+            "speakerSeqId": 2,
+            "transcription": "#আহ [babble]  [noise] বহুত ষ্টোডেন আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 145.105,
+            "end": 147.755,
+            "speakerSeqId": 1,
+            "transcription": "#উম #হম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 147.755,
+            "end": 152.885,
+            "speakerSeqId": 1,
+            "transcription": "কিমান (()) টিউচনৰ ফিচ কিমান লয়?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 152.885,
+            "end": 157.277,
+            "speakerSeqId": 2,
+            "transcription": "পাচ্ছ লয় [babble]  [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 157.277,
+            "end": 163.01,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] <lang:Foreign>Five Hundred</lang:Foreign> ন [babble] সিহতৰ ক~কম লে~কম লয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 163.01,
+            "end": 167.643,
+            "speakerSeqId": 1,
+            "transcription": "<lang:Foreign>Seven, Eight</lang:Foreign> [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 167.643,
+            "end": 169.759,
+            "speakerSeqId": 2,
+            "transcription": "<lang:Foreign>Seven, Eight, Four Hundred</lang:Foreign>"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 169.759,
+            "end": 170.266,
+            "speakerSeqId": 1,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 170.266,
+            "end": 173.017,
+            "speakerSeqId": 2,
+            "transcription": "<lang:Foreign>Four Hundred, Seven, Eight</lang:Foreign> [babble] <lang:Foreign>Nine, Ten, Five Hundred</lang:Foreign>"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 173.017,
+            "end": 175.362,
+            "speakerSeqId": 1,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 175.362,
+            "end": 181.387,
+            "speakerSeqId": 2,
+            "transcription": "তোমাৰ ঘৰত [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 181.387,
+            "end": 185.099,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ ঘৰত চাৰিজন মানুহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 185.099,
+            "end": 190.342,
+            "speakerSeqId": 2,
+            "transcription": "#আহ [babble]  [silence] চাৰজনে টোপনি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 190.342,
+            "end": 192.946,
+            "speakerSeqId": 2,
+            "transcription": "চাৰজনে টাপনি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 192.946,
+            "end": 194.005,
+            "speakerSeqId": 1,
+            "transcription": "(()) মই আছো [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 194.005,
+            "end": 195.292,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 195.292,
+            "end": 196.372,
+            "speakerSeqId": 1,
+            "transcription": "[noise] শুবয়ে নোৱাৰো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 196.372,
+            "end": 199.814,
+            "speakerSeqId": 2,
+            "transcription": "[noise] কোন কোন আছে, তোমাৰ ঘৰত?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 199.814,
+            "end": 205.214,
+            "speakerSeqId": 1,
+            "transcription": "আছে [silence] ঘৰৰ মানুহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 205.214,
+            "end": 210.665,
+            "speakerSeqId": 2,
+            "transcription": "#আহ [babble]  [silence] তোমাৰ ঘৰত ভাইটি নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 210.665,
+            "end": 214.833,
+            "speakerSeqId": 1,
+            "transcription": "আছে এটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 214.833,
+            "end": 217.533,
+            "speakerSeqId": 2,
+            "transcription": "#আহ এটা ভাইটি আছে [babble] ভন্টি ত নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 217.533,
+            "end": 218.326,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 218.326,
+            "end": 220.385,
+            "speakerSeqId": 2,
+            "transcription": "ভন্টি নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 220.385,
+            "end": 222.528,
+            "speakerSeqId": 1,
+            "transcription": "নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 222.528,
+            "end": 225.869,
+            "speakerSeqId": 2,
+            "transcription": "#আহ [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 225.869,
+            "end": 227.337,
+            "speakerSeqId": 2,
+            "transcription": "ভাবিটো আছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 227.337,
+            "end": 229.447,
+            "speakerSeqId": 1,
+            "transcription": "আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 229.447,
+            "end": 232.788,
+            "speakerSeqId": 2,
+            "transcription": "ভাবি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 232.788,
+            "end": 236.098,
+            "speakerSeqId": 1,
+            "transcription": "তৰ বচ~তৰ বচ #আহ এটিয়া মবাইল টিপি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 236.098,
+            "end": 237.89,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] এটিয়াও মবাইল টিপি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 237.89,
+            "end": 240.598,
+            "speakerSeqId": 1,
+            "transcription": "ৰাতি কেইটা লেকে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 240.598,
+            "end": 243.723,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] ফিলিম~ফিলিম দেখি আ~দেখি আছে মবাইল দেখি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 243.723,
+            "end": 246.136,
+            "speakerSeqId": 1,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 246.136,
+            "end": 249.055,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] কেইটা লৈকে মবাইল টিপে ই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10071,
+            "start": 249.055,
+            "end": 250.912,
+            "speakerSeqId": 2,
+            "transcription": "হা! কি কৈ আছে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 250.912,
+            "end": 254.708,
+            "speakerSeqId": 1,
+            "transcription": "ৰাতি~ৰাতি কেইটা লেকে মবাইল দেখে বচ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 254.708,
+            "end": 260.868,
+            "speakerSeqId": 2,
+            "transcription": "অ, একটা বজা; একটা বজা [babble] দেখে একটা দুটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 260.868,
+            "end": 266.942,
+            "speakerSeqId": 1,
+            "transcription": "#উম [silence]  [babble] ৰাতিপুৱায় তেনে দেৰিকে উথে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 266.942,
+            "end": 272.146,
+            "speakerSeqId": 2,
+            "transcription": "অ, দেৰিকে উথে দেৰিকৈ উথে চাৰে আঠটা বজাত [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 272.146,
+            "end": 277.996,
+            "speakerSeqId": 1,
+            "transcription": "কোনে খোলে, ই খোলে না [silence] তাৰ ভন্টি খোলে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 277.996,
+            "end": 281.506,
+            "speakerSeqId": 2,
+            "transcription": "#আহ না বচ~বচ খোলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10078,
+            "start": 281.506,
+            "end": 284.206,
+            "speakerSeqId": 1,
+            "transcription": "বচে খোলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10079,
+            "start": 284.206,
+            "end": 285.944,
+            "speakerSeqId": 2,
+            "transcription": "#আহ ছাৰে আঠটা বজাত খোলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 285.944,
+            "end": 291.479,
+            "speakerSeqId": 1,
+            "transcription": "#উম [silence] থিকে আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10081,
+            "start": 291.479,
+            "end": 292.559,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 292.559,
+            "end": 295.765,
+            "speakerSeqId": 1,
+            "transcription": "আজিকালি ঠাণ্ডাটো অলপ বেছি পৰিছে না"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10083,
+            "start": 295.765,
+            "end": 298.482,
+            "speakerSeqId": 2,
+            "transcription": "অ, থিক কৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10084,
+            "start": 298.482,
+            "end": 306.683,
+            "speakerSeqId": 1,
+            "transcription": "অনলাইনৰ পৰা যে তই জাম্পাৰটো আনিলি মোক ত দেখাই নাই ৷"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 306.683,
+            "end": 311.712,
+            "speakerSeqId": 2,
+            "transcription": "অ, ভুলি গেইছো [babble] ৰাতিপুৱা আহিবা দেখাম দে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10086,
+            "start": 311.712,
+            "end": 314.48,
+            "speakerSeqId": 1,
+            "transcription": "কালি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10087,
+            "start": 314.48,
+            "end": 316.184,
+            "speakerSeqId": 2,
+            "transcription": "#আহ কাইলে ৰাতিপুৱা আহিবা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10088,
+            "start": 316.184,
+            "end": 320.015,
+            "speakerSeqId": 1,
+            "transcription": "#আহ থিক আছে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10089,
+            "start": 320.015,
+            "end": 325.377,
+            "speakerSeqId": 2,
+            "transcription": "একদম বৰিয়া লাগিছে [bg-speech] [silence] একদম (()) [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10090,
+            "start": 325.377,
+            "end": 335.205,
+            "speakerSeqId": 2,
+            "transcription": "কালাৰটা আছে নীলা, একদম বৰিয়া লাগিছে [babble] নীলা কালাৰ [bg-speech] (()) জাকেটতো বৰিয়া [babble] বুলু কালাৰ আহে~আছে [bg-speech]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10091,
+            "start": 335.205,
+            "end": 338.982,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] কাৰনে (()) দিয়া নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10092,
+            "start": 338.982,
+            "end": 343.95,
+            "speakerSeqId": 2,
+            "transcription": "না না (()) ৱাৰ্দ (()) আছে এনে বহুত আছে (()) জাস্পাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10093,
+            "start": 343.95,
+            "end": 345.327,
+            "speakerSeqId": 1,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10094,
+            "start": 345.327,
+            "end": 349.389,
+            "speakerSeqId": 1,
+            "transcription": "[bg-speech] (()) নাই কাৰনে অর্ডাৰ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10095,
+            "start": 349.389,
+            "end": 352.465,
+            "speakerSeqId": 2,
+            "transcription": "(()) আছে না আৰু [babble] চলি যাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10096,
+            "start": 352.465,
+            "end": 355.722,
+            "speakerSeqId": 1,
+            "transcription": "#উম [babble] থিকে আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10097,
+            "start": 355.722,
+            "end": 361.223,
+            "speakerSeqId": 2,
+            "transcription": "#আহ (()) কৈ আছে (()) একটা কিনি দিবা; তোমাক কৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10098,
+            "start": 361.223,
+            "end": 363.552,
+            "speakerSeqId": 1,
+            "transcription": "হৈ নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10099,
+            "start": 363.552,
+            "end": 364.48,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10100,
+            "start": 364.48,
+            "end": 368.108,
+            "speakerSeqId": 1,
+            "transcription": "ক হব, কালি কিনি দিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10101,
+            "start": 368.108,
+            "end": 369.425,
+            "speakerSeqId": 2,
+            "transcription": "হব কালি কিনি দিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10102,
+            "start": 369.425,
+            "end": 371.118,
+            "speakerSeqId": 1,
+            "transcription": "অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10103,
+            "start": 371.118,
+            "end": 378.672,
+            "speakerSeqId": 2,
+            "transcription": "চিন্তা নকৰিবা [babble] একেবাৰে [bg-speech] ই এতিয়া হাহি আছে, পুৰা হাহি আছে একদম [noise] গুলগুলা হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10104,
+            "start": 378.672,
+            "end": 381.357,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] হব কালি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10105,
+            "start": 381.357,
+            "end": 385.523,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] কালি কিনি দিব দে চিন্তা নাকৰিবি একদম [babble] মই আছো না হব হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10106,
+            "start": 385.523,
+            "end": 387.464,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10107,
+            "start": 387.464,
+            "end": 395.311,
+            "speakerSeqId": 2,
+            "transcription": "কাইলৈ [babble] কেৰাম খেলিব লাগিব; কেৰাম আনিছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10108,
+            "start": 395.311,
+            "end": 399.619,
+            "speakerSeqId": 1,
+            "transcription": "#উম [silence] খেলিম [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10109,
+            "start": 399.619,
+            "end": 403.934,
+            "speakerSeqId": 2,
+            "transcription": "একদম বৰিয়া, কৰি খেলিম; বৰিয়া কৰি খেলিম একদম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10110,
+            "start": 403.934,
+            "end": 405.942,
+            "speakerSeqId": 1,
+            "transcription": "অ, অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10111,
+            "start": 405.942,
+            "end": 416.624,
+            "speakerSeqId": 2,
+            "transcription": "#উম [babble]  [silence] (()) ভালে আছা? একদম খবৰ-চবৰ চব ভালে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10112,
+            "start": 416.624,
+            "end": 419.058,
+            "speakerSeqId": 1,
+            "transcription": "চব খবৰ-চবৰ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10113,
+            "start": 419.058,
+            "end": 419.723,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10114,
+            "start": 419.723,
+            "end": 420.758,
+            "speakerSeqId": 2,
+            "transcription": "থিকে আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10115,
+            "start": 420.758,
+            "end": 425.633,
+            "speakerSeqId": 1,
+            "transcription": "ভাল হলে আৰু ভাল [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10116,
+            "start": 425.633,
+            "end": 426.344,
+            "speakerSeqId": 2,
+            "transcription": "থিক কৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10117,
+            "start": 426.344,
+            "end": 427.373,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10118,
+            "start": 427.373,
+            "end": 433.516,
+            "speakerSeqId": 2,
+            "transcription": "এনে ভাবি একদম ভালে আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10119,
+            "start": 433.516,
+            "end": 436.232,
+            "speakerSeqId": 1,
+            "transcription": "অ আছে ভালে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10120,
+            "start": 436.232,
+            "end": 446.459,
+            "speakerSeqId": 2,
+            "transcription": "অ, [babble]  [silence] থিকে আছে কাইলৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10121,
+            "start": 446.459,
+            "end": 451.454,
+            "speakerSeqId": 2,
+            "transcription": "(()) ক্ৰিকেট খেলিব লাগিব হা [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10122,
+            "start": 451.454,
+            "end": 454.768,
+            "speakerSeqId": 1,
+            "transcription": "অ, মোক ফন [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10123,
+            "start": 454.768,
+            "end": 457.332,
+            "speakerSeqId": 2,
+            "transcription": "ফন কৰিম ফন কৰিম চিন্তা নকৰিবা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10124,
+            "start": 457.332,
+            "end": 460.313,
+            "speakerSeqId": 2,
+            "transcription": "ফন কৰি একদম পুৰ' ক্ৰিকেট খেলিম কালি~কাইলৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10125,
+            "start": 460.313,
+            "end": 461.613,
+            "speakerSeqId": 1,
+            "transcription": "অ, অহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10126,
+            "start": 461.613,
+            "end": 471.046,
+            "speakerSeqId": 2,
+            "transcription": "বৰিয়া লাগিব একদম [babble]  [noise] [bg-speech] মই এতিয়া [overlap] বৰিয়া পাওঁ ক্ৰকেট খেলিবা [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10127,
+            "start": 471.046,
+            "end": 475.798,
+            "speakerSeqId": 1,
+            "transcription": "ভাল [overlap] বহুত ভাল লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10128,
+            "start": 475.798,
+            "end": 480.007,
+            "speakerSeqId": 2,
+            "transcription": "থিক কৈছে একদম [babble] তুমি দৌৰেবাৰ নাপাও~নাপাৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10129,
+            "start": 480.007,
+            "end": 482.077,
+            "speakerSeqId": 1,
+            "transcription": "#আহ [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10130,
+            "start": 482.077,
+            "end": 484.09,
+            "speakerSeqId": 2,
+            "transcription": "তুমি আপডেট থাকিবা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10131,
+            "start": 484.09,
+            "end": 486.306,
+            "speakerSeqId": 1,
+            "transcription": "হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10132,
+            "start": 486.306,
+            "end": 496.409,
+            "speakerSeqId": 2,
+            "transcription": "হা [silence] তুমি কিন্তু একদম বৰিয়া খেলা [babble]  [silence]  [overlap]  [babble] তুমি একদম অলৰাউণ্ডাৰ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10133,
+            "start": 496.409,
+            "end": 498.67,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10134,
+            "start": 498.67,
+            "end": 498.755,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10135,
+            "start": 498.755,
+            "end": 504.273,
+            "speakerSeqId": 1,
+            "transcription": "#উম [babble] তহতৰ বুলে পিচফালে বুলে খেল~খেল পাত বুলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10136,
+            "start": 504.273,
+            "end": 508.795,
+            "speakerSeqId": 2,
+            "transcription": "অ [babble] তুমিও~তুমি পাতা [silence] ভাল হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10137,
+            "start": 508.795,
+            "end": 511.954,
+            "speakerSeqId": 1,
+            "transcription": "মইয়ে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10138,
+            "start": 511.954,
+            "end": 513.487,
+            "speakerSeqId": 2,
+            "transcription": "কাটা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10139,
+            "start": 513.487,
+            "end": 514.837,
+            "speakerSeqId": 1,
+            "transcription": "(()) কিমান দিন?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10140,
+            "start": 514.837,
+            "end": 516.828,
+            "speakerSeqId": 2,
+            "transcription": "কি ক~কি কৈ আছা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10141,
+            "start": 516.828,
+            "end": 520.676,
+            "speakerSeqId": 1,
+            "transcription": "অ, (()) কিমান দিব [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10142,
+            "start": 520.676,
+            "end": 522.177,
+            "speakerSeqId": 2,
+            "transcription": "হাজাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10143,
+            "start": 522.177,
+            "end": 524.827,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10144,
+            "start": 524.827,
+            "end": 527.611,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] ফিচ লব [overlap] ফিচ লব ধাইছ টকা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10145,
+            "start": 527.611,
+            "end": 530.935,
+            "speakerSeqId": 1,
+            "transcription": "অ টিম আহিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10146,
+            "start": 530.935,
+            "end": 537.753,
+            "speakerSeqId": 2,
+            "transcription": "অ, টম আহিব [babble] আমি আছো না [overlap]  [babble] বহুত টিম আহিব [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10147,
+            "start": 537.753,
+            "end": 538.293,
+            "speakerSeqId": 1,
+            "transcription": "কবা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10148,
+            "start": 538.293,
+            "end": 543.473,
+            "speakerSeqId": 2,
+            "transcription": "বহুত টিম আহিব হা [babble] ধাইছ টকা (()) পাচ্ছ টকা দিলেওঁ হব <lang:Foreign>Five Hundred</lang:Foreign>"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10149,
+            "start": 543.473,
+            "end": 547.439,
+            "speakerSeqId": 1,
+            "transcription": "ফাষ্ট ফ্ৰেছ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10150,
+            "start": 547.439,
+            "end": 550.426,
+            "speakerSeqId": 2,
+            "transcription": "ফাষ্ট ফ্ৰেছ হাজাৰ টকা, <lang:Foreign>One Thousand</lang:Foreign>"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10151,
+            "start": 550.426,
+            "end": 554.172,
+            "speakerSeqId": 1,
+            "transcription": "#উম (()) টিম নাহে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10152,
+            "start": 554.172,
+            "end": 558.205,
+            "speakerSeqId": 2,
+            "transcription": "টিম আহিব খি~ টিম আহিলে (()) নাহিলে নাপাতো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10153,
+            "start": 558.205,
+            "end": 562.897,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] খবৰ দিবি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10154,
+            "start": 562.897,
+            "end": 570.355,
+            "speakerSeqId": 2,
+            "transcription": "(()) হা হা হব খবৰ দিম [babble] আমাৰ একজাম চেঞ্জ হলে খবৰ দিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10155,
+            "start": 570.355,
+            "end": 573.19,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10156,
+            "start": 573.19,
+            "end": 575.924,
+            "speakerSeqId": 2,
+            "transcription": "আত [babble] আঠ~আঠ তাৰিখে একজাম [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10157,
+            "start": 575.924,
+            "end": 576.751,
+            "speakerSeqId": 1,
+            "transcription": "ছৰ্ট গ্ৰাউণ্ড"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10158,
+            "start": 576.751,
+            "end": 578.641,
+            "speakerSeqId": 2,
+            "transcription": "ছৰ্ট গ্ৰাউণ্ড, ছর্ট গ্ৰাউণ্ড"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10159,
+            "start": 578.641,
+            "end": 579.679,
+            "speakerSeqId": 1,
+            "transcription": "ছর্ট গ্ৰাউণ্ড না লং?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10160,
+            "start": 579.679,
+            "end": 580.801,
+            "speakerSeqId": 2,
+            "transcription": "লং না ছর্ট গ্ৰাউণ্ড"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10161,
+            "start": 580.801,
+            "end": 582.901,
+            "speakerSeqId": 1,
+            "transcription": "ছর্ট"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10162,
+            "start": 582.901,
+            "end": 586.285,
+            "speakerSeqId": 2,
+            "transcription": "ছর্ট গাউণ্ড, বাউন্দ্ৰি বা~বনাই লম একদম বৰিয়া কৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10163,
+            "start": 586.285,
+            "end": 588.833,
+            "speakerSeqId": 1,
+            "transcription": "অ হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10164,
+            "start": 588.833,
+            "end": 591.483,
+            "speakerSeqId": 2,
+            "transcription": "#আহ (()) [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10165,
+            "start": 591.483,
+            "end": 594.689,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] বৰিয়া হব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10166,
+            "start": 594.689,
+            "end": 598.963,
+            "speakerSeqId": 1,
+            "transcription": "এটোৱে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10167,
+            "start": 598.963,
+            "end": 602.08,
+            "speakerSeqId": 2,
+            "transcription": "(()) আনিবা [babble] (()) আনিবা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10168,
+            "start": 602.08,
+            "end": 603.97,
+            "speakerSeqId": 1,
+            "transcription": "অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10169,
+            "start": 603.97,
+            "end": 605.891,
+            "speakerSeqId": 2,
+            "transcription": "(()) হব [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10170,
+            "start": 605.891,
+            "end": 609.995,
+            "speakerSeqId": 1,
+            "transcription": "#উম [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10171,
+            "start": 609.995,
+            "end": 615.659,
+            "speakerSeqId": 2,
+            "transcription": "#আহ থিক [overlap] #আহ"
+        }
+    ]
+}

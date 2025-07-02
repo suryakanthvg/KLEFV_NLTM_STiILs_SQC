@@ -1,0 +1,580 @@
+{
+    "speechMode": "C",
+    "recordingId": "20828445",
+    "speechFile": "as_SHA1P_C_r013_s050",
+    "callDuration": 568.96,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239281"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239282"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 8.637,
+            "speakerSeqId": 1,
+            "transcription": "[silence] সুনিল চেত্তিৰ জন্ম হৈছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 8.637,
+            "end": 21.952,
+            "speakerSeqId": 1,
+            "transcription": "এঘাৰ আগস্থ উন্নৈচ পইচথি এজন ভাৰতিয় অভিনেতা চলচিত্ত তেলিভিচন বেক্তিত্ত আৰু প্ৰধানকৈ সক্ৰিতাই তামিল তেলেগু ইংৰাজি মাৰাধি মালায়ালম আৰু কানাদা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 21.952,
+            "end": 23.572,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 23.572,
+            "end": 32.937,
+            "speakerSeqId": 2,
+            "transcription": "তেওৰ প্ৰদাক্চন হাউচ ইন্তাৰ্তেন্ত্মেন্ত প্ৰাইভেত লিমিতেদ মালিক (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 32.937,
+            "end": 39.333,
+            "speakerSeqId": 2,
+            "transcription": "অৰিদিনেৰি গেইম (()) কেইবাখনো চবিত [babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 39.333,
+            "end": 45.053,
+            "speakerSeqId": 1,
+            "transcription": "প্ৰাথমিক যুগত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 45.053,
+            "end": 50.133,
+            "speakerSeqId": 2,
+            "transcription": "প্ৰি ভি আৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 50.133,
+            "end": 58.857,
+            "speakerSeqId": 1,
+            "transcription": "উন্নৈচ বিৰানৈব্বৈ চনত একত্ৰিচ বচৰ বয়খত দিব্য়া ভাৰাতিৰ সৈতে পৰিমানৰ সৈতে হিন্দি চবিত অবিসাপ ঐত্য়াধিক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 58.857,
+            "end": 74.078,
+            "speakerSeqId": 2,
+            "transcription": "বলবান ৱাক্ত হামাৰা হে চেইতান দিলবালা অন্ধ মজাক গপি কিচান আদি বিভিন্ন সকল চিনেমা ছাই অকলসৰিত ব্য়াক্তি সকলে হাম হে সুৰকস্য়া আৰু ভুমি তক্কৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 74.078,
+            "end": 83.663,
+            "speakerSeqId": 2,
+            "transcription": "কৃষ্ণ শাস্ত্ৰ ৰক্ষক সিমান্ত জল ভাই কাহা বিনাশক আৰু হুতুতু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 83.663,
+            "end": 99.064,
+            "speakerSeqId": 1,
+            "transcription": "নৈব্ব দশকত সাৰবাহিক দৰমহাৰ উপৰত বলিউদৰ অভিনেতা সকলোৰ ভিতৰত ঐন্নতম গোতেই নৈব্ব দশকত তেও মুলত এক্চন চবিৰ সৈতে জৰিত আছিল দশকত ভিতৰত ্তেও অভিনয় কৰাৰ ভিতৰত চিনেমাত পুৰুখ নাই অকল চৰিত্তৰ অভিনয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 99.064,
+            "end": 99.897,
+            "speakerSeqId": 1,
+            "transcription": "তেও কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 99.897,
+            "end": 118.105,
+            "speakerSeqId": 2,
+            "transcription": "হেৰা ফেৰি ধাৰকান জাঙ্গল য়েহ তেৰা ঘাৰ য়েহ মেৰা ঘাৰ মে হু না ভাগ্বান মে এক ফিৰ হেৰা ফেৰি আৰু (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 118.105,
+            "end": 126.813,
+            "speakerSeqId": 1,
+            "transcription": "দুই হাজাৰ চৈধ্য় চনত সচ্য়াগত কাৰনত তেও নিজৰ নাম বানান চুনিলৰ পৰা চুনিললৈ সলনি কৰিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 126.813,
+            "end": 138.203,
+            "speakerSeqId": 2,
+            "transcription": "আৰু এই জেনতেলমেন আৰু গ্ৰেদ ফৰ হেৰা ফেৰি থ্ৰি আৰু ভিয়েতনাম তু দা জাঙ্গল আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 138.203,
+            "end": 139.57,
+            "speakerSeqId": 1,
+            "transcription": "দুই হাজাৰ চব্বিচ [overlap] #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 139.57,
+            "end": 152.378,
+            "speakerSeqId": 1,
+            "transcription": "(()) লগতে তেও এতা অন্লাইনৰ প্লাচ্তিক কোম্পানিৰ এদ দা পস্ত আৰম্ভ কৰিছিল চেলেব্ৰিতিৰ প্ৰিপেইদ লিভৰ মুম্বাইৰ হিৰোচ ইস্প্ৰেইদ দলৰ অধিনায়ক চেত্তিৰ আৰু মুম্বাইৰ মিস্ৰিত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 152.378,
+            "end": 164.68,
+            "speakerSeqId": 1,
+            "transcription": "দা ইভিনিং বাৰ আৰু প্লাচ এইচ তু অফ ৰেচ্তুৰেন্তৰ মালিক ভাৰতৰ আগধানিৰ ফিতনেচ ৰিয়েলিতি চো বিশেস গুপ্ত বিজেতা আৰু ভাৰতৰ আধুনিক চেম্পিয়ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 164.68,
+            "end": 168.95,
+            "speakerSeqId": 2,
+            "transcription": "চিশতিৰ দুই হাজাৰ এক চনত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 168.95,
+            "end": 182.669,
+            "speakerSeqId": 2,
+            "transcription": "ধাৰকনৰ বাবে চেস্থ খল্নায়কৰ বাবে ফিল্ম ফেয়াৰ বতাহ লাভ কৰিছিল দুইহাজাৰ ন চনত চেত্তিয়ে নক্সালবাদি ভাৰতিয় চবিৰ (()) মুহত্সবত চেস্থ বতাহ লাভ কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 182.669,
+            "end": 197.317,
+            "speakerSeqId": 1,
+            "transcription": "অত্য়াধিকৰন য্গ্য় আছে চেত্তি (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 197.317,
+            "end": 200.303,
+            "speakerSeqId": 1,
+            "transcription": "প্ৰাতন প্ৰাপ্তি আদি চবি নিৰ্মান কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 200.303,
+            "end": 206.699,
+            "speakerSeqId": 2,
+            "transcription": "এই প্ৰকল্প অংখ হোৱাৰ উপৰি পৰিপেক্তি আৰু ৰিয়েলিতি (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 206.699,
+            "end": 213.533,
+            "speakerSeqId": 1,
+            "transcription": "দুই হাজাৰ উন্নৈচ চনত ৰাজ্নি কান্তনৰ অত্য়নত (()) চবি দৰ্পনতো অভিনয় কৰিছিল চেত্তিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 213.533,
+            "end": 220.503,
+            "speakerSeqId": 2,
+            "transcription": "দুই হাজাৰ তেইচ চনত চুনিল চেত্তিয়ে হান্তাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 220.503,
+            "end": 230.189,
+            "speakerSeqId": 2,
+            "transcription": "কাম কৰিছিল হান্তাৰ হৈছে একচন থ্ৰিলাৰ ৱেব চিৰিছ যিয়ে মুম্বাইৰ অপৰাধৰ বাবে (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 230.189,
+            "end": 232.585,
+            "speakerSeqId": 1,
+            "transcription": "অন্য় কাম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 232.585,
+            "end": 239.302,
+            "speakerSeqId": 2,
+            "transcription": "দুই হাজাৰ উন্নৈচ চনত অনুস্থিত অন্লাইন চেক্তৰ আৰু বিচ্নেছ ইচ্তাৰ তাপ ইচ্তাৰ্ত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 239.302,
+            "end": 255.451,
+            "speakerSeqId": 1,
+            "transcription": "তেও প্ৰতিস্থাপক (()) দুইহাজাৰ ষোল্ল চনত জানুৱাৰি মাহত ফিতনেচ উদ্য়গত প্ৰৈত্য়াবান সমুহত সৈতে মুকাবালা কৰিবলৈ ফেচ্বুকত এতা সম্প্ৰদায় হিচাপত পিত্তাৰ আৰম্ভ কৰিছিল পিত্তাৰ এই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 255.451,
+            "end": 266.673,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া এক লাখতকৈ অধিক ফিতনেছ উপাৰ্জনৰ দাবি কৰিছে আৰু পাচ লাখ পন্চাচ হাজাৰ সদ্য়সৰ এক অতি অনুৰ্জিত সম্প্ৰদায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 266.673,
+            "end": 279.245,
+            "speakerSeqId": 1,
+            "transcription": "চাহাৰা ৱানত ভাৰতৰ আন্সলিক ভিত্তিত ৰিয়েলিতি চো বিগেচ্ত (()) ক্ৰিকেতাৰ আয়যোগ হিচাপেও উপস্থিত হৈছে আৰু ভাৰতৰ আন্তৰ্ৰাস্তিয় আয়িৰ্বান এন জি পি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 279.245,
+            "end": 292.272,
+            "speakerSeqId": 2,
+            "transcription": "আভিনেতা গৰাকিৰ (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 292.272,
+            "end": 296.626,
+            "speakerSeqId": 1,
+            "transcription": "তেও কেফে এক্চ্প্লৰ সৈতে সংযুক্ত (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 296.626,
+            "end": 307.831,
+            "speakerSeqId": 1,
+            "transcription": "এদভেন্চাৰ সহমালিক দুই হাজাৰ দছ চনৰ তেও নিজে (()) কৰি দিয়ে আৰু তাৰ পৰিবৰ্তে ইন্জিন ইচ্তাব্লিচ নামৰ এখন নতুন ৰেচ্তুৰ্ৰেন্ত কৰি দিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 307.831,
+            "end": 309.805,
+            "speakerSeqId": 2,
+            "transcription": "চেলিব্ৰিতি ক্ৰিকেত লি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 309.805,
+            "end": 321.382,
+            "speakerSeqId": 1,
+            "transcription": "চুনিল চেত্তি চেলিব্ৰিতি ক্ৰিকেত লি মুম্বাইৰ হিৰোচ ক্ৰিকেত দলৰ অধিনায়ক দুই হাজাৰ অথৰ চনৰ দিচেম্বৰ মাহত আৰম্ভ হোৱা ক্ৰিকেত মেত্চৰ সহ প্ৰতিস্থাপক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 321.382,
+            "end": 333.886,
+            "speakerSeqId": 2,
+            "transcription": "চুনিল চেত্তি চ্ৰিলংকাত অনুস্থিত হোৱা হিন্দু গল্দেন (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 333.886,
+            "end": 342.408,
+            "speakerSeqId": 1,
+            "transcription": "উনৈচ্চ আথানৈব্বৈ চনত (()) হিন্দু সমাজ কৰ্মিৰ পৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 342.408,
+            "end": 353.832,
+            "speakerSeqId": 1,
+            "transcription": "জন্মগ্ৰহন কৰে এগৰাকি বেবসায়িক দিজাইনাৰ আৰু সমাজ্কৰ্মি মানা চেত্তিৰ সৈতে বিবাহিত আৰু তেওলোকৰ দুতা সন্তান এগৰাকি কন্য়া আছে আৰু আন এজন পুত্ৰ আহান চেত্তি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 353.832,
+            "end": 364.177,
+            "speakerSeqId": 2,
+            "transcription": "চুনিল চেত্তিৰ কন্য়া আথিয়া চেত্তি দুই হাজাৰ তেইছ চনৰ তেইছ জানুৱাৰি (()) বিবাহপাখত আবদ্ৱ হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 364.177,
+            "end": 375.196,
+            "speakerSeqId": 1,
+            "transcription": "কিক বস্কিংৰ ব্লেক বেল্ত আৰু কাপুৰৰ বুতিকৰ লগতে বহুত তথ্য়ত বিসেশত্ত হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 375.196,
+            "end": 378.52,
+            "speakerSeqId": 2,
+            "transcription": "মধ্য় বৰ্গত চুনিল চেত্তি এজন কিং মদেল"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10043,
+            "start": 378.52,
+            "end": 379.668,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 379.668,
+            "end": 380.275,
+            "speakerSeqId": 2,
+            "transcription": "চপ্ন্কাৰ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10045,
+            "start": 380.275,
+            "end": 380.292,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 380.292,
+            "end": 385.76,
+            "speakerSeqId": 2,
+            "transcription": "দুই হাজাৰ এক ধাৰকানৈৰ বাবে (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 385.76,
+            "end": 391.092,
+            "speakerSeqId": 1,
+            "transcription": "ধাৰকানৰ বাবে চেস্থ অভিনেতাৰ বাবে জি চিনে বতাহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 391.092,
+            "end": 398.956,
+            "speakerSeqId": 2,
+            "transcription": "দুই হাজাৰ এঘাৰত (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 398.956,
+            "end": 400.795,
+            "speakerSeqId": 1,
+            "transcription": "ধানন (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 400.795,
+            "end": 407.275,
+            "speakerSeqId": 2,
+            "transcription": "উন্নৈছ আথানৈব্বৈ চনত (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 407.275,
+            "end": 412.456,
+            "speakerSeqId": 1,
+            "transcription": "উনৈচ্চ আথানৈব্ব সিমান্তৰ বাবে স্ৰেথ অভিনয় অভিনেতাৰ বাবে ফিল্ম ফেয়াৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 412.456,
+            "end": 417.265,
+            "speakerSeqId": 2,
+            "transcription": "(()) আই আই ফাল্কি বতা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 417.265,
+            "end": 428.335,
+            "speakerSeqId": 1,
+            "transcription": "[silence] দুই হাজাৰ এক চনৰ বাবে চেস্থ খোল্নায়কৰ বাবে আই আই এফ এ বতা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 428.335,
+            "end": 432.925,
+            "speakerSeqId": 2,
+            "transcription": "দুই হাজাৰ পাছ মে হু নাৰ বাবে চেস্থ খোল্নায়কৰ বতা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 432.925,
+            "end": 438.477,
+            "speakerSeqId": 1,
+            "transcription": "দুই হাজাৰ পাছ মে হু নাৰ বাবে চেস্থ খোল্নায়কৰ বাবে আই আই এফ বতা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 438.477,
+            "end": 439.321,
+            "speakerSeqId": 2,
+            "transcription": "জম্বান্ধা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 439.321,
+            "end": 445.109,
+            "speakerSeqId": 1,
+            "transcription": "[silence] উন্নৈছ দাতাৰ সন্স্য়ৰ (()) অধ্য়কৰ বিশয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 445.109,
+            "end": 450.087,
+            "speakerSeqId": 2,
+            "transcription": "ৰতন তাতাৰ জন্ম আথাইছ দিচেম্বৰ উন্নৈছ সাত্ৰিছ চনত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 450.087,
+            "end": 459.875,
+            "speakerSeqId": 2,
+            "transcription": "তেও এজন ভাৰতিয় উদ্য়গপতি আৰু তাত সন্সৰ প্ৰাক্তন অধ্য়ক্ষ আৰু উন্নৈছ নৈব্ব চনৰ পৰা দুই হাজাৰ বাৰ চনলৈ তাত গ্ৰুপৰ অধ্য়ক্ষ আছিল তেও সোল্ল চনৰ পৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 459.875,
+            "end": 464.836,
+            "speakerSeqId": 2,
+            "transcription": "অক্তবৰৰ দুই হাজাৰ সোতৰ চনৰ ফেব্ৰুৱাৰিৰ অন্তৰ্প্ৰনৰ অধ্য়ক্ষ আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 464.836,
+            "end": 479.956,
+            "speakerSeqId": 1,
+            "transcription": "তেও চেস্থ নেতৃত্তৰ অব্য়াহত ৰাখিছে দুই হাজাৰ চনৰ ত্ৰিতিয় অসাময়িক সন্মান পদ্মভুখন লাভ কৰাৰ পিচ্তেই দুই হাজাৰ আথ চনৰ ভাৰতৰ তিতিয় সোৰ্বচ্চ অসামৰিক সন্মান লাভ কৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 479.956,
+            "end": 492.022,
+            "speakerSeqId": 2,
+            "transcription": "চয়চথি চনত তাতাত যোগ্দান কৰিছিল (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 492.022,
+            "end": 504.29,
+            "speakerSeqId": 1,
+            "transcription": "বাল্য় কালত তাতাৰ (()) অতিগ্ৰহন কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 504.29,
+            "end": 518.847,
+            "speakerSeqId": 1,
+            "transcription": "বহুত লাখ কে ভাৰত পদৰ পৰা বিস্ৱ ব্য়াবহাৰলৈ ৰুপান্তৰিত কৰাৰ প্ৰয়াখত তাত উন্নতম বৃহত্তৰ দানবিত্ত উপাৰ্জন (()) দান বৰঙ্গনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 518.847,
+            "end": 520.692,
+            "speakerSeqId": 1,
+            "transcription": "সন্থালৈ আগবোৰাই দিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 520.692,
+            "end": 529.94,
+            "speakerSeqId": 2,
+            "transcription": "ৰতন তাতাৰ জন্ম হৈছিল মুম্বাইৰ বৰ্তমান মুম্বাই (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 529.94,
+            "end": 542.275,
+            "speakerSeqId": 1,
+            "transcription": "তেও চুৰাতত জন্ম গ্ৰহন কৰা আৰু পিছত তাতা পৰিয়ালক লোৱা নবেল তাতা আৰু তাতাৰ প্ৰতিস্থাপক নাম দিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 542.275,
+            "end": 545.903,
+            "speakerSeqId": 1,
+            "transcription": "চেহ্জিদ তাতাৰ ভাতিজি চুনি তাতাৰ পুত্ৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 545.903,
+            "end": 559.454,
+            "speakerSeqId": 2,
+            "transcription": "তেও এজন জিমি তাতা আৰু এজন আৰৈ বচৰিয়া নবেল তাতা (())"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10070,
+            "start": 559.454,
+            "end": 568.96,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        }
+    ]
+}

@@ -1,0 +1,444 @@
+{
+    "speechMode": "C",
+    "recordingId": "20828449",
+    "speechFile": "as_SHA1P_C_r013_s051",
+    "callDuration": 585.856,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239283"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239284"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 5.043,
+            "speakerSeqId": 1,
+            "transcription": "মহাত্মা গান্ধি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 5.043,
+            "end": 17.227,
+            "speakerSeqId": 1,
+            "transcription": "মোহন দাচ কৰম চাদৰ নেতৃত্তত (()) ব্ৰিতিছ শাসৰ পৰা স্ৱাধিনতাৰ বাবে সোকলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 17.227,
+            "end": 31.958,
+            "speakerSeqId": 2,
+            "transcription": "যিয়ে গুজৰাতৰ হিন্দু পৰিয়ালত জন্ম গ্ৰহন কৰি দাঙ্গৰ দিঘল হোৱা ভাতৃ লন্দনৰ ইনাৰ তেম্পলত আইনৰ প্ৰক্ষিক্ষন লৈছিল আৰু অথৰশো একানব্বৈ চনত জুন মাহত বাইছ বচৰ বয়খত গাওলৈ মাতি অনা হৈছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 31.958,
+            "end": 44.682,
+            "speakerSeqId": 1,
+            "transcription": "ভাৰতত দুবছৰ অনিচ্চিত হোৱাৰ পিছত তেও সফল আইন আৰম্ভ কৰিব নোৱাৰিলে অথৰশো তিৰানৈব্বৈ চনত তেও (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 44.682,
+            "end": 52.917,
+            "speakerSeqId": 1,
+            "transcription": "এজন ভাৰতিয় নাগৰিক এজন প্ৰতিনিধিত্ত কৰিবলৈ তেও একৈছ বছৰ দক্ষিন আফ্ৰিকাত বাখ কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 52.917,
+            "end": 66.198,
+            "speakerSeqId": 2,
+            "transcription": "অথৰ চনত পন্সল্লিছ বছৰ বয়খত ভাৰতলৈ উভতি আহি অতি সোনকালে কৃষক আৰু চহৰৰ শ্ৰমিকক সঙ্গথিত কৰি অত্য়াধিক ভুমিকৰ আৰু প্ৰতিবাদ কৰিবলৈ আৰম্ভ কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 66.198,
+            "end": 79.799,
+            "speakerSeqId": 1,
+            "transcription": "উন্নৈছ একত্ৰিছ ত জাতিয় কংৰেচৰ নেতৃত্ত গ্ৰহন কৰি আত্মিয় দৰিদ্ৰতা কাম নাৰিৰ অধিক আৰু সম্প্ৰহাৰত ধৰ্মিয় আৰু অনগত সম্বন্ধয়ত ্প্ৰভাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 79.799,
+            "end": 92.084,
+            "speakerSeqId": 1,
+            "transcription": "স্ৱাতাৰ অন্ত পেলৱা আৰু সৰ্বকৰি স্ৱাৰাত আঘাত [overlap] আত্মশাসন লাভৰ বাবে দেশ বোৰ নেতৃত্তত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 92.084,
+            "end": 102.715,
+            "speakerSeqId": 2,
+            "transcription": "ৰাজ্নিতি প্ৰতিভাত দুয়ৰে মাধ্য়ম হিচাপে লৈ স্ৱাবলম্বি আৰু শিক্ষা প্ৰদায়ত থাকিবলৈ আৰম্ভ কৰিছিল সাধাৰন খাদ্য় উপবাদ গ্ৰহন কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 102.715,
+            "end": 116.114,
+            "speakerSeqId": 1,
+            "transcription": "সাধাৰন ভাৰতিয় [overlap] কৃষি প্ৰদান জাতিয়বাদ আদি কাজিয়া উন্নৈছ ত্ৰিছ চনত চাৰিশ কিলমিতাৰ দেশৰ জাতি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 116.114,
+            "end": 128.18,
+            "speakerSeqId": 1,
+            "transcription": "চন মাৰ্চৰ নেতৃত্তত ব্ৰিতিছে আৰোপ কৰা নিমখ প্ৰত্য়াহাৰি জনায় উন্নৈছ তেত্তিছ চনত ব্ৰিতিছক ভাৰত এৰি যাবলৈ আহ্ব্বান জনায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 128.18,
+            "end": 143.35,
+            "speakerSeqId": 2,
+            "transcription": "বৰাক ভিত্তি কৰি স্ৱাধিন ভাৰতৰ কান্ত্ৰি দ্ৰিস্তিভঙ্গি উন্নৈছ চল্লিছ চনত ব্ৰিতিছ ভাৰতৰ ভিতৰত মুচলমান সোকলক বাবে সুকিয়া গ্ৰিহ ভুমি দাবি কৰা মুচলমান জাতিয়বাদি প্ৰত্য়াহ্বান জনায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 143.35,
+            "end": 152.716,
+            "speakerSeqId": 1,
+            "transcription": "উন্নৈছ আথ্চল্লিছ চ্নৰ আগস্থ মাহত স্ৱাধিনতা প্ৰদান কৰে কিন্তু ব্ৰিতিছ ভাৰতিয় কমপেন্চন দমিনিয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 152.716,
+            "end": 159.905,
+            "speakerSeqId": 1,
+            "transcription": "বিৰক্ত হৈ কিন্তু ভাৰত আৰু মুচল্মান শিক্ষা গৰিস্থ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 159.905,
+            "end": 174.35,
+            "speakerSeqId": 2,
+            "transcription": "তট্কালিন উথ্জাপনৰ পিচতো অন্সলৰ প্ৰদখন কৰি দুখ কৰাৰ্ চেস্থা কৰে তাৰ পিছল মাহ কেইতাত ধৰ্মিয় শিক্ষা বন্ধ কৰিবলৈ তেও অনশন কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 174.35,
+            "end": 187.175,
+            "speakerSeqId": 1,
+            "transcription": "ইয়াৰে (()) চনৰ বাৰ জানুৱাৰিত তেওৰ বয়খ সোতৰ বছৰ বয়খত মুকলি হৈছিল ইয়াৰ পৰক্ষ লক্ষ্য় আছিল ভাৰতক পাকিস্থানক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 187.175,
+            "end": 196.608,
+            "speakerSeqId": 1,
+            "transcription": "পাবলগিয়া নগদ ধনৰ কিছু অংশ প্ৰতিশোধ কৰিবলৈ হেছা প্ৰয়গ কৰা হৈছিল ভাৰত চৰকাৰে প্ৰতিশোধ কৰি আহিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 196.608,
+            "end": 213.095,
+            "speakerSeqId": 2,
+            "transcription": "ভাৰতৰ পুনেৰ এজন উগ্ৰ জাতিয়্তাবাদি যিয়ে উন্নৈছ আথ্চল্লিছ চনৰ তিৰিছ জানুৱাৰিত দিল্লিত অনুস্থিত হোৱা আন্তৰাস্ত্ৰিয় প্ৰাৰ্থনা ৰাতি তিনিবাৰ ঘোশনা কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 213.095,
+            "end": 225.515,
+            "speakerSeqId": 1,
+            "transcription": "গান্ধিৰ জন্মদিন অৰ্থাত দুই অক্তবৰত ভাৰতৰ গান্ধি জয়ন্তি জাতিয়বাদৰ নিতি হিচাপত বিস্ৱ জুৰি অন্তৰাস্ত্ৰিক অহিংশা দিবশ হিচাপে পালন কৰা হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 225.515,
+            "end": 229.497,
+            "speakerSeqId": 1,
+            "transcription": "আৰম্ভনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 229.497,
+            "end": 242.913,
+            "speakerSeqId": 2,
+            "transcription": "তেওৰ পিতৃ কৰম্চাদ উত্তমচাদ গান্ধি অথৰশ বাইছ উপৰবন্দা ৰাজ্য়ৰ দেৱান মুক্ষ্য় মন্ত্ৰি হিচাপে কায্য় নিৰ্বাহ কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 242.913,
+            "end": 248.549,
+            "speakerSeqId": 1,
+            "transcription": "তেওৰ প্ৰতিত্ত (()) বিলাকৰ ৰাজ্য়ৰ (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 248.549,
+            "end": 265.238,
+            "speakerSeqId": 2,
+            "transcription": "চাৰিবাৰ বিয়া হৈছিল তেওৰ তেওৰ প্ৰথম দুগৰাকি পত্নিৰ মৃতু হয় সৰুতে প্ৰৈতেকয়ে এগৰাকি কন্য়া সন্তান জন্ম দিয়াৰ পিছত আৰু তেও তৃতিয় বিবাহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 265.238,
+            "end": 279.481,
+            "speakerSeqId": 1,
+            "transcription": "এতা অন্শলত তেওৰ দৃতিয় পত্নিক পুনৰ বিয়া কৰাবলৈ অনুমতি বিচাৰিছিল সেই বচৰতে তেও জুনত পুতুলিবাইক বিয়া কৰায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 279.481,
+            "end": 284.088,
+            "speakerSeqId": 1,
+            "transcription": "আৰু গান্ধাৰি বৈশ্য় পৰিয়ালৰ সদশ্য় আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 284.088,
+            "end": 299.393,
+            "speakerSeqId": 2,
+            "transcription": "অথৰশ উন্শোত্তৰ চনত দুই অক্তবৰত পুৰ্বন্দৰত থকা গান্ধি পৰিয়ালৰ বাস আন্ধাৰ খিৰিকি বিহিন তলৰ মহলাৰ কথাত প্ৰতিবাৰে তেওৰ শেখ সন্তান মোহ গুল মোহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 299.393,
+            "end": 301.587,
+            "speakerSeqId": 2,
+            "transcription": "মোহন দাসক জন্ম দিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 301.587,
+            "end": 311.29,
+            "speakerSeqId": 1,
+            "transcription": "পনতে (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 311.29,
+            "end": 327.71,
+            "speakerSeqId": 2,
+            "transcription": "কৈছে যে সেইবোৰ তেওৰ মনৰ এক অমানিশা পেলাই থৈ গৈছে তেও লিখিছে এইতুয়ে মোক খেদি ফুৰিছিল আৰু মই নিশ্ৱয় নিজৰ হৈ নিজৰ চৰিত্ৰত অংশ অভিহনে খেলিছিলু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 327.71,
+            "end": 340.687,
+            "speakerSeqId": 1,
+            "transcription": "গান্ধি আৰম্ভনিৰে পৰা সত্য় আৰু প্ৰেমকৰ (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 340.687,
+            "end": 345.631,
+            "speakerSeqId": 2,
+            "transcription": "সতবনিয়া জাতিৰ আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 345.631,
+            "end": 354.997,
+            "speakerSeqId": 1,
+            "transcription": "মাতৃ মদ্য় জুগত কৃস্ন পক্ষে প্ৰমানিত পৰম পৰাৰ পৰা আহি ধৰ্মিয় গ্ৰন্থ সমুহৰ ভিতৰত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 354.997,
+            "end": 365.628,
+            "speakerSeqId": 1,
+            "transcription": "বশবাস কৰা আৰু শিক্ষা গ্ৰহন কৰাৰ পৰম্পৰাই (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 365.628,
+            "end": 373.66,
+            "speakerSeqId": 1,
+            "transcription": "প্ৰাইভেত কান্ত্ৰিক তেওৰ কৰ্মৰ দ্ৱাৰা গভিৰ ভাবে প্ৰভাবিত হৈছিল দেকৰেতিভ ভঙ্গিৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 373.66,
+            "end": 385.405,
+            "speakerSeqId": 1,
+            "transcription": "মহিমাই নিজৰ প্ৰাথনাৰ অবিহনে নিজৰ প্ৰাপ্ত গ্ৰহন পদৰ কথা নাভাবিছিল তেও আতাইত্কৈ কথিন প্ৰাপ্য় হৈছিল আৰু সেইবুৰ নকৰাকৈ পালন কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 385.405,
+            "end": 399.007,
+            "speakerSeqId": 2,
+            "transcription": "অথৰ শোত্তৰ চনত গান্ধিৰ পিতৃ পোৰবন্দৰ পৰা সৰু ৰাজ্য় ৰাজ্কতলৈ ঘুৰি যোৱালৈ তেও দিয়া শাসন গুৰু হৈ পৰিছিল ৰাজ্কতৰ পোৰব্ন্দৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 399.007,
+            "end": 407.292,
+            "speakerSeqId": 2,
+            "transcription": "ৰাজ্য় তথাপিও (()) অবস্থিত আছিল ৰাজ্য় খনৰ দেৱানত জিতু পৰিমানে নিৰাপত্তা লাভ কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 407.292,
+            "end": 418.919,
+            "speakerSeqId": 1,
+            "transcription": "অথৰশ শোত্তৰ চনত কৰম্চাদ ৰাজ্পথৰ দেৱান আৰু ভাতৃ তুল্শি দাস পদপথৰ দেৱান হয় তেওৰ পৰিয়ালে পুনৰ ৰাজ্পথত যোগ দিলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 418.919,
+            "end": 431.795,
+            "speakerSeqId": 2,
+            "transcription": "ৰাজ্কোতৰ হাইস্কুল আৰু ফ্ৰেন্দ হাইস্কুলত যোগ্দান কৰে তেও আছিল এজন গৰ চাত্ৰ কিছু পুৰস্কাৰ লাভ কৰিছিল কিন্তু লাজ লগা আৰু দৃৰবান্ধি থকা চাত্ৰ আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 431.795,
+            "end": 436.958,
+            "speakerSeqId": 2,
+            "transcription": "মিৰাৰ প্ৰতি কনো আগ্ৰহ নাছিল আৰু তেওৰ একমাত্ৰ সঙ্গি আছিল কিতাপ আৰু ফুলৰ পাত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 436.958,
+            "end": 451.049,
+            "speakerSeqId": 1,
+            "transcription": "অথৰ তিৰাসি চনত মে মাহত তেৰ বছৰিয়া মোহন দাসৰ বিবাহ চৈধ্য় বচৰিয়া কস্তুৰি মাখন্দি কাপাদিয়া কুমাৰি কালৰ তেও সাধাৰনতে কস্তুৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 451.049,
+            "end": 465.308,
+            "speakerSeqId": 1,
+            "transcription": "আৰু মৰমেৰে বাজ্স্থিত কৰা হৈছিল প্ৰৈতেক এক আয়জিত বিবাহত বিবাহ পাখত আবদ্ৱ হয় সেই সময়ত আন্সলিক ৰিতি নিতি অনুসৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 465.308,
+            "end": 482.251,
+            "speakerSeqId": 2,
+            "transcription": "তেও এবাৰ কৈছিল যিহেতু আমি বিয়াৰ বিখয়ে ইমান নাজানিছিলু আমাৰ বাবে এয়াৰ অৰ্থ আছিল মাত্ৰ নতুন কাপুৰ পিন্ধা মিথাই খোৱা আৰু আত্মিয়ৰ সৈতে খেলা তথাপিও কথা অনুসৰি কিশোৰি কইনা গৰাকি পিতৃ মাতৃ ঘৰত আৰু স্ৱামিৰ পৰা আতৰত থাকিব লগা হৈছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 482.251,
+            "end": 492.781,
+            "speakerSeqId": 1,
+            "transcription": "বহু বছৰ পিছত পিতৃ মোহন দাস নিজৰ কনমানি কন্য়া প্ৰতি অনুভব কৰা আশংখাৰ বিষয় অনুমোচনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 492.781,
+            "end": 501.691,
+            "speakerSeqId": 1,
+            "transcription": "বৰ্ননা কৰিছিল স্কুলত মই তাইৰ কথা ভাবিছিলু আৰু ৰাতি আৰু আমাৰ পৰবত্ৰি কায্য় কালত সদায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 501.691,
+            "end": 512.187,
+            "speakerSeqId": 2,
+            "transcription": "জনশেসৰ ফালে গান্দ্ৱিয়ে পৃত্ৰি কৰচ চাদ ৰ মৃত্য়ু হয় তেওৰ ষোল্ল বচৰিয়া গান্ধি আৰু তেওৰ সোতৰ বছৰিয়া পত্নিয়ে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 512.187,
+            "end": 522.7,
+            "speakerSeqId": 2,
+            "transcription": "যেতিয়া ষোল্ল বছৰিয়া গান্ধি আৰু সোতৰ বছৰিয়া পত্নি মাত্ৰ কেইদিন মান জিয়াই থকা প্ৰথম সন্তান জন্ম দিয়ে দুওজনে মৃত্য়ুয়ে গান্ধিক দুখি কৰি তুলিলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 522.7,
+            "end": 537.095,
+            "speakerSeqId": 1,
+            "transcription": "গান্ধিৰ দম্পতিৰ আৰু চাৰিতা সন্তান জন্ম দিছিল সোকলো পুত্ৰ পৰিবাৰ জন্ম অথোৰশ আথ্চত্তি চনত মনিৰাম জন্ম অথৰ্সো বিৰানব্বৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 537.095,
+            "end": 545.65,
+            "speakerSeqId": 1,
+            "transcription": "অথৰো সাতানব্বৈ চনত জন্ম গ্ৰহন কৰা ৰাম লাল আৰু উন্নৈছ চনত জন্ম গ্ৰহন কৰা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 545.65,
+            "end": 561.85,
+            "speakerSeqId": 2,
+            "transcription": "পত্নি চাৰিতা সন্তানেৰে মনি লাল অথৰোসো অচ্থাচি চনত মনিলাল জন্ম অথৰসো বিৰানব্বৈ অথৰসো সাতানব্বৈ চনত জন্ম গ্ৰহন কৰা ৰাম লাল আৰু উন্নৈছ চনত জন্ম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 561.85,
+            "end": 563.217,
+            "speakerSeqId": 2,
+            "transcription": "জন্ম গ্ৰহন কৰা দয়াৰাম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 563.217,
+            "end": 570.592,
+            "speakerSeqId": 1,
+            "transcription": "আইনৰ ছাত্ৰ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10053,
+            "start": 570.592,
+            "end": 585.856,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        }
+    ]
+}

@@ -1,0 +1,508 @@
+{
+    "speechMode": "C",
+    "recordingId": "20199612",
+    "speechFile": "as_SHA1P_C_r013_s001",
+    "callDuration": 629.099,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID233846"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0234410"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 10.128,
+            "speakerSeqId": 1,
+            "transcription": "হেলো দদা [overlap] ৰৌজাৰ মাহ চলি আছে আপোনাৰ দিন বিলাক কেনেকুৱা চলি আছে? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 10.128,
+            "end": 17.824,
+            "speakerSeqId": 2,
+            "transcription": "চলি আছে আৰু ভালে পুখুৰীৰ পাৰত বহি আছোঁ অকলে অকলে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 17.824,
+            "end": 28.144,
+            "speakerSeqId": 2,
+            "transcription": "এই এইবিলাক নাখাও মই, এইবিলাক আপুনিয়ে খাব মই নাখাও [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 28.144,
+            "end": 38.852,
+            "speakerSeqId": 2,
+            "transcription": "এ আপুনি ধকা ব্য়বহাৰটো নকৰিব দেই [silence] এইটো বৰ একদম বেয়া বেয়া [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 38.852,
+            "end": 55.82,
+            "speakerSeqId": 1,
+            "transcription": "#আহ দাদা সকলো বজাৰ কৰিলে নে? [overlap] তিনিটা গল আজি পৰা চাৰিতা হব [overlap] মই আজি ৰাতি কামত যাম নেকি তাতে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 55.82,
+            "end": 64.027,
+            "speakerSeqId": 2,
+            "transcription": "ক'ত? [overlap]  [silence] ক'ৰ পৰা আহিলে জাগীৰোড? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 64.027,
+            "end": 75.878,
+            "speakerSeqId": 1,
+            "transcription": "(()) যাব আপুনি [overlap] এই ঈদ আহি গ'ল আপুনি যায় কি কৰিব তাত?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 75.878,
+            "end": 89.395,
+            "speakerSeqId": 1,
+            "transcription": "কাম কৰিম মই দেউতাই কয় মই ইমান পইচা ঘৰত দিব নোৱাৰো কাম কৰিলে কৰ নহলে মই কিস্তি দিব পাৰিম মই পইচা ঘৰত খাব কাৰণে পইচা নিদিয়ে না মোক [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 89.395,
+            "end": 103.334,
+            "speakerSeqId": 1,
+            "transcription": "আপুনাৰ দেউতা থাকিলে আৰু টকাৰ দৰকাৰ কি হয় [overlap]  [silence] কিয় আপুনি ঘৰতে কাম কৰিব কামতো কৰি আছে? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 103.334,
+            "end": 119.568,
+            "speakerSeqId": 1,
+            "transcription": "তাত গৈ কিনি [overlap] পোন্ধৰ দিন মান কাম কৰিলে হৈ যাব [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 119.568,
+            "end": 135.835,
+            "speakerSeqId": 1,
+            "transcription": "ঈদত আহিব ঈদত ফূৰিৱলৈ যাম দে [overlap] এই আপোনাক দাৰ্জিলিংৰ কথা কোৱা নাই ইয়াতে যাম দে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 135.835,
+            "end": 143.092,
+            "speakerSeqId": 1,
+            "transcription": "(()) নহয় নহয় ফুলবাৰী ব্ৰিডজ [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 143.092,
+            "end": 144.323,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 144.323,
+            "end": 156.642,
+            "speakerSeqId": 1,
+            "transcription": "আপুনি <lang:Foreign><initial>IPL</initial></lang:Foreign> ত কোন টীমৰ ফেন? [overlap] ক'লকাতা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 156.642,
+            "end": 157.233,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 157.233,
+            "end": 167.35,
+            "speakerSeqId": 1,
+            "transcription": "কিয়? আপুনি ক'লকাতাৰ ফেন কিয়? [overlap] ক'লকাতা টীম তো কাৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 167.35,
+            "end": 178.664,
+            "speakerSeqId": 1,
+            "transcription": "কলকাতাৰ টীমটোৰ কেপ্টেইন তো বেলেগ টীম তো চাহৰুক খানৰ [overlap] আমাৰে মানুহ মই বোলে চিনি নাপাম মোৰে ওচৰত ঘৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 178.664,
+            "end": 194.324,
+            "speakerSeqId": 1,
+            "transcription": "আপোনাৰ ওচৰত ঘৰ? [overlap] নাযাও মই এইবিলাক দামি দামি মানুহ এইবিলাক ঘৰত যায় লাভ নাই [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 194.324,
+            "end": 202.762,
+            "speakerSeqId": 1,
+            "transcription": "আমি থাকো ৰুম ভাড়া ঘৰত তেহেতে নিজৰ ঘৰত থাকে আমি যাম নেকি? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 202.762,
+            "end": 211.587,
+            "speakerSeqId": 1,
+            "transcription": "আপুনি বোলে বিৰাত কৌহলিৰ ফেন সেই কাৰণে আপুনি <lang:Foreign><initial>RCB</initial></lang:Foreign> ফেন হব লাগিছিল [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 211.587,
+            "end": 217.561,
+            "speakerSeqId": 1,
+            "transcription": "কাৰ ফেন টো আপুনি? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 217.561,
+            "end": 231.859,
+            "speakerSeqId": 1,
+            "transcription": "বিৰাট কৌহলি এইটো প্লেয়াৰ হল নেকি? এই (()) চেনচোৰী মাৰিব কাৰণে এক ৰান এক ৰান এক ৰান এক ৰান এটা ছয় নামাৰে এটা ফৌৰ্ নামাৰে এইটো এটা প্লেয়াৰ হ'ল নেকি? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 231.859,
+            "end": 239.819,
+            "speakerSeqId": 1,
+            "transcription": "[overlap] এনেকা প্লেয়াৰক ৰৌহিত চৰ্মাক চাওঁক দেশৰ কাৰনে খেলে তাক পোৰা মাৰি থাকে ছয় যিমান দেৰি বেতিঙ ধৰিব পায় পোৰা বলাৰৰ ফাতি যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 239.819,
+            "end": 255.439,
+            "speakerSeqId": 1,
+            "transcription": "এইটো হয় ৰৌহিত শৰ্মা আৰু দহ অ'ভাৰ মান টিকিলে আৰু (()) কেপ্তইনৰ আৰু মানে মোৰ ফাটি যায় দহ অ'ভাৰ টিকিলে বিৰাত কৌহলিৰ একো নালাগে তাই অকলে জিকায় দিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 255.439,
+            "end": 269.182,
+            "speakerSeqId": 1,
+            "transcription": "[silence]  [overlap] বিৰাত কৌহলিয়ে নিজৰ নিজৰ চেনচুৰী টো পোৰা কৰিব লাগে তেনেকে খেলি থাকে এক ৰান কোনোবা ভাল বল আহিলে এটা মাৰি দিব নহলে নামাৰে এক ৰান কৰি এ ল'ব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 269.182,
+            "end": 283.441,
+            "speakerSeqId": 1,
+            "transcription": "এইটো হয় বিৰাত কৌহলি নিজৰ স্বাৰ্থত চলি থাকে সদায় [overlap] বিৰাত কৌহলিক এনে মই ভাল নাপাওঁ এনে <lang:Foreign><initial>RCB</initial></lang:Foreign> টো জিকিব লাগে এই মহম্মদ চিৰাজ আছে মহম্মদ চিৰাজটোৰ কাৰণে কৈ আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 283.441,
+            "end": 284.032,
+            "speakerSeqId": 2,
+            "transcription": "ক'"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 284.032,
+            "end": 291.541,
+            "speakerSeqId": 1,
+            "transcription": "<lang:Foreign><initial>IPL</initial></lang:Foreign> জিকিব নাই এনে কৰো মহম্মদ চিৰাজৰ কাৰণে তাক চাপৌৰ্ত অলপ কৰো নহলে চাপৌৰ্ত ও নকৰো তাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 291.541,
+            "end": 302.611,
+            "speakerSeqId": 1,
+            "transcription": "[silence] মই টো এজনকো ভাল নাপাওঁ মহম্মদ চিৰাজ আৰু মহম্মদ বিৰাট কৌহলি এজনকো ভাল নাপাও [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 302.611,
+            "end": 314.795,
+            "speakerSeqId": 1,
+            "transcription": "সেইটো নহয় মই সকলোকে ভাল পাও ৰুহিত শৰ্মাক [overlap] চবতকে প্লেয়াৰ ভাল হল যদি বৰ্তমান ইন্ডিয়াৰ ভিতৰত ৰৌহিত শৰ্মা বেটছমেন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 314.795,
+            "end": 326.135,
+            "speakerSeqId": 1,
+            "transcription": "আৰু বলাৰৰ ভিতৰত মহম্মদ ছামি আৰু বোমৰা এই তিনিটা প্লেয়াৰে টপ খেলি আছে [overlap] আৰু বাকী চবৰ কথা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 326.135,
+            "end": 335.703,
+            "speakerSeqId": 1,
+            "transcription": "আৰু এটা আছে চিয়াজিয়াৰ [overlap] চিয়াজিয়াৰ বোলি এটা প্লেয়াৰ্ আছে যে [overlap] এইটো ভাল খেল ৰুহিত শৰ্মা নিচিনা কে পিটে এইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 335.703,
+            "end": 350.671,
+            "speakerSeqId": 1,
+            "transcription": "অ আপোনাৰ মতে বৰ্তমান মানে অ' মানে দুই হাজাৰ চব্বিছৰ <lang:Foreign><initial>IPL</initial></lang:Foreign> টো কোনে ল'ব? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 350.671,
+            "end": 365.601,
+            "speakerSeqId": 1,
+            "transcription": "কিয় <lang:Foreign><initial>RCB</initial></lang:Foreign> নিজিকিব নেকি? <lang:Foreign><initial>RCB</initial></lang:Foreign> এইবিলাকক নাই তাৰ কাম নাই এইবিলাক এনে তাই খালি কেলি দেখিব পাৰে কেলি দেখিব পাৰে [babble] দেখিব পাৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 365.601,
+            "end": 368.997,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 368.997,
+            "end": 380.742,
+            "speakerSeqId": 1,
+            "transcription": "অ মানে গেবাৰিছত্ দেখিব পাৰে #উম এইবিলাকৰ কাম নাই আৰু এই কলকাতা তোক মই পুৰা চাপৌৰ্ত কৰো কলকাতাটো জিকিলে মই পুৰা আনন্দ পাম [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 380.742,
+            "end": 391.289,
+            "speakerSeqId": 1,
+            "transcription": "ক'লকাতাৰ আপোনাৰ এজন পচন্দনিয় খেলুৱৈৰ নামটো ক'ক ৰিনকু সিং অ ভাই ৰিন্কু সিং"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 391.289,
+            "end": 405.245,
+            "speakerSeqId": 1,
+            "transcription": "ফিনিছাৰ এইটো মোৰ ভাল লাগে পোৰা যেতিয়া পাচ বলত পাচতা চিস্ক মাৰিছে লাইভ তেতিয়া মই চাই আছিলো পোৰা ফালি দিছে মই খেলাটো দেখি পোৰা অবাক হৈ গৈছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 405.245,
+            "end": 412.518,
+            "speakerSeqId": 1,
+            "transcription": "সেইটো হয় আপুনি ঠিকেই কৈছে ৰিনকু সিং এটা ধুনীয়া প্লেয়াৰ এটা সুন্দৰ প্লেয়াৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 412.518,
+            "end": 415.319,
+            "speakerSeqId": 2,
+            "transcription": "আৰু এটা তেওঁ [overlap] ৰিনকু সিং ৰ দৰমহা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 415.319,
+            "end": 428.718,
+            "speakerSeqId": 1,
+            "transcription": "ৰিন্কু সিংৰ দৰমহা বোলে পঞ্চাছ লাখ টকা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 428.718,
+            "end": 429.699,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 429.699,
+            "end": 442.528,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু ৰিন্কু সিংৰ বেতনটো কমাই দিছিল ৰিন্কু সিং বোলে মই শুনি আছো বোলে কলকাতা টীম বোলে ওলাই গল বোলে, কলকাতাৰ পৰা ৰিনকু সিং ওলাই গলে মইও কলকাতাৰ পৰা ওলাই যাম [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 442.528,
+            "end": 453.946,
+            "speakerSeqId": 1,
+            "transcription": "মই শুনি আছো মই তাক বোলে বহাই ৰাখিব খেলবা নিদিয়ে [overlap] ৰিন্কু সিংৰ নিচিনাকৈ প্লেয়াৰে (()) নাই এনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 453.946,
+            "end": 468.357,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া টো নহয় নাই আগতে আছিল এজন আগতে আছিলে [silence] নামটো জানে নে আপুনি? [overlap]  [silence] কিয় নাজানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 468.357,
+            "end": 483.46,
+            "speakerSeqId": 1,
+            "transcription": "ৰিনকু সিংৰ দৰে এজন ফিনিছাৰ আছিল আগত আপুনি নাজানে তাক? [overlap] অ' আপুনি দুই বছৰৰ পৰা <lang:Foreign><initial>IPL</initial></lang:Foreign> চাই মাত্ৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 483.46,
+            "end": 485.738,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 485.738,
+            "end": 500.818,
+            "speakerSeqId": 1,
+            "transcription": "কোনে আছে [overlap] এই প্ৰথম মুখ্য়টো কৈ দিওঁ মই মুখ্যটো হল এম [overlap]  [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 500.818,
+            "end": 514.443,
+            "speakerSeqId": 1,
+            "transcription": "বনে মহেন্দ্ৰ সিং ধনী [overlap] #আহ [silence] দে চিনি পাইছো তেওঁৰ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 514.443,
+            "end": 526.576,
+            "speakerSeqId": 1,
+            "transcription": "এতিয়া খেলিব নোৱৰে না তাই [silence] নাই এইটো এতিয়া বয়ছ টো বাৰ্হি গল ন [overlap] বিয়াল্লিছ নে তিয়াল্লিছ বছৰ হৈ গল তেওঁৰ [overlap] এইবছৰ বোলে অপেনিঙত খেলিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 526.576,
+            "end": 536.093,
+            "speakerSeqId": 1,
+            "transcription": "মই শুনি আছো কিন্তু নহয় আৰু মিছা কথা এইটো ফেক নিউজ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 536.093,
+            "end": 543.316,
+            "speakerSeqId": 1,
+            "transcription": "এইটো খেলিব পাৰে <lang:Foreign><initial>RCB</initial></lang:Foreign> দৰে নৰ্মেল টীম বিপৰীত ফালে পৰিলে খেলিব পাৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 543.316,
+            "end": 544.295,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 544.295,
+            "end": 560.798,
+            "speakerSeqId": 1,
+            "transcription": "হয় ন [silence] <lang:Foreign><initial>RCB</initial></lang:Foreign> আৰু এটা টীম্ আছে দিল্লী আৰু এইবিলাক টীমৰ পৰহিলে খেলিব পাৰে [overlap] মুম্বাই গুজৰাট <lang:Foreign><initial>RCB</initial></lang:Foreign>"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 560.798,
+            "end": 566.705,
+            "speakerSeqId": 1,
+            "transcription": "লক্ষ্ণৌ [silence] এইবিলাক ডাঙৰ ডাঙৰ টীম ন?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 566.705,
+            "end": 567.413,
+            "speakerSeqId": 2,
+            "transcription": "#আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 567.413,
+            "end": 578.635,
+            "speakerSeqId": 1,
+            "transcription": "লক্ষ্ণৌ লক্ষ্ণৌটো ভালেই টীম্ এইটো কে ৰাহুল পোৰা ফালি দিছে [silence]  [overlap] লক্ষ্ণৌটোতো এবাৰো কাপ জিতা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 578.635,
+            "end": 592.017,
+            "speakerSeqId": 1,
+            "transcription": "নাই নতুন টীম্ নহয় নহ, এইকাৰণে এতিয়াও জিকা নাই ৰাজস্থান ৰয়েলছ্ এবাৰ মান জিকিছে, কলকাতা নাইট ৰাইডাৰ্ছ দুবাৰ মান জিকিছে তেতিয়া কেপ্তেইন কোনে আছিল কলকাতাৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 592.017,
+            "end": 603.678,
+            "speakerSeqId": 2,
+            "transcription": "সৌৰভ গাংগোলী অ নহয় এইটো গৌতম গম্ভীৰ, [overlap] এই চাৰুখ খান"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 603.678,
+            "end": 613.55,
+            "speakerSeqId": 1,
+            "transcription": "সেইটোৱেই আৰু মুম্বাই <lang:Foreign><initial>RCB</initial></lang:Foreign> আৰু চেন্নাই সকলোৱে মিলি দহ মান দহ বাৰ মান কাপ জিকিছে <lang:Foreign><initial>RCB</initial></lang:Foreign> জিকিছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 613.55,
+            "end": 629.099,
+            "speakerSeqId": 1,
+            "transcription": "হে <lang:Foreign><initial>RCB</initial></lang:Foreign> চেন্নাই মুম্বাই ইণ্ডিয়ানছ্ সকলোৱে মিলি দহ বাৰ কাপ জিকিছে গম পাইছেনে? মই কি কৈ আছো [overlap]"
+        }
+    ]
+}

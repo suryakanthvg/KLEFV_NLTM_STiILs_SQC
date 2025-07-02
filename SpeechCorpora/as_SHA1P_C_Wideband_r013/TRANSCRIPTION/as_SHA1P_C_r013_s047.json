@@ -1,0 +1,708 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826204",
+    "speechFile": "as_SHA1P_C_r013_s047",
+    "callDuration": 609.899,
+    "speakers": [
+        {
+            "gender": "F",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239046"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239047"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 11.236,
+            "speakerSeqId": 1,
+            "transcription": "[noise] নমস্কাৰ [silence] মোৰ লগত আছে আজি মোৰ ভন্টি গতিকে ভন্টি আপোনাৰ খবৰ কেনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 11.236,
+            "end": 16.754,
+            "speakerSeqId": 2,
+            "transcription": "অ আছো ভালে আপোনাৰ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10003,
+            "start": 16.754,
+            "end": 16.94,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 16.94,
+            "end": 22.12,
+            "speakerSeqId": 2,
+            "transcription": "কি কৰি আছে আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 22.12,
+            "end": 23.335,
+            "speakerSeqId": 1,
+            "transcription": "বহিয়ে আছো আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 23.335,
+            "end": 31.081,
+            "speakerSeqId": 2,
+            "transcription": "এনে মইয়ো বহি আছো খবৰ চবৰ ভালে আছে নে আপোনাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 31.081,
+            "end": 32.684,
+            "speakerSeqId": 1,
+            "transcription": "আপোনাৰ কেনে [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 32.684,
+            "end": 37.46,
+            "speakerSeqId": 2,
+            "transcription": "আছে ভালে আছে মোটামোটি আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 37.46,
+            "end": 43.838,
+            "speakerSeqId": 1,
+            "transcription": "যিয়েই নহওক আজি আমি এটা বিষয় লৈ আলোচনা কৰিম [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 43.838,
+            "end": 50.538,
+            "speakerSeqId": 2,
+            "transcription": "আপুনি অলপমান লৰচৰ কৰিব আপোনাৰ নেটৱাৰ্কটো অসিবিধা হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 50.538,
+            "end": 58.672,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে আজি আমি ভূমিকম্পৰ ওপৰত আলোচনা কৰিম [silence] আপুনি কি কয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 58.672,
+            "end": 71.294,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় কওক আপুনি যিটো ভূমিকম্পৰ বিষয়ে কৈছে হয় সেইটো ভালেই সিদ্ধান্তৰ লৈছে আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 71.294,
+            "end": 85.013,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে যিয়েই নহওক [silence] ভূমিকম্প হলে মানুহৰ কি কি ক্ষতি হয় [silence] সেইখিনিৰ ওপৰত আলোচনা কৰিম [noise] গতিকে সেইখিনি লৈ আপোনাৰ মন্তব্য় [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10014,
+            "start": 85.013,
+            "end": 85.418,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 85.418,
+            "end": 93.383,
+            "speakerSeqId": 2,
+            "transcription": "অ ভূমিকম্পটো যে হলে মানুহৰ বহুতো মানুহৰ ক্ষতিকাৰক [overlap] হয় হয় নে নহয় আপোনাৰ ইয়াতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 93.383,
+            "end": 96.623,
+            "speakerSeqId": 1,
+            "transcription": "ইয়াতে নেটৱাৰ্কৰ অসুবিধা হৈ আছে অলপ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 96.623,
+            "end": 112.604,
+            "speakerSeqId": 2,
+            "transcription": "#আহ হয় হয় [silence] এতিয়া ঠিক আছে নে সঠিককৈ আহা নাই হেল্লো শুনা পাইছে আপুনি"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10018,
+            "start": 112.604,
+            "end": 113.988,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 113.988,
+            "end": 114.713,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া [overlap]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10020,
+            "start": 114.713,
+            "end": 114.916,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 114.916,
+            "end": 126.374,
+            "speakerSeqId": 2,
+            "transcription": "ভূমিকম্পটো যে হয় হয় মানে হয় না এতিয়া [babble] কথা হল যে মানুহৰ ক্ষতিকাৰক হয় বহুতো ক্ষতিকাৰক হয় হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 126.374,
+            "end": 142.642,
+            "speakerSeqId": 2,
+            "transcription": "হয় এই যে মাটিত ভূমিকম্প যেতিয়া হয় মাটিতো ফাতে হয় নে নহয় বহুতো দেখা যায় যে দেখা যায় যে এই ভূমিকম্প যেতিয়া হয় প্ৰথম ভূমিকম্প যেতিয়া হৈছিল পোন্ধৰশ আঠ চল্লিছ চনত হৈছিল তেতিয়া বহুতো ধ্বংস হৈ গৈছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 142.642,
+            "end": 154.572,
+            "speakerSeqId": 2,
+            "transcription": "বহুতো ঘৰ বাৰী অট্টালিকা ডাঙৰ ডাঙৰ অট্ৰালিকা কি হৈছিল ধ্বংস হৈ গৈছিল বহুতো মানে ঘৰ বিলাক ফাটি ফাটি গৈছিল ঘৰ বিলাক নষ্ট হৈ গৈছিল হয় নে নহয় তাৰকাৰণত বহুতো মানুহৰ কি হৈছিল মৃত্য়ু হৈছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 154.572,
+            "end": 161.187,
+            "speakerSeqId": 2,
+            "transcription": "সেইবোৰৰ কাৰণে সেইবিলাক ভূমিকম্পৰ কাৰণেহে সেইবিলাক ক্ষতিকাৰক হৈছিল হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 161.187,
+            "end": 173.506,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া মানে মই যিটো কৈছো যে ভূমিকম্পৰ কাৰণে বহুতো অসুবিধা হৈ আছে এতিয়া এই ভূমিকম্পৰ কাৰনে যে অসুবিধা বিলাক হৈ আছে আপোনাৰ কি মন্তব্য় কি নো আপোনাৰ মন্তব্য় অলপ অলপমান কব চোন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 173.506,
+            "end": 184.07,
+            "speakerSeqId": 1,
+            "transcription": "ভূমিকম্পটো যেতিয়া হৈছে মই শুনিছিলো মইটো দেখা নাই না সেই মানে সেই সময় খিনি মই শুনিছো যে সেই সময় খিনিত যেতিয়া [overlap] ভূমিকম্প হৈছিলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 184.07,
+            "end": 194.65,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়া ডাঙৰ ডাঙৰ অট্টালিকা বিলাক যেনেকুৱা ডাঙৰ ডাঙৰ অট্টালিকা আছিল সেই সকল মানে ভাঙি চিঙি গৈছিল যেনেকুৱা ডাঙৰ ডাঙৰ গছ গছনি বিলাক থাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 194.65,
+            "end": 208.032,
+            "speakerSeqId": 1,
+            "transcription": "সেইখিনিৰো মানে ক্ষতি হৈছিল আৰু সেইখিনি মানে হোৱাৰ পিছত বহুতো মানুহৰ প্ৰাণ (()) বহুতো মানুহৰ মৃত্য়ু হৈছিল [silence] আকৌ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 208.032,
+            "end": 215.069,
+            "speakerSeqId": 1,
+            "transcription": "হয় বহুতো জীৱ জন্তুৰো প্ৰাণ হেৰুৱাবগীয়া হৈছিল [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 215.069,
+            "end": 215.356,
+            "speakerSeqId": 2,
+            "transcription": "হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 215.356,
+            "end": 218.056,
+            "speakerSeqId": 1,
+            "transcription": "সেইখিনিয়েই"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10032,
+            "start": 218.056,
+            "end": 218.073,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10033,
+            "start": 218.073,
+            "end": 218.292,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10034,
+            "start": 218.292,
+            "end": 218.309,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10035,
+            "start": 218.309,
+            "end": 218.41,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10036,
+            "start": 218.41,
+            "end": 218.545,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10037,
+            "start": 218.545,
+            "end": 218.748,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 218.748,
+            "end": 233.26,
+            "speakerSeqId": 2,
+            "transcription": "হয় আপুনি ঠিকেই কৈছে এইটো ভাল কথাই কৈছে যে জীৱ জন্তু বিলাক যে আছে সিহতৰ প্ৰতিয়ো (()) হয় নে নহয় ভূমিকম্পটো হলে যে [noise] মানুহ বিলাকৰ ক্ষতি হয় হয় জীৱ জন্তু বিলাকৰো ক্ষতি হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 233.26,
+            "end": 245.866,
+            "speakerSeqId": 2,
+            "transcription": "বহুতৰে জীৱ জন্তু মানে জীৱনটো হেৰুৱাব লগা হৈছিল কথাটো হল যে মই শুনিছো মই জানো যে কিতাপত দেখিছো যে পোন্ধৰশ আঠ চল্লিশ চনত যেতিয়া প্রথম ভূমিকম্পটো হৈছিল না"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 245.866,
+            "end": 248.043,
+            "speakerSeqId": 1,
+            "transcription": "আপুনি অলপ লৰচৰ কৰিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 248.043,
+            "end": 248.937,
+            "speakerSeqId": 2,
+            "transcription": "বেছি মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 248.937,
+            "end": 250.54,
+            "speakerSeqId": 1,
+            "transcription": "নেটৱাৰ্কৰ সমস্য়া হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 250.54,
+            "end": 261.155,
+            "speakerSeqId": 2,
+            "transcription": "অ হয় হয় মই লৰচৰ কৰিছো এতিয়া শুনা পাইছে নে [silence] হেল্লো শুনা পাইছে নে আপুনি অ শুনিছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 261.155,
+            "end": 273.659,
+            "speakerSeqId": 2,
+            "transcription": "এই যে মানে যিখন জাগাত যিটো জাগাত যে মানে ভূমিকম্পটো হৈছিল প্ৰথম জাপানত যিটো হৈছিল হয় হয় পাইছো শুনা পাইছে নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 273.659,
+            "end": 284.543,
+            "speakerSeqId": 2,
+            "transcription": "জাপানটো ক্ষতিকাৰক হয়েই মানে বেছিকৈ হৈছিল হয় নে নহয় ভূমিকম্পৰ ফলত তাৰপিছত তাৰপিছত যেতিয়া হৈছিল দ্বিতীয় যেতিয়া ভূমিকম্প হৈছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 284.543,
+            "end": 295.411,
+            "speakerSeqId": 2,
+            "transcription": "তেতিয়া কি হৈছিল এটা মানে দেশ আছিল দেশ খন মানে (()) হয় নে নহয় (()) দেশ খন কি হৈছিল বেছিকৈ ক্ষতিকাৰক হৈছিল সিহত সেই দেশ খনৰ মানুহ বিলাক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 295.411,
+            "end": 307.882,
+            "speakerSeqId": 2,
+            "transcription": "মানে কি হৈ আছিল বেছিকৈ প্ৰাণ হেৰুৱাব লগা হৈছিল তাৰ জীৱ জন্তু ঘৰ অট্টালিকা আদি বহুতো [babble] ক্ষতিকাৰক হৈ গৈছিল [silence] কথাটো হল যে মানে যেনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 307.882,
+            "end": 310.177,
+            "speakerSeqId": 2,
+            "transcription": "মানে ভূমিকম্পটো যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 310.177,
+            "end": 323.322,
+            "speakerSeqId": 1,
+            "transcription": "যেনে ধৰণৰ মানে সেই ভূমিকম্পৰ ফলত [overlap] যিবিলাক মানে দৰিদ্ৰ মানুহ আছিল মানে যিবিলাক মানুহে দিন কৰি দিন খাই সেইবিলাক মানুহৰ বাবে বিশেষ অসুবিধা হৈছিল যিসকল মানুহে বিশেষকৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 323.322,
+            "end": 333.903,
+            "speakerSeqId": 1,
+            "transcription": "কৃষিৰ ওপৰত মানে জীৱন নিৰ্বাহ কৰে কৃষি কাম কৰিহে জীৱনটো চলাই সেইসকল মানুহে [overlap] মই শুনিছো যি মানে ভূমিকম্পৰ ফলত [overlap] যি মাটি খিনি ফাটি যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 333.903,
+            "end": 346.88,
+            "speakerSeqId": 1,
+            "transcription": "সেই মাটি খিনিত বোলে কিমান মানে ফচল নহয় সেই সাৰটো কমি আহে তেনেহলে সেই মাটিটো ক্ষতি হলে চৰকাৰৰ ফালৰ পৰা [babble] চাব লাগিছিল যে সেই মাটি খিনি মানে যি দৰিদ্ৰ মানুহ বিলাক আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 346.88,
+            "end": 353.849,
+            "speakerSeqId": 1,
+            "transcription": "সেইখিনি মাটি খিনি নষ্ট হৈ গল মোৰ মই কম যে চৰকাৰৰ ফালৰ পৰা সেইখিনি চাব লাগিছিল"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10053,
+            "start": 353.849,
+            "end": 356.11,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10054,
+            "start": 356.11,
+            "end": 356.347,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10055,
+            "start": 356.347,
+            "end": 356.448,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10056,
+            "start": 356.448,
+            "end": 356.65,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 356.65,
+            "end": 371.348,
+            "speakerSeqId": 2,
+            "transcription": "হয় এতিয়া আপুনি ভাল কথা কৈছে যে চৰকাৰৰ ফালৰ পৰা সেইটো চাব লাগিব যে দুখীয়া মানুহ বিলাকে কি কৰি আছে এতিয়া তেওলোকে কত খেতি কৰিব তেওলোক কেনেকৈ জীৱন নিৰ্বাহ কৰিব তেওলোকে খেতি বাতি কৰিহে জীৱনটো তেওলোকে মানে কি হয় হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 371.348,
+            "end": 387.295,
+            "speakerSeqId": 2,
+            "transcription": "সে সেই সেইটো আপুনি ভাল কথা কৈছে যে ভূমিকম্পটোৰ ফলত বহুতো মাটি নষ্ট হৈ যায় বহুতো দুখীয়া মানুহৰ যেতিয়া মাটি বিলাক নষ্ট হৈ যায় মাটি বিলাক ফাটি ফাটি কি হৈ যায় সিহতৰ তেতিয়া মাটি বিলাকত আমি আৰু খেতি কৰিব কৰিব নোৱাৰো হয় নে নহয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10059,
+            "start": 387.295,
+            "end": 389.0,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 389.0,
+            "end": 391.868,
+            "speakerSeqId": 2,
+            "transcription": "এইটো চৰকাৰৰ ফালৰ পৰা চাব লাগিব ন [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 391.868,
+            "end": 400.508,
+            "speakerSeqId": 1,
+            "transcription": "যিয়েই নহওক মানে ভূমিকম্প হলে সাধাৰণতে মানুহ বিলাকৰ কি কি মানে কেনে কেনে কাম কৰিব লাগে সেইখিনিৰ ওপৰত দুই এখাৰ কলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 400.508,
+            "end": 411.764,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় ভূমিকম্প যেতিয়া হয় যে মানুহ বিলাক কি কৰি আছে যে মানুহ বিলাক আগৰ পৰা সতৰ্ক থাকিব লাগিব হয় নে নহয় [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10063,
+            "start": 411.764,
+            "end": 426.068,
+            "speakerSeqId": 2,
+            "transcription": "এতিয়া ভূমিকম্পটো আহিলে ভূমিকম্পটো আহাৰ আগতে অলপমান জানো অলপমান মই (()) পাও যে ভূমিকম্পটো আহিব তেতিয়া মই কি কৰিম যে কেনেকৈ থাকিলে মই ৰক্ষা পাৰিম মানে ভূমিকম্পৰ ফালৰ পৰাই মই ৰক্ষা পাৰিম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 426.068,
+            "end": 436.722,
+            "speakerSeqId": 2,
+            "transcription": "ৰক্ষা পাৰিম হয় নে নহয় এতিয়া কথাটো হল যে এইটো সতৰ্ক থাকিব লাগিব মানুহ বিলাকৰ মাজত সতৰ্ক থাকিব লাগিব যে ভূমিকম্পৰ পৰা মই কেনেকৈ ৰক্ষা কৰিম মই কেনেকৈ বাচিম অলপ মানে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10065,
+            "start": 436.722,
+            "end": 437.009,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 437.009,
+            "end": 439.625,
+            "speakerSeqId": 2,
+            "transcription": "সেইটোৰ পৰা আপুনি আপুনি [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 439.625,
+            "end": 453.513,
+            "speakerSeqId": 1,
+            "transcription": "যেনেকুৱা [overlap] আপোনাৰ মন্তব্যটো কি যেনেকুৱা ভূমিকম্প আহিলে আমি মুকলি ঠাইত থাকিব লাগে যত গছ মানে যত ডাঙৰ ডাঙৰ গছ মানে গছ গছনি নাথাকে যত ডাঙৰ ডাঙৰ অট্টালিকা বা বিল্ডিং চিল্ডিং নাথাকে তেনেকুৱা মুকলি ঠাইত থাকিব লাগে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 453.513,
+            "end": 457.428,
+            "speakerSeqId": 1,
+            "transcription": "আৰু [overlap] আৰু ইমান দৌৰা দৌৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 457.428,
+            "end": 471.428,
+            "speakerSeqId": 1,
+            "transcription": "দৌৰা দৌৰি কৰিব নালাগে যেতিয়া ভূমিকম্প আহে কাৰণ দৌৰা দৌৰি কৰিলে তেওৰ মূৰটো ঘূৰাই তেও মানে তেওৰ বিপদ হব পাৰে বা দৌৰা দৌৰি কৰিলে তেওৰ মানে ওপৰত কোনোবা এটা মানে গছ গছনি যদি ভাঙি পৰি যায় তেওৰ জীৱনটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 471.428,
+            "end": 475.788,
+            "speakerSeqId": 1,
+            "transcription": "জীৱনটো (()) হব পাৰে আকৌ যেতিয়া"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10071,
+            "start": 475.788,
+            "end": 475.805,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10072,
+            "start": 475.805,
+            "end": 481.846,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয় যেতিয়া মানুহ বিলাকে ঘৰত থাকিব তেতিয়া মানে এনেকুৱা এটা ঠাইত থাকিব [overlap] লাগিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10073,
+            "start": 481.846,
+            "end": 491.363,
+            "speakerSeqId": 1,
+            "transcription": "মানে চকী মেজ যিবিলাক থাকে সেইবিলাকৰ মানে সেইটো ধৰি মানে যিসকল মজবুত জাগা সেই সকল জাগাত থাকিব লাগে হয় ন"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10074,
+            "start": 491.363,
+            "end": 507.76,
+            "speakerSeqId": 2,
+            "transcription": "হয় এইটো আপুনি ভাল কথা কৈছে হয় হয় সেইটো ভাল কথা কৈছে যে যিবিলাক মানুহে ঘৰতে ওচৰতে বাহিৰত যাব নোৱাৰে তেতিয়া কি কৰিব যে হঠাৎ ভূমিকম্পটো আহি গল হয় নে নহয় আহি গলে তেওলোকেটো ব্যৱস্থা টো লব লাগিব ন তেওলোকে বাচিব লাগিব এতিয়া কথাটো হল যে তেতিয়া তেওলোকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10075,
+            "start": 507.76,
+            "end": 518.262,
+            "speakerSeqId": 2,
+            "transcription": "তেওলোক কি কৰিব ঘৰৰ ঘৰখনত কি থাকে মানে এটা মেজ বা চকী হওক যিয়েই নহওক তাৰ তাৰপিনে হালি মজবুত যে ধৰিব লাগিব তেতিয়াহে তেওলোকে ভূমিকম্পৰ পৰা [overlap] ৰক্ষা পাব হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10076,
+            "start": 518.262,
+            "end": 534.608,
+            "speakerSeqId": 2,
+            "transcription": "সেইটো কথা যে এতিয়া কথাটো হল যে ভূমিকম্পটো আহিলে এতিয়া মানুহ বিলাকে কিছু কৰা নাই নিজৰ মতে নিজে থাকি আছে যে কি হল ভূমিকম্প আহিল মই কিছু নকৰো তেতিয়া তেওলোকৰ জীৱন টো এনে হেৰি হব হয় নে নহয় এতিয়া কথাটো হল তেওলোকে সতৰ্ক থাকিব লাগিব মানুহ বিলাকৰ মাজত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10077,
+            "start": 534.608,
+            "end": 546.46,
+            "speakerSeqId": 2,
+            "transcription": "তেতিয়া হে তেওলোকে ৰক্ষা পাব ভূমিকম্পৰ ফলৰ পৰা [silence] আপুনি কি কব আপুনি কি একে মন্তব্য নেকি মোৰ লগত [silence]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10078,
+            "start": 546.46,
+            "end": 546.95,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10079,
+            "start": 546.95,
+            "end": 547.0,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10080,
+            "start": 547.0,
+            "end": 560.264,
+            "speakerSeqId": 1,
+            "transcription": "সেইখিনিয়ে কথা যিয়েই নহওক যিখিনি মানুহৰ মানে যিখিনি মানুহৰ দৰিদ্ৰ মানুহৰ যিখিনি আছে সেইখিনি সেই মনে চাব যে নদীৰ ওচৰত যিবিলাক মানে ঘৰ থাকে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10081,
+            "start": 560.264,
+            "end": 570.912,
+            "speakerSeqId": 1,
+            "transcription": "যিবিলাক মানুহে নদীৰ ওচৰত বসবাস কৰে সেইসকল [overlap] মানুহে যেতিয়া ভূমিকম্প আহে সেই নদীৰ পানী খিনি [overlap] চাবা কেনেকুৱা হয় সেই নদীৰ পানী খিনি ওপৰলৈ উঠি আহে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10082,
+            "start": 570.912,
+            "end": 572.87,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় এইটো আপুনি ভাল কথা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10083,
+            "start": 572.87,
+            "end": 583.197,
+            "speakerSeqId": 1,
+            "transcription": "মানে নদীৰ ওচৰত [overlap] যিসকল মানুহে বাস কৰে তেওলোকৰ বাসস্থান খিনি পানীৰ কাৰণে নষ্ট হৈ যায় [babble] তেওলোকৰ মানে যি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10084,
+            "start": 583.197,
+            "end": 588.277,
+            "speakerSeqId": 1,
+            "transcription": "যি খিনি জাগাটোৰে ওচৰতে থাকে সেই থাকা জাগা খিনি নষ্ট হৈ যায়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10085,
+            "start": 588.277,
+            "end": 605.702,
+            "speakerSeqId": 2,
+            "transcription": "হয় হয় এইটো আপুনি ভাল কথা কৈছে হয় হয় সেই কথাটো সেই নদী বিলাক যিবিলাক নদীৰ ওচৰতে মানুহৰ ঘৰ বিলাক আছে সেই ঘৰ বিলাক মানুহ বিলাকৰ আগতে মানে মানুহ বিলাকে জানিব লাগিব হয় নে নহয় আপোনাৰ আপুনি ৰেকৰ্ডিং টো বন্ধ কৰিব আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10086,
+            "start": 605.702,
+            "end": 609.899,
+            "speakerSeqId": 2,
+            "transcription": "ৰেকৰ্ডিংটো হৈ গৈছে"
+        }
+    ]
+}

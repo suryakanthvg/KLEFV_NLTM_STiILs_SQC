@@ -1,0 +1,476 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826172",
+    "speechFile": "as_SHA1P_C_r013_s034",
+    "callDuration": 608.064,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0239279"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0239280"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 15.607,
+            "speakerSeqId": 1,
+            "transcription": "অ নমস্কাৰ মূৰ লগত আছে আজি আমাৰ ৰাকিব [overlap]  [silence] #আহ কি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 15.607,
+            "end": 25.715,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] খুৱা (()) হৈছে তুমাৰ? [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 25.715,
+            "end": 38.573,
+            "speakerSeqId": 1,
+            "transcription": "তো মানে কি গৈছে মবাইলৰ চাইনটো অলপমান (()) লগা হৈছে [silence] (()) তুমি অলপমান জোৰে কথা পাতা নহলে চাঔন্দ আহিত দিগদাৰ হৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 38.573,
+            "end": 50.555,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ ঘটনা কালিজে আমাৰ কি হোল যে আমাৰ মানে বস্তুতো কেনেকৈ হোল মই গমে নাপালো আমাৰ দুটা বস্তু [silence] তো আমি মানে আজি আলোচনা কৰিম মই তুমাৰ লগত এটা [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 50.555,
+            "end": 65.675,
+            "speakerSeqId": 1,
+            "transcription": "এটো ফোন হৈছে এটো বস্তু হৈছে আমাৰ যে [silence] আমাৰ উচৰ চুচুৰীয়া যিবিলাক আমাৰ কি হৈছে গাওঁখনৰ সমস্যা আছে তাৰ পিছত কি হৈছে যে আমাৰ কিছু দিন পিছত তো মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 65.675,
+            "end": 76.576,
+            "speakerSeqId": 1,
+            "transcription": "ইলেকশ্যন আহি আছে হয় নে নাই? [silence] তো আচলতে মানে কি হৈছে যে আমাৰ #আহ এতিয়াৰ মানে আমাৰ সমস্যা বোৰ সাধাৰণ মানুহ সমস্যা বোৰ আৰু কি হৈছে [overlap] ইলেকশ্যন আহি গৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 76.576,
+            "end": 90.076,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়া মানে কি হয় যে মানে ৰাজনীতি বিলাক #আহ ৰাজনীতি ভিতৰত মানে যিমান ডাঙৰ ডাঙৰ লিদাৰ আছে হেয়া কি কব যে মানে আমাৰ সাধৰণ ৰাইজৰ আগত কিন্তু মানুহৰ আগত [overlap] হয় নে নাই? তেতিয়া মানে দিন যেতিয়া (()) আহি আছে হয় নে নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 90.076,
+            "end": 102.057,
+            "speakerSeqId": 1,
+            "transcription": "আচলতে মানে এই বিলাক বস্তু যে হৈ আছে (()) মানে আমাৰ পৰা ভোত লৈ তাৰ পিছত জিকাৰ পিছত আমাৰ যালে মানে আকো নজৰ নিদিয়া হৈ আহিছে কি হৈছে যে আমাৰ ফালে চুৱা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 102.057,
+            "end": 115.253,
+            "speakerSeqId": 1,
+            "transcription": "তো য়াৰ মানে মেন কাৰণ তো কি আছলতে যে কিয় অনেকোৱা কৰি আছে লিদাৰ বোৰে ডাঙৰ ডাঙৰ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 115.253,
+            "end": 116.317,
+            "speakerSeqId": 1,
+            "transcription": "(()) কৰিব (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 116.317,
+            "end": 131.723,
+            "speakerSeqId": 2,
+            "transcription": "হয় নে নহয় [silence]  [overlap] যে আগত [silence]  [overlap] আগত আমি দেখা পোৱা নাছিলো কোন মানুহ কি মানুহ (()) [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 131.723,
+            "end": 144.987,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] আপুনাৰ তাতে অলপ কম আছে মূৰ তাতে (()) নাইটী টো এনেকে দেখাই আছে [silence] যে সেই বিলাক মানুহ আমি আগত দেখা পোৱা নাছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 144.987,
+            "end": 158.622,
+            "speakerSeqId": 2,
+            "transcription": "মানে কোন মানুহ হয় চিনি পোৱা নাছিলো [overlap] সেইজন মানুহ বৰ্তমান এনেকুৱা কৰি আছে কৰিব যে মোক তুমি ইয়াত ভোত দিয়া দেখা মই কেনেকুৱা মানুহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 158.622,
+            "end": 170.333,
+            "speakerSeqId": 2,
+            "transcription": "মই [silence] যে তুমাৰ গাওঁত (()) সমস্যা দুৰ কৰি দিম মানে যে ৰাস্তা ঘাতৰ অশুবিধা সেইটো বনাই দিম মই বহুত বহুত কৈ থাকিব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 170.333,
+            "end": 182.618,
+            "speakerSeqId": 2,
+            "transcription": "(()) মানুহ কি কৰিব যে ভোট জিকি যাই তাৰ পিছত কত যাই (()) দেখা পোৱা নাজায় [silence] যে কোনো এদিন তাৰ (()) যিকোনো কামৰ বস্তু মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 182.618,
+            "end": 197.165,
+            "speakerSeqId": 2,
+            "transcription": "মই (()) কামতো নাই কাম তো কৰি দিয়া হৈ ৰাস্তা তো কাম কৰিদিয়া হয় [silence]  [silence] কি কয় তাৰ পিছত কৈ থাকে আপুনাৰ লোক কৈৰ মানুহ কোন খিনি মানুহ কোন খান গাওঁৰ মানুহ [silence] এনেকুৱা মানে নেতা (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 197.165,
+            "end": 205.028,
+            "speakerSeqId": 2,
+            "transcription": "যে আজি কালি ভোট টো (()) আছে আমাৰ সেই ভোট টো মানে [silence] মানুহক চিঙি দিব লাগে যে আমাৰ ডোল (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 205.028,
+            "end": 214.259,
+            "speakerSeqId": 1,
+            "transcription": "হয় মানী এইটো [silence] #হম মানে কি হৈছে আমাৰ যে আমাৰ এতিয়া অসমৰ তো চৰকাৰ [overlap] চৰকাৰ হৈ আছে এতিয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 214.259,
+            "end": 224.384,
+            "speakerSeqId": 1,
+            "transcription": "তো কি হৈছিল যে মানে আমাৰ (()) [overlap] যে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 224.384,
+            "end": 240.348,
+            "speakerSeqId": 1,
+            "transcription": "মানে মই কৈছো যে আমৰ যে আমাৰ তো অসমত [overlap] চৰকাৰ হয় নে নহয় ভাইটী [silence] তাৰ মানে এতিয়া কি হৈছে যে (()) চৰকাৰ যে ছুভান আলি চৰকাৰ [silence] এই মানুহ টো কি হৈছে আমাৰ তো এতিয়া"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 240.348,
+            "end": 254.27,
+            "speakerSeqId": 1,
+            "transcription": "হয় নে নাই? [silence] তো কি কৰিছে (()) পাঁচ বছৰ আগত একবাৰ মানে কি হৈছিল ভোট খেলি সাৰিছিল সাৰি যোৱাৰ পিছত কি হৈছিল য়াৰ মানে নেক্স্ট টাৰ্গটটো তো হৈছে কি এতিয়া যে মই যেনে তেনে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 254.27,
+            "end": 267.213,
+            "speakerSeqId": 1,
+            "transcription": "যিকিব লাগে হয় নে নাই? [silence] মানে ইলেশনত যিকিব লাগে লোৱাৰ পিছত মই পাঁচ বচৰ ইমান মানে এনেকুৱা টকা মাৰি দিম যে মই মানে মূৰ (()) মই যাতেই পোনৰ বিশ বাৰ ইলেকশন খালিব পাৰোঁ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 267.213,
+            "end": 279.903,
+            "speakerSeqId": 1,
+            "transcription": "কিন্তু এনেকুৱা আছে এতিয়া [overlap] হয় নে নহয় ভাইটি [silence] মানে আমাৰ ইফালে বেছি ভাগ মলএ ক্ষেত্ৰত এনেকুৱা (()) বেছি ভাগ মানে লিদাৰ বোৰ ক্ষেত্ৰত এনেকুৱা যে সিহতে মানে এটো জোৱা বুলি ভাবি লৈছে ৰাজনীতি এতিয়া জোৱা হৈ গৈছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 279.903,
+            "end": 294.247,
+            "speakerSeqId": 1,
+            "transcription": "যে মানে এটো মই পৈইছা সাৰিলো ফাৰ্ষ্ট সাৰিলো ছেকেণ্ড বাৰ মই তোলি লম হয় নাই? [silence] (()) [silence] তো মানে ঘটনাটো হৈছে যে মানে যে যোৱা ইলেকশনত যে (()) কি হয় যে মই শুনা পাইছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 294.247,
+            "end": 306.953,
+            "speakerSeqId": 1,
+            "transcription": "মলএ ওচৰত গৈছিল নেকি [silence] ছুভান আলি চৰকাৰ উচৰত গৈছিলো কিবা এটা মানে পৰা মৰখ লবলৈ গৈছিল (()) লগত মানে ব্যবহাৰ কৰিছে যে মানে ছাত্ৰ ছাত্ৰী লগত যে মানে ঘৰৰ পৰা উলোৱা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 306.953,
+            "end": 319.627,
+            "speakerSeqId": 1,
+            "transcription": "মানে মানুহ জনৰ (()) [silence] (()) ওৱাইফ বুলি (()) কথা কৈছে তোমা লোকে যোৱা কি কথা আছে মূৰ লগত পাতা চোৱা তেনে সলে স্তোদেন্ত গৈছে ষ্টুডেন্ত যনক ভাল হন মান দিব পৰা নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 319.627,
+            "end": 333.363,
+            "speakerSeqId": 1,
+            "transcription": "কেনেকুবা মানুহ এইজন কেনেকৈ মলএ হয় [silence] তো গতিকে যে আমাৰ মানে বিলাক মানুহ পৰা সাধৰণ [overlap] কি আশা কৰিব [silence] মই তো আশা (()) আচলতে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 333.363,
+            "end": 342.931,
+            "speakerSeqId": 1,
+            "transcription": "মানুহ এবিলাক মানুহ মানে আমাৰ তুমি কি ভাবা যে আমাৰ অসম খনত যে মানে ভাল এটা (()) আৰু ভাল এটা (()) মানে (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 342.931,
+            "end": 355.368,
+            "speakerSeqId": 1,
+            "transcription": "আশা আছে নে নাই? তুমাৰ মানে কি কুন্তু ভাল লাগে যে এতিয়া বিজেপি চৰকাৰ তো চলি আছে যে এটো ভাল ভাল লাগে না (()) চৰকাৰ ভাল লাগে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 355.368,
+            "end": 361.477,
+            "speakerSeqId": 2,
+            "transcription": "মানে (()) দেখিছিলো যে যেনেকুৱা (()) [overlap] আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 361.477,
+            "end": 363.367,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 363.367,
+            "end": 365.003,
+            "speakerSeqId": 2,
+            "transcription": "(()) বেয়া নাছিল"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10033,
+            "start": 365.003,
+            "end": 365.071,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 365.071,
+            "end": 378.605,
+            "speakerSeqId": 2,
+            "transcription": "মানে ভালে আছে (()) সৰু ছোৱালী বা তেনেকুৱা ছোৱালী (()) মানে যেনেকুৱা মানুহে যাওক মানে যদি তাই ঘৰতে আছিল মানে তাক (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 378.605,
+            "end": 392.459,
+            "speakerSeqId": 2,
+            "transcription": "(()) [silence] পৈইছা (()) [silence] বা যিকুনো কথা মানে ঘৰৰ পৰা ওলাই কেনে মানে কথা কৈছে [silence] মানে (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 392.459,
+            "end": 402.938,
+            "speakerSeqId": 2,
+            "transcription": "মানুহ টো অলপ এটা ব্যবহাৰ বেয়া আছিল কি মানে [silence] #আহ (()) তাৰ এটা লোভ বেছি আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 402.938,
+            "end": 418.143,
+            "speakerSeqId": 2,
+            "transcription": "মানত আছে মানুহ টো নিজাই নিজৰ ভুলত [silence] মানে [silence] পাব্লিকৰ ভুল নহয় এটো নিজৰ ভুলত এনেই (()) ভালে আছিল মানে এটা নিজেই এটা মানে কিবা ভাবিছে ভাবা পিছত এক ডল এৰি দিয়ে বেলেগ ডল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 418.143,
+            "end": 432.453,
+            "speakerSeqId": 2,
+            "transcription": "যাওতে পাব্লিক (()) [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 432.453,
+            "end": 446.273,
+            "speakerSeqId": 2,
+            "transcription": "অগত যেনেকুৱা আছিল বৰ্তমান (()) কংগ্ৰেছৰ [silence] কংগ্ৰছৰ (()) যি আছিল যতি সিংসা আছিল মানে যাতি সিংসা থকা পিছত মানে (()) মানে মানুহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 446.273,
+            "end": 456.145,
+            "speakerSeqId": 2,
+            "transcription": "মানে ভই খাই ছো [silence] বৰ্তমান [silence]  [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 456.145,
+            "end": 467.772,
+            "speakerSeqId": 2,
+            "transcription": "তো মানে আমাৰ মেন কথা হৈছে যে চৰকাৰে কি কৰে কৰিব আমাৰ তো দেশাত দৰকাৰ নাই হয় নে নাই? [silence] এইবিলাক মানে কথা কলে আমাৰ বহুত মানে আমাৰ নিজৰ সময় নষ্ট হয় যাব"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 467.772,
+            "end": 482.077,
+            "speakerSeqId": 2,
+            "transcription": "এইবিলাক মানে এনেকোৱাই (()) ভাল নহব আমাৰ যেনেকোৱা আমাৰ মূখ্যমন্ত্ৰী আমাৰ হিমন্ত বিশ্ব শৰ্মা ইয়াৰ মূখৰ পৰা ইমান বেয়া বেয়া ভাষা ওলায় (()) [silence] আমাৰ যে আমাৰ গাওখনতে মানে (()) বিলাক আছে আচলতে কি মই ভাবো যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 482.077,
+            "end": 491.684,
+            "speakerSeqId": 2,
+            "transcription": "তুমি কি ভাবে যে আমাৰ গাওঁৰ মানুহ যদি থিক থাকিলে বস্তু দুৰ হব নে নাই আমাৰ গাওঁৰ পৰা সমস্যা বিলাক যেনে কৈ বাল্য বিবাহ নিয়ম কৰাত কৰাই দিৱাৰৰ পিছতো বাল্য বিবাহ কৰে এতিয়া বাল্য বিবাহ হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 491.684,
+            "end": 505.825,
+            "speakerSeqId": 1,
+            "transcription": "অচলতে তুমি কি ভাবা যে আমাৰ গাওৰ মানুহ বোৰৰ কাৰণে এনেকুৱা হৈছে নে কিবা কিবি কাৰণত নে নিজৰ [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 505.825,
+            "end": 506.163,
+            "speakerSeqId": 1,
+            "transcription": "#হম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 506.163,
+            "end": 511.192,
+            "speakerSeqId": 2,
+            "transcription": "এই ৰাজবংখি ছোৱালী [silence] লৰা ছোৱালী তাত (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 511.192,
+            "end": 511.546,
+            "speakerSeqId": 1,
+            "transcription": "#হম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 511.546,
+            "end": 518.38,
+            "speakerSeqId": 2,
+            "transcription": "মানে বাৰ তেৰ বচৰ এটা ছোৱালীক বিয়া দিয়ে [silence] তাৰ মানে [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 518.38,
+            "end": 529.552,
+            "speakerSeqId": 2,
+            "transcription": "এক বচৰ পিছত ভাবি চাই এনেকুৱা হয় আছে মানে বান্দৰ নিচিনা গাত মাংস নাই বদিত মাংস নাই মানে ধূলি থাকে যেনেকুৱা চাওক মাৰ্ৱাৰী আৰু বাঙালী"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 529.552,
+            "end": 532.724,
+            "speakerSeqId": 2,
+            "transcription": "(()) মানে বুজি পাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 532.724,
+            "end": 533.062,
+            "speakerSeqId": 1,
+            "transcription": "#উম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 533.062,
+            "end": 546.477,
+            "speakerSeqId": 1,
+            "transcription": "[silence]  [overlap] এটো কথা সঁচা কথা কৈছা কিন্তু আমাৰ এইটো মানে কি হয় যে আমাৰ বেচি ভাগ মুছলিম মানুহ (()) আমাৰ (()) [overlap] কিবা নিয়ম নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 546.477,
+            "end": 559.336,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ যে আমাৰ সৰুতে বিয়া পতা তো (()) হয় নে নাই? মানে (()) হলে হল আৰু মানে এটা লৰা ছোৱালী [overlap] মানে আমাৰ এই কাৰণে এনেকুৱা সমস্যা বিলাক হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 559.336,
+            "end": 574.0,
+            "speakerSeqId": 1,
+            "transcription": "মানে সঁচা কথা শুনিও কি হৈছে কালি এখন কাজিয়া হৈছে দে আমাৰ যে (()) আছিল না [silence] এয়াৰ মানে তাৰ মানে ৰিলেতিভ এজন আছিল ভাইটি হয় নিকি (()) বিয়া পাতিছে ছোৱালীতো বয়স কম আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 574.0,
+            "end": 587.5,
+            "speakerSeqId": 1,
+            "transcription": "এটো লৈ বহুত কাজিয়া হৈছে মানে কালি দেখিচা নে (()) আমাৰ য়াত আহিছে খেলত (()) অহা নাই কিন্তু [silence] মানে এতিয়া এই বিলাক শুনিছো চলি আছে যে বাইল বিবাহ তাৰ পিছত কি হৈছে চৰকাৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 587.5,
+            "end": 598.807,
+            "speakerSeqId": 1,
+            "transcription": "দখল কৰি আছে হয় নে নহয়? [silence] তো গতিকে আমাৰ হাতত বেচি টাইম নাছিল তো আমাৰ ৰেকৰ্ডিঙ খিনি হৈছে টাইম থাকিলে কথা পাতিলো হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 598.807,
+            "end": 608.064,
+            "speakerSeqId": 2,
+            "transcription": "যাৰ কাৰণে বেচি কথা পাতিম মানে এই কথা ডিচকাচ কৰিব লাগে"
+        }
+    ]
+}

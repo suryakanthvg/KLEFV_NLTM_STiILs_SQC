@@ -1,0 +1,492 @@
+{
+    "speechMode": "C",
+    "recordingId": "20826159",
+    "speechFile": "as_SHA1P_C_r013_s027",
+    "callDuration": 606.571,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0236269"
+        },
+        {
+            "gender": "F",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID232400"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 7.912,
+            "speakerSeqId": 1,
+            "transcription": "নমস্কাৰ, মোৰ লগত আছে আমাৰ #এৰ বাইদেউ । বাইদেউ আপুনি কওক কেনেকুৱা খবৰ চলি আছে আপোনাৰ?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 7.912,
+            "end": 15.64,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] এইটো মোটা মোটি খবৰ ভালেই, আপোনাৰ খবৰ কেনেকুৱা?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 15.64,
+            "end": 18.222,
+            "speakerSeqId": 1,
+            "transcription": "পিছে #এৰ খোৱা দোৱা হ'ল নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 18.222,
+            "end": 22.559,
+            "speakerSeqId": 2,
+            "transcription": "অ [silence] আপুনি?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 22.559,
+            "end": 27.914,
+            "speakerSeqId": 1,
+            "transcription": "#এৰ যি নহওক, [overlap] মানে আজি আমি আলোচনা কৰিম মানে সমাজ সংস্কৃতিৰ বিষয়ে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 27.914,
+            "end": 32.454,
+            "speakerSeqId": 1,
+            "transcription": "তো সমাজ হ'ল আচলতে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 32.454,
+            "end": 44.48,
+            "speakerSeqId": 1,
+            "transcription": "#এৰ আমি দহ জাতি একেলগে মানে মিলিজুলি বাস কৰো আজি এখন গাঁওত, [silence] মানে তাকে আচলতে #এৰ সমাজ বুলি কয় । [silence] আৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 44.48,
+            "end": 50.896,
+            "speakerSeqId": 1,
+            "transcription": "আৰু সমাজত মানে ব~বাস কৰি থকা লোক সকলৰ মানে [overlap] সংস্কৃতি সব মানে ভিন্ন ধৰণৰ হ'ব পাৰে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 50.896,
+            "end": 57.963,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়, তো আপুনি কওক [overlap] অলপ সমাজ সংস্কৃতিৰ ওপৰত ।"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10010,
+            "start": 57.963,
+            "end": 59.853,
+            "speakerSeqId": null,
+            "transcription": "[babble]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 59.853,
+            "end": 74.18,
+            "speakerSeqId": 2,
+            "transcription": "তো আমি এইখিনিতে ক'ব বিচাৰিছো যে সমাজ যেটা হয় না, তো সমাজ #এৰ সমাজ বুলিলেতো মানে এটা পৰিয়াল নহয়, মানে কেইবাটাও পৰিয়াল লগ লাগি কিন্তু এটা সমাজ হয়, হয় না?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 74.18,
+            "end": 87.157,
+            "speakerSeqId": 2,
+            "transcription": "তো আমাৰ এই সমাজত মিলিত ভাবে থাকিবলৈ হ'লে মানুহৰ লগত ভাল আচাৰ আচৰণ [overlap] ভাল ব্যবহাৰ ইত্যাদি কৰিব লাগে, মানুহৰ লগত ভাল ধৰণে কথা বতৰা পতা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 87.157,
+            "end": 99.695,
+            "speakerSeqId": 2,
+            "transcription": "এখন সমাজত মানে ভালদৰে থাকিবলৈ হ'লে, সেই সমাজ খনৰ লগত খাপ খাবলৈ হ'লে [overlap] সেই সমাজৰ প্ৰতিটো পদক্ষেপ মানে (()) কৰিব লাগে । এতিয়া আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 99.695,
+            "end": 113.06,
+            "speakerSeqId": 2,
+            "transcription": "মানে যিখন সমাজত বাস কৰো, সেই সমাজৰ নীতি নিয়ম যদি নামানি মানে অন্য মানে বিভিন্ন ঠাইৰ সমাজৰ নীতি নিয়ম মানো, তেতিয়াহ'লেতো সেই সমাজত [overlap] মানে থকাটো অত্যন্ত অসুবিধা হৈ পৰিব, হয় নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 113.06,
+            "end": 122.392,
+            "speakerSeqId": 2,
+            "transcription": "যিহেতু আমি সেইখন সমাজতেই বসবাস কৰিম, সেইখন সমাজৰেই মানে আদৰ্শ, কলাকৃস্তি, নীতি নিয়ম আদি মানিব লাগিব, হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 122.392,
+            "end": 136.465,
+            "speakerSeqId": 2,
+            "transcription": "তো আমাৰ সমাজত বৰ্তমান এনেকুৱা হৈছে যে এজনৰ ঘৰত আন এজন গ'লে মানে বহুতো ধৰণৰ কথা কয় । আজিকালি আকৌ (()) যেনে~কেনেকুৱা হৈ গৈছে, হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 136.465,
+            "end": 149.982,
+            "speakerSeqId": 2,
+            "transcription": "আগৰ আগৰ মানে আগৰ দিনৰ মানুহ যেতিয়া অঘৰী আছিল, যেতিয়া সিহতৰ ঘৰ-বাৰী নাছিল, তেতিয়াও মানে সিহতে একেলগে ঘুৰি ফুৰিছিল, কিন্তু কিমান আনন্দ ফুৰ্তিত ঘুৰি ফুৰিছিল!"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 149.982,
+            "end": 164.14,
+            "speakerSeqId": 2,
+            "transcription": "থকাৰ ঠাই (()) ঠাই নাছিল, যতেই মানে #এৰ ৰাতি হৈছিল তাতেই সিহতে যিকোনো এঠাইত মানে থকাৰ কাৰণে ঠাই খুজি লৈছিল । তো বৰ্ত~আগৰ দিনত যদিও ইমান মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10019,
+            "start": 164.14,
+            "end": 177.995,
+            "speakerSeqId": 2,
+            "transcription": "সমাজ ব্যবস্থাৰ প্ৰচলন নাছিল, তথাপিও কিন্তু আগৰ মানুহে মানে [overlap] বহুতো আনন্দত মানে দিন কটাইছিল, হয় নাই খাই ফুৰি? [silence] কিন্তু বৰ্তমান সমাজত এনেকুৱা হৈছে, যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 177.995,
+            "end": 192.592,
+            "speakerSeqId": 2,
+            "transcription": "বৰ্তমান মানুহৰ মানুহৰ মুখত আকৌ কি শুনিম, ধনী আৰু দুখীয়া । মই নাজানো এইটো এই ধনী আৰু দুখীয়া এইটো কি এই দুটাৰ মাজত কি পাৰ্থক্য । #এৰ ঈশ্বৰ মানে মানুহক সৃস্তিকৰ্তা ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 192.592,
+            "end": 205.45,
+            "speakerSeqId": 2,
+            "transcription": "তো ঈশ্বৰে মানে মানুহক সৃস্তি কৰিছে । মানুহ যি ধৰণে চলিব, ঈশ্বৰে যি ধৰণে পৰিচালিত কৰিব মানুহ সেইধৰণেহে চলিব, হয় নাই? মানুহৰ মানুহৰতো মানে তেনেধৰণৰ মানুহৰ কোনো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 205.45,
+            "end": 218.343,
+            "speakerSeqId": 2,
+            "transcription": "মানে #এৰ যিটো আমাৰ কয় সাধ্য সাধ্য, মানুহৰতো কোনো সাধ্য নাই একো কৰাৰ । ভগৱানে যেনেদৰে পঠিয়াই দিছে যে আমাৰ সমাজত এনেকুৱা আমি মুছলিম ধৰ্মত জন্মগ্ৰহণ কৰিছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 218.343,
+            "end": 231.877,
+            "speakerSeqId": 2,
+            "transcription": "তো আমি এই মুছলিম ধৰ্মৰ নিয়ম অনুযায়ী সমাজত চলিব লাগিব । এতিয়া আমাৰ মুছলিম সকলৰ মানে যিটো পবিত্ৰ পবিত্ৰ আমাৰ যিটো ঈদ, ঈদ বুলি যে কয়, এই ঈদৰ কাৰণে আমি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 231.877,
+            "end": 245.478,
+            "speakerSeqId": 2,
+            "transcription": "বহুতো [overlap] #এৰ নতুন নতুন কাপোৰ কানি পৰিধান কৰো, কিন্তু বহুতো মিস্তি মিস্তি খোৱা বস্তু খাও, কিন্তু এই হিন্দু ধৰ্মত কিন্তু [overlap] এইটো মানে প্ৰচলন নাই । আমাৰ ধৰ্মত মানে যি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 245.478,
+            "end": 254.962,
+            "speakerSeqId": 2,
+            "transcription": "সমাজ সংস্কৃতি, তাৰ মানে আমাৰ #এৰ [silence] সমাজ [overlap] সংস্কৃতিটোৱে মানে টোটেলী মানে বেলেগ বেলেগ ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 254.962,
+            "end": 256.582,
+            "speakerSeqId": 1,
+            "transcription": "কৰে, হয় নে নহয়? [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 256.582,
+            "end": 261.863,
+            "speakerSeqId": 1,
+            "transcription": "চাওক, আচলতে আমাৰ যিটো সংস্কৃতি আছে, এইটো বেলেগ [overlap] ধৰ্মৰ লগত নিমিলে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 261.863,
+            "end": 273.111,
+            "speakerSeqId": 1,
+            "transcription": "আমাৰ সংস্কৃতিত মানে যিহেতু আমাৰ কিবা অনুস্থান হ'লে আমাৰ সংস্কৃতিত যিবিলাক পিন্ধিবলৈ কয়, সেইবিলাক আমি পৰিধান কৰো ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 273.111,
+            "end": 287.962,
+            "speakerSeqId": 1,
+            "transcription": "মানে আমাৰ সমাজৰো #এৰ যদি কিবা দায়িত্ব দিয়ে, [overlap] এইটো আমি এই কাৰ্য পালন কৰো । মানে সমাজত থাকিবলৈ হ'লে মানে আমি সদায় সচেতন হ'ব লাগিব যাতে সমাজত কোনো ধৰণৰ মানে বেয়া কাম নচলে বা বেয়া কামৰ আৰম্ভণি নহয় ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 287.962,
+            "end": 292.61,
+            "speakerSeqId": 1,
+            "transcription": "তেনেহ'লে সমাজখন সুস্থভাবে পৰিচালিত হ'ব ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 292.61,
+            "end": 305.873,
+            "speakerSeqId": 2,
+            "transcription": "#উম মানে ইয়াতেই মানে এইটো ক'ব বিচাৰিছো যে বৰ্তমান সমাজত [overlap] হিন্দু মুছলমানৰ মাজৰ, বৰ্ণ বৈষম্যৰ মাজত যি বিভেদ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 305.873,
+            "end": 317.649,
+            "speakerSeqId": 2,
+            "transcription": "এনেধৰণৰ [overlap] এনেধৰণৰ বিভেদ সমাজত থাকিব নালাগে, যিহেতু সমাজৰ সকলোখিনি (()) হয় নে? তো মানে (()) আমি সকলোৱে মানে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 317.649,
+            "end": 331.169,
+            "speakerSeqId": 2,
+            "transcription": "আমি সকলোৱে সৃস্তি হৈছো আমি ঈশ্বৰে আমাক সৃস্তি কৰিছে । তো ঈশৰতো মানে এনেকৈ লোকক কোৱা নাই যে তুমি হিন্দু তুমি মুছলমান, তুমি তাৰ লগত কথা বতৰা নাপাতিবা, [overlap] তোমাৰ ধৰ্ম অলগ~মানে বেলেগ বেলেগ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 331.169,
+            "end": 345.31,
+            "speakerSeqId": 2,
+            "transcription": "তোমাৰ ৰক্ত (()) ৰক্ত মানে লাল ৰক্ত বিলাক, এনেকুৱাতো কোনো একো কথা কোৱা নাই । তেনেহ'লে মানে ইয়াত এই সকলো বিলাকতো মানুহৰেই মানে #এৰ যি কৰা মানে [overlap] কি কি কয় এইটো?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10035,
+            "start": 345.31,
+            "end": 356.954,
+            "speakerSeqId": 2,
+            "transcription": "মন কৰা যিটো কয়, মানুহৰ মানে মানে প্ৰভেদ যিটো, হিন্দু মুছলমান, এইটো থাকিলে আকৌ (()) কেনেকুৱা ধৰণে? আজিকালি দেখা যায় যে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 356.954,
+            "end": 370.201,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ মুছলমান ঘৰত হিন্দু মানে লোকে যদি যায়, তেনেহ'লে সিহতক খাবলৈ দিলে সিহতে নাখায় । এহ সিহতে কয় আকৌ তোমালোক মুছলমান লোক, আমি তোমালোকৰ ঘৰত নাখাও । এই এইটো আকৌ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 370.201,
+            "end": 376.816,
+            "speakerSeqId": 2,
+            "transcription": "এইটো আমাৰ মানে খোৱা বোৱাৰ যিটো কি আছে, সেইটোৰ লগত [overlap] আৰু হিন্দু মুছলমানৰ কি পাৰ্থক্য কওকচোন ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 376.816,
+            "end": 388.122,
+            "speakerSeqId": 1,
+            "transcription": "মানে আমি যত বাস কৰি আছো, এইটোৰ সংস্কৃতিৰ বিষয়লৈ আপুনি অলপ ক'ব পাৰিব নে? [noise] মানে আমাৰ অনুস্থান কি মানে সংস্কৃতিটো কেনেকুৱা (())"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 388.122,
+            "end": 391.278,
+            "speakerSeqId": 1,
+            "transcription": "কিবা আৰু নৃত্য সংগীত এইবিলাকৰ ওপৰত অলপ কওকচোন ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 391.278,
+            "end": 409.891,
+            "speakerSeqId": 2,
+            "transcription": "তো আজি আমাৰ মানে স~মানে যিটো আমাৰ সংস্কৃতি পৰে, বিহুটো আমাৰ মানে ভাৰতীয় সংস্কৃতিৰ ভিতৰত অন্যতম, হয় নাই? [overlap] আমাৰ বিহু আমাৰ জাতীয় উৎসৱ । বিহুত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 409.891,
+            "end": 425.433,
+            "speakerSeqId": 2,
+            "transcription": "বিভিন্ন হিন্দু সকলে আমাৰ পিঠা পনা, গৰু পুজা, মাঘ বিহুত মানে বহুতো ৰঙালী বিহুত সিহতে ৰং ধেমালী কৰে, বহুতো হোলী । এনে মুছলমান (()) আকৌ তেনেকুৱা আছে, যেনেকৈ ঈদ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 425.433,
+            "end": 439.204,
+            "speakerSeqId": 2,
+            "transcription": "ৰমজান, এইবিলাক হৈছে মুছলমান সকলৰ । কিন্তু হিন্দু সকলৰ মানে যিবিলাক কি আছে মানে প্ৰতি~মানে প্ৰতিষ্ঠান মানে সিহতৰ যিটো সংস্কৃতি, সেইটো সংস্কৃতি মানে [overlap] টোটেলীতো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 439.204,
+            "end": 452.534,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ মুছলমানতকৈ বেলেগ, হয় নাই? যদি তেওলোকৰ মানে কোনোবা ঠাইত এখন পুজা-পাৰ্বন হৈ আছে, তেতিয়া এই ল'ৰা ছোৱালী সকলোবিলাক একেলগে মিলিয়েই নৃত্য কৰি কৰি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10044,
+            "start": 452.534,
+            "end": 466.675,
+            "speakerSeqId": 2,
+            "transcription": "গোটেই ঠাই খনত ঘুৰি ফুৰে, হয় নাই? কিন্তু আমাৰ মুছলমান সকলৰ আকৌ সেইটো নীতিত নাই । মুছলমান সকলে অকলে অকলে মানে ঘৰত বহি বহি নামাজ পঢ়ে ।এইটো আমাৰ সমাজত যিটো প্ৰচলিত, যে আমাৰ"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10045,
+            "start": 466.675,
+            "end": 467.857,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 467.857,
+            "end": 471.012,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] যিটো প্ৰভেদ, অ এই এইটোৱেই ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 471.012,
+            "end": 483.382,
+            "speakerSeqId": 1,
+            "transcription": "মানে আমি #এৰ সৰুৰ পৰা যিটো দেখিছো, বা সমাজ বা সংস্কৃতি, মানে এইটো আমি এতিয়া ডাঙৰহৈ পালন কৰি আছো । [silence] আচলতে এনেকুৱা সংস্কৃতি বা সমাজ মানে এইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 483.382,
+            "end": 489.608,
+            "speakerSeqId": 1,
+            "transcription": "#এৰ মানে সলনি কৰিলে ভাল হ'ব, নে আগৰ পৰাই মানে যিটো চলিছে সেইটো থাকিলে ভাল হ'ব, তাৰ ওপৰত অলপ কওকচোন ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 489.608,
+            "end": 503.969,
+            "speakerSeqId": 2,
+            "transcription": "অ মানে আদিম যুগৰ মানুহ বিলাকতো এনেকুৱা ধৰণৰ কোনো সিহতৰ সমাজ সংস্কৃতি নাছিল । সিহতে জনাই নাছিল যে মই হিন্দু নে মুছলমান, হয় নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 503.969,
+            "end": 513.925,
+            "speakerSeqId": 2,
+            "transcription": "তাৰপিছত যেতিয়া মানে লাহে লাহে আমাৰ সভ্য সমাজ, যাক আমি সভ্য সমাজ বুলি কও, যাক সভ্য সমাজত এতিয়া মানুহ বিলাকক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 513.925,
+            "end": 522.288,
+            "speakerSeqId": 2,
+            "transcription": "বহুতো ধৰণৰ আগবাঢ়ি আহিছে যদিও কিন্তু আধুনিক যুগৰ মানুহ বিলাকৰ লগত বৰ্তমান লোকৰ মানুহৰ কিন্তু ইমান মিলাপ্ৰীতি নাই, হয় নে?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 522.288,
+            "end": 538.529,
+            "speakerSeqId": 2,
+            "transcription": "বৰ্তমান সমাজত মানুহ যিহেতু সৰ্বশ্ৰেষ্ঠ, সকলো জীৱৰ ভিতৰত মানুহ যিহেতু সৰ্বশ্ৰেষ্ঠ, তো মানুহেই এখন সমাজ পৰিচালিত কৰিব পাৰে, আকৌ মানুহেই এখন সমাজ ধ্বংস কৰিব পাৰে, হয় নাই? [silence] তো আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 538.529,
+            "end": 549.683,
+            "speakerSeqId": 2,
+            "transcription": "#এৰ এখন সমাজত যদি বসবাস কৰি থাকিবলগীয়া হয়, তো তেনেহ'লে [overlap] আমি সমাজ খন পৰিচালিত ভালদৰে কৰিব লাগিব । যদি আমাৰ সমাজত হাই কাজিয়া বা তেনেকুৱা"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 549.683,
+            "end": 562.272,
+            "speakerSeqId": 2,
+            "transcription": "#এৰ কথা বতৰা, আচাৰ ব্যবহাৰ মানে বেয়া হয় এইখন সমাজত, সেই সমাজ খনৰ প্ৰতি কিন্তু আন মানুহৰ মানে বেয়া ধাৰণা আহে, [overlap] যে এইখন সমাজৰ ৰীতি নীতি ভাল নহয় । তো আমি এইটোক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 562.272,
+            "end": 572.971,
+            "speakerSeqId": 2,
+            "transcription": "মানে আমাৰ এইটো লক্ষ্য ৰখা দৰকাৰ যে এখন সমাজ কি দৰে আমি পৰিচালিত কৰিব পাৰো আৰু সমাজৰ প্ৰতিজন লোককে আজিকালি [overlap] মানে শিক্ষিত হোৱাটো অত্যন্ত প্ৰয়োজন, হয় নাই?"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 572.971,
+            "end": 584.429,
+            "speakerSeqId": 1,
+            "transcription": "কি আছিল বা [overlap] আগত মানুহ যেনেকে বাস কৰিছিল, হয়তো বৰ্তমান সময়ত বহুতো সাল সলনি হৈছে, হয় নে নহয়? [silence] আগত মানুহে পৰিধান কৰিবলৈ পোচাক নাছিল আৰু বৰ্তমান সময়ত মানে এইটো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10057,
+            "start": 584.429,
+            "end": 591.719,
+            "speakerSeqId": 1,
+            "transcription": "সংস্কৃতিত পৰি আহিছে যে মানে পোচাক পৰিধান কৰক, বা আপোনাৰ #এৰ আপোনাৰ আগৰ পৰাই সলনি হৈ আহিছে ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 591.719,
+            "end": 600.14,
+            "speakerSeqId": 1,
+            "transcription": "অ হ'ল আৰু [overlap] সময়টো ।"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10059,
+            "start": 600.14,
+            "end": 606.571,
+            "speakerSeqId": 2,
+            "transcription": "টো সমাপ্ত হ'ল নেকি?"
+        }
+    ]
+}

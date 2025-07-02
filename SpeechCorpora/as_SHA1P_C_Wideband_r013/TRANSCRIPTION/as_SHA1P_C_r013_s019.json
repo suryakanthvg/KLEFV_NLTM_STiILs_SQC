@@ -1,0 +1,580 @@
+{
+    "speechMode": "C",
+    "recordingId": "20824520",
+    "speechFile": "as_SHA1P_C_r013_s019",
+    "callDuration": 623.019,
+    "speakers": [
+        {
+            "gender": "M",
+            "speakerSeqId": 2,
+            "speakerUniqueId": "UUID0238039"
+        },
+        {
+            "gender": "M",
+            "speakerSeqId": 1,
+            "speakerUniqueId": "UUID0238040"
+        }
+    ],
+    "segments": [
+        {
+            "segmentType": "speech",
+            "segmentId": 10001,
+            "start": 0.0,
+            "end": 6.622,
+            "speakerSeqId": 1,
+            "transcription": "অ হেল্লো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10002,
+            "start": 6.622,
+            "end": 9.003,
+            "speakerSeqId": 2,
+            "transcription": "অ হেল্লো বলক [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10003,
+            "start": 9.003,
+            "end": 10.916,
+            "speakerSeqId": 1,
+            "transcription": "অ হয় ৰাজু কেনেকুৱা আছে আপুনি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10004,
+            "start": 10.916,
+            "end": 14.049,
+            "speakerSeqId": 2,
+            "transcription": "অ আছো ভালেই আৰু আপুনাৰ খবৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10005,
+            "start": 14.049,
+            "end": 16.915,
+            "speakerSeqId": 1,
+            "transcription": "অ ভালেই বাৰু [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10006,
+            "start": 16.915,
+            "end": 20.05,
+            "speakerSeqId": 1,
+            "transcription": "অ মই আজি #আহ ৰাজুৰ লগত দুই এখাৰ কথা কম আজি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10007,
+            "start": 20.05,
+            "end": 24.3,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে ৰাজু #আহ তাৰ আগতে দুই এখাৰ কথা কৈ লও ৰাজু আপুনি কেনেকুৱা আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10008,
+            "start": 24.3,
+            "end": 26.044,
+            "speakerSeqId": 2,
+            "transcription": "#আহ অছো ভালেই আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10009,
+            "start": 26.044,
+            "end": 33.412,
+            "speakerSeqId": 1,
+            "transcription": "অ মই অলপ দুৰত যায় আছো ত সেইকাৰণে মানে অলপ অসুবিধা হৈ আছে মই সেইকাৰণে দুৰত গৈ আছো [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10010,
+            "start": 33.412,
+            "end": 34.548,
+            "speakerSeqId": 1,
+            "transcription": "আৰু খোৱা দোৱা হল নে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10011,
+            "start": 34.548,
+            "end": 37.032,
+            "speakerSeqId": 2,
+            "transcription": "অ খোআ দোৱা হলেই বাৰু"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10012,
+            "start": 37.032,
+            "end": 40.628,
+            "speakerSeqId": 1,
+            "transcription": "কেনেকুৱা অৱস্থা পৰিয়ালৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10013,
+            "start": 40.628,
+            "end": 44.392,
+            "speakerSeqId": 2,
+            "transcription": "অৱস্থা আৰু মোটা মোটি ভালেই আছে আৰু আৰু আপোনাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10014,
+            "start": 44.392,
+            "end": 49.444,
+            "speakerSeqId": 1,
+            "transcription": "অ ভালেই আছে যে আৰু আমি আহো আপুনি প্ৰধান বিষয়ত উভতি আহো হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10015,
+            "start": 49.444,
+            "end": 52.292,
+            "speakerSeqId": 2,
+            "transcription": "অ অ [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10016,
+            "start": 52.292,
+            "end": 53.968,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে আপুনি আজি কিহৰ বিষয় কব বিচাৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10017,
+            "start": 53.968,
+            "end": 60.024,
+            "speakerSeqId": 2,
+            "transcription": "মই কব বিচাৰো যে বিদ্য়ুতৰ বিদ্য়ুতৰ বিষয় অলপ কম নেকি"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10018,
+            "start": 60.024,
+            "end": 62.948,
+            "speakerSeqId": 1,
+            "transcription": "অ অ বিদ্য়ুত"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10019,
+            "start": 62.948,
+            "end": 63.427,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10020,
+            "start": 63.427,
+            "end": 69.331,
+            "speakerSeqId": 1,
+            "transcription": "বিদ্য়ুতৰ বিষয়ে গতিকে কওক দুই এখাৰ কওক বিদ্য়ুতৰ বিষয়ে কি কব আপনি কি কব বিচাৰে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10021,
+            "start": 69.331,
+            "end": 75.471,
+            "speakerSeqId": 2,
+            "transcription": "আমাৰ বিদ্য়ুত যে আছে এতিয়াটো বিদ্য়ুত আমি পায়েই আছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10022,
+            "start": 75.471,
+            "end": 78.237,
+            "speakerSeqId": 1,
+            "transcription": "অ অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10023,
+            "start": 78.237,
+            "end": 86.379,
+            "speakerSeqId": 2,
+            "transcription": "মোটা মোটি পোন্ধৰ বিশ বছৰ পাছ পিছত আমাৰ টো এই বিদ্য়ুত নাছিলে [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10024,
+            "start": 86.379,
+            "end": 91.442,
+            "speakerSeqId": 1,
+            "transcription": "আছিল মানে কি মানে নগৰ এলেকাত আছিল আৰু গাও গাও এলেকাত নাছিলে [overlap] আমাৰ ইয়াতে নাছিলে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10025,
+            "start": 91.442,
+            "end": 93.159,
+            "speakerSeqId": 2,
+            "transcription": "অ অ গাও এলেকাত নাছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10026,
+            "start": 93.159,
+            "end": 97.207,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] নতুন জেগাত মানে আছিলে আৰু [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10027,
+            "start": 97.207,
+            "end": 100.271,
+            "speakerSeqId": 2,
+            "transcription": "কবলৈ গলেই আমি আৰু দুখিত"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10028,
+            "start": 100.271,
+            "end": 103.712,
+            "speakerSeqId": 1,
+            "transcription": "অ হয় দুখীয়া পৰিয়াল বুলি কয় [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10029,
+            "start": 103.712,
+            "end": 107.749,
+            "speakerSeqId": 2,
+            "transcription": "আগত কিমান [overlap] মানে মানুহ কষ্ট কৰিছো [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10030,
+            "start": 107.749,
+            "end": 108.519,
+            "speakerSeqId": 1,
+            "transcription": "অ হয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10031,
+            "start": 108.519,
+            "end": 116.363,
+            "speakerSeqId": 2,
+            "transcription": "এই যে আমি চাকি লয় ফুৰিছো হাৰিকেন যে কয় [overlap] সেইটো লৈ মানে কিমান কষ্ট কৰি মানে পঢ়া শুনা কৰিছো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10032,
+            "start": 116.363,
+            "end": 119.479,
+            "speakerSeqId": 2,
+            "transcription": "তাৰ [overlap] ফলত আমি বিদ্য়ুত পোৱা নাছিলো"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10033,
+            "start": 119.479,
+            "end": 126.548,
+            "speakerSeqId": 2,
+            "transcription": "আন্ধাৰ ৰাতি [overlap] আমি কিমান কষ্ট কৰি মানে পঢ়া শুনা কৰিছো কিমান আমি আমি দুখিত [overlap] না"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10034,
+            "start": 126.548,
+            "end": 127.647,
+            "speakerSeqId": 1,
+            "transcription": "হয় হয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10035,
+            "start": 127.647,
+            "end": 128.243,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10036,
+            "start": 128.243,
+            "end": 130.451,
+            "speakerSeqId": 1,
+            "transcription": "তেতিয়া আমাৰ #হম"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10037,
+            "start": 130.451,
+            "end": 131.247,
+            "speakerSeqId": 2,
+            "transcription": "বলক বলক"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10038,
+            "start": 131.247,
+            "end": 142.412,
+            "speakerSeqId": 1,
+            "transcription": "চাওক আমি বিদ্য়ুতৰ বিষয় আলোচনা কৰি আছো গতিকে আমাৰ আপনি যেনেকুৱা কলে আজিৰ পৰা প্ৰায় ধৰক বিশ পচিছ বছৰ আগত আমাৰ গাওলি গাও এলেকাত মানে বিদ্য়ুতৰ ব্য়ৱস্থা নাছিল হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10039,
+            "start": 142.412,
+            "end": 144.211,
+            "speakerSeqId": 2,
+            "transcription": "#আহ হয় [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10040,
+            "start": 144.211,
+            "end": 154.611,
+            "speakerSeqId": 1,
+            "transcription": "বিদ্য়ুত ব্যৱস্থাৰ এনেকুৱা এটা অৱস্থা আহিল আহি পালে যেতিয়া আমি [silence] আমি আমি মানে গাও গাৱলীয়া লোক আমাৰ ধৰক এটা সময় আছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10041,
+            "start": 154.611,
+            "end": 160.911,
+            "speakerSeqId": 1,
+            "transcription": "যাতে আমি #আহ মানে হেৰিকেন আপুনি যেনেকৈ কলে হেৰিকেন বাদ দি [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10042,
+            "start": 160.911,
+            "end": 163.271,
+            "speakerSeqId": 2,
+            "transcription": "এইটো আমি কও চা চাকি [overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10043,
+            "start": 163.271,
+            "end": 171.247,
+            "speakerSeqId": 1,
+            "transcription": "চাকি অ দিয়া ইত্যাদি মানে ব্য়ৱস্থাত মানে মানুহে (()) ব্য়ৱস্থা কৰিছিল বা #আহ হেৰি কি কয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10044,
+            "start": 171.247,
+            "end": 173.087,
+            "speakerSeqId": null,
+            "transcription": "[overlap]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10045,
+            "start": 173.087,
+            "end": 174.863,
+            "speakerSeqId": 1,
+            "transcription": "চাইকেলৰ ত্ৰেয়াৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10046,
+            "start": 174.863,
+            "end": 176.903,
+            "speakerSeqId": 2,
+            "transcription": "অ অ অ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10047,
+            "start": 176.903,
+            "end": 188.748,
+            "speakerSeqId": 1,
+            "transcription": "সেই মানে জ্বলাই মানে কি কৰিছিলে আগত [overlap] খোৱা লোৱা পৰা আৰাম্ভ কৰি মানুহে ৰাতি যেতিয়া ৰাতি কাম কাজ কৰিব লাগিছিল বা খাব লাগিছিল সেই সেই [overlap] চাকি বা চাকি বা [noise] হেৰিকেনেৰে কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10048,
+            "start": 188.748,
+            "end": 192.322,
+            "speakerSeqId": 2,
+            "transcription": "[overlap] সেই পদ পদ্ধতি মানে ব্য়ৱহাৰ কৰিছিল"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10049,
+            "start": 192.322,
+            "end": 199.086,
+            "speakerSeqId": 1,
+            "transcription": "অ সেই পদ পদ্ধতি ব্যৱহাৰ কৰিছিল গতিকে আগৰ দিনত ইমান প্ৰযুক্তিবিদ্য়া আগ নাবাঢ়িছিল আগত তেতিয়াৰ তেতিয়াৰ সময়ত মানুহৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10050,
+            "start": 199.086,
+            "end": 215.892,
+            "speakerSeqId": 1,
+            "transcription": "পঢ়া শুনা ক্ষেত্রতো বহুত কষ্ট কৰিব লগীয়া হৈছিল ভোগ কৰিব লগীয়া হৈছিল তেতিয়া মানুহে #আহ বিদ্য়ুত যেতিয়া নাছিল তেতিয়া মানুহে সেই হেৰিকেন বা চাকি জ্বলাই মানুহে পঢ়া শুনা কৰিছিল [overlap] ঠিক তেনেকুৱা অৱস্থা এতিয়া আমাৰ নাই হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10051,
+            "start": 215.892,
+            "end": 218.152,
+            "speakerSeqId": 2,
+            "transcription": "অহ হয় নাই নাই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10052,
+            "start": 218.152,
+            "end": 231.852,
+            "speakerSeqId": 1,
+            "transcription": "আগৰ আগৰ তুলনাত এতিয়া আমাৰ বহুতো উন্নতি হৈ গৈছে আমি এতিয়া বিদ্য়ুত আহিছে আমি এতিয়া বহুতো #আহ মানে কাম কৰিব পাৰো যেনেকুৱা আমি #আহ লাইতৰ লাইত হৈ আহিছে এতিয়া বিদ্য়ুতৰ ফলত আমি লাইত পালো বিজুলী পালো হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10053,
+            "start": 231.852,
+            "end": 234.388,
+            "speakerSeqId": 1,
+            "transcription": "গতিকে বিদ্য়ুতৰ ফলত বহুতো সুবিধা আমাৰ হৈ আছে"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10054,
+            "start": 234.388,
+            "end": 236.128,
+            "speakerSeqId": 2,
+            "transcription": "হৈ আছে [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10055,
+            "start": 236.128,
+            "end": 249.54,
+            "speakerSeqId": 1,
+            "transcription": "যেনেকুৱা গাওৰ মানুহে আগত #আহ মানে কোনো এটা বস্তু এনেকুৱা ফ্ৰিজৰ পানি খাব নোৱাৰিছিল ফ্ৰিজৰ পানি খাবলৈ গলে আমাৰ বজাৰত যাব লাগিছিল বা কোনো এটা [noise] ঠাণ্ডা পানি আমি কিনি আনিব লগিছিল এতিয়া কি কয় আমাৰ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10056,
+            "start": 249.54,
+            "end": 252.308,
+            "speakerSeqId": 1,
+            "transcription": "ঘৰে ঘৰে পুৱা মানে গাৱৰ ভিতৰতে হৈ আছে হয় নে নহয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10057,
+            "start": 252.308,
+            "end": 252.868,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10058,
+            "start": 252.868,
+            "end": 259.308,
+            "speakerSeqId": 1,
+            "transcription": "বা কি হৈ আছে তেনেকুৱা এটা মানে মানে (()) বা যি কোনো এটা মানে"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10059,
+            "start": 259.308,
+            "end": 259.708,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10060,
+            "start": 259.708,
+            "end": 266.3,
+            "speakerSeqId": 1,
+            "transcription": "#হম মানে মোক টো মেচিন বনাব লাগিছিল সেইকাৰ সেইকাৰনে আমাৰ কি কৈছে বিদ্য়ুত আহিছে এতিয়া বিদ্য়ুত দি আমি কৰিব পাৰো হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10061,
+            "start": 266.3,
+            "end": 267.82,
+            "speakerSeqId": 2,
+            "transcription": "অ হয় [silence]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10062,
+            "start": 267.82,
+            "end": 271.768,
+            "speakerSeqId": 1,
+            "transcription": "তেনেকুৱা বহুতো সুবিধা আমি বিদ্য়ুতৰ জৰিয়তে পাইছো আপুনি কি কয়"
+        },
+        {
+            "segmentType": "nonSpeech",
+            "segmentId": 10063,
+            "start": 271.768,
+            "end": 274.188,
+            "speakerSeqId": null,
+            "transcription": "[noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10064,
+            "start": 274.188,
+            "end": 278.066,
+            "speakerSeqId": 2,
+            "transcription": "মই কবলৈ ওলাইছো যে এতিয়া যে আমি বিদ্য়ুত পাই আছো এতিয়া টো ভালেই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10065,
+            "start": 278.066,
+            "end": 553.312,
+            "speakerSeqId": 1,
+            "transcription": "ঠাইৰ যেনেকুৱা যেনেকুৱা এটা নদী যেনেকুৱা এটা নদী বৈ যায় এইখন ৰাজ্য়ৰ যদি এটা নাম হয় আন এখনৰ যদি আন এটা নাম হয় মানে যেনেকৈ ভাষা (()) ভাষা যেনেকৈ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10066,
+            "start": 553.312,
+            "end": 567.267,
+            "speakerSeqId": 2,
+            "transcription": "এখন দেশত এটা ভাষা এখন দেশতে কিন্তু বহুতো ভাষা থাকে হয় নে নহয় যেনে অসমীয়া আছে হিন্দী আছে ইংৰাজী আছে বহুতো এনেকৈ ভাষা আছে ঠিক তেনেকৈ এটা বস্তু যেতিয়া হয় তাৰপিছত হে বস্তু টোৰ নামকৰণ হয় হয় নে নহয় #আহ"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10067,
+            "start": 567.267,
+            "end": 588.023,
+            "speakerSeqId": 1,
+            "transcription": "নাম দিয়ে যি ঠাই ঠায়েদি বৈ যায় নদীটো সেই ঠাইতে নামকৰণ বুলি কোৱা হয় আৰু এইটোৱেই"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10068,
+            "start": 588.023,
+            "end": 601.0,
+            "speakerSeqId": 1,
+            "transcription": "[noise] গতিকে মানুহে বহুত ধৰণৰ এনেকুৱা বস্তু থাকে যেনেকৈ যি বস্তু টো এতিয়াও আৱিস্কাৰ হোৱা নাই কোনো কেট বিলাক বস্তু আমি চাও এতিয়াও কিন্তু আমি বহুতো বস্তুৰ আৱিস্কাৰ আমি দেখা নাই হয় নে নহয়"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10069,
+            "start": 601.0,
+            "end": 614.483,
+            "speakerSeqId": 1,
+            "transcription": "[noise] তে চাওক প্ৰযুক্তিবিদ্য়া যিমান আগবাঢ়িব প্ৰযুক্তিবিদ্য়া যিমান দিন দিন দিনক দিনে কিবা নতুন নতুন বস্তুৰ আৱিস্কাৰ হব হয় না হব না নাই অ হব হব [silence] দিন দিন বহুতো বস্তুৰ আৱিস্কাৰ হব গতিকে আমাৰ [noise]"
+        },
+        {
+            "segmentType": "speech",
+            "segmentId": 10070,
+            "start": 614.483,
+            "end": 623.019,
+            "speakerSeqId": 1,
+            "transcription": "সময়টো হৈয়ে গৈছে আমাৰ দহ মিনিট মানে পৰ্যাপ্ত সময় হৈ গৈছে আমি এতিয়া (())"
+        }
+    ]
+}
